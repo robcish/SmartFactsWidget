@@ -36,14 +36,5 @@ A personal portfolio project focused on clean architecture, simple UX, and non-c
 
 ---
 
-### 🔧 Future Ideas
-- Categories & filters
-- Local favourites
-- Optional “Fact of the Week” notifications
-- Donate / tip feature
-- Multi-language content
-
----
-
 ### 📄 License
 MIT License © 2025 Robert Rozanski
