@@ -5,11 +5,11 @@ month: 5
 day: 23
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: Bananas are slightly radioactive
+teaser: They contain potassium-40 — a natural isotope.
+published: true
+version: 1
 ---
-<!-- TODO: fact for 05-23, slot 1 -->
+Bananas contain **potassium-40**, a radioactive isotope. The dose is tiny and harmless, but scientists jokingly use the “banana equivalent dose” as a fun scale.
 
-_Content pending._
+[Banana equivalent dose (Wikipedia)](https://en.wikipedia.org/wiki/Banana_equivalent_dose)

@@ -5,11 +5,11 @@ month: 5
 day: 24
 sequence_index: 1
 category: geography
-title: 
-teaser: 
-published: false
-version: 0
+title: Vatican City is the world's smallest state
+teaser: Under half a square kilometre.
+published: true
+version: 1
 ---
-<!-- TODO: fact for 05-24, slot 1 -->
+**Vatican City** covers about 0.49 km² and is an independent city-state surrounded by Rome.
 
-_Content pending._
+[Vatican City (Wikipedia)](https://en.wikipedia.org/wiki/Vatican_City)

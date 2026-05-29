@@ -5,11 +5,11 @@ month: 5
 day: 28
 sequence_index: 0
 category: psychology
-title: 
-teaser: 
-published: false
-version: 0
+title: Efekt placebo to prawdziwa medycyna
+teaser: Oczekiwanie potrafi zmienić samopoczucie.
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 05-28, slot 0 -->
+Nawet nieaktywne substancje mogą wywołać **mierzalne zmiany**, gdy wierzysz, że pomagają — dlatego badania kliniczne stosują ślepe kontrole.
 
-_Treść do uzupełnienia._
+[Placebo (Wikipedia)](https://pl.wikipedia.org/wiki/Placebo)

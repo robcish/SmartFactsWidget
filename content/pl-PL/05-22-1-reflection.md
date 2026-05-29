@@ -5,11 +5,11 @@ month: 5
 day: 22
 sequence_index: 1
 category: reflection
-title: 
-teaser: 
-published: false
-version: 0
+title: Czytasz inaczej niż wczoraj
+teaser: Każdy przeczytany fakt zostawia po sobie ślad.
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 05-22, slot 1 -->
+Uczenie się to nie tylko zapamiętywanie — to też **zauważanie, co cię zaskakuje**. Właśnie tam często zaczyna się prawdziwe zrozumienie.
 
-_Treść do uzupełnienia._
+Jaki był ostatni fakt, przy którym się zatrzymałeś?

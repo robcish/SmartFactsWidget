@@ -39,8 +39,11 @@ class FactRepositoryImpl @Inject constructor(
     override fun resolveDeviceLocale(): String {
         val locales = context.resources.configuration.locales
         if (!locales.isEmpty) {
-            val language = locales[0].language.lowercase(Locale.US)
+            val primary = locales[0]
+            val language = primary.language.lowercase(Locale.US)
             if (language == "pl") return LOCALE_PL
+            if (language == "en") return LOCALE_EN
+            // Region-only tags (e.g. en-US device) still report language "en"
         }
         return LOCALE_EN
     }

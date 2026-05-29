@@ -11,5 +11,6 @@
     <string name="error_loading">Could not load facts. Showing cached content if available.</string>
     <string name="widget_loading">Loading fact…</string>
     <string name="widget_empty">No fact available yet.</string>
-    <string name="detail_swipe_hint">Przesuń w bok, by zobaczyć wcześniejsze fakty. Aktualny jest ostatni.</string>
+    <string name="detail_swipe_hint">Swipe left for older facts.</string>
+    <string name="detail_page_position">%1$d / %2$d</string>
 </resources>

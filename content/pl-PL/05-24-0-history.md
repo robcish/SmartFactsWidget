@@ -5,11 +5,11 @@ month: 5
 day: 24
 sequence_index: 0
 category: history
-title: 
-teaser: 
-published: false
-version: 0
+title: Najkrótsza wojna trwała około 38 minut
+teaser: Wielka Brytania kontra Zanzibar, 1896.
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 05-24, slot 0 -->
+**Wojna brytyjsko-zanzibarska** z 27 sierpnia 1896 r. bywa uznawana za najkrótszą udokumentowaną w historii — zakończyła się po około 38–45 minutach.
 
-_Treść do uzupełnienia._
+[Wojna brytyjsko-zanzibarska (Wikipedia)](https://pl.wikipedia.org/wiki/Wojna_brytyjsko-zanzibarska)

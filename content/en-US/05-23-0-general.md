@@ -5,11 +5,11 @@ month: 5
 day: 23
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: Honey can last for millennia
+teaser: Archaeologists have opened pots of still-edible honey.
+published: true
+version: 1
 ---
-<!-- TODO: fact for 05-23, slot 0 -->
+Low moisture and natural acids make honey **hostile to bacteria**, so sealed honey can remain edible for thousands of years.
 
-_Content pending._
+[Honey (Wikipedia)](https://en.wikipedia.org/wiki/Honey)

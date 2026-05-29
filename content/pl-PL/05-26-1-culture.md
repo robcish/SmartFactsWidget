@@ -5,11 +5,11 @@ month: 5
 day: 26
 sequence_index: 1
 category: culture
-title: 
-teaser: 
-published: false
-version: 0
+title: Nagrody Nobla finansuje dynamit
+teaser: Testament Alfreda Nobla przekierował jego fortunę.
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 05-26, slot 1 -->
+Alfred Nobel, wynalazca dynamitu, przeznaczył majątek na **nagrody Nobla** po przedwczesnym nekrologu, który nazwał go „kupcem śmierci”.
 
-_Treść do uzupełnienia._
+[Alfred Nobel (Wikipedia)](https://pl.wikipedia.org/wiki/Alfred_Nobel)

@@ -5,11 +5,11 @@ month: 5
 day: 25
 sequence_index: 1
 category: animals
-title: 
-teaser: 
-published: false
-version: 0
+title: An octopus has three hearts
+teaser: Two pump blood to the gills, one to the body.
+published: true
+version: 1
 ---
-<!-- TODO: fact for 05-25, slot 1 -->
+Octopuses have **two branchial hearts** for the gills and one systemic heart for the rest of the body. The systemic heart even stops when they swim.
 
-_Content pending._
+[Octopus (Wikipedia)](https://en.wikipedia.org/wiki/Octopus)

@@ -2,16 +2,17 @@ package com.robcish.smartfactswidget.ui.detail
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.PaddingValues
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.pager.HorizontalPager
 import androidx.compose.foundation.pager.rememberPagerState
-import androidx.compose.foundation.rememberScrollState
-import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material3.CircularProgressIndicator
@@ -88,33 +89,53 @@ fun DetailScreen(
             }
 
             uiState.timeline.isNotEmpty() -> {
+                val timeline = uiState.timeline
                 val safeInitialPage = uiState.initialPage.coerceIn(
                     0,
-                    (uiState.timeline.size - 1).coerceAtLeast(0),
+                    (timeline.size - 1).coerceAtLeast(0),
                 )
                 val pagerState = rememberPagerState(
                     initialPage = safeInitialPage,
-                    pageCount = { uiState.timeline.size },
+                    pageCount = { timeline.size },
                 )
+                val canSwipe = timeline.size > 1
 
                 Column(
                     modifier = Modifier
                         .fillMaxSize()
                         .padding(padding),
                 ) {
-                    Text(
-                        text = stringResource(R.string.detail_swipe_hint),
-                        style = MaterialTheme.typography.labelMedium,
-                        color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.6f),
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .padding(horizontal = 24.dp, vertical = 8.dp),
-                    )
+                    if (canSwipe) {
+                        Row(
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .padding(horizontal = 24.dp, vertical = 8.dp),
+                            verticalAlignment = Alignment.CenterVertically,
+                        ) {
+                            Text(
+                                text = stringResource(R.string.detail_swipe_hint),
+                                style = MaterialTheme.typography.labelMedium,
+                                color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.6f),
+                                modifier = Modifier.weight(1f),
+                            )
+                            Text(
+                                text = stringResource(
+                                    R.string.detail_page_position,
+                                    pagerState.currentPage + 1,
+                                    timeline.size,
+                                ),
+                                style = MaterialTheme.typography.labelMedium,
+                                color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.45f),
+                            )
+                        }
+                    }
                     HorizontalPager(
                         state = pagerState,
                         modifier = Modifier.fillMaxSize(),
+                        beyondViewportPageCount = 1,
+                        key = { timeline[it].id },
                     ) { page ->
-                        FactDetailPage(fact = uiState.timeline[page])
+                        FactDetailPage(fact = timeline[page])
                     }
                 }
             }
@@ -135,9 +156,7 @@ fun DetailScreen(
 @Composable
 private fun FactDetailPage(fact: FactEntity) {
     Box(
-        modifier = Modifier
-            .fillMaxSize()
-            .padding(horizontal = 24.dp, vertical = 8.dp),
+        modifier = Modifier.fillMaxSize(),
     ) {
         Icon(
             imageVector = CategoryIcons.composeIcon(fact.category),
@@ -148,21 +167,26 @@ private fun FactDetailPage(fact: FactEntity) {
                 .alpha(0.08f),
             tint = TextPrimary,
         )
-        Column(
+        LazyColumn(
             modifier = Modifier
                 .fillMaxSize()
-                .verticalScroll(rememberScrollState()),
+                .padding(horizontal = 24.dp, vertical = 8.dp),
+            contentPadding = PaddingValues(bottom = 24.dp),
         ) {
-            Text(
-                text = fact.title,
-                style = MaterialTheme.typography.headlineSmall,
-                fontWeight = FontWeight.Bold,
-            )
-            Spacer(modifier = Modifier.height(16.dp))
-            Markdown(
-                content = fact.bodyMd,
-                colors = markdownColor(text = MaterialTheme.colorScheme.onBackground),
-            )
+            item(key = "title") {
+                Text(
+                    text = fact.title,
+                    style = MaterialTheme.typography.headlineSmall,
+                    fontWeight = FontWeight.Bold,
+                )
+                Spacer(modifier = Modifier.height(16.dp))
+            }
+            item(key = "body") {
+                Markdown(
+                    content = fact.bodyMd,
+                    colors = markdownColor(text = MaterialTheme.colorScheme.onBackground),
+                )
+            }
         }
     }
 }

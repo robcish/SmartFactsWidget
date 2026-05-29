@@ -5,11 +5,11 @@ month: 5
 day: 28
 sequence_index: 1
 category: language
-title: 
-teaser: 
-published: false
-version: 0
+title: Papua-Nowa Gwinea ma setki języków
+teaser: Ekstremalna różnorodność językowa.
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 05-28, slot 1 -->
+Ponad **800 żywych języków** czyni Papuę-Nową Gwineę jednym z najbardziej zróżnicowanych językowo miejsc na Ziemi.
 
-_Treść do uzupełnienia._
+[Języki Papui-Nowej Gwinei (Wikipedia)](https://pl.wikipedia.org/wiki/J%C4%99zyki_Papui-Nowej_Gwinei)

@@ -5,11 +5,11 @@ month: 5
 day: 26
 sequence_index: 0
 category: technology
-title: 
-teaser: 
-published: false
-version: 0
+title: The first computer bug was a moth
+teaser: Found in a Harvard Mark II relay in 1947.
+published: true
+version: 1
 ---
-<!-- TODO: fact for 05-26, slot 0 -->
+Operators taped a **moth** found in a relay of the Harvard Mark II into the logbook — popularizing the term “debugging.”
 
-_Content pending._
+[Software bug (Wikipedia)](https://en.wikipedia.org/wiki/Software_bug)

@@ -5,11 +5,11 @@ month: 5
 day: 28
 sequence_index: 0
 category: psychology
-title: 
-teaser: 
-published: false
-version: 0
+title: The placebo effect is real medicine
+teaser: Expectation can change how you feel.
+published: true
+version: 1
 ---
-<!-- TODO: fact for 05-28, slot 0 -->
+Even inactive treatments can trigger **measurable changes** when people believe they help — which is why clinical trials use blinded controls.
 
-_Content pending._
+[Placebo (Wikipedia)](https://en.wikipedia.org/wiki/Placebo)

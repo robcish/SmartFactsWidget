@@ -5,11 +5,11 @@ month: 5
 day: 24
 sequence_index: 0
 category: history
-title: 
-teaser: 
-published: false
-version: 0
+title: The shortest war lasted about 38 minutes
+teaser: Britain vs. Zanzibar, 1896.
+published: true
+version: 1
 ---
-<!-- TODO: fact for 05-24, slot 0 -->
+The **Anglo-Zanzibar War** of 27 August 1896 is often cited as the shortest recorded war, ending after roughly 38–45 minutes.
 
-_Content pending._
+[Anglo-Zanzibar War (Wikipedia)](https://en.wikipedia.org/wiki/Anglo-Zanzibar_War)

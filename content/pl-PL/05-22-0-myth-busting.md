@@ -5,11 +5,11 @@ month: 5
 day: 22
 sequence_index: 0
 category: myth-busting
-title: 
-teaser: 
-published: false
-version: 0
+title: Złote rybki nie mają pamięci na 3 sekundy
+teaser: Potrafią pamiętać rzeczy przez wiele miesięcy.
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 05-22, slot 0 -->
+Badania pokazują, że złote rybki **pamiętają sygnały karmienia i trasy** przez tygodnie lub dłużej — legenda o „pamięci trzy sekundy” to mit.
 
-_Treść do uzupełnienia._
+[Złota rybka (Wikipedia)](https://pl.wikipedia.org/wiki/Z%C5%82ota_rybka)

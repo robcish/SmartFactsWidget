@@ -5,11 +5,11 @@ month: 5
 day: 22
 sequence_index: 0
 category: myth-busting
-title: 
-teaser: 
-published: false
-version: 0
+title: Goldfish do not have a 3-second memory
+teaser: They can remember things for months.
+published: true
+version: 1
 ---
-<!-- TODO: fact for 05-22, slot 0 -->
+Experiments show goldfish can **remember feeding cues and routes** for weeks or longer — the famous “three-second memory” is a myth.
 
-_Content pending._
+[Goldfish (Wikipedia)](https://en.wikipedia.org/wiki/Goldfish)

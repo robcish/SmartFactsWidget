@@ -3,6 +3,9 @@
 This document defines the concept, architecture, and implementation plan for the **Smart Facts Widget** project.  
 It is intended as a guide for an AI coding assistant (Cursor, Copilot, Claude, etc.) responsible for generating, maintaining, or extending the project.
 
+> **Content / facts:** use **[AGENTS.md](AGENTS.md)** and **[content/FACT_GENERATION_RULES.md](content/FACT_GENERATION_RULES.md)** (calendar v2: `month`, `day`, `sequence_index`).  
+> Sections below that mention `release_epoch_ms` or v1 JSON are **outdated** for the live app.
+
 ---
 
 ## 🎯 Project Goal
@@ -66,30 +69,29 @@ Main knowledge areas:
 Facts live as Markdown files under `content/{locale}/`.  
 CI builds `docs/facts.json` (GitHub Pages) via `tools/build_manifest.py`.
 
+See **FACT_GENERATION_RULES.md** for the current schema. Example manifest entry:
+
 ```json
 {
-  "version": 1,
-  "generated_at": "2026-05-29T12:00:00Z",
-  "facts": [
-    {
-      "id": "2026-05-29-science-00",
-      "locale": "pl-PL",
-      "category": "science",
-      "title": "Sharks are older than trees",
-      "teaser": "Did you know sharks existed before trees?",
-      "body_md": "Sharks have roamed the oceans for more than **400 million years**.",
-      "release_epoch_ms": 1748506800000,
-      "published": true,
-      "version": 1
-    }
-  ]
+  "id": "05-29-0-animals",
+  "locale": "en-US",
+  "category": "animals",
+  "title": "Cows have best friends",
+  "teaser": "Cows miss their favorite herd companions.",
+  "body_md": "Research shows cows **form strong bonds** …",
+  "month": 5,
+  "day": 29,
+  "sequence_index": 0,
+  "published": true,
+  "version": 1
 }
 ```
 
 ### Release rules
 
-- CI excludes `published: false` and future `release_epoch_ms` from the public manifest.
-- The Android app applies the same filter when caching to Room.
+- CI excludes `published: false` and empty titles from the manifest.
+- Slot times (00:00:01 / 12:00 for two facts/day) are computed in app code (`DayScheduleResolver`).
+- App syncs manifest from GitHub Pages; `manifest_version` avoids redundant downloads.
 
 ---
 

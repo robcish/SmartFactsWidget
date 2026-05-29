@@ -5,11 +5,11 @@ month: 5
 day: 25
 sequence_index: 0
 category: biology
-title: 
-teaser: 
-published: false
-version: 0
+title: You have more bacterial cells than human cells
+teaser: Your microbiome is a ecosystem of its own.
+published: true
+version: 1
 ---
-<!-- TODO: fact for 05-25, slot 0 -->
+Estimates suggest the **microbes in and on your body** can outnumber your own human cells, though the exact ratio is debated and changes with counting methods.
 
-_Content pending._
+[Human microbiome (Wikipedia)](https://en.wikipedia.org/wiki/Human_microbiome)

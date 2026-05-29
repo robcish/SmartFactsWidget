@@ -5,11 +5,11 @@ month: 5
 day: 23
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: Miód może przetrwać tysiąclecia
+teaser: Archeolodzy otwierali dżbany z nadal jadalnym miodem.
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 05-23, slot 0 -->
+Niska wilgotność i naturalne kwasy sprawiają, że miód jest **niegościnny dla bakterii**, więc szczelnie zamknięty może być jadalny przez tysiące lat.
 
-_Treść do uzupełnienia._
+[Miód (Wikipedia)](https://pl.wikipedia.org/wiki/Mi%C3%B3d)

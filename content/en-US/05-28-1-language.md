@@ -5,11 +5,11 @@ month: 5
 day: 28
 sequence_index: 1
 category: language
-title: 
-teaser: 
-published: false
-version: 0
+title: Papua New Guinea has hundreds of languages
+teaser: Linguistic diversity at its extreme.
+published: true
+version: 1
 ---
-<!-- TODO: fact for 05-28, slot 1 -->
+With over **800 living languages**, Papua New Guinea is one of the most linguistically diverse places on Earth.
 
-_Content pending._
+[Languages of Papua New Guinea (Wikipedia)](https://en.wikipedia.org/wiki/Languages_of_Papua_New_Guinea)
