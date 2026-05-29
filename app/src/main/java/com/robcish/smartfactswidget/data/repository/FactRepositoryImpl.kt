@@ -128,7 +128,7 @@ class FactRepositoryImpl @Inject constructor(
                 val version = manifest.manifestVersion.ifBlank { manifest.version.toString() }
                 manifestPreferences.setStoredManifestVersion(version)
                 refreshTrigger.value = refreshTrigger.value + 1
-                Log.d(TAG, "Loaded ${entities.size} facts from bundled seed (rows=${factDao.countAll()})")
+                logRowCount("bundled seed", entities.size)
             }
         }.onFailure { error ->
             Log.w(TAG, "Bundled seed load failed (will try network sync)", error)
@@ -153,7 +153,7 @@ class FactRepositoryImpl @Inject constructor(
             if (entities.isNotEmpty()) {
                 factDao.upsertAll(entities)
                 manifestPreferences.setStoredManifestVersion(version)
-                Log.d(TAG, "Synced ${entities.size} facts (manifest $version)")
+                logRowCount("sync", entities.size)
             } else {
                 Log.w(TAG, "Remote manifest contained no published facts")
             }
@@ -181,6 +181,17 @@ class FactRepositoryImpl @Inject constructor(
         val dayFacts = factDao.getFactsForDay(locale, today.month, today.day)
             .ifEmpty { factDao.getFactsForDay(LOCALE_EN, today.month, today.day) }
         return DayScheduleResolver.millisUntilNextBoundary(dayFacts, today, year, zone = zone)
+    }
+
+    private suspend fun logRowCount(source: String, manifestCount: Int) {
+        val rows = factDao.countAll()
+        Log.d(TAG, "$source: manifest=$manifestCount rows=$rows")
+        if (rows < manifestCount) {
+            Log.e(
+                TAG,
+                "Expected $manifestCount rows but found $rows — uninstall app to reset Room DB",
+            )
+        }
     }
 
     companion object {

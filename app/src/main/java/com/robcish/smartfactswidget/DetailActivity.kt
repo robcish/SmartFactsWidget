@@ -15,7 +15,7 @@ class DetailActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
 
-        val factId = intent.getStringExtra(EXTRA_FACT_ID).orEmpty()
+        val factId = intent.getStringExtra(EXTRA_FACT_ID).orEmpty().trim()
         if (factId.isBlank()) {
             startActivity(Intent(this, MainActivity::class.java))
             finish()
@@ -35,10 +35,7 @@ class DetailActivity : ComponentActivity() {
         const val EXTRA_FACT_ID = "extra_fact_id"
 
         fun createIntent(context: android.content.Context, factId: String): Intent {
-            return Intent(context, DetailActivity::class.java).apply {
-                putExtra(EXTRA_FACT_ID, factId)
-                flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP
-            }
+            return com.robcish.smartfactswidget.widget.WidgetNavigation.detailIntent(context, factId)
         }
     }
 }

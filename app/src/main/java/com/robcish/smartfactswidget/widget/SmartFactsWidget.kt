@@ -22,7 +22,6 @@ import androidx.glance.text.FontWeight
 import androidx.glance.text.Text
 import androidx.glance.text.TextStyle
 import androidx.glance.unit.ColorProvider
-import com.robcish.smartfactswidget.DetailActivity
 import com.robcish.smartfactswidget.data.local.FactEntity
 import com.robcish.smartfactswidget.data.repository.FactRepository
 import com.robcish.smartfactswidget.di.WidgetEntryPoint
@@ -38,9 +37,9 @@ class SmartFactsWidget : GlanceAppWidget() {
         ).factRepository()
 
         val locale = repository.resolveDeviceLocale()
+        repository.ensureCacheWarm()
         var fact = repository.getCurrentFact(locale)
         if (fact == null) {
-            repository.ensureCacheWarm()
             repository.syncFacts()
             fact = repository.getCurrentFact(locale)
         }
@@ -65,9 +64,7 @@ private fun WidgetContent(context: Context, fact: FactEntity?) {
             .then(
                 if (fact != null) {
                     GlanceModifier.clickable(
-                        actionStartActivity(
-                            DetailActivity.createIntent(context, fact.id),
-                        ),
+                        actionStartActivity(WidgetNavigation.detailIntent(context, fact.id)),
                     )
                 } else {
                     GlanceModifier

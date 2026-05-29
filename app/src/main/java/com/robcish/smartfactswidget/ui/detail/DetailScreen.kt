@@ -15,7 +15,6 @@ import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material3.CircularProgressIndicator
-import androidx.compose.material3.Icon
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
@@ -89,8 +88,12 @@ fun DetailScreen(
             }
 
             uiState.timeline.isNotEmpty() -> {
+                val safeInitialPage = uiState.initialPage.coerceIn(
+                    0,
+                    (uiState.timeline.size - 1).coerceAtLeast(0),
+                )
                 val pagerState = rememberPagerState(
-                    initialPage = uiState.initialPage,
+                    initialPage = safeInitialPage,
                     pageCount = { uiState.timeline.size },
                 )
 
