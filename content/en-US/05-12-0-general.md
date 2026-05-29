@@ -5,11 +5,11 @@ month: 5
 day: 12
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: Kelvin waves regulate tropical cyclone development by influencing…
+teaser: Kelvin waves regulate tropical cyclone development by influencing the westerlies, with formation…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 05-12, slot 0 -->
+Kelvin waves regulate tropical cyclone development by influencing the westerlies, with formation reduced **3 **days before the wave crest and increased 3 days after.
 
-_Content pending._
+[Tropical cyclone (Wikipedia)](https://en.wikipedia.org/wiki/Tropical_cyclone)

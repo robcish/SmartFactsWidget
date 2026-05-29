@@ -5,11 +5,9 @@ month: 6
 day: 25
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: pierwszym językiem programowania wysokiego poziomu był Plankalkül,…
+teaser: Pierwszym językiem programowania wysokiego poziomu był Plankalkül, stworzony przez Konrada Zuse w…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 06-25, slot 1 -->
-
-_Treść do uzupełnienia._
+Pierwszym językiem programowania wysokiego poziomu był Plankalkül, stworzony przez Konrada Zuse w latach **1942**-1945 — ale faktycznie został wdrożony dopiero w 1998 r. jako ćwiczenie historyczne.

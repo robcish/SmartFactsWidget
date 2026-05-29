@@ -5,11 +5,9 @@ month: 7
 day: 17
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: Donald Knuth wierzy, że P = NP, ale uważa, że ​​dowód „prawie…
+teaser: Donald Knuth wierzy, że P = NP, ale uważa, że ​​dowód „prawie na pewno będzie niekonstruktywny” –…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 07-17, slot 1 -->
-
-_Treść do uzupełnienia._
+Donald Knuth wierzy, że P = NP, ale uważa, że ​​dowód „prawie na pewno będzie niekonstruktywny”, co oznacza, że ​​nie dałby nam praktycznych, szybkich algorytmów.

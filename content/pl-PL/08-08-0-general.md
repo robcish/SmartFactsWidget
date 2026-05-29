@@ -5,11 +5,9 @@ month: 8
 day: 8
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: pierwsza maszyna sieci neuronowej, SNARC, została zbudowana w 1951…
+teaser: Pierwsza maszyna sieci neuronowej, SNARC, została zbudowana w 1951 roku przez Marvina Minsky'ego i…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 08-08, slot 0 -->
-
-_Treść do uzupełnienia._
+Pierwsza maszyna sieci neuronowej, SNARC, została zbudowana w **1951 ** przez Marvina Minsky'ego i Deana Edmondsa, gdy Minsky był 24-letnim studentem.

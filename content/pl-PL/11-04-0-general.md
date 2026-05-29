@@ -5,11 +5,9 @@ month: 11
 day: 4
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: Język SQL został opracowany w IBM na początku lat 70. — pierwotnie…
+teaser: Język SQL został opracowany w IBM na początku lat 70.
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 11-04, slot 0 -->
-
-_Treść do uzupełnienia._
+Język SQL został opracowany w IBM na początku lat 70. XX wieku — pierwotnie nosił nazwę SEQUEL (Structured English Query Language), skróconą z powodu sporu dotyczącego znaku towarowego.

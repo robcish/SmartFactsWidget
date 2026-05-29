@@ -5,11 +5,11 @@ month: 1
 day: 1
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: lowest temperature ever recorded on Earth was -89.2°C (-128.6°F)…
+teaser: The lowest temperature ever recorded on Earth was -89.2°C (-128.6°F) at Vostok Station,…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 01-01, slot 0 -->
+The lowest temperature ever recorded on Earth was -**89.2**°C (-128.6°F) at Vostok Station, Antarctica, on July 21, 1983.
 
-_Content pending._
+[List of weather records (Wikipedia)](https://en.wikipedia.org/wiki/List_of_weather_records)

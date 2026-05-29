@@ -5,11 +5,11 @@ month: 6
 day: 25
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: 2023 Nature article summarized that quantum computers are…
+teaser: A 2023 Nature article summarized that quantum computers are currently 'good for absolutely…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 06-25, slot 0 -->
+A **2023 **Nature article summarized that quantum computers are currently 'good for absolutely nothing' in real-world applications — though future potential remains high.
 
-_Content pending._
+[Quantum computing (Wikipedia)](https://en.wikipedia.org/wiki/Quantum_computing)

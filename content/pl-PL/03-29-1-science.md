@@ -5,11 +5,9 @@ month: 3
 day: 29
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: Zlodowacenie 2,3 miliarda lat temu zostało wywołane ewolucją…
+teaser: Zlodowacenie 2,3 miliarda lat temu zostało wywołane ewolucją fotosyntezy tlenowej, która…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 03-29, slot 1 -->
-
-_Treść do uzupełnienia._
+Zlodowacenie **2,3 miliarda** lat temu zostało wywołane ewolucją fotosyntezy tlenowej, która zubożyła CO2 i wprowadziła wolny tlen do atmosfery.

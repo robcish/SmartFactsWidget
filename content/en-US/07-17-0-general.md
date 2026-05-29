@@ -5,11 +5,11 @@ month: 7
 day: 17
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: John Nash wrote to the NSA in 1955 speculating that cracking a…
+teaser: John Nash wrote to the NSA in 1955 speculating that cracking a sufficiently complex code would…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 07-17, slot 0 -->
+John Nash wrote to the NSA in **1955 **speculating that cracking a sufficiently complex code would require exponential time — implicitly conjecturing P ≠ NP.
 
-_Content pending._
+[P versus NP problem (Wikipedia)](https://en.wikipedia.org/wiki/P_versus_NP_problem)

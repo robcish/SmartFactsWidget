@@ -5,11 +5,11 @@ month: 12
 day: 18
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: Knuth-Morris-Pratt (1977) finds patterns in text in O(n) time by…
+teaser: Knuth-Morris-Pratt (1977) finds patterns in text in O(n) time by never backtracking — a…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 12-18, slot 0 -->
+Knuth-Morris-Pratt (**1977**) finds patterns in text in O(n) time by never backtracking — a significant improvement over naive O(nm) string matching.
 
-_Content pending._
+[Knuth–Morris–Pratt algorithm (Wikipedia)](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)

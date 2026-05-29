@@ -5,11 +5,9 @@ month: 6
 day: 2
 sequence_index: 1
 category: myth-busting
-title: Biała czekolada to nie czekolada?
-teaser: Prawnie brakuje jej kakao.
+title: Problem P vs NP ma nagrodę w wysokości 1 miliona dolarów i jest…
+teaser: Problem P vs NP ma nagrodę w wysokości 1 miliona dolarów i jest uważany za najważniejszy otwarty…
 published: true
 version: 1
 ---
-Biała czekolada nie zawiera miazgi kakaowej, więc w wielu przepisach **technicznie nie jest czekoladą** — składa się głównie z tłuszczu kakaowego, cukru i mleka.
-
-[Czekolada (Wikipedia)](https://pl.wikipedia.org/wiki/Czekolada)
+Problem P vs NP ma nagrodę**1 miliona dolarów** i jest uważany za najważniejszy otwarty problem w informatyce — jego rozwiązanie albo zrewolucjonizowałoby kryptografię, albo udowodniłoby, że niektóre problemy są zasadniczo trudne.

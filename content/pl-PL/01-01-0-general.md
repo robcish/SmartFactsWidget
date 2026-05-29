@@ -5,11 +5,11 @@ month: 1
 day: 1
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: najniższa temperatura kiedykolwiek zarejestrowana na Ziemi…
+teaser: Najniższa temperatura kiedykolwiek zarejestrowana na Ziemi wyniosła -89,2°C (-128,6°F) na stacji…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 01-01, slot 0 -->
+Najniższa temperatura kiedykolwiek zarejestrowana na Ziemi wyniosła -**89,2**°C (-128,6°F) na stacji Wostok na Antarktydzie 21 lipca 1983 roku.
 
-_Treść do uzupełnienia._
+[Rekordy klimatyczne (Wikipedia)](https://pl.wikipedia.org/wiki/Rekordy_klimatyczne)

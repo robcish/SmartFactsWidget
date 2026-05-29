@@ -5,11 +5,11 @@ month: 10
 day: 13
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: MP3 uses psychoacoustic masking — sounds that are inaudible…
+teaser: MP3 uses psychoacoustic masking — sounds that are inaudible because louder nearby sounds mask them…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 10-13, slot 1 -->
+MP3 uses psychoacoustic masking — sounds that are inaudible because louder nearby sounds mask them are simply removed to save space.
 
-_Content pending._
+[Data compression (Wikipedia)](https://en.wikipedia.org/wiki/Data_compression)

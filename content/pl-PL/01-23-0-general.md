@@ -5,11 +5,9 @@ month: 1
 day: 23
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: Lake Maracaibo in Venezuela is the most lightning-prone place on…
+teaser: Jezioro Maracaibo w Wenezueli to najbardziej podatne na wyładowania atmosferyczne miejsce na…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 01-23, slot 0 -->
-
-_Treść do uzupełnienia._
+Jezioro Maracaibo w Wenezueli to najbardziej podatne na wyładowania atmosferyczne miejsce na Ziemi, średnio **250 **piorunów dziennie i błyskawice widoczne przez 297 dni w roku.

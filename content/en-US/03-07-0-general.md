@@ -5,11 +5,11 @@ month: 3
 day: 7
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: In 350 BC, Aristotle wrote 'Meteorologica,' the first systematic…
+teaser: In 350 BC, Aristotle wrote 'Meteorologica,' the first systematic work on weather, which gave us…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 03-07, slot 0 -->
+In **350 **BC, Aristotle wrote 'Meteorologica,' the first systematic work on weather, which gave us the term 'meteorology' from the Greek 'meteoros' meaning 'high in the sky.'
 
-_Content pending._
+[Weather forecasting (Wikipedia)](https://en.wikipedia.org/wiki/Weather_forecasting)

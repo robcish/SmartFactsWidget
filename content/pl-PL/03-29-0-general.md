@@ -5,11 +5,9 @@ month: 3
 day: 29
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: Trzy do czterech miliardów lat temu Słońce wyemitowało tylko 75%…
+teaser: Trzy do czterech miliardów lat temu Słońce wyemitowało tylko 75% więcej energii niż obecnie, a…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 03-29, slot 0 -->
-
-_Treść do uzupełnienia._
+Trzy do czterech miliardów lat temu Słońce emitowało tylko **75**% energii większej niż obecnie, a mimo to na Ziemi istniała woda w stanie ciekłym — nazywa się to „paradoksem słabego młodego Słońca”.

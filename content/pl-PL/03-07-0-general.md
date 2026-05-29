@@ -5,11 +5,11 @@ month: 3
 day: 7
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: W 350 rpne Arystoteles napisał „Meteorologica”, pierwszą…
+teaser: W 350 rpne Arystoteles napisał „Meteorologica”, pierwszą systematyczną pracę o pogodzie, która…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 03-07, slot 0 -->
+W **350 ** p.n.e. Arystoteles napisał „Meteorologica”, pierwszą systematyczną pracę na temat pogody, która dała nam termin „meteorologia” od greckiego „meteoros” oznaczającego „wysoko na niebie”.
 
-_Treść do uzupełnienia._
+[Prognoza pogody (Wikipedia)](https://pl.wikipedia.org/wiki/Prognoza_pogody)

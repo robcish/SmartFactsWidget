@@ -5,11 +5,11 @@ month: 2
 day: 14
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: Himalayas may be a major factor in the current ice age because…
+teaser: The Himalayas may be a major factor in the current ice age because their uplift increased rainfall…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 02-14, slot 0 -->
+The Himalayas may be a major factor in the current ice age because their uplift increased rainfall and the rate at which CO2 is washed from the atmosphere through weathering.
 
-_Content pending._
+[Ice age (Wikipedia)](https://en.wikipedia.org/wiki/Ice_age)

@@ -1,0 +1,1098 @@
+0 1 0 2 0 3 in ieee 754 floating point this classic programming gotcha occurs because 0 1 can t be exactly represented in binary
+1662 boyle s law sometimes referred to as the boyle mariotte law is one of the gas laws and basis of derivation for the ideal gas law which describes the relationship between the product pressure and volume within a closed system as constant when temperature remains at a fixed measure
+1749 lightning rod benjamin franklin 1749 and prokop diviš 1754 debated diviš s apparatus is assumed to have been more effective than franklin s lightning rods in 1754 but was intended for a different purpose than lightning protection
+1756 law of conservation of matter discovered by mikhail lomonosov 1756 and independently by antoine lavoisier 1778
+230 bce was the first known originator of a heliocentric solar system
+30 royal portraits of korean kings were completely destroyed in a 1954 fire in busan south korea
+38 per cent of welsh university students in 1900 were women
+99 of gut bacteria come from only about 30 to 40 species though the gut contains between 300 and 1000 different species overall
+a 1960 survey at oak ridge national laboratory found that 5 6 of personnel reported having witnessed ball lightning suggesting it may be more common than previously thought
+a 1982 osborne executive computer had 100x the weight 500x the volume and 1 100th the clock speed of a 2007 iphone at 10x the inflation adjusted cost
+a 2020 study found that cosmic rays can cause quantum computers to decohere within milliseconds even heavily shielded systems are vulnerable
+a 2023 nature article summarized that quantum computers are currently good for absolutely nothing in real world applications though future potential remains high
+a 2024 estimate valued open source software at 8 8 trillion firms would need to spend 3 5x more without oss contributions
+a 512 bit rsa key can now be factored on a desktop computer in about 73 days in 1999 it required hundreds of computers and the equivalent of 8 400 mips years
+a 640 mb cd holds about 1 hour of uncompressed music 2 hours losslessly compressed or 7 hours of mp3 at medium bitrate
+a ball lightning in 1977 entered the golden temple at amritsar india and exited through a side door the incident is inscribed on the temple s front wall
+a bug in deep blue s code caused it to make a random move during the first game against kasparov he misread this as superior intelligence and became psychologically shaken
+a cat s purr vibrates at a frequency of 25 150 hz which can promote bone density and healing
+a chosen prefix sha 1 collision attack now costs about 45 000 in cloud computing cheap enough for criminal organizations and intelligence agencies
+a class action lawsuit was filed against spotify following the discontinuation of the car thing
+a computer with a million parts each with two states has at least 2 1 000 000 possible states a number with about 300 000 digits
+a cow was documented using tools to scratch herself in 2024 the first scientific recording of tool use in bovines
+a cretan man found a 1st century statue of aphrodite aphrodite rhithymnia while trying to drill a well and then reburied it
+a crocodile can t move its tongue it s attached to the roof of its mouth
+a distinction is drawn between a discovery and an invention as discussed for example by bolesław prus
+a double precision 64 bit float can represent numbers from 10 308 to 10 308 but only with about 15 17 significant decimal digits of precision
+a fair coin flip provides exactly 1 bit of information this is the fundamental unit of information that claude shannon defined in 1948
+a frog completely sheds its skin about once a week and usually eats it
+a giraffe s tongue is about 45 cm 18 inches long and is prehensile
+a grizzly bear s bite is strong enough to crush a bowling ball
+a heisenbug is a bug that disappears or changes behavior when you try to debug it humorously named after heisenberg s uncertainty principle
+a horned lizard can shoot blood from its eyes as a defense mechanism
+a korean video store charged a customer 8 million won 7 000 in late fees because its computer calculated a rental as 100 years overdue
+a megaflash is defined by the american meteorological society as a continuous lightning flash with a horizontal path of approximately 100 km or greater
+a microclimate in the gstettneralm sinkhole in austria recorded a temperature of 53 c 63 f due to cold air pooling
+a newborn kangaroo is about 1 inch long about the size of a jellybean
+a newborn panda is smaller than a mouse and weighs about 4 ounces
+a nuclear reactor was nearly built at the new york hall of science but the money instead went to yankee stadium
+a shipwreck in the eastern mediterranean dating from the late bronze age is the earliest deep sea shipwreck to be discovered
+a small golden bell found at the site of the mount gerizim temple is believed to have been part of the ephod of a high priest as described in exodus 28
+a solar eclipse helped end a six year war in 585 bce when the sky suddenly darkened during a battle between the lydians and the medes soldiers took it as a sign to cease fighting
+a study of people who reported experiences of alien abduction found that many exhibited characteristics consistent with fantasy prone personality
+a supercell near nueva rosita mexico on may 24 2016 reached 68 000 feet 21 km the tallest non tropical thunderstorm ever confirmed
+a tarantula can survive for more than two years without food
+a trie prefix tree can find all words starting with a given prefix in o k time where k is the prefix length making it ideal for autocomplete and spell checking
+a tropical cyclone s passage causes substantial ocean cooling through upwelling which can drop sea surface temperatures enough to inhibit the next storm s development
+a turing machine with a single tape and a handful of states can compute anything any computer can compute it s the theoretical minimum for universal computation
+a universal turing machine can simulate any other turing machine it s the theoretical foundation for the modern concept of a programmable computer
+a wild fig tree growing in echo caves near ohrigstad south africa has roots going 120 meters 400 feet deep the deepest roots known of any tree
+a y2k bug at a sheffield hospital miscalculated down syndrome risk assessments directly causing two unnecessary abortions and four undetected cases
+about 2 of global energy output is used for nitrogen fixation in fertilizer production quantum simulations might help improve this process s efficiency
+about 20 of all bitcoins are estimated to be permanently lost including a user who discarded a hard drive containing 7 500 btc worth over 7 5 million at the time
+about 70 of all lightning occurs over land in the tropics where atmospheric convection is greatest
+about 70 of the world s languages are tonal including most languages in africa east asia and the americas
+about 90 of caffeine is metabolized by the liver with the primary metabolite being paraxanthine 84 followed by theobromine 12 and theophylline 4
+about 90 of lightning leader steps are approximately 45 meters 148 feet in length as the channel ionizes its way through the atmosphere
+according to aixi theory the best compression of data is the smallest program that generates it connecting compression to the foundations of artificial intelligence
+according to nobel prize winner jean marie lehn the maillard reaction is by far the most widely practiced chemical reaction in the world
+acid atomicity consistency isolation durability properties guarantee reliable database transactions coined by andreas reuter and theo härder in 1983
+acrylamide a probable carcinogen can form during the maillard reaction at high temperatures particularly in foods like french fries
+ada lovelace wrote the first computer program in 1843 an algorithm for charles babbage s analytical engine to calculate bernoulli numbers
+additionally astronomers have found 6 white dwarfs stars that have exhausted all fusible hydrogen 21 brown dwarfs as well as 1 sub brown dwarf wise 0855 0714 possibly a rogue planet
+address space layout randomization aslr makes buffer overflow exploitation harder by randomizing where code and data are loaded in memory
+african acacia trees have long spines low in their canopy but very short spines high up where they re safe from giraffe browsing
+after defeating kasparov ibm dismantled deep blue and refused his request for a rematch the match prize was 700 000 for ibm and 400 000 for kasparov
+after huawei was banned from using google s android in 2019 china developed harmonyos illustrating the geopolitical importance of open source software
+ag carinae is a luminous blue variable star 55 times the mass of our sun and one of the most luminous stars in the milky way
+agile software development emerged from the 2001 manifesto for agile software development signed by 17 software developers at a utah ski resort
+air within clouds becomes saturated when cooled to its dew point forming cloud droplets on condensation nuclei like salt or dust particles
+akari light sculptures were designed by isamu noguchi because a japanese mayor asked him to revitalize the dying paper lantern industry
+alan turing proposed the turing test in 1950 if a machine can converse indistinguishably from a human it s reasonable to say it s thinking
+alan turing s 1936 paper on computable numbers introduced the turing machine concept proving some problems are mathematically impossible to solve by any algorithm
+alaska has more cases of botulism than any other us state primarily due to traditional fermented food preparation methods that don t properly sterilize ingredients
+all individual components of bitcoin existed in earlier academic literature satoshi nakamoto s innovation was their complex interplay creating the first decentralized sybil resistant digital cash
+all languages have nouns and verbs this is one of the few true linguistic universals that applies to every known human language
+all major web browsers stopped accepting sha 1 ssl certificates in 2017 after the shattered collision attack was published
+almost all languages have nasal consonants only a handful like rotokas papua new guinea lack them entirely
+alphago became the first computer program to beat a professional go player without handicap in october 2015 defeating european champion fan hui 5 0
+alphago s victory over lee sedol in march 2016 was a sputnik moment for china which then dramatically increased government funding for ai research
+alphago zero taught itself go from scratch with no human data and beat the version that defeated lee sedol 100 0 in just three days of self play
+although j1407b eclipsed v1400 centauri in 2007 nobody noticed for over three years
+amazon dynamodb google s bigtable and facebook s cassandra pioneered web scale databases sacrificing some acid guarantees for massive scalability
+american sign language shares more grammatical features with japanese than with english language families don t follow spoken language boundaries
+an 829 bit rsa key was factored in 2020 requiring 2 700 cpu years of computation rsa 2048 is estimated to require 10 9 times more effort
+an ancient amulet discovered in horvat rimmon bears a love charm in which its owner invokes angels to make another person love him
+an ancient canadian archaeological site ghgk 63 was discovered during the construction of a dump
+an ancient egyptian pet cemetery included a rüppell s fox a barbary falcon and over 500 cats
+an average bolt of negative lightning carries 30 000 amperes transfers 15 coulombs of charge and releases 1 gigajoule of energy
+an enigmatic ancient site deep in madagascar teniky may have been built by zoroastrians
+an ice free arctic ocean paradoxically leads to more snowfall at high latitudes because more water evaporates potentially triggering glacial advances
+an md5 collision can now be found in less than one second on a regular computer down from the 2004 attack that required one hour on an ibm p690 cluster
+an official investigation found the fukushima nuclear accident was foreseeable and preventable
+ancient references to the same concept include one in aristophanes comedy the frogs 405 bce which compares bad politicians to bad coin bad politicians and bad coin respectively drive good politicians and good coin out of circulation
+android s original mascot was designed by irina blok in 2007 the green robot s design was inspired by bathroom symbols
+android version names were alphabetically ordered desserts from cupcake 1 5 to pie 9 0 google dropped the public dessert names after android 10
+animal news feature and articles discover more about animals mdash which animals have the strongest bite force
+animals national geographic animals step into the world of animals from wildlife to beloved pets
+animals what is causing a mysterious surge in canadian turtle deaths
+ansi c is technically not turing complete because pointer sizes are accessible meaning memory is always finite while true turing machines require unbounded tape
+anthropogenic climate change alone cannot cause a runaway greenhouse effect like on venus the planck response creates a strong stabilizing effect
+anthropogenic greenhouse gas emissions may outweigh the orbital forcing of milankovitch cycles for hundreds of thousands of years potentially preventing the next ice age
+apollo 17 astronaut harrison schmitt was allergic to moon dust it caused the inside of his nose to swell and affected his throat
+apollo astronauts walked on walls reduced gravity walking simulator before walking on the moon
+apple s goto fail bug was caused by a duplicated line of code that made ssl certificate checks always pass a single line rendered millions of devices vulnerable
+approximately 1 of tornadoes rotate anticyclonically clockwise in the northern hemisphere usually forming on the anticyclonic side of a supercell s rear flank downdraft
+approximately 85 per cent of welsh children were not in school in 1821
+arctic sea ice decline between 1979 and 2011 was responsible for radiative forcing equivalent to a quarter of all co2 emissions during the same period
+arm processors power 95 of smartphones their low power consumption made mobile computing practical
+arpanet initially had only 4 nodes by december 1969 ucla stanford uc santa barbara and the university of utah all in the western united states
+arrhenius initially believed co2 induced warming would take thousands of years but by 1908 revised his estimate to hundreds of years due to increasing fuel consumption
+as a parsec parallax second is defined by the distance of an object that would appear to move exactly one second of arc against background objects stars less than 5 parsecs away will have measured parallaxes of over 0 2 arcseconds or 200 milliarcseconds
+as of 1 06 billion years ago three supermassive black holes from a trio of galaxies in the constellation of cancer were colliding
+at least 3 million physical qubits would be needed to factor a 2 048 bit integer in 5 months current quantum computers have hundreds of qubits at most
+at t s long distance network crashed on january 15 1990 due to a cascading failure a bug caused switches to report problems in a way that crashed neighboring switches
+at t was forbidden from entering the computer business by a 1956 antitrust case so they gave unix source code to anyone who asked spurring its adoption
+auguste escoffier the famous french chef created umami rich dishes in the late 1800s without knowing the chemical basis of the flavor he was enhancing
+austin j tobin plaza was destroyed in the september 11 attacks but one of the sculptures on it the sphere survived
+automated theorem provers have since proven or verified many important results the kepler conjecture about sphere packing was verified by computer in 2017
+avl trees maintain balance by ensuring the heights of left and right subtrees differ by at most 1 guaranteeing o log n operations
+axolotls can regenerate their limbs heart and even parts of their brain
+b trees are the standard data structure for database indexing they keep data sorted and allow searches insertions and deletions in logarithmic time
+backpropagation was unknown to ai researchers until the 1980s even though the technique had been used in other fields its absence held back neural networks for a decade
+backus naur form bnf the notation for describing programming language syntax was invented for algol 60 nearly all subsequent languages use variants of it
+ball lightning described as luminous spheres from pea sized to several meters in diameter has been reported for centuries but was first scientifically recorded with video and spectrum analysis in 2012 on the tibetan plateau
+ball lightning has been reported passing through closed windows solid walls and even flying through aircraft cabins without causing damage
+ball lightning typically has a diameter of 10 20 cm 4 8 inches lasts 1 second to over a minute and often leaves behind an odor of sulfur
+base64 encoding increases data size by 33 it s used to embed binary data in text formats like email and json
+based on results from the gaia telescope s second data release from april 2018 an estimated 694 stars will approach the solar system to less than 5 parsecs in the next 15 million years
+basque euskara is europe s only surviving language isolate it has no known relatives and predates the arrival of indo european languages
+batch normalization 2015 allowed training of much deeper networks by normalizing layer inputs it became a standard component of modern neural architectures
+bcrypt designed in 1999 intentionally makes password hashing slow this makes brute force attacks impractical even with modern hardware
+before the electric telegraph in 1835 weather reports could only travel about 60 160 km per day making forecasting impossible
+before the great vowel shift english bite was pronounced like modern beet and meet sounded like mate
+bert 2018 revolutionized nlp by pre training on massive text corpora it was the first to effectively use bidirectional context for language understanding
+best drones best binoculars next full moon lego star wars deals solar system planets best star projectors when you purchase through links on our site we may earn an affiliate commission
+betty holberton who worked on eniac and univac was among the authors of early sorting algorithms around 1951
+between 50 and 90 of the world s roughly 7 000 languages are expected to be severely endangered or extinct by the year 2100
+bgp border gateway protocol which routes all internet traffic between networks has no built in security route hijacking incidents remain a serious threat
+big o notation was introduced by paul bachmann in 1894 over a century before its widespread use in analyzing algorithms
+bilingual people may experience superior auditory processing abilities compared to monolinguals even in non language tasks
+bitcoin mining represented 0 5 of global electricity consumption as of 2025 comparable to slovakia s total emissions with about half powered by fossil fuels
+bitcoin reached a 1 trillion market cap for the first time in february 2021 and 100 000 per bitcoin in december 2024
+bitcoin s genesis block contains the text the times 03 jan 2009 chancellor on brink of second bailout for banks embedding a newspaper headline as proof of the creation date
+bitcoin was invented in 2008 by the pseudonymous satoshi nakamoto who mined about 1 million bitcoins before disappearing in 2010 never to be heard from again
+black walnut trees release juglone an allelopathic chemical transferred through mycorrhizal networks that inhibits growth and water uptake in neighboring plants
+bladderworts utricularia create a partial vacuum inside bladder traps then suck in prey in milliseconds when trigger hairs are touched the fastest known plant movement
+bloom filters can tell you if an element is probably in the set or definitely not they trade false positives for extreme space efficiency
+blue jets emanate upward from cloud tops at speeds of 100 140 km s and can extend up to 50 km altitude lasting only 200 300 milliseconds
+bob bemer noticed the y2k problem in 1958 and spent 20 years trying to warn ibm the us government and international standards bodies largely ignored
+bob hobman recreated a possible sea journey by palaeolithic humans after 130 000 year old tools were found on the island of crete
+bogosort has unbounded worst case runtime it randomly shuffles elements until they happen to be sorted used only as a humorous teaching example
+both of these measurements are subject to increasing and significant errors over very long time spans especially over the several thousand year time spans it takes for stars to noticeably move relative to each other
+braille proves that writing is fundamentally spatial not visual the same linguistic principles work whether perceived by sight or touch
+brainfuck created in 1993 has only 8 commands and was designed to challenge and amuse programmers yet it s turing complete
+breaking enigma shortened world war ii by an estimated two years the breakthrough was kept secret for 50 years because revealing it would give the defeated enemy the chance to say they were not well and fairly beaten
+british sign language and american sign language are mutually unintelligible despite both countries speaking english
+bubble sort was analyzed as early as 1956 making it one of the oldest sorting algorithms formally studied despite being one of the least efficient
+buffer overflows were publicly documented as a security threat in a 1972 computer security technology planning study yet remained a top vulnerability for 50 years
+by 1981 arpanet had grown to only 213 hosts far smaller than the modern internet s billions of devices
+by 2025 commercially available processors exceeded 92 billion transistors seven orders of magnitude more than the ic era began with
+by chris simms published 23 november 25 birds fossil of huge penguin that lived 3 million years ago discovered in new zealand mdash what happened to it
+by josh dinner last updated 30 january 26 launches amp spacecraft spacex launches starlink satellites from two coasts in two days by robert z
+by laura nicole driessen published 10 november 25 extraterrestrial life chinese scientists hunt for alien radio signals in potentially habitable trappist 1 system by mark thompson published 14 september 25 extraterrestrial life where could alien life exist in our solar system
+by sara hashemi published 2 august 25 frogs wandering salamander the tree 8209 climbing amphibian with a blood 8209 powered grip by jay kakade published 26 april 25 newts amp salamanders fungus is wiping out frogs
+by sascha pare published 19 october 23 crustaceans extinct species rock climbers in italy accidentally discovered evidence of an 80 million year old sea turtle stampede by jeanne timmons published 27 january 26 9 comments extinct species t
+by the late 1990s unix and unix like systems ran on over 90 of the world s top 500 fastest supercomputers
+c and c are vulnerable to buffer overflows because they provide no built in bounds checking the programmer must manually verify array bounds
+caffeine citrate is on the who model list of essential medicines for treating breathing disorders in premature infants
+caffeine is the most widely consumed psychoactive substance in the world found naturally in tea coffee and cacao
+caffeine may confer a modest protective effect against parkinson s disease according to research studies
+caffeine s half life in adults is 3 7 hours but in premature infants it can be as long as 100 hours due to immature liver enzymes
+caffeine works by blocking adenosine receptors in the brain preventing the drowsiness promoting effects of adenosine
+camels have three eyelids to protect themselves from blowing sand
+caramelization and the maillard reaction are distinct processes caramelization is the pyrolysis of sugars alone while the maillard reaction requires amino acids
+carbon flow direction in mycorrhizal networks shifts seasonally toward young maple saplings in spring then toward trout lilies developing roots in fall
+carbon is google s experimental successor to c announced in 2022 designed to be interoperable with existing c code while offering modern safety features
+carnivory has evolved independently at least 12 times in plants across five different orders of flowering plants representing remarkable convergent evolution
+carrion crows in japan have learned to use traffic lights they wait for red to place walnuts on roads for cars to crush then wait for the next red light to safely retrieve the opened nuts
+cat domestication began in china approximately 5 300 years ago not ancient egypt as previously believed cats were attracted to ancient farming villages by rodents living on stored grain
+category 5 hurricanes have become much more common in recent decades with the 20 year average of category 4 and 5 atlantic hurricanes approximately doubling since 2000
+caterpillar damaged plants release volatile organic compounds that attract parasitic wasps to prey on the caterpillars a form of indirect defense
+cats cannot taste sweetness and several other carnivores including hyenas dolphins and sea lions have lost the ability to sense up to four of the five basic tastes
+cats have over 20 vocalizations including the meow purr chirp and trill
+cern released the web protocol and code royalty free on april 30 1993 enabling its explosive growth with thousands of websites appearing within a year
+cern s cloud experiment showed that cosmic rays are too weak to significantly influence climate through cloud formation debunking a popular alternative theory
+chain of thought prompting 2022 showed that asking models to think step by step dramatically improves their reasoning on math and logic problems
+charles darwin spent 16 years studying carnivorous plants and published insectivorous plants in 1875 recognizing it as convergent evolution
+chatgpt reached 100 million users in just 2 months after launch in november 2022 the fastest growing consumer application in history at that time
+cheetahs can t roar they chirp and purr like domestic cats
+cherrapunji india received 2 493 mm 98 1 inches of rain in just 48 hours on june 15 16 1995
+cherrapunji india received the most rainfall in one year 26 470 mm 1 042 inches from 1860 to 1861
+children can become fluent bilinguals without formal instruction the brain is primed for language acquisition in early childhood
+children show a greater enjoyment of sour flavors than adults which is why sour candy is popular among young people
+children were the key creators of nicaraguan sign language s grammar younger learners made the language more complex and structured than older signers
+china owns all giant pandas in the world and rents them to zoos for about 1 million per year
+china s jiuzhang photonic quantum computer 2020 performed a calculation in 20 seconds that would take classical supercomputers 600 million years
+chinese characters have been used to write multiple unrelated languages including japanese korean vietnamese and dozens of minority languages
+chinese scholar shen kuo proposed gradual climate change in 1088 ad after discovering petrified bamboo fossils in the dry northern regions of china far from where bamboo typically grows
+chinese weather prediction methods extend at least as far back as 300 bc around the same time as ancient indian weather prediction methods
+christopher strachey wrote a checkers program in 1951 on the ferranti mark 1 one of the first game playing programs ever written
+chromeos boots in about 8 seconds and auto updates it s essentially a web browser as an operating system designed for cloud first computing
+cilaos on réunion island received 1 825 mm 71 9 inches of rain in 24 hours during tropical cyclone denise in january 1966 the world record for a single day
+cirrostratus clouds create halos around the sun and moon by refracting light through ice crystals
+cirrus clouds often form along high altitude jet streams and can produce virga precipitation that evaporates before reaching the ground
+classic food pairings like japanese dashi kombu bonito flakes work because they combine glutamate rich and nucleotide rich ingredients for synergistic umami
+claude shannon s 1948 paper a mathematical theory of communication is considered the most important development of 1948 rated by historian james gleick as even more profound than the transistor
+click consonants are so loud they can be heard up to several kilometers away they re articulated by creating a vacuum with the tongue and releasing it explosively
+climate change increased hurricane harvey s rainfall by 7 38 hurricane ian s by 18 and increased peak wind speeds in all eleven 2024 atlantic hurricanes
+cloud feedback has the largest uncertainty of any climate feedback with a confidence interval from 0 10 to 0 94 w m² k
+clouds are the main uncertainty in climate sensitivity calculations making them crucial for understanding how much the earth will warm
+clouds have been observed on other planets containing methane ammonia and sulfuric acid instead of water
+co inventor of the transistor with brattain and schockley vladimir barmin 1909 1993 russia first rocket launch complex spaceport anthony r
+code golf is competitive programming where the shortest source code wins apl and j programs often win due to their terse syntax
+combined with android which is linux based linux has the largest installed base of all general purpose operating systems as of 2022
+companies predicted y2k remediation would cost between 400 billion and 600 billion globally fear led some people to stockpile food water and firearms
+comparison sorting algorithms cannot do better than o n log n on average this is mathematically proven not just an empirical limit
+compuserve became the first service to offer commercial email to personal computer users in 1979 and introduced real time chat with its cb simulator in 1980
+consistent hashing invented in 1997 distributes data across servers so that adding removing servers minimizes data movement crucial for distributed systems
+continuous wave operating diode lasers together with zhores alferov high power diode lasers elmer r
+convolutional neural networks cnns inspired by the visual cortex were first successfully applied to handwritten digit recognition by lecun in 1989
+conway s game of life 1970 shows how simple rules can produce complex behavior it s turing complete meaning it can theoretically compute anything
+coulter principle jacques cousteau 1910 1997 france co inventor of the aqualung and the nikonos underwater camera john jack higson cover jr
+cows have best friends and get stressed when they are separated
+cpu cache is 100x faster than main memory modern cpus have multiple cache levels l1 l2 l3 to bridge the memory speed gap
+created first genetically modified organism willard boyle 1924 2011 together with george e
+crows and ravens understand delayed gratification they will patiently wait for a better food reward rather than eating immediately but only if the second option is genuinely superior
+crows can recognize human faces and hold grudges across generations in experiments crows who were never captured still scolded and dive bombed researchers wearing a threatening mask years later
+crows in japan steal fiber optic cables for nesting material and cause about 100 power failures per year between 2006 2008 they stole nearly 1 400 fiber optic cables from tokyo power providers
+cumulonimbus clouds can penetrate the tropopause and push into the stratosphere during intense convection
+cumulonimbus clouds can produce thunderstorms lightning hail heavy rain flash floods downbursts and tornadoes all from the same cloud type
+current quantum computers must be cooled to 20 millikelvin colder than outer space using dilution refrigerators to prevent quantum decoherence
+cyanogenic glycosides in plants release hydrogen cyanide when cell membranes are broken by herbivores blocking cellular respiration in the attacker
+cyclone gamede dropped 3 929 mm 154 7 inches of rain on réunion island in 72 hours in february 2007
+cyclone hudhud caused a 60 percent decrease in the population of birds in visakhapatnam
+cyclone hyacinthe dumped 6 433 mm 253 3 inches of rain on réunion island in january 1980 the most precipitation from a single tropical cyclone
+damin an extinct australian ritual language is the only non african language ever documented to use click consonants as regular speech sounds
+dansgaard oeschger cycles are rapid warming events occurring roughly every 1 500 years during ice ages with temperature changes of up to 10 c within decades
+darlingtonia californica cobra plant confuses trapped insects with false exits transparent windows in its hood that appear as escape routes but aren t
+deep blue could evaluate 200 million chess positions per second using 480 custom vlsi chess chips running alongside 30 powerpc processors
+deep blue was the first computer to defeat a reigning world chess champion in a match it beat garry kasparov 3½ 2½ in 1997
+deepmind s chinchilla 70b language model outperformed png for image compression and flac for audio achieving 43 4 and 16 4 of original sizes respectively
+dennard scaling predicted that as transistors shrank power density stayed constant this broke down around 2006 ending the free lunch of automatic speed improvements
+des encryption was broken by the electronic frontier foundation in 1997 using a 250 000 custom machine that cracked messages in 56 hours proving 56 bit keys were too short
+diffie hellman key exchange published in 1976 was the first practical public key protocol but gchq had secretly developed equivalent methods in 1969 1973
+dijkstra famously said computer science is no more about computers than astronomy is about telescopes
+dijkstra s algorithm 1956 finds the shortest path in a graph developed by edsger dijkstra in 20 minutes at a café without using a computer
+dijkstra wrote goto considered harmful in 1968 starting a tradition of x considered harmful papers that continues today
+disrupting a cat s routine can make even healthy cats exhibit symptoms of illness including vomiting decreased appetite and going to the bathroom outside the litter box
+dns was invented in 1983 by paul mockapetris before it a single hosts txt file distributed by ftp was used to map all internet hostnames
+docker containers released in 2013 use linux kernel features cgroups and namespaces that existed since 2008 docker s innovation was making them accessible
+dogs are capable of understanding up to 250 words and gestures the average dog is as intelligent as a 2 year old child
+dolphins may remember other dolphins signature whistles after decades apart they use these personal whistles to call out to one another
+dolphins segregate themselves into friend groups rather than spending equal time with all nearby dolphins scientists discovered this after tracking 200 bottlenose dolphins for six years
+donald davies coined the term packet switching in 1965 at britain s national physical laboratory independently developing the same concept paul baran had proposed at rand
+donald knuth believes p np but thinks a proof will almost surely be nonconstructive meaning it wouldn t give us practical fast algorithms
+donald knuth started writing the art of computer programming in 1962 over 60 years later only volumes 1 4a are complete with 4b in progress
+douglas adams quipped the world wide web is the only thing i know of whose shortened form takes three times longer to say than what it s short for
+douglas fir trees injured by insects can send chemical warning signals through mycorrhizal networks to neighboring ponderosa pines which then produce defense enzymes
+dropout a simple regularization technique where random neurons are ignored during training dramatically improved neural network generalization when introduced in 2012
+dry lightning occurs when rain from a thunderstorm evaporates before reaching the ground it s a major cause of wildfires
+due to the near miss effect gamblers may mistake a game of luck for a game of skill
+during glacial periods earth s ice sheets increase the planet s albedo reflectivity while forests decrease it this creates a positive feedback loop that intensifies cooling
+during the cryogenian period 720 630 million years ago earth may have become a snowball earth with glacial ice sheets reaching the equator
+during the last glacial period sea levels fluctuated 20 30 meters as water was sequestered in ice sheets periodically opening and closing the bering strait
+during the supercontinent pangaea climate modeling suggests that the landmass was conducive to establishing megamonsoon circulation patterns
+during the tunisian campaign in world war ii crews carried an ames type 6 radar set across a swamp to spy on luftwaffe aircraft
+dust storms and forest fires can both produce lightning through charge separation in suspended particles
+dynamic programming named by richard bellman in the 1950s solves problems by breaking them into overlapping subproblems the name was chosen to impress a secretary of defense who disliked mathematics
+earendel is the most distant individual star ever detected located approximately 12 9 billion light years from earth
+earth has experienced at least five major ice ages the huronian 2 4 billion years ago cryogenian andean saharan late paleozoic and the current quaternary ice age
+earth maintains an average temperature of 15 c making it the only planet known to support liquid water on its surface
+earth orbits the sun at approximately 107 200 km h 67 000 mph completing one revolution every 365 25 days
+east antarctica has experienced very little net warming over seven decades because its ice sheet rises nearly 4 km above sea level maintaining high stability
+edgar codd invented the relational database model at ibm in 1970 ibm initially ignored his work and oracle implemented it first
+eduard buchner won the 1907 nobel prize in chemistry for discovering cell free fermentation proving that sugar could be fermented without living yeast cells
+edward fredkin created a 100 000 prize in 1980 for the first computer to beat a world chess champion it went unclaimed for 17 years until deep blue won it
+el niño reduces atlantic hurricane activity through increased vertical wind shear across the basin
+electriquette was an electric wicker vehicle that could be rented at the 1915 panama california exposition
+electronic digital computer marcel audiffren france refrigeration patent alexander anim mensah ghanaian american chemical engineer inventor b boris babayan born 1933 armenia ussr russia soviet computers superscalar processor charles babbage 1791 1871 uk analytical engine semi automatic tabitha babbit 1779 1853 u s
+elephants appear to grieve their dead they vocalize use their trunks to hug the body stay with carcasses for hours and sometimes attempt to bury dead elephants by covering them with leaves and soil
+elephants are not actually scared of mice they have poor vision and can get startled when anything suddenly scurries by but mice themselves don t frighten them
+elephants can communicate using infrasound at frequencies below human hearing
+eliza 1966 was the first chatbot users often believed they were talking to a human even though it just rephrased their statements using simple pattern matching
+elves emission of light and very low frequency perturbations are flattened expanding glows around 400 km in diameter that last only about one millisecond in the ionosphere above thunderstorms
+emergent abilities in large language models appear suddenly at certain scales capabilities like arithmetic and translation emerge unpredictably as models grow
+eniac the first general purpose programmable digital computer thomas alva edison 1847 1931 u s
+eratosthenes the librarian of the great library of alexandria was nicknamed beta second because he wasn t considered the best at anything
+eric raymond noted that linux evolved in a completely different way rather than careful design by small groups it was casually hacked on by huge numbers of volunteers using weekly releases and rapid feedback
+eric raymond s 1997 essay the cathedral and the bazaar compared traditional software development to open source s chaotic but effective bazaar model
+eunice newton foote was the first to demonstrate co2 s heat capturing effect in 1856 three years before john tyndall s more famous experiments
+eve online s trinity patch in 2007 accidentally deleted the windows boot ini file from users computers the game had a file with the same name and the deletion targeted the wrong directory
+evidence suggests brief glaciation periods occurred even during the warm early cretaceous with ice sheets possibly extending to the iberian peninsula
+female dolphins produce burst pulse sounds to reprimand their offspring for bad behavior similar to how human parents scold children
+ferrari ff was upon its release the world s fastest four seater car
+few shot learning lets models learn new tasks from just a handful of examples a capability that emerged in gpt 3 without being explicitly trained for it
+finding a minor in a graph can be done in o n² time but the hidden constant is greater than 10 3 a number requiring knuth s up arrow notation
+first african american woman to receive a united states patent
+first printing telegraph coenraad johannes van houten 1801 1887 netherlands cocoa powder cacao butter chocolate milk elias howe 1819 1867 u s
+first self propelled street sweeping truck rachel fuller brown 1898 1980 u s
+fog is simply a very low stratus cloud that has subsided to ground level reducing visibility to less than 1 km above 1 km visibility it s called mist
+food fermentation serves five main purposes creating diverse flavors and textures preservation through acids and alcohol enriching food with proteins and vitamins eliminating antinutrients and reducing cooking time
+formal verification can mathematically prove software is correct sel4 is a microkernel with machine checked proofs of its entire implementation
+fortran 1957 was the first widely used high level language initially viewed with skepticism it s still used today to benchmark the world s top500 supercomputers
+foxgloves produce digoxin and digitoxin cardiac glycosides used for centuries in heart medicine which deter herbivores by affecting heart rhythm
+france s policy promoting open source in government led to a 14 increase in it employment and an 18 increase in tech startups
+francis ronalds invented the first photographic weather recording instruments in 1845 including a barograph that fitzroy later used for forecasting
+frank rosenblatt and marvin minsky were schoolmates at bronx high school of science years later minsky s criticism of perceptrons effectively ended rosenblatt s research funding
+fred brooks the mythical man month 1975 observed that adding programmers to a late project makes it later still cited 50 years later
+french soldiers interred in bayonet trench were popularly believed to have been buried alive with their rifles in their hands
+frequency analysis the technique for breaking substitution ciphers was invented by arab mathematician al kindi around 800 ad it remained the most significant cryptanalytic advance until world war ii
+fulminology is the scientific study of lightning derived from the latin fulmen meaning lightning bolt
+gans generative adversarial networks invented by ian goodfellow in 2014 use two neural networks competing against each other to generate realistic data
+gcirs 13e is one of the most massive known stars at approximately 1 300 solar masses so massive it defies current stellar models
+genlisea corkscrew plants trap microscopic soil organisms using y shaped underground leaves with inward pointing hairs that force prey toward digestive chambers
+geoffrey hinton yann lecun and yoshua bengio won the 2018 turing award for their work on deep learning sometimes called the godfathers of ai
+german colonists were unable to win a war that they started with an unprovoked massacre hornkranz massacre
+ghosts greenish optical emissions from sprite tops appear as faint green glows that persist after a red sprite dissipates and were first noted as distinct phenomena in 2019
+gigantic jets can travel from thunderstorm tops to 90 km altitude with one observed in 2001 reaching speeds of at least 2 000 km s as it spread into the ionosphere
+gilhoolie robert fulton 1765 1815 united states first commercially successful steamboat first practical submarine ivan fyodorov c
+git uses sha 1 hashes not for security but for data integrity linus torvalds noted you can trust that five years later you get the exact same data you put in
+git was created by linus torvalds in 2005 after bitkeeper revoked linux s free license he wrote the initial version in about 10 days
+github founded in 2008 and acquired by microsoft for 7 5 billion in 2018 hosts over 100 million repositories
+glacial periods follow 40 000 year and 100 000 year cycles due to milankovitch cycles periodic changes in earth s orbit and axial tilt
+glaciation 2 3 billion years ago was triggered by the evolution of oxygenic photosynthesis which depleted co2 and introduced free oxygen to the atmosphere
+global cooling over the past 40 million years has been driven partly by the expansion of grass grazer ecosystems
+go has a branching factor of about 250 vs chess s 35 making traditional search approaches infeasible alphago needed neural networks to evaluate positions
+go was created at google by ken thompson co creator of unix and c s predecessor b and rob pike designed for simplicity and built in concurrency
+goats have rectangular pupils that give them a 340 degree field of vision
+goethe used his unrequited love to maximiliane brentano as inspiration for his novel the sorrows of young werther
+gong and signal chair adopted by house of representatives and precursor to flight attendant signal system william r
+goodfellow came up with gans during a discussion at a bar he went home and coded the first working version that night
+google s pagerank algorithm which revolutionized web search was described in a 1998 paper it models the web as a graph where links are votes for importance
+gpt 3 has 175 billion parameters and cost an estimated 4 6 million just for the compute to train later models are even more expensive
+grace hopper developed flow matic 1955 1959 because business data processing customers were uncomfortable with mathematical notation it directly influenced cobol
+grace hopper is credited with popularizing the term debugging after finding a moth in a relay of the harvard mark ii computer in 1947
+gran canaria is called the miniature continent for its rich variety of microclimates within a small area
+grasses use indigestible silica phytoliths to defend against herbivores causing rapid wear to mammal teeth and insect mandibles
+greedy algorithms make locally optimal choices at each step they re simple but don t always find the global optimum
+gregory chaitin defined a halting probability ω a real number that represents the probability a random program halts which is computable but cannot be computed completely
+grover s algorithm provides only quadratic speedup for searching but this effectively halves symmetric key lengths meaning aes 256 has the security of aes 128 against quantum attacks
+gut bacteria produce short chain fatty acids and synthesize b vitamins and vitamin k acting almost like an endocrine organ
+half the 2021 nobel prize in physics was awarded for discovering how climate noise becomes climate signal through ocean inertia effects
+hangul s consonant shapes are based on diagrams of the human mouth and tongue positions used to make each sound making it arguably the world s most scientific alphabet
+hannibal von degenfeld played the leading role in establishing the bavarian army in 1682 before leading it to the battle of vienna a year later
+hans suess s carbon 14 analysis in 1955 proved that co2 from fossil fuels was not immediately absorbed by the ocean disproving a major skeptic argument
+hard drives store data magnetically on spinning platters the read write head floats just 3 nanometers above the surface closer than the width of a dna strand
+hash tables can provide o 1 average case lookup time but hash collisions can degrade this to o n in worst case requiring techniques like chaining or open addressing
+heartbleed 2012 2014 was an openssl vulnerability that removed confidentiality from https it forced canada s tax agency to shut down online filing during tax season
+heat lightning is simply lightning from a distant thunderstorm that can be seen but not heard because the thunder dissipates over distance
+hebbian learning cells that fire together wire together was proposed in 1949 the manuscript sat for years before publication due to wwii and academic delays
+heinrich events during ice ages caused massive icebergs to be released into the north atlantic changing ocean circulation and global climate patterns
+helium 3 needed for superconducting quantum computers is a nuclear research byproduct and the special superconducting cables are made only by japanese company coax co
+herbert simon declared in 1965 that machines will be capable within twenty years of doing any work a man can do a prediction still unfulfilled 60 years later
+high clouds form at altitudes up to 18 300 m 60 000 ft in the tropics 12 200 m 40 000 ft in temperate regions and 7 600 m 25 000 ft in polar regions
+hippos secrete a natural sunscreen that is red colored often mistaken for blood
+historians and sociologists have remarked the occurrence in science of multiple independent discovery
+historical records suggest a mountain ash eucalyptus regnans tree measured in australia in 1865 reached 147 2 meters 483 feet but this cannot be verified today
+holter monitor robert hooke 1635 1703 uk balance wheel iris diaphragm acoustic telephone erna schneider hoover born 1926 u s
+horses cannot vomit due to a strong band of muscle around their esophagus
+horseshoe machine first usable iron railroad spike c tim cook the ceo of apple ve elizabeth cadie 1893 1956 u s
+however discoveries and inventions are inextricably related in that discoveries lead to inventions and inventions facilitate discoveries and since the same phenomenon of multiplicity occurs in relation to both discoveries and inventions this article lists both multiple discoveries and multiple inventions
+http was created by tim berners lee in 1989 as a simple text based protocol http 3 2022 uses udp instead of tcp for faster web performance
+huffman coding invented in 1952 was david huffman s term paper at mit it became one of the most important compression algorithms ever developed
+humans have five basic tastes sweet sour salty bitter and umami savory each has its own type of receptor
+hungry cats trick their owners into feeding them by mimicking babies they make urgent crying sounds in the 220 to 520 hertz frequency range similar to human babies at 300 600 hertz while purring at a lower frequency
+hurricane patricia in 2015 had the highest maximum sustained wind speed ever recorded in a tropical cyclone at 345 km h 215 mph
+hurricanes can generate lightning mainly in rainbands up to 160 km from the center though they produce less lightning than typical thunderstorms
+hurricanes rotate counterclockwise in the northern hemisphere and clockwise in the southern hemisphere due to the coriolis effect
+hyperlinks on the web can become dead over time link rot the internet archive has been archiving websites since 1996 to preserve the ephemeral web
+ibm renamed deep thought to deep blue because the original name too closely resembled the pornographic film deep throat
+ice ages require specific continental positions a continent at a pole a nearly land locked polar sea or a supercontinent covering most of the equator
+ice albedo feedback strength peaks around 2100 under high warming scenarios and declines afterwards because most easily melted ice will already be gone
+ice crystals become positively charged and graupel becomes negatively charged when they collide in thunderclouds this charge separation drives lightning
+ice sheets may have briefly returned to antarctica just before the cretaceous paleogene extinction event that killed the dinosaurs
+ieee 754 defines not a number nan as the result of undefined operations like 0 0 or sqrt 1 nan is not equal to anything including itself
+ieee 754 floating point was created in 1985 to address the chaos of incompatible floating point formats before it moving calculations between systems often produced different results
+ieee 754 has both positive zero and negative zero they compare as equal but 1 0 gives positive infinity while 1 0 gives negative infinity
+if a female emperor penguin s baby dies she will often kidnap an unrelated chick
+if a language has grammatical gender for third person he she it will always have it for second person you an implicational universal
+if forests didn t create their own water cycle through evapotranspiration there would be no forest far from coastlines because rainfall would decline too much inland
+if p np a computer could find a formal proof of any theorem that has a reasonable length proof potentially revolutionizing or ending mathematical research as we know it
+imagenet created in 2009 with 14 million labeled images became the benchmark that drove the deep learning revolution after alexnet won the 2012 competition
+imperial california experienced the highest temperature ever recorded during rain 48 3 c 118 9 f on july 24 2018
+improved ironing board design charlie booth 1903 2008 australia starting blocks bob born 1924 2023 u s
+in 1749 admiral chambers reported seeing a ball of blue fire appear 3 miles from hms montague approach the ship and explode as great as if a hundred cannons had been discharged
+in 1753 professor georg richmann of saint petersburg was killed by ball lightning while conducting a kite experiment similar to benjamin franklin s the first recorded scientific fatality from ball lightning
+in 1967 two mathematicians published phd dissertations independently disproving the same thirteen year old conjecture the common fixed point problem
+in 1970 marvin minsky predicted in life magazine that in from three to eight years we will have a machine with the general intelligence of an average human being
+in 1975 moore revised his prediction to doubling every two years this version held true for nearly 50 years
+in 1996 the ariane 5 rocket exploded 40 seconds after launch because a 64 bit floating point number was converted to a 16 bit integer a 370 million software bug caused by code reused from the slower ariane 4
+in 2007 a group of f 22 raptor fighters experienced total navigation and communication system failures when they crossed the international date line the aircraft had to follow tanker planes back to hawaii
+in 2008 researchers used a playstation 3 cluster to create a rogue ca certificate by exploiting md5 collisions allowing them to impersonate any https website
+in 2012 researchers found that 0 2 of rsa public keys on the internet shared prime factors with other keys allowing them to be trivially broken using only euclid s algorithm
+in 2012 university of new south wales researchers built the first working transistor consisting of a single atom placed precisely in a silicon crystal
+in 2014 a feral pack of chihuahuas terrorized an arizona town they would form large groups harass residents and sometimes team up with larger dogs
+in 2019 google claimed quantum supremacy with a 54 qubit machine performing a calculation in 200 seconds that would take classical supercomputers 10 000 years ibm disputed this saying 2 5 days
+in 2020 a specific android wallpaper could brick phones by causing a bootloop it was caused by how android converted images from prophoto rgb to srgb colorspace
+in 2020 almost 10 million tonnes of coffee beans were consumed globally
+in 2022 nvidia ceo jensen huang declared moore s law dead while intel ceo pat gelsinger disagreed the debate continues
+in 2026 a magnetic tape containing version 4 unix 1973 was discovered at the university of utah and successfully recovered the earliest known surviving distribution of that version
+in 350 bc aristotle wrote meteorologica the first systematic work on weather which gave us the term meteorology from the greek meteoros meaning high in the sky
+in 904 ad ibn wahshiyya s nabatean agriculture discussed weather forecasting based on lunar phases planetary positions and wind movements
+in a 2019 poll 88 of computer scientists believed p np and among experts specifically 99 believed it yet no one has proven it
+in addition in 1885 eduard suess had proposed a supercontinent gondwana and in 1893 the tethys ocean assuming a land bridge between the present continents submerged in the form of a geosyncline and in 1895 john perry had written a paper proposing that the earth s interior was fluid and disagreeing with lord kelvin on the age of the earth
+in denmark the first baby born on january 1 2000 was recorded as being 100 years old due to a y2k bug
+in fiction neutron stars harbour exotic lifeforms in their vicinity on their surface and even in their interior
+in his 1936 paper turing proved the entscheidungsproblem decision problem is undecidable no algorithm can determine whether an arbitrary mathematical statement is provable
+in january 2009 google s search engine marked every website worldwide as potentially malicious including its own homepage
+in june 2023 ibm demonstrated that a quantum computer produced better results than a conventional supercomputer for a specific physics problem a milestone for practical quantum advantage
+in may 2021 ibm announced a 2nm chip with parts smaller than human dna 50 billion transistors on a fingernail sized chip
+in switzerland it s illegal to own only one guinea pig because they re social creatures the law aims to prevent guinea pigs from getting lonely
+in the english language many animals have different names depending on whether they are male female young domesticated or in groups
+in the galactic context the local bubble is a small part of the orion arm which contains most stars that we can see without a telescope
+in the history of fisheries in the philippines the once dominant local municipal fisheries were supplanted first by commercial fisheries and then by aquaculture
+in the tropics where the freezing level is higher only 10 of lightning is cloud to ground at norway s latitude 50 is cloud to ground
+in the us the average tornado travels 5 miles 8 km on the ground and is about 500 feet 150 m across
+indo pakistani sign language is the most widely used sign language in the world ranked 151st among all languages by number of users
+information theory was crucial to the voyager missions to deep space error correction codes derived from shannon s work allowed images to be transmitted across billions of miles
+integer factorization is believed to be np intermediate neither in p nor np complete which is why rsa encryption works
+intense forest fires like the 2019 20 australian bushfires can create their own weather systems called pyrocumulonimbus that produce fire lightning and fire tornadoes
+intercal the compiler language with no pronounceable acronym 1972 was designed to be as unlike any other language as possible it uses please for politeness
+internet explorer dominated browsers for 14 years by being bundled with windows microsoft s response to netscape sparked the browser wars
+internet protocol ip claude shannon 1916 2016 founder of information theory and modern cryptography invented minivac 601 and co invented the first wearable computer with edward o
+invasive species are disrupting the mating rituals of native species sometimes preventing successful reproduction through interference
+ipv4 s 4 3 billion addresses 2 32 seemed inexhaustible in 1983 iana allocated the last blocks in 2011 forcing the transition to ipv6 s 340 undecillion addresses
+islands are home to an estimated 41 percent of land vertebrates at risk of extinction
+israel s beresheet lunar lander crashed in 2019 due to a software bug that disabled the main engine engineers couldn t reboot it in time to slow the descent
+it contains ursa major and the hyades star cluster among others
+it goes on to say that some of the terms in the book of saint albans were rather fanciful explaining that the book extended collective nouns to people of specific professions such as a poverty of pipers
+j c r licklider envisioned the intergalactic computer network in 1963 his memos to arpa colleagues laid the conceptual foundation for the internet
+jamie zawinski quipped some people when confronted with a problem think i know i ll use regular expressions now they have two problems
+japan s hitomi astronomical satellite was destroyed in 2016 when a thruster fired in the wrong direction causing it to spin faster instead of stabilizing
+java s arrays binarysearch had a subtle integer overflow bug for 9 years 1997 2006 demonstrating how hard it is to write correct binary search
+java s write once run anywhere slogan became a reality through the jvm java bytecode runs on any platform with a compatible virtual machine
+java was originally called oak after a tree outside james gosling s office it was renamed because oak was trademarked by another company
+javascript was created by brendan eich in just 10 days in may 1995 originally named mocha then livescript before becoming javascript for marketing reasons
+jean baptiste lamarck proposed a french cloud classification system in 1802 but it failed because it used informal french names instead of universal latin
+jean pierre perraudin a carpenter and chamois hunter was the first to propose in 1815 that glaciers once extended much farther inspiring the ice age theory
+john nash wrote to the nsa in 1955 speculating that cracking a sufficiently complex code would require exponential time implicitly conjecturing p np
+jon bentley found that 90 of professional programmers couldn t correctly implement binary search off by one errors and integer overflow were common mistakes
+jpeg compression exploits human vision we re more sensitive to brightness variations than color so color information is compressed more aggressively
+json was discovered by douglas crockford around 2001 he didn t invent it just recognized that javascript object literals were a useful data format
+july 22 2024 was the warmest day on record for the entire planet with a global average temperature of 17 16 c 62 89 f
+kasparov initially called deep blue an alien opponent but later belittled it stating it was as intelligent as your alarm clock
+ke jie world s top go player said after losing to alphago after humanity spent thousands of years improving our tactics computers tell us that humans are completely wrong
+kelvin waves regulate tropical cyclone development by influencing the westerlies with formation reduced 3 days before the wave crest and increased 3 days after
+kevin mitnick was once the fbi s most wanted hacker after prison he became a security consultant the free kevin movement made him a hacker folk hero
+king mongkut of siam offered to send elephants to the u s to breed in forests in 1861 but lincoln s secretary of state declined because america already used steam power
+kiviak a traditional inuit food is made by stuffing up to 500 small seabirds into a seal skin and fermenting them for several months
+klara dan von neumann was one of the eniac programmers who helped produce the first computerized weather forecast in 1950
+knight capital group lost 440 million in just 45 minutes on august 1 2012 when a software deployment error caused old unused code to execute during high frequency trading
+knuth morris pratt 1977 finds patterns in text in o n time by never backtracking a significant improvement over naive o nm string matching
+knuth offers 2 56 for each error found in his books the checks are rarely cashed because they re considered collector s items
+koalas have fingerprints nearly identical to humans so similar they can contaminate crime scenes
+korean hangul was designed by one person king sejong the great in 1443 one of the only purposefully invented alphabets that became a national writing system
+kotlin named after an island near st petersburg became an official android development language in 2017 google now recommends it over java for new android apps
+kurt gödel wrote to john von neumann in 1956 asking whether theorem proving could be solved in quadratic time essentially asking about p vs np 15 years before it was formally defined
+kusunda spoken by only 23 people in nepal is a language isolate with no known relatives and almost went extinct without ever being studied
+la niña years increase hurricane landfalls in china and intensify storms in the philippines by shifting the subtropical ridge westward
+lake baikal in russia contains about 20 of the world s unfrozen fresh water
+lake maracaibo in venezuela is the most lightning prone place on earth averaging 250 lightning bolts per day and seeing lightning on 297 days per year
+lambda calculus invented by alonzo church in the 1930s uses only function definition and application yet it s equivalent in power to turing machines
+later independently rediscovered by the europeans michael servetus 1553 and william harvey 1616
+latex created by leslie lamport in 1983 is the standard for typesetting scientific papers lamport won the turing award for his distributed systems work
+laura ingalls wilder described ball lightning in her books three balls appearing during a blizzard near a cast iron stove which her mother chased with a broom
+lbv 1806 20 is a luminous blue variable star approximately 165 solar masses one of the most massive stars known
+learn about some of nature s most incredible species through recent discoveries and groundbreaking studies on animal habitats behaviors and unique adaptations
+lee sedol retired from professional go in 2019 saying ai was an entity that cannot be defeated he is the only human to ever beat alphago in its 74 official games
+lee sedol s divine move in game 4 against alphago exploited a bug the program s policy network couldn t find the correct continuation for a move it hadn t predicted as likely
+let s encrypt launched in 2016 provides free tls certificates and has issued over 3 billion certificates democratizing web encryption
+lethal doses of caffeine are over 10 grams per day for an adult far exceeding the typical consumption of under 500 milligrams
+lewis fry richardson s 1922 book on numerical weather prediction envisioned a forecast factory with thousands of people performing calculations by hand
+lightning can travel through a typical cloud to ground channel exceeding 5 km 3 1 miles in length
+lightning heats the air around it to approximately 30 000 c 54 000 f about five times hotter than the surface of the sun
+lightning is considered an essential climate variable by the world meteorological organization due to its connections to storm intensity and climate patterns
+lightning occurs on earth approximately 44 times per second equating to nearly 1 4 billion flashes per year
+lightning releases energy between 200 megajoules and 7 gigajoules enough to power a 100 watt light bulb for several months
+linked lists allow o 1 insertion and deletion but require o n for random access the opposite tradeoff of arrays
+linus named git after british slang for an unpleasant person he joked i m an egotistical bastard and i name all my projects after myself
+linus s law states given enough eyeballs all bugs are shallow though security experts dispute this noting that even reviewers may not be qualified to spot vulnerabilities
+linus torvalds wanted to call linux freax free freak x an ftp admin named it linux without asking because he thought freax was a terrible name
+linux is ported to more platforms than any other operating system from 8 bit microcontrollers to the world s largest supercomputers
+linux powers over 96 4 of the top one million web servers spacex rockets tesla cars and the mars ingenuity helicopter
+linux runs on all 500 of the world s fastest supercomputers it gradually displaced all competitors by november 2017
+linux was adopted first by supercomputing centers in the mid 1990s organizations like nasa replaced expensive machines with clusters of commodity computers running linux
+linux was first released on september 17 1991 torvalds enrolled in a unix course at helsinki using a minix textbook got frustrated with minix s licensing and wrote his own kernel
+lisp 1958 introduced garbage collection recursive functions and tree data structures concepts that took decades to become mainstream in other languages
+llvm created by chris lattner is now used in the implementation of many modern languages including rust swift and julia
+log4shell 2021 was called the single biggest most critical vulnerability of the last decade a logging library flaw affected millions of applications
+loganair flight 6780 in 2014 experienced ball lightning in the forward cabin just before a nose lightning strike causing confusion that nearly crashed the plane
+lossless audio compression like flac typically achieves 50 60 compression compared to lossy mp3 which can achieve 90 reduction with acceptable quality loss
+louis agassiz omitted mention of karl friedrich schimper who coined ice age and helped develop the theory due to personal quarrels
+louis pasteur founded zymology in 1856 when he connected yeast to fermentation though he incorrectly believed fermentation required living cells
+low clouds can visually mimic a tornado when orographic lift creates rotating columns that twist through cloud layers
+low clouds cool the earth while high clouds warm it climate change is expected to shift cloud distributions in ways that reduce overall cooling
+low clouds have a stronger cooling effect because they re bright and reflective while high thin clouds cause warming because they trap outgoing radiation
+lstm networks 1997 solved the problem of learning long term dependencies they re still widely used for sequence modeling despite being nearly 30 years old
+luke howard developed the cloud classification system in 1802 using latin names which became the basis of the international system still used today
+lund noted that the common plural nouns for animals were flock for birds and herd for cows conceding that for certain animals in small groups there was currency in usage such as a pod of whales or gaggle of geese
+lytton british columbia reached 49 6 c 121 3 f on june 29 2021 the highest temperature ever recorded north of 50 n latitude
+lzw compression used in gif images and pkzip was so effective that unisys tried to enforce patent royalties in 1994 triggering the creation of patent free png
+macos is based on darwin a unix like system this is why mac terminals feel familiar to linux users
+mandarin chinese uses tone to distinguish meaning mā mother má hemp mǎ horse and mà scold are four completely different words
+mapreduce published by google in 2004 enabled processing of massive datasets across clusters it directly inspired apache hadoop and the big data revolution
+marble bar australia experienced 160 consecutive days above 37 8 c 100 f from october 1923 to april 1924
+marie curie remains the only person to earn nobel prizes in two different sciences physics in 1903 and chemistry in 1911
+mars experiences temperatures ranging from 35 c to 143 c with an average of 63 c
+martha washington s portrait on the 1896 us one dollar silver certificate is the most recent time that a woman has been featured on us paper money
+martin hellman suggested in 2006 that diffie hellman should be called diffie hellman merkle to recognize ralph merkle s equal contribution to public key cryptography
+maurice wilkes computing pioneer realized in the late 1940s that a good part of the remainder of my life was going to be spent in finding errors in my own programs
+mawsynram india holds the highest average annual rainfall 11 872 mm 467 4 inches over 38 years of observations
+may is the least active month for tropical cyclones globally while september is the most active and november is the only month when all tropical cyclone basins are in season
+md5 was declared cryptographically broken and unsuitable for further use in 2008 yet as of 2019 one quarter of content management systems still used md5 for password hashing
+meerkats have a specialized immunity to certain venoms allowing them to eat scorpions
+melnick 42 is a hypergiant star approximately 189 times the mass of our sun located in the large magellanic cloud
+melt ponds on sea ice have lower albedo than white ice creating a local feedback that accelerates melting
+mercury s surface has mysterious bright streaks that appear to be caused by very recent geological activity the dead planet may still be geologically active after 4 5 billion years
+mercury s surface temperature swings from 700 c during the day to 180 c at night the most extreme temperature variation in the solar system
+merton believed that it is multiple discoveries rather than unique ones that represent the common pattern in science
+merton contrasted a multiple with a singleton a discovery that has been made uniquely by a single scientist or group of scientists working together
+merton defined such multiples as instances in which similar discoveries are made by scientists working independently of each other
+microsoft discontinued sha 1 code signing for windows update on august 3 2020 effectively ending updates for windows 2000 through vista
+microsoft exchange server had a y2k22 bug on january 1 2022 it couldn t process the date 2201010001 and emails got stuck in transport queues
+milutin milankovitch improved calculations of earth s orbital variations that james croll had begun predicting ice age cycles of about 21 000 years
+mit s project mac received 2 2 million from arpa in 1963 for ai research darpa continued providing 3 million annually until the 1970s with fund people not projects philosophy
+mojo 2023 aims to be a python superset that s as fast as c designed by chris lattner creator of llvm and swift
+mongodb s name comes from humongous it was designed at 10gen now mongodb inc in 2007 to handle large scale web applications
+monotropa indian pipe plants cannot photosynthesize and obtain all their nutrients by parasitizing mycorrhizal fungal networks connected to other trees
+monte carlo tree search used by alphago explores game trees by random simulation it doesn t need evaluation functions like traditional game ai
+moore himself said in 2006 moore s law is a violation of murphy s law everything gets better and better
+moore s law is not a law of physics but a self fulfilling prophecy the semiconductor industry used it as a target driving r d to meet the prediction
+moore s law was first articulated by gordon moore in 1965 he noted transistor density doubled yearly and predicted this would continue for at least a decade
+moore s second law rock s law states that the cost of a semiconductor fabrication plant doubles every four years
+more carbon is exchanged between closely related douglas firs sharing a network than between distantly related trees suggesting kin recognition in plants
+more than 50 of the world s endangered languages are concentrated in just 8 countries india brazil mexico australia indonesia nigeria papua new guinea and cameroon
+more than half of all europeans speak at least one language other than their mother tongue multilingualism is the global norm not the exception
+more than one hundred million stars are visible in nasa s zooming in on the andromeda galaxy image
+most experts thought alphago level ai was at least five years away some thought it would take another decade before computers could beat go champions
+most extreme tornadoes can attain wind speeds exceeding 480 km h 300 mph and stay on the ground for more than 100 km
+most negative cloud to ground lightning flashes consist of 3 4 individual strokes though some can have as many as 30 strokes in rapid succession
+mount baker washington received 29 0 meters 95 feet of snow in a single season 1998 1999 the world record for seasonal snowfall
+mount rainier washington received 31 5 meters 102 feet of snow in a single year from february 1971 to february 1972
+mount washington new hampshire recorded the fastest non cyclonic wind 372 km h 231 mph on april 12 1934
+mp3 uses psychoacoustic masking sounds that are inaudible because louder nearby sounds mask them are simply removed to save space
+much of the internet s traffic used one of a handful of 1024 bit diffie hellman groups an attacker who precomputed these could break many connections
+multiple independent discovery however is not limited to such famous historic instances
+mycorrhizal networks were discovered in 1997 by suzanne simard revealing that trees share resources through underground fungal connections called the wood wide web
+mycorrhizal symbiosis evolved before plants colonized land with evolutionary origins dating back over 450 million years
+mysql s name comes from co founder michael widenius s daughter my his other daughter maria inspired mariadb the mysql fork
+nakamoto s bitcoin paper was not peer reviewed and was initially ignored by academics who argued it couldn t work it was published on a cryptography mailing list on october 31 2008
+naked mole rats are resistant to cancer and can survive up to 18 minutes without oxygen
+nasa s goddard space flight center reduced their average error rate from 4 5 per 1 000 lines of code to 1 per 1 000 sloc through rigorous development processes
+nasa s spirit rover became unresponsive on mars in 2004 because too many files accumulated in flash memory it was restored by remotely deleting unnecessary files
+nattō a japanese fermented soybean food is made using bacillus bacteria rather than the lactic acid bacteria used in most other fermented foods
+nearly 300 construction workers showed up at 8 am to continue building chernobyl reactors 5 and 6 despite the chernobyl disaster earlier that day
+nepenthes lowii pitcher plants supplement their diet with tree shrew droppings the shrews use the pitcher as a toilet while feeding on nectar
+nepenthes rajah pitcher plants can grow pitchers large enough to occasionally trap small mammals and reptiles not just insects
+nephology the science of clouds gets its name from the greek nephos meaning cloud not to be confused with nephrology the study of kidneys
+netscape s 1995 ipo triggered the dot com bubble after the mosaic browser made the web popular marc andreessen founded netscape and released navigator with java and javascript
+new experiments support rna world hypothesis by keith cooper published 5 january 26 search for life can scientists detect life without knowing what it looks like
+nicaraguan sign language emerged spontaneously in the 1970s 80s when deaf children were brought together in schools the first documented case of a language being created from scratch
+niklaus wirth walked out of the algol 68 design committee because it was too complex creating the simpler pascal language instead
+nikola tesla reportedly could artificially produce 1 5 inch 3 8 cm ball lightning in laboratory demonstrations
+nml cygni is a red hypergiant star with a radius 1 642 times that of the sun if placed at the sun s position it would engulf jupiter s orbit
+noctilucent clouds form at extreme level in the mesosphere while nacreous mother of pearl clouds form in the stratosphere
+nop sleds are sequences of no operation instructions used in buffer overflow exploits they increase the chance of successfully jumping to shellcode
+norwegian gift means both married and poison the same word two very different meanings
+nosql databases emerged in the late 2000s to handle web scale data the term was coined for a 2009 meetup about open source distributed non relational databases
+nuclear winter theory predicts that soot from nuclear war could block enough sunlight to cause sharp temperature drops for several years
+nvidia s cuda released in 2007 enabled gpus to be used for general purpose computing this made deep learning practical by providing massive parallel processing power
+nystatin the world s first antifungal antibiotic william c
+oahu hawaii experienced 331 consecutive days with measurable rainfall in 1939 1940 the world record for continuous rain
+occultist aleister crowley reported witnessing ball lightning at lake pasquaney in 1916 describing it as dazzling before it exploded near his knee
+octopuses are masters of invisibility through rapid camouflage scientists are studying their techniques to develop new technologies
+of those 103 are main sequence stars 80 red dwarfs and 23 typical stars having greater mass
+on average 80 90 named tropical cyclones form each year worldwide with over half developing hurricane force winds of 120 km h or more
+on january 1 2000 police breathalyzers in hong kong failed at midnight and taxi meters in jiangsu china stopped working
+on june 24 2003 a probe near manchester south dakota measured a 100 millibar pressure drop as a violent tornado passed over it
+one hypothesis for lightning initiation involves cosmic rays accelerating electrons to create runaway breakdown that ionizes air and starts the leader
+one tornado was reported to have a damage path only 7 feet 2 1 meters long among the shortest ever recorded
+only 22 are bright enough to be visible without a telescope for which the star s visible light needs to reach or exceed the dimmest brightness visible to the naked eye from earth which is typically around 6 5 apparent magnitude
+only about 25 of all lightning is cloud to ground 75 occurs within clouds or between clouds
+oracle was founded in 1977 to build the first commercial sql database the company was named after a cia project the founders had worked on
+our team of expert science writers and editors are ready to hold a lens like that of the james webb space telescope beyond earth keeping those on this planet up to date with the latest space news articles and features
+over 3 000 alkaloids have been identified in plants including nicotine caffeine morphine cocaine and quinine all evolved as herbivore deterrents
+over 3 000 np complete problems are known if any one of them can be solved in polynomial time all of them can
+over 80 languages have documented whistled forms typically developing in mountainous or forested terrain where normal speech doesn t carry
+oxford is the first city in the united kingdom to adopt a zero emission zone
+pac man s famous kill screen at level 256 is caused by an integer overflow the game tries to draw 256 fruits but can only handle 8 bit values corrupting half the screen
+papyrus bingen 45 may contain a word handwritten by cleopatra
+passiflora passion vines have structures resembling butterfly eggs on their leaves discouraging butterflies from laying real eggs there
+paul benioff introduced the quantum turing machine in 1980 the first application of quantum mechanics to computational problems
+perl was called the duct tape of the internet in the 1990s its regex capabilities and text processing made it ideal for cgi scripts
+permafrost thaw produces both co2 and methane in ways that are difficult to model creating significant uncertainty in carbon cycle predictions
+phil zimmermann faced a three year criminal investigation by the us government after releasing pgp encryption in 1991 the case was dropped when encryption export laws relaxed
+phonograph commercially practical incandescent light bulb etc
+php originally stood for personal home page creator rasmus lerdorf built it to track visits to his online resume in 1993
+pirahã has no words for specific numbers only terms meaning roughly small amount and larger amount challenging theories about universal grammar
+pirahã requires speakers to mark every statement with evidentiality suffixes you must indicate whether you saw something yourself heard about it or deduced it
+pirahã spoken by about 300 people in the amazon may have as few as 10 13 phonemes one of the simplest sound systems of any language
+pirahã women use fewer consonants than men they sometimes substitute h for s giving them potentially only 9 phonemes
+pituamkek national park reserve canada s newest national park protects a chain of barrier islands that have been used for fishing and hunting by the mi kmaq for 4 000 years
+plant roots can sense gravity using starch filled amyloplasts that fall in the direction of gravitational pull allowing roots to grow downward
+plants can detect vibrations caused by caterpillars chewing and respond by increasing production of defensive chemicals like glucosinolates
+plants can provide up to 30 of the carbon they fix through photosynthesis to their mycorrhizal fungal partners in exchange for nitrogen and phosphorus
+plants can sense and respond to at least 15 different environmental stimuli including light gravity touch temperature chemicals moisture infections and sound
+plants can transmit electrical signals throughout their bodies using action potentials affecting processes like photosynthesis flowering and wound responses
+plants have internal circadian clocks synchronized with solar time allowing them to track day length and determine the season which controls flowering time photoperiodism
+plants produce caffeine partly as a natural pesticide it protects them from herbivores and prevents the germination of nearby competing seeds
+plants produce neurotransmitter like molecules including glutamate gaba acetylcholine melatonin and serotonin usually associated with animal nervous systems
+platypuses close their eyes ears and nose when underwater and use electroreception to hunt
+polar bear fur is actually transparent not white it appears white because it reflects visible light
+polar bears have black skin under their white fur to absorb heat
+polar bears in some populations are getting fatter surprising scientists who expected climate change to reduce their food sources
+polish mathematician marian rejewski broke the german enigma cipher in 1932 using only mathematics and limited documentation david kahn called it one of the great achievements of cryptology
+port martin antarctica experienced the fastest daily average wind speed 174 km h 108 mph on march 21 22 1951
+positive lightning is responsible for triggering sprites in the upper atmosphere and can propagate through clear air as bolts from the blue
+positive lightning tends to occur more frequently in winter storms during intense tornadoes and in the dissipation stage of thunderstorms
+positive lightning which makes up less than 5 of all strikes can produce peak currents up to 400 000 amperes more than 10 times stronger than typical negative lightning
+postgresql originally called postgres has been in development since 1986 at uc berkeley it s known for standards compliance and extensibility
+practical numerical weather prediction didn t begin until 1955 because earlier attempts failed due to the enormous computational requirements
+president trump signed an executive order in march 2025 to establish a strategic bitcoin reserve for the united states
+prompt engineering became a valued skill in 2022 2023 carefully crafted prompts can dramatically improve ai model outputs without any retraining
+public key cryptography was secretly developed at gchq by james ellis clifford cocks and malcolm williamson in 1973 74 years before diffie hellman published their discovery in 1976
+python includes tcl in its distribution to support gui programming through tkinter a case of one language embedding another for practical reasons
+python was named after monty python not the snake guido van rossum was reading scripts from monty python s flying circus while developing it
+quantum key distribution allows perfectly secure communication any eavesdropper disturbs the quantum states making their presence detectable
+queen anne pool opened to the public one day late after a thermostat glitch accidentally heated the pool to 100 f 38 c
+quicksort s average o n log n performance is often faster in practice than other o n log n algorithms due to its cache friendly memory access patterns
+quicksort s worst case is o n² but its average case o n log n with excellent cache performance makes it the default sorting algorithm in many libraries
+quillagua chile is the driest place on earth receiving less than 0 2 mm of rainfall per year less than an eyelash width
+quines are programs that output their own source code without reading themselves they exist in virtually every programming language
+qurayyat oman recorded the highest minimum temperature for a 24 hour period at 42 6 c 108 7 f on june 25 2018 meaning it never got cooler than that all day
+radix sort can sort n numbers with k digits in o n k time faster than comparison sorts when k is small which is why it s used for sorting integers
+ram loses all data when power is removed volatile memory this is why you lose unsaved work when your computer crashes
+ravens are so intelligent they will pretend to hide food in one place while actually hiding it in another if they know another raven is watching them
+ravens can hold grudges for weeks against other ravens who treated them unfairly but will respond in a friendly way to birds they liked for at least three years
+ravens have pushed rocks on people to keep them from climbing to their nests played dead beside beaver carcasses to scare other ravens away and stolen packaged meats from costco customers shopping carts
+ravens in alaska and canada have been observed using snow covered roofs as slides and in maine they ve been seen rolling down snowy hills for fun
+ravens make toys a rare animal behavior using sticks pinecones golf balls or rocks to play with each other or by themselves
+ravens show empathy when a raven s friend loses a fight they console the losing bird
+ravens use hand gestures to communicate they point with their beaks to indicate objects to other birds and hold up objects to get attention the first time researchers observed naturally occurring gestures in any non primate animal
+redis created in 2009 keeps all data in memory for sub millisecond latency its name comes from remote dictionary server
+regular expressions were invented by mathematician stephen kleene in 1951 ken thompson implemented them in the ed text editor and they spread throughout unix
+reindeer are the only deer species where both males and females grow antlers
+reinforcement learning from human feedback rlhf was key to making chatgpt helpful and safe it uses human preferences to fine tune the model s behavior
+relative humidity is decreasing over land even as absolute humidity increases because land is warming faster than the ocean
+representing a 100 qubit quantum system classically requires storing 2 100 values more than the number of atoms in the observable universe
+research using machine learning offers a new way by amirali aghazadeh published 3 january 26 search for life more about space exploration rocket launch today is there a rocket launch and what time
+researchers have suggested fat taste oleogustus as a sixth basic taste detected when fatty acids are present in food
+residents reported the first cycling club in washington d c to the police over concerns that bicycles posed a danger to pedestrians
+resnet 2015 introduced skip connections that allow training of networks with 152 layers before this very deep networks couldn t be trained effectively
+return oriented programming rop chains together existing code snippets to bypass non executable memory protections making buffer overflow exploitation more sophisticated
+rfc 1 host software was written by steve crocker on april 7 1969 the request for comments process he initiated is still used today for internet standards
+rho cassiopeiae is a yellow hypergiant star 40 times the mass of our sun that pulses irregularly changing brightness dramatically
+rice s theorem generalizes the halting problem no algorithm can decide any non trivial property about the behavior of arbitrary programs
+richard feynman proposed quantum computers in 1982 suggesting that simulating quantum physics requires quantum hardware classical simulation grows exponentially slower
+richard stallman opposes open source terminology preferring free software he fears it compromises the ideals of software freedom
+ronald rivest designed md5 in 1991 specifically to replace md4 after weaknesses were found yet md5 itself was broken just 13 years later in 2004
+rossby waves can help form new tropical cyclones by transferring energy from existing mature storms
+rsa encryption was secretly invented at gchq by clifford cocks in 1973 four years before rivest shamir and adleman published their discovery the british work remained classified until 1997
+rsa was patented by mit in 1983 but released to the public domain in september 2000 just two weeks before the patent would have expired
+ruby s creator yukihiro matsumoto wanted a language more powerful than perl and more object oriented than python ruby was released in 1995
+rule 110 a simple one dimensional cellular automaton was proven turing complete in 2004 one of the simplest known turing complete systems
+russian cosmonauts used to pack a shotgun in case they landed in siberia for protection against bears
+rust was designed to prevent memory corruption bugs that plague c and c it guarantees memory safety without garbage collection through its ownership system
+saltiness taste has two components a low salt signal that causes pleasure and a high salt signal that creates the sensation of too salty
+san francisco can have temperature differences of up to 30 f 17 c between the foggy coastal areas and the downtown heat island just miles apart
+sanskrit linguists like pāṇini c 520 460 bce developed sophisticated grammatical analysis thousands of years before modern linguistics
+sarracenia flava pitcher plants lace their nectar with coniine a toxic alkaloid also found in hemlock to intoxicate prey and increase trapping efficiency
+saw mill circular saw victor babeș 1854 1926 romania babesia the founder of serum therapy leo baekeland 1863 1944 belgian american velox photographic paper and bakelite ralph h
+scottish physicist c t r wilson predicted in the 1920s that electrical breakdown should occur high above thunderstorms sprites weren t visually confirmed until 1989
+self attention in transformers has o n² complexity with sequence length limiting context windows until techniques like sparse attention emerged
+sha 0 was withdrawn by the nsa shortly after publication in 1993 due to an undisclosed flaw sha 1 differs only by a single bitwise rotation in the compression function
+sha 1 was broken in 2017 by google and cwi amsterdam who produced two different pdf files with the same hash requiring 9 quintillion calculations equivalent to 6 500 years of single cpu time
+ship contrails in the ocean have been found to slightly influence lightning frequency as the water vapor from ships can affect the atmosphere s electrical conductivity
+shor s algorithm 1994 can factor large integers exponentially faster than classical computers breaking rsa and diffie hellman encryption if large scale quantum computers are built
+sign languages are full natural languages with their own grammar and syntax they are not simply signed versions of spoken languages
+silbo gomero a whistled language in the canary islands can transmit spanish messages up to 5 10 kilometers across mountain valleys
+silk road the dark web marketplace transacted 9 9 million btc 214 million exclusively in bitcoin during its 30 month existence starting february 2011
+small tropical cyclones are more prone to rapid intensification than larger ones which makes them particularly dangerous because they re harder to forecast
+snow fell as far south as tampico mexico 22 n latitude in february 1895 during the great freeze the lowest latitude sea level snow in north american history
+software bugs cost the us economy an estimated 59 billion annually 0 6 of gdp according to a 2002 nist study
+some pygmy sundews are so dependent on insect nitrogen that they lack nitrate reductase enzymes making them unable to use nitrogen from soil
+some terms that were listed as commonly used were herd flock school and swarm
+sorting small arrays optimally fewest comparisons and swaps remains an open research problem solutions are only known for arrays smaller than 20 elements
+south atlantic tropical cyclones are extremely rare because of consistently strong wind shear and a weak intertropical convergence zone
+space has a distinct smell astronauts describe it as a bouquet of diesel fumes gunpowder and barbecue mostly produced by dying stars
+space nasa launches pandora telescope taking jwst s search for habitable worlds to a new level exoplanets strange discovery offers missing link in planet formation space is there anything below earth in space
+space news features and articles space is a seemingly infinite world of wonder and discovery filled with mysterious black holes stunning solar flares elusive exoplanets and countless cosmic oddities
+spanish embarazada means pregnant not embarrassed one of the most notorious false friends between english and spanish
+spectre and meltdown 2018 exploited cpu speculative execution hardware optimizations that had been used for 20 years suddenly became security vulnerabilities
+spiders have tiny claws at the end of their legs that help them climb
+spiders world s biggest spiderweb discovered inside sulfur cave with 111 000 arachnids living in pitch black archaeology 10 things we learned about our human ancestors in 2025 dinosaurs t
+sprites are massive electrical discharges that occur 50 90 km above thunderstorms colored reddish orange and were named after shakespeare s mischievous spirits
+sqlite is the most deployed database engine in the world it s embedded in every smartphone browser and countless applications
+ssds have no moving parts and can read data 100x faster than hdds but they have limited write cycles before cells wear out
+ssl tls the encryption behind https was created by netscape in 1994 the name was changed to tls partly to avoid netscape s trademark
+st elmo s fire and ball lightning are distinct phenomena though they are often mistakenly identified as each other
+stable diffusion 2022 can generate images from text descriptions and runs on consumer gpus democratizing generative ai that previously required massive compute
+stack canaries detect buffer overflows by placing a random value before the return address if it s overwritten the program terminates safely
+stack overflow launched in 2008 and quickly became the de facto q a site for programmers by 2021 it had 21 million questions and 31 million answers
+steam for linux had a bug where moving the installation directory could cause rm rf steamroot to delete the entire root filesystem when steamroot became an empty string
+step potentials from lightning voltage differences along the ground surface kill more people in groups than direct strikes
+steve jobs bought next then apple acquired next in 1996 nextstep became the foundation for mac os x now macos and ios
+stratocumulus clouds form when limited convection meets a temperature inversion layer that caps vertical development
+studies show chihuahuas are one of the most aggressive dog breeds toward both humans and other dogs despite their tiny size they compensate with fierceness
+stuxnet 2010 was the first known cyberweapon to cause physical damage it destroyed about 1 000 iranian nuclear centrifuges by making them spin out of control
+submariners in world war ii reported frequent ball lightning when battery banks were switched due to the highly inductive electrical motors
+subnormal numbers in ieee 754 fill the gap between zero and the smallest normal number preventing sudden flush to zero underflow
+sumerian spoken in ancient mesopotamia until around 1800 bc remains a language isolate despite being one of the best documented ancient languages
+sunflowers exhibit heliotropism following the sun across the sky during the day by differential growth on opposite sides of the stem
+surströmming swedish fermented herring is so pungent that it s usually opened outdoors and some airlines have banned it due to the risk of pressurized cans exploding
+svante arrhenius calculated in 1896 that doubling atmospheric co2 would increase global temperatures by 5 6 c remarkably close to modern estimates
+sweetness helps identify energy rich foods while bitterness serves as a warning system for potential poisons
+swift was developed in secret at apple for 4 years before being announced in 2014 it was designed to eventually replace objective c
+tall fescue grass harbors endophytic fungi neotyphodium that produce alkaloids toxic to herbivores protecting both grass and fungus
+tamarack california received 9 91 meters 390 inches of snow in january 1911 alone leading to a snow depth of 11 46 meters 451 inches by march
+taste perception begins to fade during aging as tongue papillae are lost and saliva production decreases
+tcp ip was installed on arpanet in january 1983 after the dod made it standard for all military networking this date is often called the birthday of the internet
+telephone nikolay benardos 1842 1905 russian empire arc welding specifically carbon arc welding the first arc welding method ruth r
+ten warning centers worldwide are designated by the world meteorological organization to issue tropical cyclone advisories for their regions
+test driven development tdd was rediscovered by kent beck in 2003 he found references to similar practices in ancient ibm manuals from the 1960s
+the 18 month doubling period often cited for moore s law was actually intel executive david house s prediction about chip performance not transistor count
+the 1815 eruption of mount tambora caused the year without a summer in 1816 leading to crop failures famines and disease outbreaks worldwide
+the 1827 novel a voyage to the moon contains the first use of anti gravity for space travel in science fiction
+the 1974 super outbreak produced 7 f5 tornadoes in a single outbreak the most f5 tornadoes in recorded history
+the 1988 morris worm cost an estimated 10 100 million in damages its creator robert morris was the first person convicted under the computer fraud and abuse act
+the 1991 eruption of mount pinatubo lowered global temperatures by about 0 5 c for up to three years due to sulfuric acid aerosols in the stratosphere
+the 20 most common languages are spoken by 50 of the world s population while most languages have fewer than 10 000 speakers
+the 2003 northeast blackout affecting 55 million people was triggered by a race condition in general electric s xa 21 monitoring software that allowed a local outage to cascade
+the 2004 nature paper suggests the current interglacial may be most analogous to one that lasted 28 000 years
+the 2008 jacobson v katzer case established that open source license terms are legally enforceable under copyright law a precedent for all oss licenses
+the 2011 super outbreak produced 207 confirmed tornadoes in a single 24 hour period on april 27 2011 including 4 rated ef5
+the 2014 scientific recording of natural ball lightning on the tibetan plateau detected silicon calcium iron nitrogen and oxygen in its emission spectrum
+the 3 state busy beaver turing machine writes 6 ones before halting finding the maximum for 5 states is an open problem worth more computational effort than the entire history of computing
+the 4 000 year old ravenswood standing stone now lies in a cul de sac in a 1970s scottish housing estate
+the a algorithm 1968 finds optimal paths in graphs it s used in game pathfinding gps navigation and robotic motion planning
+the adoration of the magi in the snow recently re dated is now known to be the earliest of bruegel s snow paintings
+the advanced tactical fighter program resulted in the f 22 raptor
+the african easterly jet contributes to cyclone formation in the atlantic by creating areas of atmospheric instability
+the aha seminal paper in research computing was published by john mccarthy in 1960 coining the term artificial intelligence and introducing time sharing
+the amazon river releases 20 of all fresh water that flows into the world s oceans
+the ancient chihuahua breed techichi was kept as lap dogs by toltecs in mexico as early as the 9th century ce the breed later shrunk after being crossed with smaller hairless dogs from asia
+the ancient roman fish sauce garum was rich in glutamate making it one of the earliest umami boosting condiments in western cuisine
+the antarctic ice sheet began forming about 34 million years ago while the arctic ice cap didn t form until about 2 58 million years ago
+the apollo 12 rocket was struck by lightning shortly after takeoff because the rocket s exhaust plume created a conductive pathway through the atmosphere
+the apple m1 chip 2020 marked apple s transition from intel to custom arm processors it outperformed many intel chips while using far less power
+the arctic has warmed nearly four times faster than the global average since 1979 largely due to ice albedo feedback
+the ascii code for a is 65 and a is 97 differing by exactly 32 which is why case conversion is just a single bit flip
+the atlantic multidecadal oscillation has a period of 55 70 years and affects hurricane frequency and intensity rainfall and droughts
+the attention mechanism key to modern transformers like gpt was introduced in 2014 allowing neural networks to focus on relevant parts of input sequences
+the australian light weight air warning radar was once loaded using canoes and later manhandled up a 200 foot cliff
+the azolla event 49 million years ago 800 000 years of arctic fern blooms reversed global warming by pulling co2 from the atmosphere
+the beaufort wind scale was developed by francis beaufort who also helped establish 200 weather recording stations at british coast guard stations
+the best known source of many english words used for collective groupings of animals is the book of saint albans an essay on hunting published in 1486 and attributed to juliana berners
+the big island of hawaii has microclimates so extreme that kailua kona receives 18 inches of rain per year while hilo just 60 miles away receives 127 inches
+the billion dollar mistake is tony hoare s name for inventing null references in 1965 i couldn t resist the temptation to put in a null reference simply because it was so easy to implement
+the binary search algorithm was first published in 1946 but the first correct implementation wasn t published until 1962 a testament to how hard simple algorithms can be
+the blocks world paradigm ai programs manipulating colored blocks on a surface dominated mit ai research in the 1960s 70s as a simplified model for understanding intelligence
+the boeing 787 dreamliner has a bug where all electrical generators shut down if the aircraft is kept on for more than 248 days continuously caused by an integer overflow
+the borders of the yellow river delta national nature reserve were drawn to minimize impact on the shengli oil field
+the brightest most massive and most luminous object among those 131 is sirius a which is also the brightest star in earth s night sky its white dwarf companion sirius b is the hottest object among them
+the british army s submarine mining service defended ports and harbours with naval mines and torpedoes
+the british post office scandal 2000 2015 saw 736 subpostmasters prosecuted for financial shortfalls actually caused by bugs in the horizon accounting software many were falsely imprisoned
+the c programming language 1972 was developed by dennis ritchie and ken thompson specifically to rewrite unix enabling the operating system to be portable across different hardware
+the cap theorem 2000 proves distributed systems can only guarantee 2 of 3 properties consistency availability and partition tolerance
+the carbon cycle absorbs more than half of co2 emissions every year into plants and the ocean but this percentage will decrease as carbon sinks become saturated
+the carboniferous rainforest collapse 300 million years ago was caused by climate change that devastated tropical rainforests across europe and america
+the center squeeze voting phenomenon has been blamed for costing gary johnson the 2016 us presidential election
+the chicxulub asteroid impact 66 million years ago caused global temperatures to drop by up to 26 c and produced sub freezing temperatures for 3 16 years
+the chori language of nigeria distinguishes six different tone levels the most ever documented in any language
+the church turing thesis states that turing machines lambda calculus and similar formalisms capture the full notion of effective computation anything computable can be computed by a turing machine
+the clausius clapeyron relation predicts approximately 7 more water vapor in the atmosphere for every 1 c of warming
+the closest encounter to the sun so far predicted is the low mass orange dwarf star gliese 710 hip 89825 with roughly 60 the mass of the sun
+the closest system is alpha centauri with proxima centauri as the closest star in that system at 4 2465 light years from earth
+the closing of the isthmus of panama about 3 million years ago may have triggered strong glaciation in north america by changing ocean circulation patterns
+the cognitive revolution began in 1956 when ai researchers chomsky s generative grammar and miller s magical number seven paper converged at mit
+the coldest average monthly temperature in the northern hemisphere was 56 7 c 70 1 f at verkhoyansk russia in january 1892
+the coldest summer temperature ever recorded was 33 c 27 4 f at summit camp greenland on july 4 2017
+the coldest temperature ever recorded in the tropics was 25 2 c 13 4 f at mazocruz peru on june 30 1966
+the combined change in all sea ice cover between 1992 and 2018 created a warming effect equivalent to 10 of all human greenhouse gas emissions
+the comet c 1975 t2 suzuki saigusa mori was independently discovered by five observers within the span of half an hour
+the compound 2 acetyl 1 pyrroline produced by the maillard reaction gives jasmine rice and the herb pandan their distinctive aromas with an odor threshold below 0 06 nanograms per liter
+the cupola of homer house is part of a 19th century cooling system
+the current interglacial period the holocene began about 11 700 years ago and without human influence the next glacial period would likely begin at least 50 000 years from now
+the curry howard correspondence shows that proofs are programs and propositions are types connecting logic and computation at a fundamental level
+the dao hack in 2016 exploited a recursive call vulnerability to steal 3 6 million ether 50 million about a third of all funds committed to the project
+the deadliest tornado in history killed approximately 1 300 people in manikganj district bangladesh on april 26 1989
+the debian openssl bug 2006 2008 made random number generation predictable compromising every key generated over 2 years including ssl certificates and ssh keys
+the deepest snowfall ever recorded was 11 82 meters 38 8 feet on mount ibuki japan on february 14 1927
+the depth value is measured from the highest to the lowest accessible cave point
+the dielectric strength of moist air is about 3 mv m when the local electric field exceeds this lightning discharge occurs
+the discovery of a coffin belonging to ahhotep i which had been reused to bury a high priest ignited a debate among scholars over the true number of egyptian queens named ahhotep
+the discrete cosine transform dct invented in 1974 is the foundation for jpeg mp3 and most video codecs perhaps the most widely used lossy compression technique
+the dragon cartel a cooperation of chinese triads and mexican cartels poach fish maw in the gulf of california and smuggle it to china
+the driest place on earth is the atacama desert in chile where some areas haven t seen rain in 400 years
+the earliest archaeological evidence of fermentation is 13 000 year old residues of a beer with the consistency of gruel found in a cave near haifa israel
+the earliest known reference to ball lightning dates to 1195 when monk gervase of canterbury described a marvellous sign of a spherical fiery object near london
+the earliest known use of cryptography dates to 1900 bc non standard hieroglyphs carved into an egyptian tomb though likely for intrigue rather than secrecy
+the earliest surviving silk scroll painting from gangwon province was found in an attic in hopkinton new hampshire
+the el niño southern oscillation enso is a self sustaining climate oscillation that occurs every 2 7 years with el niño lasting 9 months to 2 years
+the electrification of the midland main line was designated as a high priority in 1981 but work to electrify the northern part did not begin until more than 30 years later
+the end to end principle making hosts responsible for reliability rather than the network was pioneered by the french cyclades project and adopted by tcp ip
+the english word bead originally meant prayer it got its modern meaning from counting prayers with small strung objects
+the eniac 1945 used 17 468 vacuum tubes weighed 30 tons and consumed 150 kilowatts a modern smartphone is millions of times more powerful
+the entire original unix distribution fit on a single magnetic tape and occupied less than 10 mb including all source code binaries and documentation
+the equifax breach 2017 exposed personal data of 147 million people caused by failing to patch a known apache struts vulnerability for months
+the european centre for medium range weather forecasts model runs predictions 10 days into the future while the global forecast system runs 16 days ahead
+the evolution of land plants at the start of the devonian period increased oxygen and reduced co2 leading to the late paleozoic ice house
+the existence of the greenhouse effect was proposed by joseph fourier in 1824 before the term greenhouse effect was coined by nils ekholm in 1901
+the fast fourier transform fft rediscovered by cooley and tukey in 1965 reduced spectral analysis from o n² to o n log n enabling digital signal processing
+the fastest non tornadic wind speed ever recorded was 408 km h 254 mph during severe tropical cyclone olivia on barrow island australia on april 10 1996
+the fastest temperature drop in 2 minutes was 15 c 27 f at sydney airport australia on january 23 2010 falling from 41 c to 26 c
+the fastest wind speed in a tornado was calculated at 516 6 km h 321 mph during the 1999 bridge creek moore tornado in oklahoma
+the fbi seized about 30 000 btc from silk road in october 2013 after arresting founder ross ulbricht marking one of the largest government cryptocurrency seizures
+the field of ai research was officially founded at the dartmouth workshop in 1956 attendees included minsky mccarthy shannon and others who would lead ai for decades
+the fingerprints of a chimpanzee and a human are almost indistinguishable
+the fingerprints of a koala are so indistinguishable from humans that they have confused police at crime scenes
+the first ai winter 1974 1980 began when promised results failed to materialize darpa s funding was cut after the british lighthill report criticized ai research as overhyped
+the first bitcoin transaction for goods was 10 000 btc for two papa john s pizzas on may 22 2010 now celebrated annually as bitcoin pizza day
+the first computer bug was an actual bug a moth found trapped in harvard s mark ii computer relay on september 9 1947 which was taped into the logbook with the note first actual case of bug being found
+the first computerized weather forecast was performed in 1950 by a team including john von neumann using the eniac computer
+the first daily weather forecasts were published in the times on august 1 1861 by robert fitzroy who also coined the term weather forecast
+the first dogs in space dezik and tsygan returned to earth with a parachute
+the first emoji were created by shigetaka kurita for a japanese mobile carrier in 1999 the original set had only 176 characters
+the first gale warning service began in february 1861 when robert fitzroy used telegraph communications to warn ships of approaching storms
+the first high level programming language was plankalkül created by konrad zuse between 1942 1945 but it wasn t actually implemented until 1998 as a historical exercise
+the first international arpanet connections were made in 1973 to norway and the uk via satellite link to peter kirstein s group at university college london
+the first message sent over arpanet was lo on october 29 1969 the system crashed before ucla could finish typing login to stanford
+the first network to implement packet switching was the npl network in britain in early 1969 months before arpanet s first message
+the first neural network machine snarc was built in 1951 by marvin minsky and dean edmonds when minsky was a 24 year old graduate student
+the first silver dollars of the republic of china were crudely designed mementos
+the first unix source license was sold for just 150 to universities this low price fueled its rapid adoption in academic circles
+the first version control system was sccs 1972 at bell labs modern distributed systems like git weren t widely adopted until the 2010s
+the first weather map was produced in 1820 by heinrich wilhelm brandes who plotted past weather observations on maps to understand storm patterns
+the first weather radio broadcast in the us was made in 1925 by edward b rideout on weei the edison electric illuminating station in boston
+the first web server ran on a next computer at cern berners lee wrote both the browser called worldwideweb and server by the end of 1990
+the flame malware 2012 exploited md5 weaknesses to forge a microsoft digital signature making malware appear to be legitimate windows updates
+the formation of the antarctic circumpolar current enabled by continental drift creating a gap around antarctica keeps warm waters away from the continent
+the four color theorem 1976 was the first major theorem proven with computer assistance mathematicians initially rejected it because humans couldn t verify the proof by hand
+the free universal construction kit connects ten otherwise incompatible children s construction toys
+the freighters james h reed and frank e vigor sank in separate collisions on lake erie on the same day
+the french physicist edme mariotte discovered the same law independently of boyle in 1676
+the fujiwhara effect causes two nearby tropical cyclones to orbit each other with the weaker one often dissipating
+the general sherman tree a giant sequoia is the largest tree by volume at 1 487 cubic meters 52 500 cubic feet of wood
+the german poet goethe was so impressed by luke howard s cloud classification that he composed four poems dedicated to howard
+the german word gift means poison a classic false friend that has confused many english speakers
+the gets function in c has no way to limit input size it was so dangerous that it was removed from the c11 standard entirely
+the global rate of transient luminous events is estimated at several million per year based on formosat 2 satellite observations
+the gnu project started by richard stallman in 1983 created compilers editors and utilities for a free unix but its kernel gnu hurd was never completed which is why linux filled that gap
+the great cipher used by king louis xiv remained unbroken for over 200 years 1690 1890 finally cracked by french military cryptanalyst étienne bazeries
+the great thunderstorm at widecombe in the moor church in 1638 killed 4 people when an 8 foot ball of fire reportedly struck and entered the church
+the great vowel shift 1400s 1600s completely transformed english pronunciation which is why english spelling is so notoriously inconsistent with its sounds
+the great wall of china is not visible from space with the naked eye despite popular belief
+the greatest 24 hour temperature increase was 57 c 102 6 f at loma montana on january 15 1972 rising from 48 c to 9 c
+the greatest temperature change in two minutes was 27 c 49 f from 20 c to 7 c recorded in spearfish south dakota on january 22 1943
+the gut microbiome contains about 100 times as many genes as the human genome
+the halting problem proved undecidable by alan turing in 1936 shows it s mathematically impossible to create an algorithm that can determine whether any arbitrary program will eventually finish running
+the heaviest hailstone officially recorded weighed 1 02 kg 2 25 pounds and fell in gopalganj district bangladesh on april 14 1986
+the highest air pressure ever recorded above 750 meters was 1084 8 hpa at tosontsengel mongolia on december 19 2001
+the highest dew point temperature ever recorded was 35 c 95 f at dhahran saudi arabia on july 8 2003 resulting in a heat index of 81 1 c 178 f
+the highest temperature at 100 relative humidity was 34 c 93 f at jask iran on july 21 2012
+the highest temperature north of the arctic circle was 38 0 c 100 4 f recorded at verkhoyansk russia on june 20 2020
+the highest uv index ever measured was 43 3 at bolivia s licancabur volcano at 5 920 meters elevation on december 29 2003 light skinned individuals could experience moderate sunburn in as little as 4 minutes
+the himalayas may be a major factor in the current ice age because their uplift increased rainfall and the rate at which co2 is washed from the atmosphere through weathering
+the human gut contains 10 000 to 100 000 billion bacteria roughly equal to the number of human cells in the body
+the huronian glaciation 2 4 2 1 billion years ago was caused by the great oxygenation event which eliminated atmospheric methane a powerful greenhouse gas
+the ice age theory was initially rejected geologist jean de charpentier called perraudin s glacier hypothesis so extraordinary and even so extravagant
+the ice age theory wasn t fully accepted internationally until the late 1870s after james croll published climate and time explaining the causes
+the ieee and acm turing award is considered the nobel prize of computing winners receive 1 million funded by google since 2014
+the indian emperor jahangir commissioned a painting depicting his superiority over his rival the shah of iran
+the indonesian pulp and paper industry collectively controls over 10 million hectares of land
+the intel 4004 the first commercial microprocessor 1971 had 2 300 transistors and ran at 740 khz modern chips have billions of transistors at ghz speeds
+the international cloud atlas first published in 1896 standardized cloud vocabulary and classification worldwide
+the international obfuscated c code contest ioccc has celebrated creative abuse of the c language since 1984 winning entries are deliberately unreadable
+the internet archive s wayback machine has archived over 835 billion web pages since 1996 preserving the history of the ephemeral web
+the internet transmitted only 1 of telecommunicated information in 1993 but 51 by 2000 and over 97 by 2007 a complete takeover in just 14 years
+the italian campaign of 1796 1797 demonstrated that napoleon was a great strategist
+the labor day hurricane of 1935 made landfall in florida with the lowest pressure ever recorded on us land 892 hpa 26 35 inhg
+the lapse rate feedback is a negative feedback globally but becomes positive in polar regions contributing significantly to arctic amplification
+the largest ddos attack recorded exceeded 3 47 tbps in 2022 equivalent to streaming about 2 million hd movies simultaneously
+the largest hailstone by diameter was 20 cm 8 inches and fell in vivian south dakota on july 23 2010
+the latin alphabet descended from phoenician through greek is now the most common writing system in the world
+the local bubble also contains the neighboring g cloud which contains the stars alpha centauri and altair
+the local interstellar cloud is in turn contained inside the local bubble a cavity in the interstellar medium about 300 light years 92 0 pc across
+the lockheed sr 71 blackbird reached speeds of 3 530 km h mach 3 3 making it the fastest air breathing manned aircraft ever built
+the logic theorist 1955 proved 38 of the first 52 theorems in russell and whitehead s principia mathematica finding new more elegant proofs for some
+the logjam attack 2015 showed that cracking 1024 bit diffie hellman would cost about 100 million well within the budget of a major intelligence agency like the nsa
+the longest duration single lightning flash lasted 17 1 seconds over uruguay and argentina on june 18 2020
+the longest lightning bolt ever recorded stretched 829 km 515 miles across texas and oklahoma on october 22 2017
+the longest place name in the world has 85 letters and is a hill in new zealand
+the longest place name in the world is taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu in new zealand
+the longest river in the world is the nile at approximately 6 650 km 4 130 miles
+the longest word in a major english dictionary is pneumonoultramicroscopicsilicovolcanoconiosis 45 letters a lung disease from volcanic dust
+the lowest temperature ever recorded on earth was 89 2 c 128 6 f at vostok station antarctica on july 21 1983
+the lowest temperature in the northern hemisphere was 69 6 c 93 3 f on the greenland ice sheet on december 22 1991
+the lut desert in iran recorded the highest natural ground surface temperature ever measured by satellite 70 7 c 159 3 f in 2005
+the madden julian oscillation is an eastward moving pattern of increased tropical rainfall with a period of 30 60 days primarily over the indian and pacific oceans
+the maillard reaction can produce hundreds of different flavor compounds depending on the food s chemical constituents temperature cooking time and presence of air
+the maillard reaction even occurs in archaeology it s responsible for the tanning of bog bodies preserved in peat turning skin brown and hair red over centuries
+the maillard reaction even occurs when champagne ages in the bottle contributing to its complex flavor profile
+the maillard reaction is accelerated in alkaline environments which is why lye is applied to pretzels to darken them
+the maillard reaction typically proceeds rapidly between 140 to 165 c 280 to 330 f which is why many recipes call for oven temperatures in this range
+the maillard reaction which gives browned food its distinctive flavor was first described by french chemist louis camille maillard in 1912 while he was attempting to reproduce biological protein synthesis
+the main cemetery of mainz was established in 1803 and became the model for the cimetière du père lachaise in paris
+the main charging area in a thunderstorm occurs where temperatures range from 15 c to 25 c and contains a mixture of supercooled water droplets ice crystals and graupel
+the mars climate orbiter was destroyed in 1999 because one team used metric units newtons while another used imperial units pound force for thrust calculations
+the mars pathfinder mission 1997 nearly failed due to priority inversion a low priority task held a resource needed by a high priority task causing repeated resets
+the mars polar lander crashed in 1999 because its software misinterpreted leg deployment vibrations as evidence of landing shutting off the engines 40 meters above the surface
+the median duration of a lightning flash is 0 52 seconds composed of multiple strokes lasting 60 70 microseconds each
+the median software project spends 17 20 of development effort on bug fixing according to studies from 1978 and 2020
+the mediterranean diet rich in vegetables and fiber stimulates the growth of beneficial bacteria that may help brain health
+the mimosa pudica sensitive plant rapidly folds its leaves in response to touch generating electrical signals similar to action potentials in animal neurons
+the mingxing film company released more than 150 films in 16 years but most are now lost
+the morris worm of 1988 the first major internet worm exploited a buffer overflow in the fingerd service affecting about 6 000 computers 10 of the internet
+the most rainfall in one minute was 38 mm 1 5 inches at barot guadeloupe on november 26 1970
+the natural ball lightning recorded in 2012 traveled at 8 6 m s had a diameter of 5 meters and showed oscillations at 100 hz possibly from nearby power lines
+the new caledonian crow is one of only two species that can craft hooks in the wild the other is homo sapiens they bend pliable twigs into j shapes to extract insects from tight crevices
+the niederdollendorf stone the grésin plaque and the landelinus buckle are each controversially conjectured to depict a pagan inspired jesus christ
+the northwest pacific sees tropical cyclones year round making it the most active basin with an average of 26 storms per year
+the nsfnet backbone was decommissioned in 1995 removing the last restrictions on commercial internet traffic ending the era of government funded networks
+the oldest evidence of winemaking dates to around 6000 bc in georgia in the caucasus region
+the oldest known living land animal is jonathan a tortoise who is over 190 years old
+the oldest verified living tree is methuselah a great basin bristlecone pine pinus longaeva in california aged 4 857 years
+the one time pad is the only mathematically proven unbreakable encryption yet the soviet union s venona project was cracked because they reused key material
+the only letter that doesn t appear in any u s state name is q
+the opening of the empire brunei was timed to help create hotel capacity in brunei for an apec summit
+the p vs np problem carries a 1 million prize and is considered the most important open problem in computer science solving it would either revolutionize cryptography or prove certain problems are fundamentally hard
+the paleocene eocene thermal maximum 55 million years ago was terminated by flourishing marine phytoplankton that absorbed atmospheric co2
+the patriot missile system failed to intercept an iraqi scud missile in 1991 killing 28 american soldiers because its clock drifted by 0 34 seconds after 100 hours of operation
+the perceptron 1958 could learn to classify patterns but minsky and papert s 1969 book showed it couldn t learn xor effectively killing neural network research for a decade
+the planck response how thermal radiation increases as objects warm is the most fundamental feedback in the climate system and prevents runaway warming
+the pointed lightning rod conductor bifocal glasses the franklin stove the glass harmonica herman frasch 1851 1914 germany u s
+the quasi biennial oscillation causes dominant stratospheric winds around the equator to switch from easterly to westerly and back every 28 months
+the return stroke of lightning travels at up to one third the speed of light approximately 100 000 km s
+the rosetta code wiki documents solutions to programming tasks in hundreds of languages revealing both similarities and fascinating differences between languages
+the rsa algorithm was conceived after a passover dinner in april 1977 rivest returned home drunk couldn t sleep and formalized the algorithm by daybreak
+the scaling laws for neural networks suggest performance improves predictably with more data parameters and compute driving the race for larger models
+the science of fermentation is called zymology or zymurgy from the greek word for leaven
+the secrets of snow leopard mating season animals the secrets of snow leopard mating season the secrets of snow leopard mating season these plump polar bears surprised scientists animals these plump polar bears surprised scientists these plump polar bears surprised scientists read is cbd good for your dog
+the sight of a dead crow attracts a mob of 100 live crows for what scientists call a funeral but the birds almost never touch the dead one and seem hesitant to revisit spots where they encountered deceased crows
+the sinking of the royal charter in october 1859 killing over 450 people directly motivated robert fitzroy to establish modern weather forecasting
+the skin effect causes lightning current to travel on the surface of conductors which is why multi stranded wires work better for lightning protection
+the smallest bitcoin unit a satoshi sat is 1 100 000 000 of a bitcoin named after the mysterious creator satoshi nakamoto
+the society for the protection of underground networks spun released the first high resolution map of earth s mycorrhizal networks in 2025 revealing 90 remain unprotected
+the solar system and the other stars dwarfs listed here are currently moving within or near the local interstellar cloud roughly 30 light years 9 2 pc across
+the solarwinds hack 2020 compromised 18 000 organizations including us government agencies attackers inserted malware into legitimate software updates
+the sour taste receptor otop1 otopetrin 1 was only identified in 2018 after decades of research
+the space shuttle software achieved zero defects across 500 000 lines of code one of the most reliable software systems ever created
+the speed of light limits internet latency a signal can t travel from new york to london 5 500 km faster than about 18 ms even through a vacuum
+the sql injection attack was first publicly demonstrated in 1998 it remains in the owasp top 10 vulnerabilities over 25 years later
+the sql language was developed at ibm in the early 1970s originally called sequel structured english query language shortened due to a trademark dispute
+the stack data structure follows lifo last in first out while queues follow fifo first in first out both can be implemented with arrays or linked lists
+the stepped leader of lightning establishes the channel over hundreds of milliseconds while the actual discharge takes only a few dozen microseconds
+the sundew drosera burmanii can bend its tentacles 180 degrees in about one minute to trap prey using rapid acid growth rather than turgor changes
+the supersingular isogeny key exchange designed to be quantum resistant was broken in july 2022 showing how rapidly cryptographic assumptions can fail
+the suppression of the diaspora revolt of 115 117 ce led to the near total annihilation and displacement of jewish communities in cyrenaica cyprus and much of egypt
+the surviving copies of the kitab ı bahriye contain a total of more than 5 700 maps
+the taa language has 45 to 115 click phonemes depending on analysis and over 70 of words in its dictionary begin with a click
+the tallest tree ever measured reliably is hyperion a coast redwood sequoia sempervirens in california s redwood national park standing at 116 07 meters 380 8 feet
+the term bit binary digit was first used by claude shannon in his 1948 paper though credited to mathematician john tukey who suggested it in a memo
+the term cloud computing gained popularity around 2006 when amazon launched ec2 but the concept of shared computing resources dates to the 1960s
+the term halting problem was first used by martin davis in 1952 though turing s 1936 proof predates the terminology
+the term ice age was coined by karl friedrich schimper in 1837 who noticed moss growing on erratic boulders and deduced that glaciers once covered much of europe
+the term microclimate first appeared in publications in the 1950s including the book climates in miniature by thomas bedford franklin
+the term object oriented programming comes from simula 1967 created by nygaard and dahl the first language designed specifically for simulation
+the term open source was coined in 1998 at a strategy session following netscape s announcement to release navigator s source code
+the term software engineering was coined at a 1968 nato conference acknowledging that software development needed the rigor of traditional engineering
+the term tornado comes from the spanish tronada thunderstorm with the spelling influenced by tornar to twist or turn
+the term turing machine was coined by alonzo church turing s doctoral advisor in a paper review turing himself never used this term
+the term y2k was coined by programmer david eddy on june 12 1995 he later said y2k just came off my fingertips after rejecting alternatives like cdc and fadl
+the therac 25 radiation therapy machine killed at least five patients in the 1980s due to a race condition bug that only occurred when operators typed commands very quickly
+the thimmamma marrimanu banyan tree in india has the broadest crown of any tree spreading 180 meters 591 feet in diameter with hundreds of trunks
+the ticino region of switzerland has a microclimate warm enough for palm trees and banana trees to grow
+the tongue has between 2 000 and 5 000 taste buds each containing 50 to 100 taste receptor cells
+the transformer architecture introduced in 2017 enabled the current ai boom leading to large language models like gpt and chatgpt
+the traveling salesman problem tsp is np hard finding the optimal route visiting all cities exactly once has exponential complexity
+the tri state tornado of 1925 traveled 219 miles 352 km continuously on the ground across missouri illinois and indiana killing 695 people
+the turing machine was invented in 1936 by alan turing he called it an a machine automatic machine and it became the foundation for all of computer science
+the two victims of the zénith balloon incident are depicted holding hands on their tomb
+the u s air force considered a bomber version of the f 22 raptor known as the fb 22
+the u s navy trains dolphins to find enemy swimmers locate underwater mines and guard nuclear arsenals utilizing their intelligence speed and echolocation abilities
+the unix philosophy of do one thing well and composing small programs with pipes revolutionized software engineering and influenced all subsequent operating systems
+the us cyber command embedded an md5 hash of their mission statement into their official emblem in 2009 a deliberately nerdy design choice
+the us spent approximately 5 8 billion on weather forecasting in 2009 producing benefits estimated at six times that amount
+the uss yorktown a smart ship was left dead in the water for nearly 3 hours in september 1997 after a crew member entered a zero into a database causing a division by zero error
+the vancouver stock exchange index lost about 25 points per month due to repeated rounding initialized at 1000 in 1982 it erroneously showed 524 by november 1983 when it was corrected to 1098
+the vanishing gradient problem where gradients become too small to update early layers stalled deep learning for decades until solutions like relu and lstm emerged
+the vatican city is the smallest country in the world at just 0 17 square miles
+the venus flytrap can close its trap in less than a second using a mechanism where cells rapidly change shape from convex to concave when triggered
+the venus flytrap has a simple memory its trap requires two separate touches between 0 5 to 30 seconds apart to close preventing false triggers from rain or debris
+the village of kifuka in the democratic republic of congo receives 158 lightning strikes per square kilometer per year one of the highest densities in the world
+the vine boquila trifoliata can mimic the shape of leaves of plants it climbs on even mimicking artificial plastic leaves suggesting plants may have a form of vision
+the von neumann bottleneck refers to the limited speed between cpu and memory it s been a fundamental constraint on computing since the 1940s
+the w3c tried to replace html with stricter xhtml but mozilla opera and apple rejected it they formed whatwg and developed html5 which w3c eventually adopted in 2019
+the wannacry ransomware 2017 affected 200 000 computers in 150 countries it was stopped when a researcher registered a domain that acted as a kill switch
+the water vapor feedback effectively doubles the warming that would otherwise occur from co2 increases alone
+the waterfall model of software development often criticized today was first described by winston royce in 1970 ironically he presented it as a flawed approach
+the widest tornado on record was approximately 2 6 miles 4 2 km across during the 2013 el reno oklahoma tornado
+the word bless is related to blood it originally meant to mark with blood in religious ceremonies
+the word cloud originally meant hill or mass of rock in old english it became metaphorically associated with rain clouds around the 13th century
+the word umami is japanese for pleasant savory taste and was coined from umai meaning delicious
+the world of warcraft corrupted blood incident 2005 became a case study for epidemiologists a virtual plague spread uncontrollably due to a bug mimicking real world disease patterns
+the world s first televised weather forecasts were experimentally broadcast by the bbc in november 1936
+the world s largest desert is antarctica which is a polar desert
+the world s oldest timepiece with an anchor escapement is in the collection of the irish museum of time
+the world s smallest mammal is the bumblebee bat weighing less than a penny
+the www beat gopher partly because the university of minnesota announced licensing fees for gopher in february 1993 just two months before cern made the web public domain
+the www prefix became standard practice by accident the web project page was meant to be at www cern ch while info cern ch was for cern s home but dns records were never switched
+the xóõ language of botswana has up to 164 consonants including 111 click sounds the most consonants of any known language
+the y2k bug existed because memory cost up to 100 per kilobyte in the 1970s storing two digits instead of four for years saved significant money
+the year 2038 problem will occur when unix 32 bit signed integer timestamps overflow 2 147 483 647 seconds after january 1 1970 systems will think it s december 13 1901
+the zimmermann telegram s decryption triggered the united states entry into world war i british codebreakers in room 40 cracked germany s diplomatic cipher
+the zoninus collar is the only known roman slave collar that offers a reward for returning its wearer
+the árbol del tule a montezuma cypress in mexico has the stoutest trunk in the world with a diameter of 11 62 meters 38 1 feet
+there are more possible iterations of a chess game than atoms in the known universe
+there are over 200 documented sign languages worldwide and many more that haven t been studied or recorded
+there are over 800 species of carnivorous plants with about 3 new species discovered per year since 2000 and roughly one quarter are threatened with extinction
+there is mounting evidence that most tornadoes have a clear calm center with extremely low pressure similar to the eye of a tropical cyclone
+thermonuclear explosions can trigger lightning within the mushroom cloud due to intense gamma radiation creating charged regions through compton scattering
+this list covers all known stars white dwarfs brown dwarfs and sub brown dwarfs rogue planets within 20 light years 6 13 parsecs of the sun
+three to four billion years ago the sun emitted only 75 as much power as today yet liquid water existed on earth this is called the faint young sun paradox
+thundersnow lightning during a snowstorm occurs when warm moist air rises through cold air usually in winter storms
+tim berners lee invented the world wide web at cern in 1989 90 linking hypertext documents into an information system accessible from any node on the network
+tim berners lee invented the world wide web at cern in 1989 originally conceived as a way to share documents between physicists at different universities
+timsort the widely used sorting algorithm in python and java was only invented in 2002 asymptotically optimal algorithms have been known since the mid 20th century
+tomato plants connected via mycorrhizal networks can prime uninfected neighbors defenses when one plant is attacked by fungal pathogens
+tor the onion router was originally developed by the us naval research laboratory it provides anonymity by routing traffic through multiple encrypted relays
+tornadoes can take on the color of the debris they pick up great plains tornadoes often appear red due to the soil color while those crossing snow appear white
+tornadoes occur on every continent except antarctica with the united states experiencing by far the most tornadoes of any country
+tornadoes produce detectable infrasonic signatures and seismic signals leading to ongoing research on using these for prediction systems
+torvalds said if gnu hurd or 386bsd had been available in 1991 he probably wouldn t have created linux
+total loss of arctic summer sea ice would increase regional temperatures by over 1 5 c while adding about 0 19 c to global average temperatures
+tpus tensor processing units custom chips designed by google for machine learning can perform 92 trillion operations per second
+trained elephants in indonesia help fight forest fires carrying water pumps and hoses 23 elephants from a conservation center helped patrol land and prevent new fires during the 2015 east sumatra fires
+transient luminous events have been observed on jupiter by the nasa juno probe proving that upper atmospheric lightning phenomena occur on other planets
+tree ferns thrive at the lost gardens of heligan in cornwall england latitude 50 n due to a protected microclimate in a sheltered dell
+tree ring analysis for climate study wasn t solidly established as a science until the 1960s despite earlier pioneering work
+trembleuse cups and saucers enabled people with unsteady hands to drink hot beverages
+trending days numbered for lithium batteries rock art of sinai conquest ancient sea turtle stampede 160 000 year old stone tools in china dark energy survey when you purchase through links on our site we may earn an affiliate commission
+trolls transient red optical luminous lineaments are red streaks that form after strong sprites and were only recently classified as a distinct phenomenon
+tropical cyclones can be between 100 and 2 000 km in diameter typhoon tip in 1979 spanned about 2 200 km nearly half the width of the continental united states
+tropical cyclones mix ocean layers inserting heat deeper into the water with potential effects on global climate patterns
+tropical cyclones rarely form within 5 of the equator because the coriolis effect is too weak to create rotation at those latitudes
+tropical cyclones require sea surface temperatures of at least 26 27 c 79 81 f to form and maintain their strength
+truman show delusion is a real mental condition where patients believe they are the star of an imaginary reality show the term was coined by two psychiatrists in 2008
+tsar nicholas ii reported witnessing ball lightning as a child during a church service watching a fiery ball fly near his grandfather alexander ii
+turing s paper on computable numbers was the first to describe a computer that could be programmed to perform any task the theoretical ancestor of all modern computers
+two factor authentication reduces account compromise by 99 yet adoption remains low because users find it inconvenient
+typescript created by microsoft in 2012 adds static typing to javascript it s now one of the most popular languages for web development
+typhoon tip in 1979 was the most intense tropical cyclone ever recorded with a central pressure of 870 hpa and sustained winds of 305 km h 190 mph
+umami receptors were discovered on the tongue in 2000 and in the stomach in 2006 confirming it as a distinct taste
+umami the fifth basic taste was scientifically identified in 1908 by japanese chemist kikunae ikeda who extracted glutamate from kombu seaweed
+under certain conditions people can completely lose their native language after switching exclusively to another language especially if the switch happens in childhood
+unicode now includes over 149 000 characters covering 161 scripts including emoji which were added in 2010
+unix was created at bell labs by ken thompson and dennis ritchie starting in 1969 it was named unics as a pun on multics the bloated system they had abandoned
+unix was rewritten in c in 1973 making it the first portable operating system almost entirely hardware independent it could be easily ported to new machines
+until 1996 exporting encryption software using keys longer than 40 bits from the united states was effectively illegal treated as munitions under arms export regulations
+us geological survey estimates that volcanic emissions of co2 are 100 300 times less than human emissions annually
+uy scuti is one of the largest known stars with a radius approximately 1 700 times that of our sun
+vachellia collinsii acacia trees provide hollow thorns as housing for protective ants and produce food bodies as payment a classic mutualistic defense
+venus has a surface temperature of 464 c hotter than mercury despite being farther from the sun due to its runaway greenhouse effect
+verkhoyansk russia has the largest temperature range ever recorded in one location 105 8 c 190 4 f spanning from 67 8 c in winter to 38 0 c in summer
+vietnamese has six tones and a tongue twister bấy nay bây bầy bảy bẫy bậy uses all of them on nearly identical syllables
+vint cerf and bob kahn published their tcp ip design in may 1974 the first use of the word internet as shorthand for internetwork appeared in rfc 675 that december
+volcanic eruptions produce lightning through charge separation in ash clouds the same basic process as thunderstorm lightning
+von neumann architecture used by nearly all modern computers stores both programs and data in the same memory introduced in 1945
+walter pitts and warren mcculloch described artificial neurons in 1943 the first paper to apply turing s computational ideas to brain function
+we live on a planet with millions of species of animals and a rich diverse collection of known wildlife and yet new species are being identified seemingly every day mdash both living and extinct
+we ll send you a confirmation and sign you up for our daily newsletter keeping you up to date with the latest science news
+weather drones are being developed to fill the observational gap between 100 meters and 6 km above ground level where traditional sensors are limited
+weather forecasting is so chaotic that time steps for global models are measured in tens of minutes while regional models use time steps of 1 4 minutes
+wheat drill first successful machine gun georgy gause 1910 1986 russia gramicidin s neomycin lincomycin and other antibiotics e
+when elephants are upset they will comfort each other by stroking loved ones with their trunks and emitting small chirps young elephants also suck their trunks for comfort
+when foods rich in glutamate are combined with those containing nucleotides like imp or gmp the umami taste intensity is synergistically higher than the sum of the individual ingredients
+when glaciers grind rocks into dust and wind transports iron rich dust to the open ocean it fertilizes massive algal blooms that pull co2 from the atmosphere intensifying ice ages
+when he interviewed scientists who specialize in studying specific animals they had not heard of these terms such as a bask of crocodiles or wisdom of wombats being applied in their fields
+when herbivores eat trees saliva left on leaves triggers increased salicylic acid production signaling the tree to produce more defensive tannins
+when hurricane wind speeds rise by 5 destructive power increases by about 50 so climate change s 11 increase to hurricane helene s winds more than doubled its destruction
+when the e defense earthquake shake table was commissioned in 2005 it was the world s largest 3d earthquake shake table
+whether it rsquo s the deadliest snakes longest living creatures or the history of the dinosaurs at live science our expert writers are here to help you understand earth s incredible fauna mdash past and present mdash with the latest animal news features and articles
+while the objects on the farnese artemis had initially been identified as female breasts the museum housing the statue now describes them as bull scrotums
+whistled speech can reach 130 decibels as loud as a rock concert allowing communication over distances impossible for normal speech
+whitespace is a programming language where only spaces tabs and newlines are significant all other characters are ignored as comments
+wild penguins show no particular fear of human tourists because they aren t used to danger from animals on solid ground
+william kahan the primary architect of ieee 754 won the 1989 turing award for his contributions to numerical computing and floating point standards
+windows 3 1 sold over 3 million copies in its first 2 months 1992 it was the first version of windows to achieve mass market success
+windows 95 s launch was a cultural event the rolling stones start me up was the theme song and stores stayed open at midnight for the release
+windows xp remained in use at atms medical devices and government systems for years after support ended in 2014 some still run it today
+wombat poop is cube shaped which prevents it from rolling away and helps mark territory
+word2vec 2013 showed that word meanings could be represented as vectors where king man woman queen a breakthrough in natural language processing
+world war ii pilots reported mysterious glowing balls following their aircraft called foo fighters ball lightning has been suggested as one explanation
+wounded plants release volatile odors like methyl jasmonate and methyl salicylate that neighboring plants detect and respond to by increasing their chemical defenses
+writing was invented independently only about 4 times in human history mesopotamia cuneiform egypt hieroglyphs china and mesoamerica
+xml was designed to be human readable and machine readable but its verbosity led developers to prefer json for most web apis
+yaml s name originally stood for yet another markup language it was later backronymed to yaml ain t markup language to emphasize it s for data not documents
+youtube s first ever video uploaded april 23 2005 featured elephants at a zoo co founder jawed karim stood in front of them discussing their cool long trunks

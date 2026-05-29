@@ -5,11 +5,11 @@ month: 12
 day: 18
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: A* algorithm (1968) finds optimal paths in graphs — it's used in…
+teaser: The A* algorithm (1968) finds optimal paths in graphs — it's used in game pathfinding, GPS…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 12-18, slot 1 -->
+The A* algorithm (**1968**) finds optimal paths in graphs — it's used in game pathfinding, GPS navigation, and robotic motion planning.
 
-_Content pending._
+[A* search algorithm (Wikipedia)](https://en.wikipedia.org/wiki/A*_search_algorithm)

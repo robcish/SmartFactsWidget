@@ -1,0 +1,1832 @@
+{
+  "01-01": [
+    "general",
+    "science",
+    "history"
+  ],
+  "01-02": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "01-03": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "01-04": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "01-05": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "01-06": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "01-07": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "01-08": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "01-09": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "01-10": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "01-11": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "01-12": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "01-13": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "01-14": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "01-15": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "01-16": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "01-17": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "01-18": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "01-19": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "01-20": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "01-21": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "01-22": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "01-23": [
+    "general",
+    "science",
+    "history"
+  ],
+  "01-24": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "01-25": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "01-26": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "01-27": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "01-28": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "01-29": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "01-30": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "01-31": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "02-01": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "02-02": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "02-03": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "02-04": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "02-05": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "02-06": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "02-07": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "02-08": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "02-09": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "02-10": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "02-11": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "02-12": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "02-13": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "02-14": [
+    "general",
+    "science",
+    "history"
+  ],
+  "02-15": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "02-16": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "02-17": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "02-18": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "02-19": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "02-20": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "02-21": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "02-22": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "02-23": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "02-24": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "02-25": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "02-26": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "02-27": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "02-28": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "02-29": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "03-01": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "03-02": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "03-03": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "03-04": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "03-05": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "03-06": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "03-07": [
+    "general",
+    "science",
+    "history"
+  ],
+  "03-08": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "03-09": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "03-10": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "03-11": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "03-12": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "03-13": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "03-14": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "03-15": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "03-16": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "03-17": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "03-18": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "03-19": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "03-20": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "03-21": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "03-22": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "03-23": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "03-24": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "03-25": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "03-26": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "03-27": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "03-28": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "03-29": [
+    "general",
+    "science",
+    "history"
+  ],
+  "03-30": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "03-31": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "04-01": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "04-02": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "04-03": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "04-04": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "04-05": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "04-06": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "04-07": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "04-08": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "04-09": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "04-10": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "04-11": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "04-12": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "04-13": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "04-14": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "04-15": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "04-16": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "04-17": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "04-18": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "04-19": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "04-20": [
+    "general",
+    "science",
+    "history"
+  ],
+  "04-21": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "04-22": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "04-23": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "04-24": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "04-25": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "04-26": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "04-27": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "04-28": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "04-29": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "04-30": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "05-01": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "05-02": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "05-03": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "05-04": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "05-05": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "05-06": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "05-07": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "05-08": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "05-09": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "05-10": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "05-11": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "05-12": [
+    "general",
+    "science",
+    "history"
+  ],
+  "05-13": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "05-14": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "05-15": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "05-16": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "05-17": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "05-18": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "05-19": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "05-20": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "05-21": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "05-22": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "05-23": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "05-24": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "05-25": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "05-26": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "05-27": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "05-28": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "05-29": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "05-30": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "05-31": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "06-01": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "06-02": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "06-03": [
+    "general",
+    "science",
+    "history"
+  ],
+  "06-04": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "06-05": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "06-06": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "06-07": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "06-08": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "06-09": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "06-10": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "06-11": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "06-12": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "06-13": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "06-14": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "06-15": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "06-16": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "06-17": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "06-18": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "06-19": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "06-20": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "06-21": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "06-22": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "06-23": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "06-24": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "06-25": [
+    "general",
+    "science",
+    "history"
+  ],
+  "06-26": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "06-27": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "06-28": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "06-29": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "06-30": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "07-01": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "07-02": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "07-03": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "07-04": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "07-05": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "07-06": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "07-07": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "07-08": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "07-09": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "07-10": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "07-11": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "07-12": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "07-13": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "07-14": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "07-15": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "07-16": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "07-17": [
+    "general",
+    "science",
+    "history"
+  ],
+  "07-18": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "07-19": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "07-20": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "07-21": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "07-22": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "07-23": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "07-24": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "07-25": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "07-26": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "07-27": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "07-28": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "07-29": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "07-30": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "07-31": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "08-01": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "08-02": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "08-03": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "08-04": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "08-05": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "08-06": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "08-07": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "08-08": [
+    "general",
+    "science",
+    "history"
+  ],
+  "08-09": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "08-10": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "08-11": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "08-12": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "08-13": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "08-14": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "08-15": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "08-16": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "08-17": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "08-18": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "08-19": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "08-20": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "08-21": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "08-22": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "08-23": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "08-24": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "08-25": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "08-26": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "08-27": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "08-28": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "08-29": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "08-30": [
+    "general",
+    "science",
+    "history"
+  ],
+  "08-31": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "09-01": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "09-02": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "09-03": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "09-04": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "09-05": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "09-06": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "09-07": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "09-08": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "09-09": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "09-10": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "09-11": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "09-12": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "09-13": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "09-14": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "09-15": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "09-16": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "09-17": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "09-18": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "09-19": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "09-20": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "09-21": [
+    "general",
+    "science",
+    "history"
+  ],
+  "09-22": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "09-23": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "09-24": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "09-25": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "09-26": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "09-27": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "09-28": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "09-29": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "09-30": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "10-01": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "10-02": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "10-03": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "10-04": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "10-05": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "10-06": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "10-07": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "10-08": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "10-09": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "10-10": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "10-11": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "10-12": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "10-13": [
+    "general",
+    "science",
+    "history"
+  ],
+  "10-14": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "10-15": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "10-16": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "10-17": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "10-18": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "10-19": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "10-20": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "10-21": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "10-22": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "10-23": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "10-24": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "10-25": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "10-26": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "10-27": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "10-28": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "10-29": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "10-30": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "10-31": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "11-01": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "11-02": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "11-03": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "11-04": [
+    "general",
+    "science",
+    "history"
+  ],
+  "11-05": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "11-06": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "11-07": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "11-08": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "11-09": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "11-10": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "11-11": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "11-12": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "11-13": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "11-14": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "11-15": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "11-16": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "11-17": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "11-18": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "11-19": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "11-20": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "11-21": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "11-22": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "11-23": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "11-24": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "11-25": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "11-26": [
+    "general",
+    "science",
+    "history"
+  ],
+  "11-27": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "11-28": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "11-29": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "11-30": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "12-01": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "12-02": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "12-03": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "12-04": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "12-05": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "12-06": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "12-07": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "12-08": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "12-09": [
+    "astronomy",
+    "math",
+    "mythology"
+  ],
+  "12-10": [
+    "myth-busting",
+    "reflection",
+    "general"
+  ],
+  "12-11": [
+    "science",
+    "history",
+    "geography"
+  ],
+  "12-12": [
+    "biology",
+    "animals",
+    "technology"
+  ],
+  "12-13": [
+    "culture",
+    "food",
+    "sport"
+  ],
+  "12-14": [
+    "psychology",
+    "language",
+    "philosophy"
+  ],
+  "12-15": [
+    "society",
+    "law",
+    "finance"
+  ],
+  "12-16": [
+    "environment",
+    "astronomy",
+    "math"
+  ],
+  "12-17": [
+    "mythology",
+    "myth-busting",
+    "reflection"
+  ],
+  "12-18": [
+    "general",
+    "science",
+    "history"
+  ],
+  "12-19": [
+    "geography",
+    "biology",
+    "animals"
+  ],
+  "12-20": [
+    "technology",
+    "culture",
+    "food"
+  ],
+  "12-21": [
+    "sport",
+    "psychology",
+    "language"
+  ],
+  "12-22": [
+    "philosophy",
+    "society",
+    "law"
+  ],
+  "12-23": [
+    "finance",
+    "environment",
+    "astronomy"
+  ],
+  "12-24": [
+    "math",
+    "mythology",
+    "myth-busting"
+  ],
+  "12-25": [
+    "reflection",
+    "general",
+    "science"
+  ],
+  "12-26": [
+    "history",
+    "geography",
+    "biology"
+  ],
+  "12-27": [
+    "animals",
+    "technology",
+    "culture"
+  ],
+  "12-28": [
+    "food",
+    "sport",
+    "psychology"
+  ],
+  "12-29": [
+    "language",
+    "philosophy",
+    "society"
+  ],
+  "12-30": [
+    "law",
+    "finance",
+    "environment"
+  ],
+  "12-31": [
+    "astronomy",
+    "math",
+    "mythology"
+  ]
+}

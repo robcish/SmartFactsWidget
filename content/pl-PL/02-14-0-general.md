@@ -5,11 +5,11 @@ month: 2
 day: 14
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: Himalaje mogą być głównym czynnikiem obecnej epoki lodowcowej,…
+teaser: Himalaje mogą być głównym czynnikiem obecnej epoki lodowcowej, ponieważ ich wypiętrzenie…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 02-14, slot 0 -->
+Himalaje mogą być głównym czynnikiem obecnej epoki lodowcowej, ponieważ ich wypiętrzenie zwiększyło opady i tempo wymywania CO2 z atmosfery w wyniku wietrzenia.
 
-_Treść do uzupełnienia._
+[Epoka lodowa (Wikipedia)](https://pl.wikipedia.org/wiki/Epoka_lodowa)

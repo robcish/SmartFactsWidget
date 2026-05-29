@@ -22,6 +22,8 @@ Example user request:
 4. Set `published: true`, non-empty `title`, `teaser`, body; `version: 1`.
 5. Run:
    ```bash
+   python3 tools/verify_category_cooldown.py
+   python3 tools/verify_fact_uniqueness.py --published-only
    python3 tools/build_manifest.py
    python3 tools/verify_wikipedia_links.py
    cp docs/facts.json app/src/main/assets/seed_facts.json
@@ -42,8 +44,18 @@ Example user request:
 | Script | Purpose |
 |--------|---------|
 | `tools/build_manifest.py` | Build `docs/facts.json` |
+| `tools/verify_category_cooldown.py` | 2-day category cooldown check (exit 1 on violation) |
+| `tools/verify_fact_uniqueness.py` | Duplicate title/teaser/body detection |
 | `tools/verify_wikipedia_links.py` | HTTP-check Wikipedia URLs in published facts |
-| `tools/scaffold_year_content.py` | Generate year of template `.md` files |
+| `tools/plan_categories.py` | Generate `tools/category_plan.json` (3 cats/day) |
+| `tools/add_third_slot_templates.py` | Create `MM-DD-2-{category}.md` templates |
+| `tools/populate_year_content.py` | Fill facts from science-facts + Wikipedia (batch by `--start`/`--end`) |
+| `tools/rename_fact_category.py` | Rename fact when category slug changes |
+| `tools/content_summary.py` | Category balance, coverage, cooldown — run for a status report |
+| `tools/fix_pl_translations.py` | Rewrite pl-PL from en-US (translate + PL Wikipedia links) |
+| `tools/fix_pl_missing_wiki_links.py` | Second pass: add PL wiki links where missing |
+| `tools/strip_pl_category_fallback_links.py` | Remove generic category PL Wikipedia links |
+| `tools/scaffold_year_content.py` | Generate year of template `.md` files (destructive — avoid on existing `content/`) |
 | `tools/fill_past_week_may22_28.py` | Example batch-fill script (reference only) |
 | `tools/generate_category_drawables.py` | Regenerate `ic_cat_*.xml` from Material Symbols |
 

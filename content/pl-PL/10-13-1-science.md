@@ -5,11 +5,9 @@ month: 10
 day: 13
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: MP3 wykorzystuje maskowanie psychoakustyczne — dźwięki, które są…
+teaser: MP3 wykorzystuje maskowanie psychoakustyczne — dźwięki, które są niesłyszalne, ponieważ maskują je…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 10-13, slot 1 -->
-
-_Treść do uzupełnienia._
+MP3 wykorzystuje maskowanie psychoakustyczne — dźwięki, które są niesłyszalne, ponieważ maskują je głośniejsze dźwięki w pobliżu, są po prostu usuwane, aby zaoszczędzić miejsce.

@@ -5,11 +5,11 @@ month: 10
 day: 13
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: According to AIXI theory, the best compression of data is the…
+teaser: According to AIXI theory, the best compression of data is the smallest program that generates it —…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 10-13, slot 0 -->
+According to AIXI theory, the best compression of data is the smallest program that generates it — connecting compression to the foundations of artificial intelligence.
 
-_Content pending._
+[Data compression (Wikipedia)](https://en.wikipedia.org/wiki/Data_compression)

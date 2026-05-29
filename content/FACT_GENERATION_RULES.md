@@ -6,10 +6,10 @@ Repo entry point for agents: **[AGENTS.md](../AGENTS.md)**.
 ## Calendar model (v2)
 
 - Facts repeat **every year** on the same **month + day** (no year in the database).
-- **Two facts per day** per locale: `sequence_index` `0` (from 00:00:01) and `1` (from 12:00).
-- The app computes slot times from the count of facts that day (`DayScheduleResolver.kt`).
+- **Three facts per day** per locale: `sequence_index` `0`, `1`, and `2`.
+- Slot times (local): **00:00:01**, **08:00**, **16:00** — see `DayScheduleResolver.kt`.
 - **ID / filename:** `{MM}-{DD}-{sequence}-{category}.md`  
-  Example: `05-29-0-animals.md`, `05-29-1-biology.md`
+  Example: `05-29-0-animals.md`, `05-29-1-biology.md`, `05-29-2-science.md`
 
 ## Frontmatter
 
@@ -41,7 +41,16 @@ version: 1
 
 The **same category must not appear again within 2 calendar days** (by month/day in the annual calendar).
 
-Before assigning a category to a new fact, check the previous two days in your batch (and existing published facts).
+Before assigning a category to a new fact, check the previous two days in your batch (and existing published facts). If collisions exist, **swap categories** between days (keep the fact text) rather than forcing a mismatched label.
+
+## Uniqueness
+
+Each published fact must be **unique across the whole year** (same topic/teaser should not repeat on another day). Before publishing a batch:
+
+```bash
+python3 tools/verify_fact_uniqueness.py --published-only
+python3 tools/verify_category_cooldown.py
+```
 
 ## Content quality
 
@@ -49,7 +58,7 @@ Before assigning a category to a new fact, check the previous two days in your b
 - **Teaser** (widget): exactly **one** short hook sentence (widget shows **one line** in strip size).
 - **Body** (detail): 1–3 short paragraphs, Markdown; optional `**bold**`; end with a Wikipedia link when possible.
 - **Locales:** always create **both** `pl-PL` and `en-US` with the same `id`, `month`, `day`, `sequence_index`, `category`. **Translate**, do not paste English into PL files.
-- **Wikipedia links:** use real article titles in the URL. Run `python3 tools/verify_wikipedia_links.py`. PL and EN titles often differ; if there is no PL article, link to the closest PL page or the EN article.
+- **Wikipedia links:** use real article titles in the URL. Run `python3 tools/verify_wikipedia_links.py`. PL and EN titles often differ; if there is no sensible PL article for the topic, **omit the link** (do not use a generic category article).
 
 ## Example pair (en-US + pl-PL)
 
@@ -116,6 +125,10 @@ As of last manifest build, published window may be limited (e.g. May–early Jun
 ```bash
 # Optional: generate template files for the year (edit FILL_START in script)
 python3 tools/scaffold_year_content.py
+
+# Quality checks (run before manifest)
+python3 tools/verify_category_cooldown.py
+python3 tools/verify_fact_uniqueness.py --published-only
 
 # Build manifest (only published facts with non-empty title)
 python3 tools/build_manifest.py

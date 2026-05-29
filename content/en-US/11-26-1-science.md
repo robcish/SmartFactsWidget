@@ -5,11 +5,11 @@ month: 11
 day: 26
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: Java's 'Write once, run anywhere' slogan became a reality through…
+teaser: Java's 'Write once, run anywhere' slogan became a reality through the JVM — Java bytecode runs on…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 11-26, slot 1 -->
+Java's 'Write once, run anywhere' slogan became a reality through the JVM — Java bytecode runs on any platform with a compatible virtual machine.
 
-_Content pending._
+[Java (programming language) (Wikipedia)](https://en.wikipedia.org/wiki/Java_(programming_language))

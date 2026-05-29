@@ -5,11 +5,11 @@ month: 4
 day: 20
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: 2014 scientific recording of natural ball lightning on the Tibetan…
+teaser: The 2014 scientific recording of natural ball lightning on the Tibetan Plateau detected silicon,…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 04-20, slot 0 -->
+The **2014 **scientific recording of natural ball lightning on the Tibetan Plateau detected silicon, calcium, iron, nitrogen, and oxygen in its emission spectrum.
 
-_Content pending._
+[Ball lightning (Wikipedia)](https://en.wikipedia.org/wiki/Ball_lightning)

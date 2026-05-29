@@ -5,11 +5,11 @@ month: 8
 day: 30
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: Bubble sort was analyzed as early as 1956, making it one of the…
+teaser: Bubble sort was analyzed as early as 1956, making it one of the oldest sorting algorithms formally…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 08-30, slot 0 -->
+Bubble sort was analyzed as early as **1956, **making it one of the oldest sorting algorithms formally studied — despite being one of the least efficient.
 
-_Content pending._
+[Sorting algorithm (Wikipedia)](https://en.wikipedia.org/wiki/Sorting_algorithm)

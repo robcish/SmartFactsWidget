@@ -5,11 +5,9 @@ month: 8
 day: 8
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: Christopher Strachey napisał program w warcaby w 1951 roku na…
+teaser: Christopher Strachey napisał program w warcaby w 1951 roku na Ferranti Mark 1 — jednym z pierwszych…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 08-08, slot 1 -->
-
-_Treść do uzupełnienia._
+Christopher Strachey napisał program w warcaby w **1951 **na Ferranti Mark 1 — jeden z pierwszych programów do gier, jakie kiedykolwiek napisano.

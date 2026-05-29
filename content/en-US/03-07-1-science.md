@@ -5,11 +5,11 @@ month: 3
 day: 7
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: Lewis Fry Richardson's 1922 book on numerical weather prediction…
+teaser: Lewis Fry Richardson's 1922 book on numerical weather prediction envisioned a 'forecast factory'…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 03-07, slot 1 -->
+Lewis Fry Richardson's **1922 **book on numerical weather prediction envisioned a 'forecast factory' with thousands of people performing calculations by hand.
 
-_Content pending._
+[Weather forecasting (Wikipedia)](https://en.wikipedia.org/wiki/Weather_forecasting)

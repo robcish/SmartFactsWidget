@@ -5,11 +5,11 @@ month: 11
 day: 26
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: Python został nazwany na cześć Monty Pythona, a nie węża – Guido…
+teaser: Python został nazwany na cześć Monty Pythona, a nie węża — Guido van Rossum czytał scenariusze z…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 11-26, slot 0 -->
+Python został nazwany na cześć Monty Pythona, a nie węża — Guido van Rossum podczas jego tworzenia czytał scenariusze z „Latającego cyrku Monty Pythona”.
 
-_Treść do uzupełnienia._
+)

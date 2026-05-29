@@ -5,11 +5,11 @@ month: 9
 day: 21
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: Bitcoin was invented in 2008 by the pseudonymous Satoshi Nakamoto…
+teaser: Bitcoin was invented in 2008 by the pseudonymous Satoshi Nakamoto — who mined about 1 million…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 09-21, slot 0 -->
+Bitcoin was invented in **2008 **by the pseudonymous Satoshi Nakamoto — who mined about 1 million bitcoins before disappearing in 2010, never to be heard from again.
 
-_Content pending._
+[Bitcoin (Wikipedia)](https://en.wikipedia.org/wiki/Bitcoin)

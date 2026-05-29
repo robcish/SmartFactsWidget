@@ -5,11 +5,9 @@ month: 8
 day: 30
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: Sortowanie bąbelkowe analizowano już w 1956 roku, co czyni go…
+teaser: Sortowanie bąbelkowe analizowano już w 1956 roku, co czyni go jednym z najstarszych algorytmów…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 08-30, slot 0 -->
-
-_Treść do uzupełnienia._
+Sortowanie bąbelkowe analizowano już w **1956 r., **co czyni go jednym z najstarszych formalnie zbadanych algorytmów sortowania — mimo że był jednym z najmniej wydajnych.

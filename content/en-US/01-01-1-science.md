@@ -5,11 +5,11 @@ month: 1
 day: 1
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: greatest temperature change in two minutes was 27°C (49°F), from…
+teaser: The greatest temperature change in two minutes was 27°C (49°F), from -20°C to 7°C, recorded in…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 01-01, slot 1 -->
+The greatest temperature change in two minutes was **27**°C (49°F), from -20°C to 7°C, recorded in Spearfish, South Dakota on January 22, 1943.
 
-_Content pending._
+[List of weather records (Wikipedia)](https://en.wikipedia.org/wiki/List_of_weather_records)

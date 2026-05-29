@@ -5,11 +5,11 @@ month: 9
 day: 21
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: first Bitcoin transaction for goods was 10,000 BTC for two Papa…
+teaser: The first Bitcoin transaction for goods was 10,000 BTC for two Papa John's pizzas on May 22, 2010…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 09-21, slot 1 -->
+The first Bitcoin transaction for goods was **10,000 **BTC for two Papa John's pizzas on May 22, 2010 — now celebrated annually as 'Bitcoin Pizza Day.'
 
-_Content pending._
+[Bitcoin (Wikipedia)](https://en.wikipedia.org/wiki/Bitcoin)

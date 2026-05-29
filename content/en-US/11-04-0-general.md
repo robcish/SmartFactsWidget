@@ -5,11 +5,11 @@ month: 11
 day: 4
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: SQL language was developed at IBM in the early 1970s — originally…
+teaser: The SQL language was developed at IBM in the early 1970s — originally called SEQUEL (Structured…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 11-04, slot 0 -->
+The SQL language was developed at IBM in the early 1970s — originally called SEQUEL (Structured English Query Language), shortened due to a trademark dispute.
 
-_Content pending._
+[SQL (Wikipedia)](https://en.wikipedia.org/wiki/SQL)

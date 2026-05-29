@@ -5,11 +5,11 @@ month: 7
 day: 17
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: Donald Knuth believes P = NP but thinks a proof 'will almost…
+teaser: Donald Knuth believes P = NP but thinks a proof 'will almost surely be nonconstructive' — meaning…
+published: true
+version: 1
 ---
-<!-- TODO: fact for 07-17, slot 1 -->
+Donald Knuth believes P = NP but thinks a proof 'will almost surely be nonconstructive' — meaning it wouldn't give us practical fast algorithms.
 
-_Content pending._
+[P versus NP problem (Wikipedia)](https://en.wikipedia.org/wiki/P_versus_NP_problem)

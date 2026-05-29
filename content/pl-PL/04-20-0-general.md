@@ -5,11 +5,9 @@ month: 4
 day: 20
 sequence_index: 0
 category: general
-title: 
-teaser: 
-published: false
-version: 0
+title: 2014 scientific recording of natural ball lightning on the Tibetan…
+teaser: W badaniu naukowym z 2014 roku dotyczącym naturalnego pioruna kulistego na Płaskowyżu Tybetańskim…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 04-20, slot 0 -->
-
-_Treść do uzupełnienia._
+**Naukowe nagranie naturalnego pioruna kulistego na Płaskowyżu Tybetańskim z **2014 roku wykryło w swoim widmie emisyjnym krzem, wapń, żelazo, azot i tlen.

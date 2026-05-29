@@ -5,11 +5,9 @@ month: 1
 day: 23
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: village of Kifuka in the Democratic Republic of Congo receives 158…
+teaser: W wioskę Kifuka w Demokratycznej Republice Konga uderza 158 piorunów na…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 01-23, slot 1 -->
-
-_Treść do uzupełnienia._
+Wioskę Kifuka w Demokratycznej Republice Konga co roku uderza **158 ** piorunów na kilometr kwadratowy, co stanowi jedno z najwyższych zagęszczeń na świecie.

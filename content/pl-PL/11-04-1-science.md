@@ -5,11 +5,9 @@ month: 11
 day: 4
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: Bazy danych NoSQL pojawiły się pod koniec XXI wieku w celu obsługi…
+teaser: Bazy danych NoSQL pojawiły się pod koniec XXI wieku w celu obsługi danych w skali internetowej —…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 11-04, slot 1 -->
-
-_Treść do uzupełnienia._
+Bazy danych NoSQL pojawiły się pod koniec XXI wieku w celu obsługi danych w skali sieciowej — termin ten ukuto na potrzeby spotkania w **2009 ** na temat „rozproszonych, nierelacyjnych baz danych typu open source”.

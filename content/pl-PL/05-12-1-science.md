@@ -5,11 +5,9 @@ month: 5
 day: 12
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: Fale Rossby’ego mogą pomóc w tworzeniu nowych cyklonów…
+teaser: Fale Rossby'ego mogą pomóc w tworzeniu nowych cyklonów tropikalnych, przenosząc energię z…
+published: true
+version: 1
 ---
-<!-- TODO: fakt na 05-12, slot 1 -->
-
-_Treść do uzupełnienia._
+Fale Rossby'ego mogą pomóc w tworzeniu nowych cyklonów tropikalnych, przenosząc energię z istniejących dojrzałych burz.

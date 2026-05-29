@@ -5,11 +5,11 @@ month: 5
 day: 12
 sequence_index: 1
 category: science
-title: 
-teaser: 
-published: false
-version: 0
+title: Rossby waves can help form new tropical cyclones by transferring…
+teaser: Rossby waves can help form new tropical cyclones by transferring energy from existing mature storms.
+published: true
+version: 1
 ---
-<!-- TODO: fact for 05-12, slot 1 -->
+Rossby waves can help form new tropical cyclones by transferring energy from existing mature storms.
 
-_Content pending._
+[Tropical cyclone (Wikipedia)](https://en.wikipedia.org/wiki/Tropical_cyclone)
