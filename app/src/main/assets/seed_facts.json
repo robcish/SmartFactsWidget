@@ -1,7 +1,7 @@
 {
-  "manifest_version": "v2-9c4f99dd1c62a922",
+  "manifest_version": "v2-ac3bf4d9884894b0",
   "version": 2,
-  "generated_at": "2026-05-29T15:33:10+00:00",
+  "generated_at": "2026-05-29T15:47:53+00:00",
   "facts": [
     {
       "id": "01-01-0-general",
@@ -4983,17 +4983,17 @@
       "version": 1
     },
     {
-      "id": "05-07-2-sport",
+      "id": "05-07-2-science",
       "locale": "en-US",
-      "category": "sport",
-      "title": "Ice-albedo feedback strength peaks around 2100 under high warming…",
-      "teaser": "Ice-albedo feedback strength peaks around 2100 under high warming scenarios and declines…",
-      "body_md": "Ice-albedo feedback strength peaks around **2100 **under high warming scenarios and declines afterwards because most easily melted ice will already be gone.\n\n[Climate feedback (Wikipedia)](https://en.wikipedia.org/wiki/Climate_feedback)",
+      "category": "science",
+      "title": "Melting ice can amplify warming—then fade",
+      "teaser": "Ice-albedo feedback may peak around 2100 in hot scenarios, then weaken once bright ice is mostly gone.",
+      "body_md": "Bright **ice and snow** reflect sunlight; open ocean and rock absorb it. Climate models show **ice-albedo feedback** strengthening into the **21st century** under high-emissions paths, then easing as easily melted ice disappears.\n\n[Climate feedback (Wikipedia)](https://en.wikipedia.org/wiki/Climate_feedback)",
       "month": 5,
       "day": 7,
       "sequence_index": 2,
       "published": true,
-      "version": 1
+      "version": 2
     },
     {
       "id": "05-08-0-psychology",
@@ -19257,17 +19257,17 @@
       "version": 1
     },
     {
-      "id": "05-07-2-sport",
+      "id": "05-07-2-science",
       "locale": "pl-PL",
-      "category": "sport",
-      "title": "Siła sprzężenia zwrotnego albedo lodowego osiąga szczyt około 2100…",
-      "teaser": "Siła sprzężenia zwrotnego albedo lodowego osiąga szczyt około 2100 roku w scenariuszach dużego…",
-      "body_md": "Siła sprzężenia zwrotnego albedo lodowego osiąga szczyt w okolicach **2100 **w scenariuszach dużego ocieplenia, a następnie spada, ponieważ większość łatwo topniejącego lodu już zniknie.",
+      "category": "science",
+      "title": "Topniejący lód może wzmacniać ocieplenie—potem słabnąć",
+      "teaser": "Sprzężenie albedo lodu może osiągnąć szczyt ok. 2100 r. w gorących scenariuszach, potem słabnąć.",
+      "body_md": "Jasny **lód i śnieg** odbijają światło słoneczne; ocean i skały je pochłaniają. Modele klimatu pokazują, że **sprzężenie albedo lodu** rośnie w **XXI wieku** przy wysokiej emisji, potem słabnie, gdy znika większość łatwo topniejącego lodu.\n\n[Sprzężenie klimatyczne (Wikipedia)](https://pl.wikipedia.org/wiki/Sprz%C4%99%C5%BCenie_klimatyczne)",
       "month": 5,
       "day": 7,
       "sequence_index": 2,
       "published": true,
-      "version": 1
+      "version": 2
     },
     {
       "id": "05-08-0-psychology",

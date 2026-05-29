@@ -128,6 +128,7 @@ class FactRepositoryImpl @Inject constructor(
             val entities = manifest.facts.filter { it.published }.toEntities()
             if (entities.isNotEmpty()) {
                 factDao.upsertAll(entities)
+                purgeStaleFacts(entities)
                 val version = manifest.manifestVersion.ifBlank { manifest.version.toString() }
                 manifestPreferences.setStoredManifestVersion(version)
                 refreshTrigger.value = refreshTrigger.value + 1
@@ -143,18 +144,20 @@ class FactRepositoryImpl @Inject constructor(
         runCatching {
             val manifest = remoteDataSource.fetchManifest()
             val version = manifest.manifestVersion.ifBlank { manifest.version.toString() }
-            if (version == manifestPreferences.getStoredManifestVersion() && cachedCount > 0) {
-                refreshTrigger.value = refreshTrigger.value + 1
-                Log.d(TAG, "Manifest unchanged ($version), using $cachedCount cached facts")
-                return@withLock Result.success(cachedCount)
-            }
-
             val entities = manifest.facts
                 .filter { it.published }
                 .toEntities()
 
+            if (version == manifestPreferences.getStoredManifestVersion() && cachedCount > 0) {
+                purgeStaleFacts(entities)
+                refreshTrigger.value = refreshTrigger.value + 1
+                Log.d(TAG, "Manifest unchanged ($version), using $cachedCount cached facts")
+                return@withLock Result.success(factDao.countAll())
+            }
+
             if (entities.isNotEmpty()) {
                 factDao.upsertAll(entities)
+                purgeStaleFacts(entities)
                 manifestPreferences.setStoredManifestVersion(version)
                 logRowCount("sync", entities.size)
             } else {
@@ -186,14 +189,22 @@ class FactRepositoryImpl @Inject constructor(
         return DayScheduleResolver.millisUntilNextBoundary(dayFacts, today, year, zone = zone)
     }
 
+    /** Remove rows whose id was renamed or dropped from the manifest (upsert alone leaves orphans). */
+    private suspend fun purgeStaleFacts(entities: List<FactEntity>) {
+        val keep = entities.map { it.id to it.locale }.toSet()
+        val stale = factDao.getAllKeys().filter { (it.id to it.locale) !in keep }
+        if (stale.isEmpty()) return
+        for (key in stale) {
+            factDao.deleteByKey(key.id, key.locale)
+        }
+        Log.d(TAG, "Purged ${stale.size} stale fact row(s), e.g. ${stale.first().id}")
+    }
+
     private suspend fun logRowCount(source: String, manifestCount: Int) {
         val rows = factDao.countAll()
         Log.d(TAG, "$source: manifest=$manifestCount rows=$rows")
-        if (rows < manifestCount) {
-            Log.e(
-                TAG,
-                "Expected $manifestCount rows but found $rows — uninstall app to reset Room DB",
-            )
+        if (rows != manifestCount) {
+            Log.w(TAG, "Row count mismatch after sync: manifest=$manifestCount rows=$rows")
         }
     }
 

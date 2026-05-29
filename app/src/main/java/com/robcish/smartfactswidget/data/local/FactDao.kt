@@ -44,4 +44,10 @@ interface FactDao {
 
     @Query("SELECT COUNT(*) FROM facts")
     suspend fun countAll(): Int
+
+    @Query("SELECT id, locale FROM facts")
+    suspend fun getAllKeys(): List<FactKey>
+
+    @Query("DELETE FROM facts WHERE id = :id AND locale = :locale")
+    suspend fun deleteByKey(id: String, locale: String)
 }
