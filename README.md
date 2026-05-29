@@ -120,7 +120,6 @@ Push to `main` — devices pick up new facts on the next sync. A new APK is only
 ## Project status
 
 **v1.0.0** — MVP ready for Play Store (widget, sync, full-year content).  
-Planned later: browse history screen, settings, dedicated about screen.
 
 ---
 
