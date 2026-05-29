@@ -1,0 +1,10 @@
+<!-- Themed icon (Android 13+): lines only — no full-bleed dark fill. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#000000"
+        android:pathData="M28,38h52v5H28zM28,50h44v5H28zM28,62h36v5H28zM28,74h48v5H28z" />
+</vector>

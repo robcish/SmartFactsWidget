@@ -46,8 +46,8 @@ BASE_URL = (
 # Material SVGs use viewBox 0 -960 960 960. Glance/AppWidget rasterization needs a 24×24
 # viewport (large viewports often render as blank). Scale paths via <group>.
 SCALE = 24 / 960
-# ~20% black watermark on yellow widget background (no runtime tint — Glance is flaky).
-FILL_COLOR = "#33121212"
+# ~17% black watermark on yellow widget background (no runtime tint — Glance is flaky).
+FILL_COLOR = "#2B121212"
 
 VECTOR_TEMPLATE = """<?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"

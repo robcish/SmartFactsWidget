@@ -70,7 +70,7 @@ python3 tools/verify_category_cooldown.py
 ## Content quality
 
 - **Tone:** calm, curious, accessible; portfolio/education app (not clickbait).
-- **Teaser** (widget): exactly **one** short hook sentence (widget shows **one line** in strip size).
+- **Teaser** (widget): one or two short sentences; the widget wraps the full teaser (no fixed line cap). Keep it concise so very small widgets are still readable.
 - **Body** (detail): 1–3 short paragraphs, Markdown; optional `**bold**`; end with a Wikipedia link when possible.
 - **Locales:** always create **both** `pl-PL` and `en-US` with the same `id`, `month`, `day`, `sequence_index`, `category`. **Translate**, do not paste English into PL files.
 - **Wikipedia links:** use real article titles in the URL. Run `python3 tools/verify_wikipedia_links.py`. PL and EN titles often differ; if there is no sensible PL article for the topic, **omit the link** (do not use a generic category article).

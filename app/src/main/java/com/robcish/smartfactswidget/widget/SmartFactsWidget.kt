@@ -2,7 +2,6 @@ package com.robcish.smartfactswidget.widget
 
 import android.content.Context
 import androidx.compose.runtime.Composable
-import androidx.compose.ui.unit.DpSize
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.glance.GlanceId
@@ -35,14 +34,8 @@ import dagger.hilt.android.EntryPointAccessors
 
 class SmartFactsWidget : GlanceAppWidget() {
 
-    override val sizeMode: SizeMode = SizeMode.Responsive(
-        setOf(
-            DpSize(110.dp, 48.dp),
-            DpSize(180.dp, 48.dp),
-            DpSize(180.dp, 110.dp),
-            DpSize(250.dp, 180.dp),
-        ),
-    )
+    // Exact size so tall resized widgets get real height (Responsive capped at ~180 dp).
+    override val sizeMode: SizeMode = SizeMode.Exact
 
     override suspend fun provideGlance(context: Context, id: GlanceId) {
         val repository = EntryPointAccessors.fromApplication(
@@ -67,24 +60,15 @@ class SmartFactsWidget : GlanceAppWidget() {
 @Composable
 private fun WidgetContent(context: Context, fact: FactEntity?) {
     val size = LocalSize.current
-    val strip = size.height < 80.dp
-    val compact = !strip && (size.width < 150.dp || size.height < 130.dp)
-    val padding = when {
-        strip -> 6.dp
-        compact -> 8.dp
-        else -> 12.dp
+    val isStrip = size.height < 80.dp
+    val contentPadding = when {
+        isStrip -> GlanceModifier.padding(start = 12.dp, end = 8.dp, top = 6.dp, bottom = 6.dp)
+        size.width < 150.dp || size.height < 130.dp ->
+            GlanceModifier.padding(start = 14.dp, end = 10.dp, top = 8.dp, bottom = 8.dp)
+        else -> GlanceModifier.padding(start = 16.dp, end = 12.dp, top = 12.dp, bottom = 12.dp)
     }
-    val iconSize = when {
-        strip -> 24.dp
-        compact -> 32.dp
-        else -> 48.dp
-    }
-    val fontSize = if (strip || compact) 12.sp else 14.sp
-    val maxLines = when {
-        strip -> 1
-        compact -> 2
-        else -> 4
-    }
+    val iconSize = if (isStrip) 16.dp else if (size.width < 150.dp || size.height < 130.dp) 28.dp else 40.dp
+    val fontSize = if (isStrip) 11.sp else if (size.width < 150.dp || size.height < 130.dp) 12.sp else 14.sp
 
     val background = ColorProvider(AccentYellow)
     val textColor = ColorProvider(TextDark)
@@ -100,7 +84,7 @@ private fun WidgetContent(context: Context, fact: FactEntity?) {
         modifier = GlanceModifier
             .fillMaxSize()
             .background(background)
-            .padding(padding)
+            .then(contentPadding)
             .then(clickModifier),
     ) {
         when {
@@ -144,10 +128,7 @@ private fun WidgetContent(context: Context, fact: FactEntity?) {
                             fontWeight = FontWeight.Medium,
                             textAlign = TextAlign.Start,
                         ),
-                        modifier = GlanceModifier
-                            .fillMaxWidth()
-                            .padding(end = if (compact) 4.dp else 8.dp, bottom = 4.dp),
-                        maxLines = maxLines,
+                        modifier = GlanceModifier.fillMaxWidth(),
                     )
                 }
             }
