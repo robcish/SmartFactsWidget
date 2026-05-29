@@ -67,7 +67,15 @@ class FactRepositoryImpl @Inject constructor(
         nowMs: Long,
     ): FactEntity? {
         val dayFacts = factDao.getFactsForDay(locale, calendarDate.month, calendarDate.day)
-        return DayScheduleResolver.pickCurrent(dayFacts, calendarDate, year, nowMs)
+        val current = DayScheduleResolver.pickCurrent(dayFacts, calendarDate, year, nowMs)
+        if (current == null && dayFacts.isNotEmpty()) {
+            Log.d(
+                TAG,
+                "No released slot yet for $locale on ${calendarDate.month}/${calendarDate.day} " +
+                    "(facts=${dayFacts.size}, db=${factDao.countAll()})",
+            )
+        }
+        return current
     }
 
     override suspend fun getBrowsableTimeline(locale: String): List<FactEntity> {
@@ -105,18 +113,22 @@ class FactRepositoryImpl @Inject constructor(
         if (factDao.countAll() == 0) {
             loadBundledSeed()
         }
-        if (factDao.countAll() == 0) {
-            syncFacts()
-        }
+        syncFacts()
     }
 
     private suspend fun loadBundledSeed() {
-        val manifest = remoteDataSource.loadBundledManifest()
-        val entities = manifest.facts.filter { it.published }.toEntities()
-        if (entities.isNotEmpty()) {
-            factDao.upsertAll(entities)
-            val version = manifest.manifestVersion.ifBlank { manifest.version.toString() }
-            manifestPreferences.setStoredManifestVersion(version)
+        runCatching {
+            val manifest = remoteDataSource.loadBundledManifest()
+            val entities = manifest.facts.filter { it.published }.toEntities()
+            if (entities.isNotEmpty()) {
+                factDao.upsertAll(entities)
+                val version = manifest.manifestVersion.ifBlank { manifest.version.toString() }
+                manifestPreferences.setStoredManifestVersion(version)
+                refreshTrigger.value = refreshTrigger.value + 1
+                Log.d(TAG, "Loaded ${entities.size} facts from bundled seed")
+            }
+        }.onFailure { error ->
+            Log.w(TAG, "Bundled seed load failed (will try network sync)", error)
         }
     }
 
@@ -127,6 +139,7 @@ class FactRepositoryImpl @Inject constructor(
             val version = manifest.manifestVersion.ifBlank { manifest.version.toString() }
             if (version == manifestPreferences.getStoredManifestVersion() && cachedCount > 0) {
                 refreshTrigger.value = refreshTrigger.value + 1
+                Log.d(TAG, "Manifest unchanged ($version), using $cachedCount cached facts")
                 return@withLock Result.success(cachedCount)
             }
 
@@ -137,6 +150,9 @@ class FactRepositoryImpl @Inject constructor(
             if (entities.isNotEmpty()) {
                 factDao.upsertAll(entities)
                 manifestPreferences.setStoredManifestVersion(version)
+                Log.d(TAG, "Synced ${entities.size} facts (manifest $version)")
+            } else {
+                Log.w(TAG, "Remote manifest contained no published facts")
             }
 
             refreshTrigger.value = refreshTrigger.value + 1

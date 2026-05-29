@@ -25,18 +25,20 @@ class HomeViewModel @Inject constructor(
             val locale = factRepository.resolveDeviceLocale()
             _uiState.update { it.copy(isLoading = true, locale = locale) }
 
-            factRepository.ensureCacheWarm()
-            factRepository.syncFacts()
-            val hasLocal = factRepository.hasLocalFacts()
-            factRepository.observeCurrentFact(locale).collect { fact ->
-                _uiState.update {
-                    it.copy(
-                        fact = fact,
-                        isLoading = false,
-                        hasError = fact == null && !hasLocal,
-                    )
+            launch {
+                factRepository.observeCurrentFact(locale).collect { fact ->
+                    val hasLocal = factRepository.hasLocalFacts()
+                    _uiState.update {
+                        it.copy(
+                            fact = fact,
+                            isLoading = false,
+                            hasError = fact == null && !hasLocal,
+                        )
+                    }
                 }
             }
+
+            factRepository.ensureCacheWarm()
         }
     }
 }
