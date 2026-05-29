@@ -4,7 +4,7 @@
 from __future__ import annotations
 
 import shutil
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -12,7 +12,9 @@ ROOT = Path(__file__).resolve().parents[1]
 CONTENT = ROOT / "content"
 TZ = ZoneInfo("Europe/Warsaw")
 SLOT_HOURS = (0, 6, 12, 18)
-START = datetime(2026, 5, 27, 0, 0, tzinfo=TZ)
+# First slot: today 00:00 Warsaw (override via SMARTFACTS_START_DATE=YYYY-MM-DD)
+START = datetime(2026, 5, 29, 0, 0, tzinfo=TZ)
+CATEGORY_COOLDOWN_DAYS = 2
 
 # (category, pl_title, pl_teaser, pl_body, en_title, en_teaser, en_body)
 FACTS: list[tuple[str, str, str, str, str, str, str]] = [
@@ -433,28 +435,72 @@ FACTS: list[tuple[str, str, str, str, str, str, str]] = [
 ]
 
 
-def slot_datetimes(count: int) -> list[datetime]:
+def slot_datetimes(max_slots: int) -> list[datetime]:
+    """Yield consecutive slots (one fact each) from START."""
     slots: list[datetime] = []
     day = START
-    while len(slots) < count:
+    while len(slots) < max_slots:
         for hour in SLOT_HOURS:
             slots.append(day.replace(hour=hour, minute=0, second=0, microsecond=0))
-            if len(slots) >= count:
+            if len(slots) >= max_slots:
                 break
         day += timedelta(days=1)
     return slots
 
 
+def category_allowed(category: str, slot_day: date, last_used: dict[str, date]) -> bool:
+    previous = last_used.get(category)
+    if previous is None:
+        return True
+    return (slot_day - previous).days >= CATEGORY_COOLDOWN_DAYS
+
+
+def schedule_facts(
+    facts: list[tuple[str, str, str, str, str, str, str]],
+) -> list[tuple[datetime, tuple[str, str, str, str, str, str, str]]]:
+    """Assign one fact per slot; enforce 2-day category cooldown."""
+    from collections import defaultdict, deque
+
+    by_category: dict[str, deque] = defaultdict(deque)
+    for fact in facts:
+        by_category[fact[0]].append(fact)
+
+    remaining = sum(len(q) for q in by_category.values())
+    slots = slot_datetimes(remaining)
+    last_used: dict[str, date] = {}
+    scheduled: list[tuple[datetime, tuple]] = []
+
+    for slot in slots:
+        slot_day = slot.date()
+        eligible = [
+            cat
+            for cat, queue in by_category.items()
+            if queue and category_allowed(cat, slot_day, last_used)
+        ]
+        if not eligible:
+            raise RuntimeError(
+                f"No eligible category for slot {slot.isoformat()}. "
+                f"Add more facts/categories or relax cooldown."
+            )
+        # Prefer category unused longest ago (variety)
+        eligible.sort(key=lambda c: last_used.get(c, date(1970, 1, 1)))
+        category = eligible[0]
+        fact = by_category[category].popleft()
+        last_used[category] = slot_day
+        scheduled.append((slot, fact))
+
+    return scheduled
+
+
 def write_fact(
     slot: datetime,
-    seq: int,
     category: str,
     locale: str,
     title: str,
     teaser: str,
     body: str,
 ) -> None:
-    fact_id = f"{slot.strftime('%Y-%m-%d')}-{slot.hour:02d}-{category}-{seq:02d}"
+    fact_id = f"{slot.strftime('%Y-%m-%d')}-{slot.hour:02d}-{category}"
     release_ms = int(slot.timestamp() * 1000)
     folder = CONTENT / locale
     folder.mkdir(parents=True, exist_ok=True)
@@ -481,16 +527,34 @@ def write_fact(
 
 
 def main() -> None:
+    import os
+
+    global START
+    start_override = os.environ.get("SMARTFACTS_START_DATE")
+    if start_override:
+        START = datetime.strptime(start_override, "%Y-%m-%d").replace(tzinfo=TZ)
+
     if CONTENT.exists():
         shutil.rmtree(CONTENT)
-    slots = slot_datetimes(len(FACTS))
-    for idx, fact in enumerate(FACTS):
+    rules_path = ROOT / "content" / "FACT_GENERATION_RULES.md"
+    rules_content = rules_path.read_text(encoding="utf-8") if rules_path.exists() else None
+
+    if CONTENT.exists():
+        shutil.rmtree(CONTENT)
+
+    scheduled = schedule_facts(FACTS)
+    for slot, fact in scheduled:
         category, pl_t, pl_te, pl_b, en_t, en_te, en_b = fact
-        slot = slots[idx]
-        write_fact(slot, idx, category, "pl-PL", pl_t, pl_te, pl_b)
-        write_fact(slot, idx, category, "en-US", en_t, en_te, en_b)
-    print(f"Generated {len(FACTS)} facts × 2 locales = {len(FACTS) * 2} files")
-    print(f"Slots: {slots[0].isoformat()} … {slots[-1].isoformat()}")
+        write_fact(slot, category, "pl-PL", pl_t, pl_te, pl_b)
+        write_fact(slot, category, "en-US", en_t, en_te, en_b)
+
+    if rules_content:
+        rules_path.parent.mkdir(parents=True, exist_ok=True)
+        rules_path.write_text(rules_content, encoding="utf-8")
+
+    print(f"Generated {len(scheduled)} slots × 2 locales = {len(scheduled) * 2} files")
+    print(f"Start: {scheduled[0][0].isoformat()} → {scheduled[-1][0].isoformat()}")
+    print(f"Category cooldown: {CATEGORY_COOLDOWN_DAYS} calendar days")
 
 
 if __name__ == "__main__":
