@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Facts</string>
+    <string name="widget_name">Smart Facts</string>
+    <string name="widget_description">A calm, daily dose of knowledge.</string>
+    <string name="home_tagline">A calm, daily dose of knowledge.</string>
+    <string name="read_more">Read more</string>
+    <string name="no_fact_title">No fact for today</string>
+    <string name="no_fact_message">Check back soon — new knowledge is on its way.</string>
+    <string name="loading">Loading…</string>
+    <string name="error_loading">Could not load facts. Showing cached content if available.</string>
+    <string name="widget_loading">Loading fact…</string>
+    <string name="widget_empty">No fact available yet.</string>
+    <string name="detail_swipe_hint">Przesuń w bok, by zobaczyć wcześniejsze fakty. Aktualny jest ostatni.</string>
+</resources>
