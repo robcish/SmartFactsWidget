@@ -35,11 +35,12 @@ interface FactDao {
         """
         SELECT * FROM facts
         WHERE id = :id
+          AND locale = :locale
           AND published = 1
         LIMIT 1
         """,
     )
-    suspend fun getFactById(id: String): FactEntity?
+    suspend fun getFactById(id: String, locale: String): FactEntity?
 
     @Query("SELECT COUNT(*) FROM facts")
     suspend fun countAll(): Int

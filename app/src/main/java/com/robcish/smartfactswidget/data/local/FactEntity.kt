@@ -1,11 +1,14 @@
 package com.robcish.smartfactswidget.data.local
 
 import androidx.room.Entity
-import androidx.room.PrimaryKey
 
-@Entity(tableName = "facts")
+@Entity(
+    tableName = "facts",
+    primaryKeys = ["id", "locale"],
+)
 data class FactEntity(
-    @PrimaryKey val id: String,
+    /** Content id shared by locale variants, e.g. 05-29-0-animals */
+    val id: String,
     val locale: String,
     val title: String,
     val teaser: String,

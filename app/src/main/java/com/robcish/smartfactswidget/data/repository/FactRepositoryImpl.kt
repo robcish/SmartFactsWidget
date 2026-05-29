@@ -94,7 +94,10 @@ class FactRepositoryImpl @Inject constructor(
     }
 
     override suspend fun getFactById(id: String): FactEntity? {
-        val fact = factDao.getFactById(id) ?: return null
+        val locale = resolveDeviceLocale()
+        val fact = factDao.getFactById(id, locale)
+            ?: factDao.getFactById(id, LOCALE_EN)
+            ?: return null
         val zone = DayScheduleResolver.zoneId()
         val nowMs = System.currentTimeMillis()
         val dayFacts = factDao.getFactsForDay(fact.locale, fact.month, fact.day)
@@ -125,7 +128,7 @@ class FactRepositoryImpl @Inject constructor(
                 val version = manifest.manifestVersion.ifBlank { manifest.version.toString() }
                 manifestPreferences.setStoredManifestVersion(version)
                 refreshTrigger.value = refreshTrigger.value + 1
-                Log.d(TAG, "Loaded ${entities.size} facts from bundled seed")
+                Log.d(TAG, "Loaded ${entities.size} facts from bundled seed (rows=${factDao.countAll()})")
             }
         }.onFailure { error ->
             Log.w(TAG, "Bundled seed load failed (will try network sync)", error)
