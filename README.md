@@ -128,4 +128,4 @@ Planned later: browse history screen, settings, dedicated about screen.
 
 MIT License — see [LICENSE](LICENSE).
 
-© 2025–2026 Robert Rozanski
+© 2025–2026 Robert Różański

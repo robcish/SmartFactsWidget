@@ -25,7 +25,7 @@ You will be prompted for:
 |--------|------------|
 | Keystore password | Strong password — store in a password manager |
 | Key password | Same as keystore password (press Enter when asked to reuse) |
-| Name / org | Your name or “Robert Rozanski” |
+| Name / org | Your name or “Robert Różański” |
 | Country code | e.g. `PL` |
 
 **Back up** `release/smart-facts-upload.jks` and the passwords somewhere safe (encrypted backup, password manager). If you lose them, you cannot upload updates for the same app id without going through Google’s key reset process.
