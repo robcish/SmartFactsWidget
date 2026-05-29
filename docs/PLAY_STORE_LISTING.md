@@ -4,6 +4,18 @@ Limits: **title** 30 chars · **short description** 80 chars · **full descripti
 
 Privacy policy URL: `https://robcish.github.io/SmartFactsWidget/privacy.html`
 
+## Store graphics (PNG)
+
+Generated assets (regenerate: `python3 tools/generate_play_store_graphics.py`):
+
+| File | Size | Use in Play Console |
+|------|------|---------------------|
+| `docs/play-store/icon-512.png` | 512×512 | Ikona aplikacji w sklepie |
+| `docs/play-store/feature-graphic-1024x500.png` | 1024×500 | Grafika — funkcja (EN) |
+| `docs/play-store/feature-graphic-1024x500-pl.png` | 1024×500 | Grafika — funkcja (PL, opcjonalnie) |
+
+Branding: `icon-512.png` i ikona w feature graphic = `tools/launcher_icon_render.py` (piksele 1:1 z `ic_launcher_foreground.xml`). Po zmianie wektoru: `python3 tools/generate_play_store_graphics.py`.
+
 ---
 
 ## English (en-US)
