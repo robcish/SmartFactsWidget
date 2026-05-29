@@ -22,6 +22,8 @@ app/build/
 # Keystore
 *.jks
 *.keystore
+keystore.properties
+release/
 
 # Python
 __pycache__/

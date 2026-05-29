@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "content/**"
+      - "docs/**"
       - "tools/build_manifest.py"
       - "tools/generate_facts_database.py"
       - "tools/scaffold_year_content.py"

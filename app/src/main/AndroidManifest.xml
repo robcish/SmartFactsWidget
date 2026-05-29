@@ -24,14 +24,9 @@
 
         <activity
             android:name=".DetailActivity"
-            android:exported="true"
+            android:exported="false"
             android:launchMode="singleTop"
-            android:theme="@style/Theme.SmartFactsWidget">
-            <intent-filter>
-                <action android:name="com.robcish.smartfactswidget.ACTION_OPEN_FACT" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
+            android:theme="@style/Theme.SmartFactsWidget" />
 
         <receiver
             android:name=".widget.SmartFactsWidgetReceiver"

@@ -4,6 +4,7 @@
     <string name="widget_name">Smart Facts</string>
     <string name="widget_description">A calm, daily dose of knowledge.</string>
     <string name="home_tagline">A calm, daily dose of knowledge.</string>
+    <string name="home_widget_hint">To see facts on your home screen, add the widget: long-press the home screen, tap Widgets, then choose Smart Facts.</string>
     <string name="read_more">Read more</string>
     <string name="no_fact_title">No fact for today</string>
     <string name="no_fact_message">Check back soon — new knowledge is on its way.</string>
@@ -13,4 +14,6 @@
     <string name="widget_empty">No fact available yet.</string>
     <string name="detail_swipe_hint">Swipe left for older facts.</string>
     <string name="detail_page_position">%1$d / %2$d</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="privacy_policy_url">https://robcish.github.io/SmartFactsWidget/privacy.html</string>
 </resources>

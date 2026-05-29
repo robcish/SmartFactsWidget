@@ -4,6 +4,7 @@
     <string name="widget_name">Smart Facts</string>
     <string name="widget_description">Spokojna, codzienna dawka wiedzy.</string>
     <string name="home_tagline">Spokojna, codzienna dawka wiedzy.</string>
+    <string name="home_widget_hint">Aby widzieć fakty na pulpicie, dodaj widget: przytrzymaj pulpit, wybierz Widgety, a następnie Smart Facts.</string>
     <string name="read_more">Czytaj więcej</string>
     <string name="no_fact_title">Brak faktu na dziś</string>
     <string name="no_fact_message">Wróć wkrótce — nowa wiedza już w drodze.</string>
@@ -13,4 +14,6 @@
     <string name="widget_empty">Brak faktu na teraz.</string>
     <string name="detail_swipe_hint">Przesuń w lewo, by zobaczyć starsze fakty.</string>
     <string name="detail_page_position">%1$d / %2$d</string>
+    <string name="privacy_policy">Polityka prywatności</string>
+    <string name="privacy_policy_url">https://robcish.github.io/SmartFactsWidget/privacy.html</string>
 </resources>

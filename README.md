@@ -11,12 +11,12 @@ Content is managed in this repository (GitHub-as-CMS) — no separate backend to
 
 ## Features
 
-- Daily educational facts across multiple topics (PL + EN)
-- Home screen widget (Jetpack Glance) with tap-to-read
-- Offline-ready — facts cached locally in Room
+- **Three facts per day** (morning, midday, afternoon) in **Polish and English**
+- Home screen **widget** (Jetpack Glance) with tap-to-read
+- In-app reader with a **7-day timeline**
+- **Offline-ready** — full-year seed bundled; Room cache for sync
 - Auto-sync via WorkManager (daily + on app start)
-- Future facts stay hidden until their release date
-- Ad-free, non-commercial portfolio project
+- Ad-free, no account, no analytics SDKs
 
 ---
 
@@ -28,106 +28,99 @@ Content is managed in this repository (GitHub-as-CMS) — no separate backend to
 | Widget | Jetpack Glance |
 | Background sync | WorkManager |
 | Local cache | Room |
-| Remote content | GitHub Pages (static JSON manifest) |
+| Remote content | GitHub Pages (`facts.json`) |
 | HTTP client | Ktor |
 | DI | Hilt |
 | Language | Kotlin |
-| Min SDK | 23 |
+| Min SDK | 23 · Target SDK | 35 |
 
 ---
 
 ## Architecture
 
-Content lives in this repo as Markdown files. A GitHub Action builds a JSON manifest and deploys it to GitHub Pages. The Android app pulls the manifest, caches facts in Room, and serves both the widget and in-app UI from the same repository layer.
+Facts live as Markdown under `content/pl-PL/` and `content/en-US/`. CI builds `docs/facts.json` and deploys the `docs/` folder to GitHub Pages.
 
 ```
-content/pl-PL/*.md  +  content/en-US/*.md
+content/{locale}/*.md
         │
-        ▼  git push
+        ▼  git push (main)
 .github/workflows/publish.yml
         │
-        ▼  tools/build_manifest.py
-docs/facts.json
+        ▼
+docs/facts.json  +  docs/privacy.html
         │
         ▼  GitHub Pages
-Android app  →  Ktor GET  →  Room  →  Glance widget + Compose UI
+Android app  →  HTTPS  →  Room  →  widget + Compose UI
 ```
+
+Calendar model: facts repeat every year on **month + day** with `sequence_index` 0, 1, 2. See [content/FACT_GENERATION_RULES.md](content/FACT_GENERATION_RULES.md).
 
 ---
 
-## Content Format
-
-Facts are stored as Markdown with YAML frontmatter:
-
-```markdown
----
-id: 2025-05-22-science-sharks
-locale: pl-PL
-category: science
-title: Sharks are older than trees
-teaser: Did you know sharks existed before trees?
-release_epoch_ms: 1747897200000
-published: true
----
-Sharks have been around for over 400 million years...
-```
-
-Directory layout:
-
-```
-content/
-  pl-PL/
-    2025-05-22-science-sharks.md
-  en-US/
-    2025-05-22-science-sharks.md
-```
-
-To publish a new fact: add or edit a `.md` file, commit, and push to `main`. CI rebuilds `docs/facts.json` and deploys to GitHub Pages. Devices pick up changes on the next sync.
-
----
-
-## Build & Setup
+## Build & run
 
 ### Prerequisites
 
 - Android Studio (latest stable) with SDK 35
 - JDK 17
-- GitHub Pages enabled on this repo (Settings → Pages → GitHub Actions)
 
-### Run the app
-
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:robcish/SmartFactsWidget.git
-   cd SmartFactsWidget
-   ```
-2. Open the project in Android Studio.
-3. Sync Gradle and run on an emulator or device (`app` configuration).
-4. Add the **Smart Facts** widget to your home screen.
-
-### Build from command line
+### Run locally
 
 ```bash
-./gradlew assembleDebug
+git clone git@github.com:robcish/SmartFactsWidget.git
+cd SmartFactsWidget
+```
+
+Open in Android Studio → Run `app`. Add the **Smart Facts** widget from the home screen (long-press → Widgets).
+
+### Command line
+
+```bash
+./gradlew assembleDebug          # debug APK
+./gradlew bundleRelease          # release AAB (signed if keystore.properties exists)
 ```
 
 ---
 
-## Publishing Workflow (for contributors / AI agents)
+## Release (Google Play)
 
-1. Create a Markdown file in `content/pl-PL/` or `content/en-US/`.
-2. Set `release_epoch_ms` to the fact's go-live timestamp (milliseconds since epoch).
-3. Set `published: true` when ready.
-4. Push to `main` — GitHub Action runs `tools/build_manifest.py` and updates `docs/facts.json`.
-5. GitHub Pages serves the updated manifest; apps sync on next WorkManager run.
+| Doc | Purpose |
+|-----|---------|
+| [docs/RELEASE.md](docs/RELEASE.md) | Checklist before upload |
+| [docs/KEYSTORE.md](docs/KEYSTORE.md) | Sign release AAB (upload key) |
+| [docs/CERTIFICATE_SHA256.md](docs/CERTIFICATE_SHA256.md) | SHA-256 from APK via `apksigner` (Method 1A) |
+| [docs/PLAY_STORE_LISTING.md](docs/PLAY_STORE_LISTING.md) | Store title, descriptions (EN + PL) |
+| [docs/privacy.html](docs/privacy.html) | Privacy policy (Pages URL below) |
+
+**Privacy policy URL:** https://robcish.github.io/SmartFactsWidget/privacy.html
+
+1. Copy `keystore.properties.example` → `keystore.properties` and create the JKS ([KEYSTORE.md](docs/KEYSTORE.md)).
+2. Bump `versionCode` / `versionName` in `app/build.gradle.kts`.
+3. `./gradlew bundleRelease` → upload `app/build/outputs/bundle/release/app-release.aab`.
+
+Obfuscation (R8) is **not** required; it stays disabled.
 
 ---
 
-## Project Status
+## Content workflow
 
-**Early development / MVP in progress.**
+For agents and contributors, start at [AGENTS.md](AGENTS.md).
 
-Planned for v0.2: Browse history, Settings, About screen.
+```bash
+python3 tools/verify_category_cooldown.py
+python3 tools/verify_fact_uniqueness.py --published-only
+python3 tools/build_manifest.py
+cp docs/facts.json app/src/main/assets/seed_facts.json   # when refreshing offline seed
+```
+
+Push to `main` — devices pick up new facts on the next sync. A new APK is only needed for app code changes or an updated bundled seed.
+
+---
+
+## Project status
+
+**v1.0.0** — MVP ready for Play Store (widget, sync, full-year content).  
+Planned later: browse history screen, settings, dedicated about screen.
 
 ---
 
@@ -135,4 +128,4 @@ Planned for v0.2: Browse history, Settings, About screen.
 
 MIT License — see [LICENSE](LICENSE).
 
-© 2025 Robert Rozanski
+© 2025–2026 Robert Rozanski

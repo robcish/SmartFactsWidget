@@ -4,6 +4,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.robcish.smartfactswidget.data.local.FactEntity
 import com.robcish.smartfactswidget.data.repository.FactRepository
+import com.robcish.smartfactswidget.widget.WidgetPinChecker
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -15,12 +16,14 @@ import javax.inject.Inject
 @HiltViewModel
 class HomeViewModel @Inject constructor(
     private val factRepository: FactRepository,
+    private val widgetPinChecker: WidgetPinChecker,
 ) : ViewModel() {
 
     private val _uiState = MutableStateFlow(HomeUiState())
     val uiState: StateFlow<HomeUiState> = _uiState.asStateFlow()
 
     init {
+        refreshWidgetHint()
         viewModelScope.launch {
             val locale = factRepository.resolveDeviceLocale()
             _uiState.update { it.copy(isLoading = true, locale = locale) }
@@ -41,6 +44,12 @@ class HomeViewModel @Inject constructor(
             factRepository.ensureCacheWarm()
         }
     }
+
+    fun refreshWidgetHint() {
+        _uiState.update {
+            it.copy(showWidgetHint = !widgetPinChecker.isWidgetPinned())
+        }
+    }
 }
 
 data class HomeUiState(
@@ -48,4 +57,5 @@ data class HomeUiState(
     val locale: String = "",
     val isLoading: Boolean = true,
     val hasError: Boolean = false,
+    val showWidgetHint: Boolean = false,
 )
