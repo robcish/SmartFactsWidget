@@ -1,0 +1,15 @@
+---
+id: 12-19-1-geography
+locale: en-US
+month: 12
+day: 19
+sequence_index: 1
+category: geography
+title: 
+teaser: 
+published: false
+version: 0
+---
+<!-- TODO: fact for 12-19, slot 1 -->
+
+_Content pending._

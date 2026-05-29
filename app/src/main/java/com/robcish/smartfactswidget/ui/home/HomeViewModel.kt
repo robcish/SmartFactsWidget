@@ -27,12 +27,13 @@ class HomeViewModel @Inject constructor(
 
             factRepository.ensureCacheWarm()
             factRepository.syncFacts()
+            val hasLocal = factRepository.hasLocalFacts()
             factRepository.observeCurrentFact(locale).collect { fact ->
                 _uiState.update {
                     it.copy(
                         fact = fact,
                         isLoading = false,
-                        hasError = fact == null,
+                        hasError = fact == null && !hasLocal,
                     )
                 }
             }

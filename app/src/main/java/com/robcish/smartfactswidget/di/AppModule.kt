@@ -32,7 +32,9 @@ object DatabaseModule {
             context,
             AppDatabase::class.java,
             "smart_facts.db",
-        ).build()
+        )
+            .fallbackToDestructiveMigration()
+            .build()
     }
 
     @Provides
