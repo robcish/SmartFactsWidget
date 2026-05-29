@@ -5,11 +5,11 @@ month: 5
 day: 30
 sequence_index: 0
 category: psychology
-title: cow was documented using tools to scratch herself in 2024 - the…
-teaser: A cow was documented using tools to scratch herself in 2024 - the first scientific recording of…
+title: A cow learned to scratch with a brush
+teaser: In 2024, researchers filmed a cow using a stiff brush as a tool—the first documented case in cattle.
 published: true
-version: 1
+version: 2
 ---
-A cow was documented using tools to scratch herself in **2024** - the first scientific recording of tool use in bovines.
+Farm animals are smarter than barnyard stereotypes suggest. In **2024**, scientists recorded a **cow** picking up a stiff brush to scratch an itchy spot—one of the first clear cases of **tool use** documented in cattle.
 
-[Article (Wikipedia)](https://www.nationalgeographic.com/animals/article/cow-using-tools)
+[Tool use by animals (Wikipedia)](https://en.wikipedia.org/wiki/Tool_use_by_animals)

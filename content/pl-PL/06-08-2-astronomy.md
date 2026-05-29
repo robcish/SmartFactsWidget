@@ -5,9 +5,11 @@ month: 6
 day: 8
 sequence_index: 2
 category: astronomy
-title: UY Scuti to jedna z największych znanych gwiazd, o promieniu…
-teaser: UY Scuti to jedna z największych znanych gwiazd, której promień jest około 1700 razy większy od…
+title: Promień UY Scuti przyćmiewa Słońce
+teaser: Gdyby stanął na miejscu Słońca, ten czerwony nadolbrzym pochłonąłby orbitę Jowisza—ok. 1700× szerzej.
 published: true
-version: 1
+version: 2
 ---
-UY Scuti to jedna z największych znanych gwiazd, o promieniu około **1700 ** większym niż promień naszego Słońca.
+**UY Scuti** to pulsujący czerwony nadolbrzym w gwiazdozbiorze Tarczy. Jego fotosfera może sięgać ok. **1700 promieni słonecznych**—na tyle szeroka, że w centrum Układu Słonecznego sięgałaby poza **Jowisza**.
+
+[UY Scuti (Wikipedia)](https://pl.wikipedia.org/wiki/UY_Scuti)

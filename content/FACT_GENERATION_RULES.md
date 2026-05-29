@@ -43,6 +43,21 @@ The **same category must not appear again within 2 calendar days** (by month/day
 
 Before assigning a category to a new fact, check the previous two days in your batch (and existing published facts). If collisions exist, **swap categories** between days (keep the fact text) rather than forcing a mismatched label.
 
+## Category must match the topic (icon in the app)
+
+The `category` field controls the **icon** in the widget and detail screen. Assign it from the **subject** of the fact, not from the filename slot or batch plan alone.
+
+| Topic belongs in | Examples |
+|------------------|----------|
+| `geography`, `environment`, `science` | Climate records, weather extremes, oceans, ice sheets |
+| `math` | Proofs, algorithms, numbers—not temperature records |
+| `mythology` | Gods, legends, folklore—not thermometer readings |
+| `myth-busting` | Debunking a common false belief—not raw data tables |
+
+**Do not** paste unrelated facts into a day’s planned categories just to fill slots. If three facts on one day would all cite the same Wikipedia list (e.g. weather records), either **spread them across nearby days** or **rewrite** them as distinct angles with the correct category.
+
+**Titles and teasers** must be short, human-written sentences—not truncated scrapes ending in `…`.
+
 ## Uniqueness
 
 Each published fact must be **unique across the whole year** (same topic/teaser should not repeat on another day). Before publishing a batch:

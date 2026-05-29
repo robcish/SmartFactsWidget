@@ -5,11 +5,11 @@ month: 5
 day: 18
 sequence_index: 2
 category: myth-busting
-title: Lightning releases energy between 200 megajoules and 7…
-teaser: Lightning releases energy between 200 megajoules and 7 gigajoules—enough to power a 100-watt light…
+title: One lightning bolt isn't "a billion volts simple"
+teaser: A flash can release hundreds of megajoules, but peak voltage and current vary wildly strike to strike.
 published: true
-version: 1
+version: 2
 ---
-Lightning releases energy between **200 **megajoules and 7 gigajoules—enough to power a 100-watt light bulb for several months.
+Pop science often quotes a single giant number for lightning's power. Real strikes span a wide range—often **hundreds of megajoules**—with **voltage and current** that depend on cloud height, path length, and return strokes. Treating every bolt as identical oversimplifies the physics.
 
 [Lightning (Wikipedia)](https://en.wikipedia.org/wiki/Lightning)

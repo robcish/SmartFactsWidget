@@ -5,11 +5,11 @@ month: 5
 day: 31
 sequence_index: 0
 category: society
-title: Ice sheets may have briefly returned to Antarctica just before the…
-teaser: Ice sheets may have briefly returned to Antarctica just before the Cretaceous-Paleogene extinction…
+title: World No Tobacco Day
+teaser: Every 31 May, WHO spotlights tobacco's health and economic toll—and policies that help people quit.
 published: true
-version: 1
+version: 2
 ---
-Ice sheets may have briefly returned to Antarctica just before the Cretaceous-Paleogene extinction event that killed the dinosaurs.
+Since **1988**, the **World Health Organization** has marked **31 May** as **World No Tobacco Day**. Campaigns highlight addiction, second-hand smoke, and the social costs of an industry that still kills millions each year.
 
-[Ice age (Wikipedia)](https://en.wikipedia.org/wiki/Ice_age)
+[World No Tobacco Day (Wikipedia)](https://en.wikipedia.org/wiki/World_No_Tobacco_Day)

@@ -5,11 +5,11 @@ month: 5
 day: 30
 sequence_index: 2
 category: philosophy
-title: ewolucja roślin lądowych na początku okresu dewonu…
-teaser: Ewolucja roślin lądowych na początku okresu dewonu zwiększyła ilość tlenu i zmniejszyła ilość CO2,…
+title: Joanka d'Arc spalono 30 maja 1431 r.
+teaser: Proces o herezję otworzył pytania o sumienie, władzę i moment, gdy prawo wyprzedza sprawiedliwość.
 published: true
-version: 1
+version: 2
 ---
-Ewolucja roślin lądowych na początku okresu dewonu zwiększyła ilość tlenu i zmniejszyła ilość CO2, co doprowadziło do powstania lodowca późnego paleozoiku.
+**Joanka d'Arc** spłonęła na stosie w **Rouen** **30 maja 1431** roku po politycznie naładowanym procesie o herezję. Filozofowie i historycy wciąż spierają się, jak państwo powinno ważyć **sumienie jednostki** i autorytet urzędowy.
 
-[Epoka lodowa (Wikipedia)](https://pl.wikipedia.org/wiki/Epoka_lodowa)
+[Joanna d'Arc (Wikipedia)](https://pl.wikipedia.org/wiki/Joanna_d%27Arc)

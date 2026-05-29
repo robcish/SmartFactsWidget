@@ -5,11 +5,11 @@ month: 5
 day: 27
 sequence_index: 2
 category: geography
-title: Teoria epoki lodowcowej nie została w pełni zaakceptowana na…
-teaser: Teoria epoki lodowcowej została w pełni zaakceptowana na arenie międzynarodowej dopiero pod koniec…
+title: Morze Martwe leży głęboko poniżej poziomu morza
+teaser: Brzeg przy Ein Bokek jest ok. 430 m niżej od poziomu światowego oceanu—najniższy suchy ląd na Ziemi.
 published: true
-version: 1
+version: 2
 ---
-Teoria epoki lodowcowej została w pełni zaakceptowana na arenie międzynarodowej dopiero pod koniec lat siedemdziesiątych XIX wieku, po opublikowaniu przez Jamesa Crolla książki „Klimat i czas” wyjaśniającej przyczyny.
+**Morze Martwe** leży w kotlinie Jordanu, gdzie płyty tektoniczne się rozchodzą. Bez odpływu odparowanie zostawia wodę o ogromnym zasoleniu; linia brzegowa przy **Ein Bokek** jest ok. **430 m** poniżej poziomu światowego oceanu—najniższy suchy punkt na planecie.
 
-[Epoka lodowa (Wikipedia)](https://pl.wikipedia.org/wiki/Epoka_lodowa)
+[Morze Martwe (Wikipedia)](https://pl.wikipedia.org/wiki/Morze_Martwe)

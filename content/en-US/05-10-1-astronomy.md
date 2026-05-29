@@ -5,11 +5,11 @@ month: 5
 day: 10
 sequence_index: 1
 category: astronomy
-title: Melnick 42 is a hypergiant star approximately 189 times the mass…
-teaser: Melnick 42 is a hypergiant star approximately 189 times the mass of our Sun, located in the Large…
+title: Melnick 42 weighs in at ~189 Suns
+teaser: This hypergiant in the Large Magellanic Cloud is among the most massive stars ever weighed.
 published: true
-version: 1
+version: 2
 ---
-Melnick **42 **is a hypergiant star approximately 189 times the mass of our Sun, located in the Large Magellanic Cloud.
+**Melnick 42** is a luminous **hypergiant** in the **Large Magellanic Cloud**. Estimates put its mass around **189 times** that of the Sun—near the upper edge of how large a single star can grow before instability tears it apart.
 
-[Q3854274 (Wikipedia)](https://www.wikidata.org/wiki/Q3854274)
+[Hypergiant (Wikipedia)](https://en.wikipedia.org/wiki/Hypergiant)

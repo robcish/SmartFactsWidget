@@ -5,11 +5,11 @@ month: 5
 day: 27
 sequence_index: 2
 category: geography
-title: ice age theory wasn't fully accepted internationally until the…
-teaser: The ice age theory wasn't fully accepted internationally until the late 1870s, after James Croll…
+title: The Dead Sea sits far below sea level
+teaser: Its shoreline near Ein Bokek is about 430 m below global sea level—the lowest exposed land on Earth.
 published: true
-version: 1
+version: 2
 ---
-The ice age theory wasn't fully accepted internationally until the late 1870s, after James Croll published 'Climate and Time' explaining the causes.
+The **Dead Sea** lies in the Jordan Rift Valley, where tectonic plates pull apart. With no outlet, evaporation leaves hypersaline water; the shoreline near **Ein Bokek** sits roughly **430 m** below mean sea level—the lowest dry land on the planet.
 
-[Ice age (Wikipedia)](https://en.wikipedia.org/wiki/Ice_age)
+[Dead Sea (Wikipedia)](https://en.wikipedia.org/wiki/Dead_Sea)

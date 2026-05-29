@@ -5,11 +5,11 @@ month: 5
 day: 31
 sequence_index: 2
 category: finance
-title: Artykuł Nature z 2004 roku sugeruje, że obecny interglacjał może…
-teaser: Artykuł w Nature z 2004 roku sugeruje, że obecny interglacjał może być najbardziej analogiczny do…
+title: Powódź w Johnstown zmieniła ubezpieczenia w USA
+teaser: 31 maja 1889 r. przełom tamy zabił ponad 2200 osób—jedna z najdroższych katastrof XIX wieku.
 published: true
-version: 1
+version: 2
 ---
-Artykuł **2004 **Nature sugeruje, że obecny interglacjał może być najbardziej analogiczny do tego, który trwał 28 000 lat.
+Po ulewnych deszczach **31 maja 1889** roku runęła tama **South Fork**, wlewając wodę na **Johnstown** w Pensylwanii. Zginęło ponad **2200** osób. Ogromne straty skłoniły ubezpieczycieli i ustawodawców do przemyślenia **ryzyka katastrof** i odpowiedzialności.
 
-[Epoka lodowa (Wikipedia)](https://pl.wikipedia.org/wiki/Epoka_lodowa)
+[Powódź w Johnstown (Wikipedia)](https://pl.wikipedia.org/wiki/Pow%C3%B3d%C5%BA_w_Johnstown)

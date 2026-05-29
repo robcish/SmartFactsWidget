@@ -5,9 +5,11 @@ month: 5
 day: 18
 sequence_index: 2
 category: myth-busting
-title: Piorun uwalnia energię od 200 megadżuli do 7…
-teaser: Błyskawica uwalnia energię od 200 megadżuli do 7 gigadżuli – wystarczającą do zasilenia…
+title: Jedna błyskawica to nie „miliard woltów”
+teaser: Wyładowanie może mieć setki megadżuli, lecz napięcie i prąd zmieniają się z uderzenia na uderzenie.
 published: true
-version: 1
+version: 2
 ---
-Piorun uwalnia energię od **200 ** megadżuli do 7 gigadżuli – wystarczającą do zasilania 100-watowej żarówki przez kilka miesięcy.
+Popularnonaukowe memy podają jedną olbrzymią liczbę mocy pioruna. Rzeczywiste wyładowania mają szeroki zakres—często **setki megadżuli**—a **napięcie i prąd** zależą od wysokości chmury, długości ścieżki i powrotnych wyładowań. Traktowanie każdego groma jak identycznego upraszcza fizykę.
+
+[Piorun (Wikipedia)](https://pl.wikipedia.org/wiki/Piorun)

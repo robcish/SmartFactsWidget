@@ -5,11 +5,11 @@ month: 5
 day: 25
 sequence_index: 0
 category: astronomy
-title: Earth maintains an average temperature of 15°C, making it the only…
-teaser: Earth maintains an average temperature of 15°C, making it the only planet known to support liquid…
+title: Venus is hotter than Mercury at the surface
+teaser: Thick CO₂ clouds trap heat on Venus, pushing surface temperatures above 460°C—hotter than Mercury.
 published: true
-version: 1
+version: 2
 ---
-Earth maintains an average temperature of **15**°C, making it the only planet known to support liquid water on its surface.
+**Venus** orbits farther from the Sun than **Mercury**, yet its dense carbon-dioxide atmosphere creates a runaway greenhouse. Surface probes measured about **460°C**, making it the hottest planet in the Solar System.
 
-[Q2 (Wikipedia)](https://www.wikidata.org/wiki/Q2)
+[Venus (Wikipedia)](https://en.wikipedia.org/wiki/Venus)

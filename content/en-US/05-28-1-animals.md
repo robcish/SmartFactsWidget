@@ -5,11 +5,11 @@ month: 5
 day: 28
 sequence_index: 1
 category: animals
-title: Polar bears have black skin under their white fur to absorb heat
-teaser: Polar bears have black skin under their white fur to absorb heat.
+title: Octopuses have three hearts
+teaser: Two pump blood to the gills; one feeds the rest of the body—and it pauses when the animal swims.
 published: true
-version: 1
+version: 2
 ---
-Polar bears have black skin under their white fur to absorb heat.
+An **octopus** circulates copper-rich, blue blood through **three hearts**. Two branchial hearts push blood through the gills; the systemic heart supplies the body. When an octopus swims, the systemic heart actually **stops**, which is one reason they prefer crawling.
 
-[Polar bear (Wikipedia)](https://en.wikipedia.org/wiki/Polar_bear)
+[Octopus (Wikipedia)](https://en.wikipedia.org/wiki/Octopus)

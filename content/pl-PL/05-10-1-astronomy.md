@@ -5,9 +5,11 @@ month: 5
 day: 10
 sequence_index: 1
 category: astronomy
-title: Melnick 42 to hiperolbrzym, którego masa jest około 189 razy…
-teaser: Melnick 42 to hiperolbrzym gwiazda o masie około 189 mas naszego Słońca, znajdujący się w Wielkim…
+title: Melnick 42 waży ok. 189 razy więcej niż Słońce
+teaser: Ten hiperolbrzym w Wielkim Obłoku Magellana należy do najbardziej masywnych zmierzonych gwiazd.
 published: true
-version: 1
+version: 2
 ---
-Melnick **42 ** to hiperolbrzym gwiazda o masie około 189 mas naszego Słońca, znajdujący się w Wielkim Obłoku Magellana.
+**Melnick 42** to świetlista **hiperolbrzymia** w **Wielkim Obłoku Magellana**. Szacunki dają masę ok. **189 razy** większą od Słońca—blisko granicy, powyżej której pojedyncza gwiazda staje się niestabilna.
+
+[Hiperolbrzym (Wikipedia)](https://pl.wikipedia.org/wiki/Hiperolbrzym)

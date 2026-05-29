@@ -5,9 +5,11 @@ month: 5
 day: 28
 sequence_index: 0
 category: biology
-title: Muchołówka ma prostą pamięć: jej pułapka wymaga dwóch oddzielnych…
-teaser: Muchołówka Venus ma prostą pamięć: jej pułapka wymaga dwóch oddzielnych dotknięć w zakresie od 0,5…
+title: Muchołówka liczy dotknięcia przed zamknięciem
+teaser: Dwa sygnały w 0,5–30 s zamykają pułapkę—filtrując deszcz i przypadkowy dotyk.
 published: true
-version: 1
+version: 2
 ---
-Muchołówka Venus ma prostą pamięć: jej zamknięcie wymaga dwóch oddzielnych dotknięć w odstępie od **0,5 ** do 30 sekund, aby zamknąć, co zapobiega fałszywym wyzwalaniom spowodowanym deszczem lub gruzem.
+**Muchołówka** zamyka się dopiero po **dwóch** dotknięciach włosków w ciągu ok. **0,5–30 sekund**. Ten prosty filtr czasowy pozwala zignorować pojedyncze uderzenia deszczu, a nadal łapać żywy pokarm.
+
+[Muchołówka (Wikipedia)](https://pl.wikipedia.org/wiki/Mucho%C5%82%C3%B3wka)

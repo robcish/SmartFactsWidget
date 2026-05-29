@@ -5,9 +5,11 @@ month: 5
 day: 11
 sequence_index: 2
 category: reflection
-title: Dziesięć ośrodków ostrzegawczych na całym świecie zostało…
-teaser: Światowa Organizacja Meteorologiczna wyznacza dziesięć ośrodków ostrzegania na całym świecie do…
+title: Dziesięć głosów ostrzega świat przed cyklonami
+teaser: Regionalne centra WMO wydają komunikaty o cyklonach—współpraca, której sto lat temu nie było.
 published: true
-version: 1
+version: 2
 ---
-Światowa Organizacja Meteorologiczna wyznacza dziesięć ośrodków ostrzegawczych na całym świecie do wydawania zaleceń dotyczących cyklonów tropikalnych dla swoich regionów.
+Dziś **dziesięć** wyspecjalizowanych centrów uznanych przez **Światową Organizację Meteorologiczną** śledzi cyklony tropikalne basen po basenie. Wymiana prognoz przez granice jest dziś rutyną—choć to stosunkowo młoda warstwa globalnego bezpieczeństwa.
+
+[Cyklon tropikalny (Wikipedia)](https://pl.wikipedia.org/wiki/Cyklon_tropikalny)

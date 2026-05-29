@@ -5,11 +5,11 @@ month: 5
 day: 29
 sequence_index: 0
 category: culture
-title: Ice ages require specific continental positions: a continent at a…
-teaser: Ice ages require specific continental positions: a continent at a pole, a nearly land-locked polar…
+title: Everest was summited on 29 May 1953
+teaser: Edmund Hillary and Tenzing Norgay reached the top—news broke on the eve of Queen Elizabeth II's coronation.
 published: true
-version: 1
+version: 2
 ---
-Ice ages require specific continental positions: a continent at a pole, a nearly land-locked polar sea, or a supercontinent covering most of the equator.
+On **29 May 1953**, **Edmund Hillary** and **Tenzing Norgay** stood on the summit of **Mount Everest**. The triumph became a global cultural moment—timed, by coincidence, just before the coronation of **Elizabeth II**.
 
-[Ice age (Wikipedia)](https://en.wikipedia.org/wiki/Ice_age)
+[1953 British Mount Everest expedition (Wikipedia)](https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition)

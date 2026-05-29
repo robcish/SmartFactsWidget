@@ -5,9 +5,11 @@ month: 5
 day: 11
 sequence_index: 1
 category: myth-busting
-title: W północno-zachodnim Pacyfiku przez cały rok występują cyklony…
-teaser: Na północno-zachodnim Pacyfiku przez cały rok występują cyklony tropikalne, co czyni go…
+title: Otwarte okna nie oswoją huraganu
+teaser: Szpara w oknach „dla ciśnienia” wpuszcza deszcz i gruz—nie chroni dachu ani ścian.
 published: true
-version: 1
+version: 2
 ---
-Na północno-zachodnim Pacyfiku przez cały rok występują cyklony tropikalne, co czyni go najbardziej aktywnym basenem ze średnią **26 ** burz rocznie.
+Popularny mit głosi, że trzeba **otworzyć okna**, by huragan nie rozerwał domu. Współczesne budynki i tak nie są szczelne na groźne różnice ciśnień, a otwarte okna **wpuszczają wiatr, deszcz i gruz** bez ochrony dachu czy ścian.
+
+[Cyklon tropikalny (Wikipedia)](https://pl.wikipedia.org/wiki/Cyklon_tropikalny)

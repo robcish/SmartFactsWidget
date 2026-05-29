@@ -5,11 +5,11 @@ month: 6
 day: 1
 sequence_index: 1
 category: astronomy
-title: Mars experiences temperatures ranging from 35°C to -143°C, with an…
-teaser: Mars experiences temperatures ranging from 35°C to -143°C, with an average of -63°C.
+title: Mars swings from summer warmth to frigid nights
+teaser: Surface temperatures range from about 35°C down to −143°C—average near −63°C on the Red Planet.
 published: true
-version: 1
+version: 2
 ---
-Mars experiences temperatures ranging from **35**°C to -143°C, with an average of -63°C.
+Thin air and distance from the Sun make **Mars** thermally wild. Near the equator, summer afternoons can approach **35°C**, while polar winter nights plunge near **−143°C**; the global average is about **−63°C**.
 
-[Q111 (Wikipedia)](https://www.wikidata.org/wiki/Q111)
+[Mars (Wikipedia)](https://en.wikipedia.org/wiki/Mars)

@@ -5,11 +5,11 @@ month: 5
 day: 31
 sequence_index: 0
 category: society
-title: Pokrywy lodowe mogły na krótko powrócić na Antarktydę tuż przed…
-teaser: Pokrywy lodowe mogły na krótko powrócić na Antarktydę tuż przed wymieraniem kredy i paleogenu…
+title: Światowy Dzień Bez Tytoniu
+teaser: 31 maja WHO przypomina o kosztach zdrowotnych i społecznych palenia—oraz o politykach wspierających rzucanie.
 published: true
-version: 1
+version: 2
 ---
-Pokrywy lodowe mogły na krótko powrócić na Antarktydę tuż przed wymieraniem w okresie kredy i paleogenu, w wyniku którego wyginęły dinozaury.
+Od **1988** roku **Światowa Organizacja Zdrowia** obchodzi **31 maja** jako **Światowy Dzień Bez Tytoniu**. Kampanie pokazują uzależnienie, bierne palenie i społeczny koszt przemysłu, który wciąż zabija miliony ludzi rocznie.
 
-[Epoka lodowa (Wikipedia)](https://pl.wikipedia.org/wiki/Epoka_lodowa)
+[Światowy Dzień Bez Tytoniu (Wikipedia)](https://pl.wikipedia.org/wiki/%C5%9Awiatowy_Dzie%C5%84_Bez_Tytoniu)

@@ -5,11 +5,11 @@ month: 6
 day: 30
 sequence_index: 2
 category: astronomy
-title: Rho Cassiopeiae is a yellow hypergiant star 40 times the mass of…
-teaser: Rho Cassiopeiae is a yellow hypergiant star 40 times the mass of our Sun that pulses irregularly,…
+title: Rho Cassiopeiae pulses unpredictably
+teaser: About 40 solar masses, this yellow hypergiant can brighten and dim dramatically within months.
 published: true
-version: 1
+version: 2
 ---
-Rho Cassiopeiae is a yellow hypergiant star **40 **times the mass of our Sun that pulses irregularly, changing brightness dramatically.
+**Rho Cassiopeiae** is a rare **yellow hypergiant** around **40 times** the Sun's mass. It undergoes violent surface eruptions, swinging in brightness as shells of gas blast off its outer layers.
 
-[Q13604 (Wikipedia)](https://www.wikidata.org/wiki/Q13604)
+[Rho Cassiopeiae (Wikipedia)](https://en.wikipedia.org/wiki/Rho_Cassiopeiae)

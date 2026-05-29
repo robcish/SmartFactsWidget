@@ -5,11 +5,11 @@ month: 5
 day: 30
 sequence_index: 2
 category: philosophy
-title: evolution of land plants at the start of the Devonian period…
-teaser: The evolution of land plants at the start of the Devonian period increased oxygen and reduced CO2,…
+title: Joan of Arc was executed on 30 May 1431
+teaser: Her trial for heresy raised enduring questions about conscience, authority, and when law outruns justice.
 published: true
-version: 1
+version: 2
 ---
-The evolution of land plants at the start of the Devonian period increased oxygen and reduced CO2, leading to the late Paleozoic ice house.
+**Joan of Arc** was burned at the stake in **Rouen** on **30 May 1431** after a politically charged heresy trial. Philosophers and historians still debate how states should weigh **individual conscience** against official authority.
 
-[Ice age (Wikipedia)](https://en.wikipedia.org/wiki/Ice_age)
+[Joan of Arc (Wikipedia)](https://en.wikipedia.org/wiki/Joan_of_Arc)

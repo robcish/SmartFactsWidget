@@ -5,9 +5,11 @@ month: 6
 day: 23
 sequence_index: 1
 category: astronomy
-title: NML Cygni to czerwony hiperolbrzym o promieniu 1642 razy większym…
-teaser: NML Cygni to czerwony hiperolbrzym o promieniu 1642 razy większym od Słońca – jeśli zostanie…
+title: NML Cygni pochłonęłoby Jowisza
+teaser: Promień tego czerwonego hiperolbrzyma to ok. 1600× Słońca—szerszy niż orbita Jowisza.
 published: true
-version: 1
+version: 2
 ---
-NML Cygni to czerwony hiperolbrzym o promieniu **1642 ** większym od promienia Słońca – umieszczony w pozycji Słońca pochłonąłby orbitę Jowisza.
+**NML Cygni** to osłonięty pyłem **czerwony hiperolbrzym** o promieniu ok. **1600 Słońc**. Gdyby zastąpił Słońce, jego atmosfera objęłaby orbitę **Jowisza**.
+
+[NML Cygni (Wikipedia)](https://pl.wikipedia.org/wiki/NML_Cygni)

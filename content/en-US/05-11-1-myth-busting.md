@@ -5,11 +5,11 @@ month: 5
 day: 11
 sequence_index: 1
 category: myth-busting
-title: Northwest Pacific sees tropical cyclones year-round, making it the…
-teaser: The Northwest Pacific sees tropical cyclones year-round, making it the most active basin with an…
+title: Opening windows won't tame a hurricane
+teaser: Cracking windows to "equalize pressure" can let rain and debris in—and won't stop structural damage.
 published: true
-version: 1
+version: 2
 ---
-The Northwest Pacific sees tropical cyclones year-round, making it the most active basin with an average of **26 **storms per year.
+A common storm myth says you should **open windows** so a hurricane won't blow the house apart. In reality, modern buildings are not sealed enough for dangerous pressure differences, and open windows **invite wind-driven rain and debris** without protecting the roof or walls.
 
 [Tropical cyclone (Wikipedia)](https://en.wikipedia.org/wiki/Tropical_cyclone)

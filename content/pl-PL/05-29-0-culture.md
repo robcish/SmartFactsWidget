@@ -5,11 +5,11 @@ month: 5
 day: 29
 sequence_index: 0
 category: culture
-title: Epoki lodowcowe wymagają określonych pozycji kontynentalnych:…
-teaser: Epoki lodowcowe wymagają określonych pozycji kontynentalnych: kontynentu na biegunie, prawie…
+title: Everest zdobyto 29 maja 1953 r.
+teaser: Edmund Hillary i Tenzing Norgay stanęli na szczycie—wiadomość dotarła tuż przed koronacją Elżbiety II.
 published: true
-version: 1
+version: 2
 ---
-Epoki lodowcowe wymagają określonych pozycji kontynentalnych: kontynentu na biegunie, prawie śródlądowego morza polarnego lub superkontynentu pokrywającego większą część równika.
+**29 maja 1953** roku **Edmund Hillary** i **Tenzing Norgay** stanęli na szczycie **Mount Everest**. Sukces stał się globalnym symbolem—przypadkiem tuż przed koronacją **Elżbiety II**.
 
-[Epoka lodowa (Wikipedia)](https://pl.wikipedia.org/wiki/Epoka_lodowa)
+[Wyprawa brytyjska na Mount Everest (1953) (Wikipedia)](https://pl.wikipedia.org/wiki/Wyprawa_brytyjska_na_Mount_Everest_(1953))

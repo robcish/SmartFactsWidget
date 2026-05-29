@@ -5,11 +5,11 @@ month: 5
 day: 31
 sequence_index: 2
 category: finance
-title: 2004 Nature paper suggests the current interglacial may be most…
-teaser: The 2004 Nature paper suggests the current interglacial may be most analogous to one that lasted…
+title: Johnstown Flood reshaped U.S. insurance
+teaser: On 31 May 1889, a dam break killed more than 2,200 people—one of the costliest disasters of the 19th century.
 published: true
-version: 1
+version: 2
 ---
-The **2004 **Nature paper suggests the current interglacial may be most analogous to one that lasted 28,000 years.
+After heavy rain, the **South Fork Dam** failed on **31 May 1889**, sending a wall of water through **Johnstown, Pennsylvania**. More than **2,200** people died. The staggering losses pushed insurers and lawmakers to rethink **disaster risk** and liability.
 
-[Ice age (Wikipedia)](https://en.wikipedia.org/wiki/Ice_age)
+[Johnstown flood (Wikipedia)](https://en.wikipedia.org/wiki/Johnstown_flood)

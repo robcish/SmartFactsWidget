@@ -29,7 +29,7 @@ class DetailViewModel @Inject constructor(
             val initialPage = timeline.indexOfFirst { it.id == factId }.let { index ->
                 when {
                     index >= 0 -> index
-                    timeline.isNotEmpty() -> timeline.lastIndex
+                    timeline.isNotEmpty() -> 0 // newest released fact
                     else -> 0
                 }
             }

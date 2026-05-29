@@ -5,11 +5,11 @@ month: 5
 day: 28
 sequence_index: 1
 category: animals
-title: Niedźwiedzie polarne mają czarną skórę pod białym futrem, która…
-teaser: Niedźwiedzie polarne mają czarną skórę pod białym futrem, która pochłania ciepło.
+title: Ośmiornica ma trzy serca
+teaser: Dwa tłoczą krew do skrzeli, jedno do ciała—i pauzuje, gdy zwierzępływa.
 published: true
-version: 1
+version: 2
 ---
-Niedźwiedzie polarne mają czarną skórę pod białym futrem, która pochłania ciepło.
+**Ośmiornica** krąży miedzionośną, niebieską krwią przez **trzy serca**. Dwa serca skrzelowe pompują krew przez skrzela; serce ogólnoustrojowe zaopatruje resztę ciała. Podczas pływania serce ogólnoustrojowe **staje**—dlatego ośmiornice wolą się czołgać.
 
-[Niedźwiedź polarny (Wikipedia)](https://pl.wikipedia.org/wiki/Nied%C5%BAwied%C5%BA_polarny)
+[Ośmiornica (Wikipedia)](https://pl.wikipedia.org/wiki/O%C5%9Bmiornica)

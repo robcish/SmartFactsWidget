@@ -5,11 +5,11 @@ month: 5
 day: 30
 sequence_index: 1
 category: language
-title: Chori language of Nigeria distinguishes six different tone levels…
-teaser: The Chori language of Nigeria distinguishes six different tone levels — the most ever documented…
+title: Chori uses six contrastive tones
+teaser: Spoken in Nigeria, Chori is among the world's most tone-rich languages—pitch can change word meaning six ways.
 published: true
-version: 1
+version: 2
 ---
-The Chori language of Nigeria distinguishes six different tone levels — the most ever documented in any language.
+In **Chori**, spoken in **Nigeria**, pitch is not decoration—it carries meaning. Linguists have documented **six** contrastive tone levels, among the richest tone systems known in any language.
 
 [Tone (linguistics) (Wikipedia)](https://en.wikipedia.org/wiki/Tone_(linguistics))

@@ -5,11 +5,11 @@ month: 5
 day: 26
 sequence_index: 1
 category: reflection
-title: Jean-Pierre Perraudin, a carpenter and chamois hunter, was the…
-teaser: Jean-Pierre Perraudin, a carpenter and chamois hunter, was the first to propose in 1815 that…
+title: The first newspaper weather forecast
+teaser: On 1 August 1861, The Times printed a public weather outlook—an act of humility about an uncertain science.
 published: true
-version: 1
+version: 2
 ---
-Jean-Pierre Perraudin, a carpenter and chamois hunter, was the first to propose in **1815 **that glaciers once extended much farther, inspiring the ice age theory.
+Forecasting once seemed almost audacious. When **Robert FitzRoy** published the first daily weather outlook in **The Times** in **1861**, readers got probabilities, not promises—a reminder that science often means sharing doubt honestly.
 
-[Ice age (Wikipedia)](https://en.wikipedia.org/wiki/Ice_age)
+[Weather forecasting (Wikipedia)](https://en.wikipedia.org/wiki/Weather_forecasting)

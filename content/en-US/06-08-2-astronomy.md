@@ -5,11 +5,11 @@ month: 6
 day: 8
 sequence_index: 2
 category: astronomy
-title: UY Scuti is one of the largest known stars, with a radius…
-teaser: UY Scuti is one of the largest known stars, with a radius approximately 1,700 times that of our Sun.
+title: UY Scuti's radius dwarfs the Sun
+teaser: If placed at the Sun's position, this red supergiant could swallow Jupiter's orbit—about 1,700× wider.
 published: true
-version: 1
+version: 2
 ---
-UY Scuti is one of the largest known stars, with a radius approximately **1,700 **times that of our Sun.
+**UY Scuti** is a pulsating red supergiant in Scutum. Its photosphere may reach roughly **1,700 solar radii**—so wide that, swapped with our Sun, it could extend past **Jupiter**.
 
-[Q14914807 (Wikipedia)](https://www.wikidata.org/wiki/Q14914807)
+[UY Scuti (Wikipedia)](https://en.wikipedia.org/wiki/UY_Scuti)

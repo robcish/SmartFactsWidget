@@ -26,6 +26,7 @@ object FactTimelineBuilder {
             }
         }
 
-        return entries.sortedBy { it.first }.map { it.second }
+        // Newest first: opening today's widget lands on page 0; swipe left → older slots/days.
+        return entries.sortedByDescending { it.first }.map { it.second }
     }
 }

@@ -5,11 +5,11 @@ month: 5
 day: 26
 sequence_index: 1
 category: reflection
-title: Jean-Pierre Perraudin, cieśla i łowca kozic, był…
-teaser: Jean-Pierre Perraudin, cieśla i łowca kozic, jako pierwszy zaproponował w 1815 roku, że…
+title: Pierwsza prognoza pogody w gazecie
+teaser: 1 sierpnia 1861 r. „The Times” opublikował publiczną prognozę—to gest pokory wobec niepewnej nauki.
 published: true
-version: 1
+version: 2
 ---
-Jean-Pierre Perraudin, cieśla i łowca kozic, jako pierwszy zaproponował w **1815 **, że lodowce rozciągały się kiedyś znacznie dalej, inspirując teorię epoki lodowcowej.
+Prognozowanie kiedyś wydawało się śmiałe. Gdy **Robert FitzRoy** w **1861** roku zamieścił w **The Times** pierwszą codzienną prognozę, czytelnicy dostali prawdopodobieństwa, nie obietnice—przypomnienie, że nauka często polega na szczerym podzieleniu się wątpliwością.
 
-[Epoka lodowa (Wikipedia)](https://pl.wikipedia.org/wiki/Epoka_lodowa)
+[Prognoza pogody (Wikipedia)](https://pl.wikipedia.org/wiki/Prognoza_pogody)
