@@ -1,0 +1,15 @@
+---
+id: 07-23-1-society
+locale: en-US
+month: 7
+day: 23
+sequence_index: 1
+category: society
+title: 
+teaser: 
+published: false
+version: 0
+---
+<!-- TODO: fact for 07-23, slot 1 -->
+
+_Content pending._

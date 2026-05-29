@@ -26,7 +26,7 @@ class FactsRemoteDataSource @Inject constructor(
         }
     }
 
-    private fun loadBundledManifest(): FactsManifestDto {
+    fun loadBundledManifest(): FactsManifestDto {
         val raw = context.assets.open("seed_facts.json").bufferedReader().use { it.readText() }
         return json.decodeFromString(FactsManifestDto.serializer(), raw)
     }

@@ -14,35 +14,32 @@ interface FactDao {
         """
         SELECT * FROM facts
         WHERE locale = :locale
+          AND month = :month
+          AND day = :day
           AND published = 1
-          AND releaseEpochMs <= :nowMs
-        ORDER BY releaseEpochMs DESC
-        LIMIT 1
+        ORDER BY sequenceIndex ASC
         """,
     )
-    suspend fun getCurrentFact(locale: String, nowMs: Long): FactEntity?
+    suspend fun getFactsForDay(locale: String, month: Int, day: Int): List<FactEntity>
 
     @Query(
         """
         SELECT * FROM facts
         WHERE locale = :locale
           AND published = 1
-          AND releaseEpochMs <= :nowMs
-        ORDER BY releaseEpochMs ASC
         """,
     )
-    suspend fun getReleasedTimeline(locale: String, nowMs: Long): List<FactEntity>
+    suspend fun getAllPublished(locale: String): List<FactEntity>
 
     @Query(
         """
         SELECT * FROM facts
         WHERE id = :id
           AND published = 1
-          AND releaseEpochMs <= :nowMs
         LIMIT 1
         """,
     )
-    suspend fun getFactById(id: String, nowMs: Long): FactEntity?
+    suspend fun getFactById(id: String): FactEntity?
 
     @Query("SELECT COUNT(*) FROM facts")
     suspend fun countAll(): Int

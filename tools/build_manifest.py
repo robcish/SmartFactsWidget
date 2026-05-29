@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import re
 import sys
@@ -40,22 +41,23 @@ def parse_frontmatter(raw: str) -> tuple[dict[str, object], str]:
     return metadata, body
 
 
-def load_facts(content_dir: Path, include_future: bool) -> list[dict[str, object]]:
-    now_ms = int(datetime.now(timezone.utc).timestamp() * 1000)
+def load_facts(content_dir: Path) -> list[dict[str, object]]:
     facts: list[dict[str, object]] = []
 
     for locale_dir in sorted(content_dir.iterdir()):
-        if not locale_dir.is_dir():
+        if not locale_dir.is_dir() or locale_dir.name.startswith("."):
+            continue
+        if locale_dir.name.endswith(".md"):
             continue
         for md_file in sorted(locale_dir.glob("*.md")):
             metadata, body = parse_frontmatter(md_file.read_text(encoding="utf-8"))
 
             published = bool(metadata.get("published", False))
-            release_epoch_ms = int(metadata["release_epoch_ms"])
-
             if not published:
                 continue
-            if not include_future and release_epoch_ms > now_ms:
+
+            title = str(metadata.get("title", "")).strip()
+            if not title:
                 continue
 
             facts.append(
@@ -63,23 +65,35 @@ def load_facts(content_dir: Path, include_future: bool) -> list[dict[str, object
                     "id": metadata["id"],
                     "locale": metadata.get("locale", locale_dir.name),
                     "category": metadata["category"],
-                    "title": metadata["title"],
+                    "title": title,
                     "teaser": metadata["teaser"],
                     "body_md": body,
-                    "release_epoch_ms": release_epoch_ms,
+                    "month": int(metadata["month"]),
+                    "day": int(metadata["day"]),
+                    "sequence_index": int(metadata["sequence_index"]),
                     "published": published,
                     "version": int(metadata.get("version", 1)),
                 }
             )
 
-    facts.sort(key=lambda item: (item["locale"], item["release_epoch_ms"]))
+    facts.sort(
+        key=lambda item: (
+            item["locale"],
+            item["month"],
+            item["day"],
+            item["sequence_index"],
+        )
+    )
     return facts
 
 
-def build_manifest(content_dir: Path, output: Path, include_future: bool) -> dict[str, object]:
-    facts = load_facts(content_dir, include_future=include_future)
+def build_manifest(content_dir: Path, output: Path) -> dict[str, object]:
+    facts = load_facts(content_dir)
+    payload = json.dumps(facts, ensure_ascii=False, sort_keys=True)
+    content_hash = hashlib.sha256(payload.encode("utf-8")).hexdigest()[:16]
     manifest = {
-        "version": 1,
+        "manifest_version": f"v2-{content_hash}",
+        "version": 2,
         "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
         "facts": facts,
     }
@@ -92,19 +106,15 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Build Smart Facts JSON manifest")
     parser.add_argument("--content-dir", type=Path, default=CONTENT_DIR)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
-    parser.add_argument(
-        "--include-future",
-        action="store_true",
-        help="Include facts with a future release_epoch_ms (for local inspection only)",
-    )
     args = parser.parse_args()
 
     if not args.content_dir.exists():
         print(f"Content directory not found: {args.content_dir}", file=sys.stderr)
         return 1
 
-    manifest = build_manifest(args.content_dir, args.output, args.include_future)
+    manifest = build_manifest(args.content_dir, args.output)
     print(f"Wrote {len(manifest['facts'])} facts to {args.output}")
+    print(f"manifest_version={manifest['manifest_version']}")
     return 0
 
 

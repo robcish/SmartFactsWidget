@@ -40,6 +40,7 @@ class SmartFactsApp : Application(), Configuration.Provider {
         appScope.launch {
             factRepository.ensureCacheWarm()
             SmartFactsWidget().updateAll(this@SmartFactsApp)
+            syncScheduler.scheduleNextSlotRefresh()
         }
     }
 }

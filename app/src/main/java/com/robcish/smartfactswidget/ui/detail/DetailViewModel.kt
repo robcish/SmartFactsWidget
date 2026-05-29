@@ -24,7 +24,8 @@ class DetailViewModel @Inject constructor(
         viewModelScope.launch {
             _uiState.update { it.copy(isLoading = true) }
             val locale = factRepository.resolveDeviceLocale()
-            val timeline = factRepository.getFactTimeline(locale)
+            val timeline = factRepository.getBrowsableTimeline(locale)
+            val hasLocal = factRepository.hasLocalFacts()
             val initialPage = timeline.indexOfFirst { it.id == factId }.let { index ->
                 when {
                     index >= 0 -> index
@@ -37,7 +38,7 @@ class DetailViewModel @Inject constructor(
                     timeline = timeline,
                     initialPage = initialPage,
                     isLoading = false,
-                    hasError = timeline.isEmpty(),
+                    hasError = timeline.isEmpty() && !hasLocal,
                 )
             }
         }
