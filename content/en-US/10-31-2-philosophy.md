@@ -5,11 +5,11 @@ month: 10
 day: 31
 sequence_index: 2
 category: philosophy
-title: Linus named Git after British slang for an unpleasant person — he…
-teaser: Linus named Git after British slang for an unpleasant person — he joked 'I'm an egotistical…
+title: Occam's razor prefers fewer assumptions
+teaser: The famous rule does not say the simplest idea is always right, only that it should add the least baggage.
 published: true
 version: 1
 ---
-Linus named Git after British slang for an unpleasant person — he joked 'I'm an egotistical bastard, and I name all my projects after myself.'
+Philosophers use Occam's razor as a guide when several explanations fit the same facts. It is a heuristic, not a law of nature, so a more complicated explanation can still win when the evidence demands it.
 
-[Git (Wikipedia)](https://en.wikipedia.org/wiki/Git)
+[Occam's razor (Wikipedia)](https://en.wikipedia.org/wiki/Occam%27s_razor)

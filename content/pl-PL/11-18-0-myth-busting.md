@@ -5,11 +5,13 @@ month: 11
 day: 18
 sequence_index: 0
 category: myth-busting
-title: Samouważność w transformatorach ma złożoność O(n²) z sekwencją…
-teaser: Samouważność w transformatorach ma złożoność O(n²) i długość sekwencji — ograniczający kontekst…
+title: Nietoperze nie są ślepe
+teaser: Echolokacja jest imponująca, ale większość nietoperzy ma także sprawny wzrok.
 published: true
 version: 1
 ---
-Samouwaga w transformatorach ma złożoność O(n²) wraz z długością sekwencji — ograniczając okna kontekstowe, aż do pojawienia się technik takich jak rzadka uwaga.
+Powiedzenie o ślepym nietoperzu mocno wprowadza w błąd. Zwierzęta te rzeczywiście polegają na echolokacji, ale większość gatunków widzi, a część z nich radzi sobie wzrokiem całkiem dobrze o zmierzchu lub w nocy.
 
-)
+Echolokacja nie zastąpiła im oczu, tylko stała się dodatkowym narzędziem. Mit utrzymał się głównie dlatego, że zdolność orientacji za pomocą dźwięku jest tak niezwykła, iż łatwo przesłania resztę.
+
+[Nietoperze (Wikipedia)](https://pl.wikipedia.org/wiki/Nietoperze)

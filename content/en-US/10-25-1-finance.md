@@ -5,11 +5,13 @@ month: 10
 day: 25
 sequence_index: 1
 category: finance
-title: binary search algorithm was first published in 1946 but the first…
-teaser: The binary search algorithm was first published in 1946 but the first correct implementation…
+title: Compound interest rewards patience
+teaser: Growth becomes much faster once returns start earning returns of their own.
 published: true
 version: 1
 ---
-The binary search algorithm was first published in **1946 **but the first correct implementation wasn't published until 1962 — a testament to how hard 'simple' algorithms can be.
+With simple interest, only the original amount keeps producing gains. With **compound interest**, the gains get added back in, so future gains are calculated on a larger and larger base.
 
-[Binary search algorithm (Wikipedia)](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+That is why small differences in time can matter more than people expect in saving, debt, and investing.
+
+[Compound interest (Wikipedia)](https://en.wikipedia.org/wiki/Compound_interest)

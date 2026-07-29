@@ -5,11 +5,13 @@ month: 10
 day: 8
 sequence_index: 0
 category: culture
-title: IEEE 754 has both positive zero and negative zero — they compare…
-teaser: IEEE 754 has both positive zero and negative zero — they compare as equal, but 1/+0 gives positive…
+title: Karaoke means "empty orchestra"
+teaser: The word combines two Japanese terms and perfectly describes the format.
 published: true
 version: 1
 ---
-IEEE **754 **has both positive zero and negative zero — they compare as equal, but 1/+0 gives positive infinity while 1/-0 gives negative infinity.
+The Japanese word **karaoke** joins *kara* (empty) and *okesutora* (orchestra). The name originally referred to music tracks that played without live musicians.
 
-[IEEE 754 (Wikipedia)](https://en.wikipedia.org/wiki/IEEE_754)
+That literal meaning helps explain why karaoke spread so easily: it turns a finished song into a shared social performance.
+
+[More on karaoke (Wikipedia)](https://en.wikipedia.org/wiki/Karaoke)

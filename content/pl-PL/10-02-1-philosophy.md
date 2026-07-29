@@ -5,9 +5,12 @@ month: 10
 day: 2
 sequence_index: 1
 category: philosophy
-title: Artykuł Nakamoto dotyczący Bitcoina nie został recenzowany i…
-teaser: Artykuł Nakamoto dotyczący Bitcoina nie został recenzowany i początkowo został zignorowany przez…
+title: Paradoks stogu pyta, kiedy ziarna stają się stertą
+teaser: Odbieranie jednego ziarenka naraz pokazuje, jak rozmyte bywają codzienne pojęcia.
 published: true
 version: 1
 ---
-Artykuł Nakamoto dotyczący Bitcoina nie został recenzowany i początkowo został zignorowany przez naukowców, którzy twierdzili, że nie może działać — został opublikowany na liście mailingowej kryptografii 31 października **2008 roku.
+Paradoks sorites zaczyna się od prostego pytania: jeśli jedno ziarenko nie przestaje czynić stogu stogiem, to kiedy dokładnie zachodzi zmiana? Krok po kroku ujawnia, jak trudno wyznaczyć idealnie ostre granice zwykłym słowom.
+
+Dlatego jest klasycznym przykładem w rozważaniach o nieostrości pojęć, logice i języku.
+

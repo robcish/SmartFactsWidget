@@ -5,11 +5,11 @@ month: 11
 day: 5
 sequence_index: 2
 category: animals
-title: Elephants can communicate using infrasound, at frequencies below…
-teaser: Elephants can communicate using infrasound, at frequencies below human hearing.
+title: Elephants can talk below our hearing
+teaser: They use infrasound to send messages that humans may never notice without instruments.
 published: true
 version: 1
 ---
-Elephants can communicate using infrasound, at frequencies below human hearing.
+These low-frequency rumbles can travel over long distances, especially across open ground. Herds use them to coordinate movement, maintain contact, and signal reproductive state long before another elephant comes into view.
 
 [Elephant (Wikipedia)](https://en.wikipedia.org/wiki/Elephant)

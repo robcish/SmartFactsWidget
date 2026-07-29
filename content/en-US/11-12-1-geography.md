@@ -5,11 +5,11 @@ month: 11
 day: 12
 sequence_index: 1
 category: geography
-title: Goodfellow came up with GANs during a discussion at a bar — he…
-teaser: Goodfellow came up with GANs during a discussion at a bar — he went home and coded the first…
+title: Lake Baikal is Earth's deepest lake
+teaser: It holds more fresh water than any other lake.
 published: true
 version: 1
 ---
-Goodfellow came up with GANs during a discussion at a bar — he went home and coded the first working version that night.
+**Lake Baikal** in Siberia reaches a depth of about **1,642 meters**, making it the deepest lake on Earth. It also holds more liquid fresh water than any other single lake. Its age and isolation have produced an unusually high number of endemic species.
 
-[Generative adversarial network (Wikipedia)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+[Lake Baikal (Wikipedia)](https://en.wikipedia.org/wiki/Lake_Baikal)

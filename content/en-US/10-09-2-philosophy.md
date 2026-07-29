@@ -5,11 +5,13 @@ month: 10
 day: 9
 sequence_index: 2
 category: philosophy
-title: 0.1 + 0.2 ≠ 0.3 in IEEE 754 floating point — this classic…
-teaser: 0.1 + 0.2 ≠ 0.3 in IEEE 754 floating point — this classic programming gotcha occurs because 0.1…
+title: The Ship of Theseus asks what stays the same
+teaser: If every part is replaced, is it still the original thing?
 published: true
 version: 1
 ---
-**0.1** + 0.2 ≠ 0.3 in IEEE 754 floating point — this classic programming gotcha occurs because 0.1 can't be exactly represented in binary.
+The **Ship of Theseus** is a classic thought experiment about identity over time. If a ship has every plank replaced one by one, philosophers ask whether it remains the same ship.
 
-[IEEE 754 (Wikipedia)](https://en.wikipedia.org/wiki/IEEE_754)
+The puzzle still matters today because it maps neatly onto questions about memory, repair, digital copies, and even personal identity.
+
+[More on the Ship of Theseus (Wikipedia)](https://en.wikipedia.org/wiki/Ship_of_Theseus)

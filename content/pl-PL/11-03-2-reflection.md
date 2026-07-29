@@ -5,9 +5,11 @@ month: 11
 day: 3
 sequence_index: 2
 category: reflection
-title: Rozwój oparty na testach (TDD) został ponownie odkryty przez Kenta…
-teaser: Rozwój oparty na testach (TDD) został ponownie odkryty przez Kenta Becka w 2003 roku — znalazł…
+title: Niedokończone sprawy dłużej krążą po głowie
+teaser: Umysł częściej przypomina o tym, co przerwane, niż o tym, co już zamknięte.
 published: true
 version: 1
 ---
-Programowanie oparte na testach (TDD) zostało ponownie odkryte przez Kenta Becka w **2003** — odniesienia do podobnych praktyk znalazł w starożytnych podręcznikach IBM z lat 60. XX wieku.
+Psychologowie nazywają to efektem Zeigarnik. Zadanie pozostawione w połowie potrafi dłużej utrzymywać się w uwadze, dlatego wracają do nas niedopisane wiadomości, niedomknięte sprawy i drobne zaległości.
+
+[Efekt Zeigarnik (Wikipedia)](https://pl.wikipedia.org/wiki/Efekt_Zeigarnik)

@@ -5,9 +5,11 @@ month: 10
 day: 21
 sequence_index: 1
 category: geography
-title: Termin „bit” (cyfra binarna) został po raz pierwszy użyty przez…
-teaser: Termin „bit” (cyfra binarna) został po raz pierwszy użyty przez Claude’a Shannona w jego artykule…
+title: Chile jest dłuższe, niż się wydaje
+teaser: Kraj rozciąga się na ponad 4000 km z północy na południe.
 published: true
 version: 1
 ---
-Termin „bit” (cyfra binarna) został po raz pierwszy użyty przez Claude’a Shannona w jego artykule z **1948 ** – choć przypisuje się go matematykowi Johnowi Tukeyowi, który zasugerował go w notatce.
+Chile jest słynnie wąskie, ale jego długość jest ekstremalna: ponad **4000 kilometrów** z północy na południe. Ta geografia miesci w jednym kraju pustynie, strefy śródziemnomorskie, lasy umiarkowane i krajobrazy niemal antarktyczne. Szerokość geograficzna kształtuje Chile równie mocno jak jego długie wybrzeże Pacyfiku.
+
+[Chile (Wikipedia)](https://pl.wikipedia.org/wiki/Chile)

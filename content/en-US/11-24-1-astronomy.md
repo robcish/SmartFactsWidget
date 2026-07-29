@@ -5,11 +5,11 @@ month: 11
 day: 24
 sequence_index: 1
 category: astronomy
-title: Local Bubble also contains the neighboring G-Cloud, which contains…
-teaser: The Local Bubble also contains the neighboring G-Cloud, which contains the stars Alpha Centauri…
+title: Light from the Sun is already eight minutes old
+teaser: Photons take that long to cross the gap to Earth.
 published: true
 version: 1
 ---
-The Local Bubble also contains the neighboring G-Cloud, which contains the stars Alpha Centauri and Altair.
+Sunlight feels instantaneous, but it is not. Light travels about **eight minutes** from the Sun to Earth, so the solar disk we see is a slightly delayed image of the star. Looking at the daytime sky is already a tiny act of time travel.
 
-[List of nearest stars (Wikipedia)](https://en.wikipedia.org/wiki/List_of_nearest_stars)
+[Light-travel time (Wikipedia)](https://en.wikipedia.org/wiki/Light-travel_time)

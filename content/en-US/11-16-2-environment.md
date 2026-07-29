@@ -5,11 +5,13 @@ month: 11
 day: 16
 sequence_index: 2
 category: environment
-title: Prompt engineering became a valued skill in 2022-2023 — carefully…
-teaser: Prompt engineering became a valued skill in 2022-2023 — carefully crafted prompts can dramatically…
+title: Peatlands are giant carbon vaults
+teaser: Though they cover only a small share of land, peatlands store extraordinary amounts of carbon.
 published: true
 version: 1
 ---
-Prompt engineering became a valued skill in **2022**-2023 — carefully crafted prompts can dramatically improve AI model outputs without any retraining.
+Peatlands form where waterlogged conditions slow decomposition, allowing partially decayed plant matter to accumulate for centuries or millennia. Over time that soggy ground becomes a remarkably dense carbon store.
 
-[Prompt engineering (Wikipedia)](https://en.wikipedia.org/wiki/Prompt_engineering)
+When peatlands are drained or burned, much of that stored carbon escapes back into the atmosphere. Protecting them is not just about unusual landscapes; it is a major climate decision.
+
+[Peatland (Wikipedia)](https://en.wikipedia.org/wiki/Peatland)

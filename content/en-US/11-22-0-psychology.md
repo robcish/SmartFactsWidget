@@ -5,11 +5,13 @@ month: 11
 day: 22
 sequence_index: 0
 category: psychology
-title: Let's Encrypt, launched in 2016, provides free TLS certificates…
-teaser: Let's Encrypt, launched in 2016, provides free TLS certificates and has issued over 3 billion…
+title: Your brain spots your name fast
+teaser: That selective attention effect is known as the cocktail party effect.
 published: true
 version: 1
 ---
-Let's Encrypt, launched in **2016, **provides free TLS certificates and has issued over 3 billion certificates — democratizing web encryption.
+In a noisy room, most conversations blur into background sound, yet many people instantly notice when someone says their name. Psychologists use this as a classic example of selective attention.
 
-[Let's Encrypt (Wikipedia)](https://en.wikipedia.org/wiki/Let%27s_Encrypt)
+The effect shows that the brain does not process every sound equally. Even when we seem distracted, certain personally meaningful signals still get priority.
+
+[Cocktail party effect (Wikipedia)](https://en.wikipedia.org/wiki/Cocktail_party_effect)

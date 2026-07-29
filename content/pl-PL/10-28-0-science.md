@@ -5,9 +5,13 @@ month: 10
 day: 28
 sequence_index: 0
 category: science
-title: MapReduce, opublikowany przez Google w 2004 roku, umożliwił…
-teaser: MapReduce, opublikowany przez Google w 2004 roku, umożliwił przetwarzanie ogromnych zbiorów danych…
+title: Piorun bywa gorętszy niż powierzchnia Słońca
+teaser: W kanale pioruna temperatura może na chwilę znacznie przewyższyć temperaturę widocznej powierzchni Słońca.
 published: true
 version: 1
 ---
-MapReduce, opublikowany przez Google w **2004, **umożliwił przetwarzanie ogromnych zbiorów danych w klastrach — bezpośrednio zainspirował Apache Hadoop i rewolucję big data.
+Piorun rozgrzewa powietrze w swoim kanale tak gwałtownie, że temperatura może krótkotrwale sięgać około **30 000 K**. To kilka razy więcej niż na powierzchni Słońca.
+
+Nagłe rozszerzenie tak rozgrzanego powietrza pomaga też wytworzyć falę uderzeniową, którą słyszymy jako grzmot.
+
+[Piorun (Wikipedia)](https://pl.wikipedia.org/wiki/Piorun)

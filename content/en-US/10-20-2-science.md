@@ -5,11 +5,13 @@ month: 10
 day: 20
 sequence_index: 2
 category: science
-title: After Huawei was banned from using Google's Android in 2019, China…
-teaser: After Huawei was banned from using Google's Android in 2019, China developed HarmonyOS —…
+title: Water can boil below body temperature
+teaser: Boiling depends on pressure, not only heat, so water can boil while still lukewarm.
 published: true
 version: 1
 ---
-After Huawei was banned from using Google's Android in **2019, **China developed HarmonyOS — illustrating the geopolitical importance of open-source software.
+At sea level, water boils near 100 C, but that number drops when the surrounding pressure drops. In a vacuum chamber, liquid water can start boiling at temperatures far below body temperature.
 
-[Open-source software (Wikipedia)](https://en.wikipedia.org/wiki/Open-source_software)
+Boiling is not the same thing as “being very hot.” It happens when a liquid's vapor pressure catches up with the pressure around it.
+
+[Boiling (Wikipedia)](https://en.wikipedia.org/wiki/Boiling)

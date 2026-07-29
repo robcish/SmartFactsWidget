@@ -5,11 +5,13 @@ month: 11
 day: 18
 sequence_index: 0
 category: myth-busting
-title: Self-attention in transformers has O(n²) complexity with sequence…
-teaser: Self-attention in transformers has O(n²) complexity with sequence length — limiting context…
+title: Bats are not blind
+teaser: Many bats use echolocation brilliantly, but they also have working eyes and often decent vision.
 published: true
 version: 1
 ---
-Self-attention in transformers has O(n²) complexity with sequence length — limiting context windows until techniques like sparse attention emerged.
+The phrase "blind as a bat" is misleading. Bats rely heavily on echolocation in darkness, yet most species can also see, and some have vision well suited to dusk, night, or fruit-finding.
 
-[Transformer (deep learning architecture) (Wikipedia)](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture))
+Echolocation did not replace sight so much as complement it. The myth persists because the sonar ability is so striking that people forget the animal also has ordinary senses.
+
+[Bat (Wikipedia)](https://en.wikipedia.org/wiki/Bat)

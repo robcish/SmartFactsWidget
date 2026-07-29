@@ -5,11 +5,11 @@ month: 10
 day: 30
 sequence_index: 0
 category: culture
-title: Termin „przetwarzanie w chmurze” zyskał popularność około 2006…
-teaser: Termin „przetwarzanie w chmurze” zyskał popularność około 2006 roku, kiedy Amazon uruchomił EC2 —…
+title: Haiku często zawiera słowo pory roku
+teaser: Klasyczne haiku zwykle zdradza porę roku jednym znaczącym obrazem.
 published: true
 version: 1
 ---
-Termin „przetwarzanie w chmurze” zyskał popularność około **2006 **, kiedy Amazon uruchomił EC2 — ale koncepcja współdzielonych zasobów obliczeniowych sięga lat sześćdziesiątych XX wieku.
+W poetyce japońskiej taki sezonowy trop nazywa się *kigo*. Może to być wprost śnieg, ale też bardziej subtelne nawiązanie do cykad, kwitnących śliw czy jesiennego księżyca, dzięki czemu bardzo krótki wiersz otwiera szerszy krajobraz.
 
-[Chmura obliczeniowa (Wikipedia)](https://pl.wikipedia.org/wiki/Chmura_obliczeniowa)
+[Haiku (Wikipedia)](https://pl.wikipedia.org/wiki/Haiku)

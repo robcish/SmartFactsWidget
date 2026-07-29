@@ -5,11 +5,13 @@ month: 10
 day: 12
 sequence_index: 0
 category: mythology
-title: JPEG compression exploits human vision — we're more sensitive to…
-teaser: JPEG compression exploits human vision — we're more sensitive to brightness variations than color,…
+title: Echo was a person before an effect
+teaser: In Greek myth, the fading reply in the hills came from a punished nymph.
 published: true
 version: 1
 ---
-JPEG compression exploits human vision — we're more sensitive to brightness variations than color, so color information is compressed more aggressively.
+In Greek mythology, **Echo** was a nymph who lost the ability to speak freely and could only repeat the last words she heard. The myth offered an explanation for the echoing voices people heard in mountains and caves.
 
-[Data compression (Wikipedia)](https://en.wikipedia.org/wiki/Data_compression)
+Stories like this turned everyday natural experiences into memorable characters, which is one reason myth survived so well in oral cultures.
+
+[More on Echo (mythology) (Wikipedia)](https://en.wikipedia.org/wiki/Echo_(mythology))

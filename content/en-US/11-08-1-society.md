@@ -5,11 +5,11 @@ month: 11
 day: 8
 sequence_index: 1
 category: society
-title: Geoffrey Hinton, Yann LeCun, and Yoshua Bengio won the 2018 Turing…
-teaser: Geoffrey Hinton, Yann LeCun, and Yoshua Bengio won the 2018 Turing Award for their work on deep…
+title: Retirement is a modern institution
+teaser: For most of history, people did not stop working at a fixed age backed by national systems.
 published: true
 version: 1
 ---
-Geoffrey Hinton, Yann LeCun, and Yoshua Bengio won the **2018 **Turing Award for their work on deep learning — sometimes called the 'godfathers of AI.'
+Large-scale pensions spread with industrial states, salaried careers, and longer life expectancy. The idea of a socially recognized retirement phase feels natural now, but it depends on relatively recent policy and economic structures.
 
-[Deep learning (Wikipedia)](https://en.wikipedia.org/wiki/Deep_learning)
+[Retirement (Wikipedia)](https://en.wikipedia.org/wiki/Retirement)

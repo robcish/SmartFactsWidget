@@ -5,9 +5,13 @@ month: 10
 day: 5
 sequence_index: 0
 category: myth-busting
-title: Linux został po raz pierwszy zastosowany w centrach…
-teaser: Linux został po raz pierwszy przyjęty przez centra superkomputerowe w połowie lat 90.
+title: Nietoperze wcale nie są ślepe
+teaser: Wiele gatunków dobrze widzi, a dodatkowo korzysta z echolokacji.
 published: true
 version: 1
 ---
-Linux został po raz pierwszy zastosowany w centrach superkomputerowych w połowie lat 90. XX wieku — organizacje takie jak NASA zastąpiły drogie maszyny klastrami popularnych komputerów z systemem Linux.
+Powiedzenie o ślepocie nietoperzy mocno je krzywdzi. W zależności od gatunku zwierzęta te używają zarówno wzroku, jak i echolokacji, a oba systemy pomagają im w innych warunkach.
+
+Ich opinia bierze się raczej z nocnego trybu życia niż z rzeczywistego braku widzenia.
+
+[Nietoperze (Wikipedia)](https://pl.wikipedia.org/wiki/Nietoperze)

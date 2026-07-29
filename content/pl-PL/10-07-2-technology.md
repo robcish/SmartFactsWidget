@@ -5,14 +5,13 @@ month: 10
 day: 7
 sequence_index: 2
 category: technology
-title: – Maszyna podkowa, pierwszy użyteczny żelazny kolec kolejowy === C…
-teaser: – Maszyna podkowa, pierwszy użyteczny żelazny kolec kolejowy === C === Tim Cook – dyrektor…
+title: Apollo doleciało na Księżyc z bardzo małą pamięcią
+teaser: Komputer sterujący miał mniej pamięci niż współczesny smartwatch, a mimo to prowadził misje księżycowe.
 published: true
 version: 1
 ---
-– Maszyna do podkowy, pierwszy nadający się do użytku żelazny kolec kolejowy
+Apollo Guidance Computer był przełomowy, bo mieścił cyfrową nawigację w sprzęcie wystarczająco małym i niezawodnym do lotu kosmicznego. Według dzisiejszych standardów jego pamięć była minimalna, ale sprytna konstrukcja i starannie dobrane oprogramowanie pozwalały wykonywać zadania naprawdę kluczowe.
 
+To dobra lekcja, że postęp w informatyce często wynika nie z samej wielkości zasobów, lecz z umiejętnego obchodzenia ograniczeń.
 
-=== C ===
-Tim Cook – dyrektor generalny Apple
-Ve Elizabeth Cadie (**1893**–1956), USA
+[Program Apollo (Wikipedia)](https://pl.wikipedia.org/wiki/Program_Apollo)

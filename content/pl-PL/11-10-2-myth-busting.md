@@ -5,9 +5,13 @@ month: 11
 day: 10
 sequence_index: 2
 category: myth-busting
-title: TPUs (Tensor Processing Units), custom chips designed by Google…
-teaser: TPU (Tensor Processing Units), niestandardowe chipy zaprojektowane przez Google do uczenia…
+title: Wielkiego Muru nie widać z Księżyca
+teaser: To popularne zdanie brzmi efektownie, ale mur jest zbyt wąski, by dało się go dostrzec z takiej odległości.
 published: true
 version: 1
 ---
-TPU (Tensor Processing Units), niestandardowe chipy zaprojektowane przez Google do uczenia maszynowego, mogą wykonywać **92 **biliardy operacji na sekundę.
+Wielki Mur Chiński jest imponująco długi, ale nie szeroki. Z powierzchni Księżyca byłby zbyt cienki, by ludzkie oko mogło go rozróżnić, zwłaszcza że kolorystycznie zlewa się z otoczeniem.
+
+Niektórzy astronauci potrafili wypatrzyć fragmenty muru z niskiej orbity okołoziemskiej, lecz to zupełnie inna skala niż odległość do Księżyca. Mit utrwalił się bardziej dlatego, że brzmi dobrze, niż dlatego, że jest prawdziwy.
+
+[Wielki Mur Chiński (Wikipedia)](https://pl.wikipedia.org/wiki/Wielki_Mur_Chi%C5%84ski)

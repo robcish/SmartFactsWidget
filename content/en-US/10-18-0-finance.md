@@ -5,11 +5,13 @@ month: 10
 day: 18
 sequence_index: 0
 category: finance
-title: Return-oriented programming (ROP) chains together existing code…
-teaser: Return-oriented programming (ROP) chains together existing code snippets to bypass non-executable…
+title: The dollar sign may come from pesos
+teaser: One common theory traces `$` to a handwritten abbreviation of `ps`.
 published: true
 version: 1
 ---
-Return-oriented programming (ROP) chains together existing code snippets to bypass non-executable memory protections — making buffer overflow exploitation more sophisticated.
+The exact history of the **dollar sign** is debated, but one popular explanation links it to handwritten abbreviations for pesos used in Spanish America. Over time, the letters are thought to have merged into the familiar symbol.
 
-[Buffer overflow (Wikipedia)](https://en.wikipedia.org/wiki/Buffer_overflow)
+Whether or not that is the full story, the symbol is a reminder that modern finance still carries marks left by older trade networks and empires.
+
+[More on the dollar sign (Wikipedia)](https://en.wikipedia.org/wiki/Dollar_sign)

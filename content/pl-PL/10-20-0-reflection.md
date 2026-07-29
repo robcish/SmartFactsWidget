@@ -5,9 +5,13 @@ month: 10
 day: 20
 sequence_index: 0
 category: reflection
-title: 2008 Jacobson v
-teaser: Sprawa Jacobson v.
+title: Przyjemność szybko staje się normą
+teaser: Psychologia nazywa to adaptacją hedoniczną: nawet dobra zmiana po czasie powszednieje.
 published: true
 version: 1
 ---
-W sprawie **2008 **Jacobson przeciwko Katzer ustalono, że warunki licencji typu open source są prawnie wykonalne na mocy prawa autorskiego – co stanowi precedens dla wszystkich licencji OSS.
+Często wydaje nam się, że nowa praca, zakup albo sukces zmieni nasze samopoczucie na długo. W praktyce zwykle szybko się przyzwyczajamy i wczorajszy zachwyt staje się codziennością.
+
+Nie znaczy to, że osiągnięcia są nieważne. Raczej przypomina, że na dobrostan mocno wpływają relacje, uwaga i nawyki, a nie tylko pojedyncza nagroda.
+
+[Adaptacja hedoniczna (Wikipedia)](https://pl.wikipedia.org/wiki/Adaptacja_hedoniczna)

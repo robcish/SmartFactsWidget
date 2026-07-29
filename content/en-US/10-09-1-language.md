@@ -5,11 +5,13 @@ month: 10
 day: 9
 sequence_index: 1
 category: language
-title: Indo-Pakistani Sign Language is the most widely used sign language…
-teaser: Indo-Pakistani Sign Language is the most widely used sign language in the world, ranked 151st…
+title: Sign languages have full grammar
+teaser: They are not just spoken language acted out with the hands.
 published: true
 version: 1
 ---
-Indo-Pakistani Sign Language is the most widely used sign language in the world, ranked 151st among all languages by number of users.
+Natural sign languages develop their own grammar, word order, and ways of marking emphasis or questions. They are complete languages, not simplified shadows of nearby spoken ones.
 
-[Sign language (Wikipedia)](https://en.wikipedia.org/wiki/Sign_language)
+That is why American Sign Language and British Sign Language are not automatically mutually intelligible, even though both are used in English-speaking countries.
+
+[More on sign language (Wikipedia)](https://en.wikipedia.org/wiki/Sign_language)

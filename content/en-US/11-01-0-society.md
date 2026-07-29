@@ -5,11 +5,11 @@ month: 11
 day: 1
 sequence_index: 0
 category: society
-title: first version control system was SCCS (1972) at Bell Labs — modern…
-teaser: The first version control system was SCCS (1972) at Bell Labs — modern distributed systems like…
+title: Public libraries are a modern social invention
+teaser: Free borrowing for everyone is newer than it feels.
 published: true
 version: 1
 ---
-The first version control system was SCCS (**1972**) at Bell Labs — modern distributed systems like Git weren't widely adopted until the 2010s.
+The idea that anyone can walk into a library and borrow books for free feels timeless, but large **public lending libraries** are a relatively modern social institution. They grew with literacy campaigns, urban reform, and the belief that shared knowledge should be a civic resource, not only a private luxury.
 
-[Version control (Wikipedia)](https://en.wikipedia.org/wiki/Version_control)
+[Public library (Wikipedia)](https://en.wikipedia.org/wiki/Public_library)

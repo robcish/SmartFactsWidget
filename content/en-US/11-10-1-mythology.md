@@ -5,11 +5,13 @@ month: 11
 day: 10
 sequence_index: 1
 category: mythology
-title: NVIDIA's CUDA, released in 2007, enabled GPUs to be used for…
-teaser: NVIDIA's CUDA, released in 2007, enabled GPUs to be used for general-purpose computing — this made…
+title: Ragnarok has a ship of nails
+teaser: In Norse myth, the dead reach the final battle aboard a vessel built from human fingernails.
 published: true
 version: 1
 ---
-NVIDIA's CUDA, released in **2007, **enabled GPUs to be used for general-purpose computing — this made deep learning practical by providing massive parallel processing power.
+Norse mythology gives Ragnarok one of its strangest images: Naglfar, a ship said to be made from the nails of the dead. When the world-ending battle arrives, the vessel carries hostile forces against the gods.
 
-[CUDA (Wikipedia)](https://en.wikipedia.org/wiki/CUDA)
+The image was vivid enough to shape real customs. Medieval sources mention trimming nails carefully so they would not help build the ship of doom.
+
+[Naglfar (Wikipedia)](https://en.wikipedia.org/wiki/Naglfar)

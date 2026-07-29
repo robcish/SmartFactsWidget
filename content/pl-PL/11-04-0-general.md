@@ -5,9 +5,11 @@ month: 11
 day: 4
 sequence_index: 0
 category: general
-title: Język SQL został opracowany w IBM na początku lat 70. — pierwotnie…
-teaser: Język SQL został opracowany w IBM na początku lat 70.
+title: Folia bąbelkowa miała być tapetą
+teaser: Popularny materiał do pakowania zaczął się od nieudanego pomysłu na dekorację wnętrz.
 published: true
 version: 1
 ---
-Język SQL został opracowany w IBM na początku lat 70. XX wieku — pierwotnie nosił nazwę SEQUEL (Structured English Query Language), skróconą z powodu sporu dotyczącego znaku towarowego.
+Jej twórcy zamknęli powietrze między dwiema zasłonami prysznicowymi i liczyli na to, że ludzie będą chcieli kłaść taki wzór na ścianach. Jako tapeta się nie przyjęła, ale świetnie odnalazła się później w ochronie kruchych przedmiotów.
+
+[Folia bąbelkowa (Wikipedia)](https://pl.wikipedia.org/wiki/Folia_b%C4%85belkowa)

@@ -5,11 +5,13 @@ month: 10
 day: 12
 sequence_index: 1
 category: myth-busting
-title: 640 MB CD holds about 1 hour of uncompressed music, 2 hours…
-teaser: A 640 MB CD holds about 1 hour of uncompressed music, 2 hours losslessly compressed, or 7 hours of…
+title: Goldfish do not have three-second memories
+teaser: They can learn routines, locations, and feeding cues.
 published: true
 version: 1
 ---
-A **640 **MB CD holds about 1 hour of uncompressed music, 2 hours losslessly compressed, or 7 hours of MP3 at medium bitrate.
+The old joke that goldfish forget everything almost instantly is a myth. Studies and everyday aquarium practice both show that they can learn patterns and respond to repeated signals.
 
-[Data compression (Wikipedia)](https://en.wikipedia.org/wiki/Data_compression)
+They may recognize feeding times, remember parts of their tank, and even distinguish some cues from their keepers. Tiny brain does not mean zero memory.
+
+[More on the goldfish (Wikipedia)](https://en.wikipedia.org/wiki/Common_goldfish)

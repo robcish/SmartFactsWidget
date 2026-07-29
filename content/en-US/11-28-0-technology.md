@@ -5,12 +5,11 @@ month: 11
 day: 28
 sequence_index: 0
 category: technology
-title: – continuous-wave-operating diode lasers (together with Zhores…
-teaser: – continuous-wave-operating diode lasers (together with Zhores Alferov), high-power diode lasers…
+title: Touchscreens began long before smartphones
+teaser: Capacitive and resistive displays arrived decades earlier.
 published: true
 version: 1
 ---
-– continuous-wave-operating diode lasers (together with Zhores Alferov), high-power diode lasers
-Elmer R.
+The smartphone made touchscreens universal, but the technology is older. Researchers and engineers built **touch interfaces** decades before the iPhone, including capacitive and resistive designs used in industrial and public terminals. Consumer phones popularized a tool that already existed in specialized settings.
 
-[List of inventors (Wikipedia)](https://en.wikipedia.org/wiki/List_of_inventors)
+[Touchscreen (Wikipedia)](https://en.wikipedia.org/wiki/Touchscreen)

@@ -5,11 +5,11 @@ month: 11
 day: 2
 sequence_index: 0
 category: environment
-title: term 'software engineering' was coined at a 1968 NATO conference —…
-teaser: The term 'software engineering' was coined at a 1968 NATO conference — acknowledging that software…
+title: Seagrass meadows quietly store carbon
+teaser: Underwater grasslands can lock carbon in sediments for centuries.
 published: true
 version: 1
 ---
-The term 'software engineering' was coined at a **1968 **NATO conference — acknowledging that software development needed the rigor of traditional engineering.
+**Seagrass meadows** look modest, but they are powerful coastal carbon stores. Their roots stabilize sediments, and organic matter buried beneath them can remain sequestered for a long time. When these meadows are destroyed, that stored carbon can return to the atmosphere much faster than it accumulated.
 
-[Software engineering (Wikipedia)](https://en.wikipedia.org/wiki/Software_engineering)
+[Seagrass (Wikipedia)](https://en.wikipedia.org/wiki/Seagrass)

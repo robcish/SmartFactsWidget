@@ -5,11 +5,13 @@ month: 9
 day: 30
 sequence_index: 2
 category: culture
-title: universal Turing machine can simulate any other Turing machine —…
-teaser: A universal Turing machine can simulate any other Turing machine — it's the theoretical foundation…
+title: Ultramarine once cost more than gold
+teaser: Renaissance painters prized the blue pigment because it came from imported lapis lazuli.
 published: true
 version: 1
 ---
-A universal Turing machine can simulate any other Turing machine — it's the theoretical foundation for the modern concept of a programmable computer.
+Natural ultramarine was made by grinding lapis lazuli, a stone mined mainly in what is now Afghanistan. The route was long, the processing was difficult, and the color was so expensive that patrons sometimes specified exactly where it should appear in a painting.
 
-[Turing machine (Wikipedia)](https://en.wikipedia.org/wiki/Turing_machine)
+That is why vivid blue robes in older art often signal wealth, devotion, or special status.
+
+[Ultramarine (Wikipedia)](https://en.wikipedia.org/wiki/Ultramarine)

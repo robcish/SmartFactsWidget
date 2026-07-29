@@ -5,11 +5,13 @@ month: 11
 day: 11
 sequence_index: 0
 category: reflection
-title: vanishing gradient problem, where gradients become too small to…
-teaser: The vanishing gradient problem, where gradients become too small to update early layers, stalled…
+title: Interrupted tasks linger in memory
+teaser: The Zeigarnik effect suggests unfinished work stays mentally active longer than completed work.
 published: true
 version: 1
 ---
-The vanishing gradient problem, where gradients become too small to update early layers, stalled deep learning for decades until solutions like ReLU and LSTM emerged.
+Psychologist Bluma Zeigarnik noticed that interrupted tasks often remain easier to recall than finished ones. The brain seems to keep a small loop open when it expects a task to return.
 
-[Vanishing gradient problem (Wikipedia)](https://en.wikipedia.org/wiki/Vanishing_gradient_problem)
+That may be one reason nagging to-do items feel so mentally loud. Writing down the next concrete step can quiet the loop even before the work is done.
+
+[Zeigarnik effect (Wikipedia)](https://en.wikipedia.org/wiki/Zeigarnik_effect)

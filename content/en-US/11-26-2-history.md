@@ -5,11 +5,13 @@ month: 11
 day: 26
 sequence_index: 2
 category: history
-title: In addition, in 1885 Eduard Suess had proposed a supercontinent…
-teaser: In addition, in 1885 Eduard Suess had proposed a supercontinent Gondwana and in 1893 the Tethys…
+title: Royal purple once came from sea snails
+teaser: Producing a small amount of Tyrian purple required a startling amount of labor.
 published: true
 version: 1
 ---
-In addition, in **1885 **Eduard Suess had proposed a supercontinent Gondwana and in 1893 the Tethys Ocean, assuming a land-bridge between the present continents submerged in the form of a geosyncline; and in 1895 John Perry had written a paper proposing that the Earth's interior was fluid, and disagreeing with Lord…
+In the ancient Mediterranean, one of the most prestigious dyes came from predatory sea snails of the genus *Murex*. Extracting and processing the pigment was so labor-intensive that the color became associated with wealth and power.
 
-[List of multiple discoveries (Wikipedia)](https://en.wikipedia.org/wiki/List_of_multiple_discoveries)
+That is why "royal purple" was more than a poetic phrase. It reflected a real economic barrier that turned a shade of cloth into a signal of status.
+
+[Tyrian purple (Wikipedia)](https://en.wikipedia.org/wiki/Tyrian_purple)

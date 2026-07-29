@@ -5,11 +5,13 @@ month: 11
 day: 12
 sequence_index: 0
 category: history
-title: Later independently rediscovered by the Europeans Michael Servetus…
-teaser: Later independently rediscovered by the Europeans Michael Servetus (1553) and William Harvey (1616).
+title: The shortest war lasted under an hour
+teaser: The 1896 Anglo-Zanzibar War ended so quickly that some estimates put it at barely 38 minutes.
 published: true
 version: 1
 ---
-Later independently rediscovered by the Europeans Michael Servetus (**1553**) and William Harvey (1616).
+When a succession dispute in Zanzibar clashed with British demands, war broke out on the morning of 27 August 1896. British warships opened fire on the palace, and resistance collapsed almost immediately.
 
-[List of multiple discoveries (Wikipedia)](https://en.wikipedia.org/wiki/List_of_multiple_discoveries)
+Because the fighting started and ended so fast, the conflict is widely cited as the shortest recorded war. It was brief, but it still reflected the brutal imbalance of imperial power.
+
+[Anglo-Zanzibar War (Wikipedia)](https://en.wikipedia.org/wiki/Anglo-Zanzibar_War)

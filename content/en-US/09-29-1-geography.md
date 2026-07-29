@@ -5,11 +5,13 @@ month: 9
 day: 29
 sequence_index: 1
 category: geography
-title: Church-Turing thesis states that Turing machines, lambda calculus,…
-teaser: The Church-Turing thesis states that Turing machines, lambda calculus, and similar formalisms…
+title: Point Nemo is the ocean's loneliest spot
+teaser: It is the place on Earth farthest from any land.
 published: true
 version: 1
 ---
-The Church-Turing thesis states that Turing machines, lambda calculus, and similar formalisms capture the full notion of 'effective computation' — anything computable can be computed by a Turing machine.
+Point Nemo lies in the South Pacific, about 2,688 kilometers from the nearest islands. It is so remote that astronauts aboard the International Space Station are sometimes closer to it than any people at sea level.
 
-[Turing machine (Wikipedia)](https://en.wikipedia.org/wiki/Turing_machine)
+The point matters mostly as a geographic curiosity, but it captures how empty much of the planet's ocean really is.
+
+[Point Nemo (Wikipedia)](https://en.wikipedia.org/wiki/Point_Nemo)

@@ -5,11 +5,11 @@ month: 11
 day: 11
 sequence_index: 1
 category: general
-title: LSTM networks (1997) solved the problem of learning long-term…
-teaser: LSTM networks (1997) solved the problem of learning long-term dependencies — they're still widely…
+title: Strawberries are not true berries
+teaser: Botanically, the seeds sit on the outside.
 published: true
 version: 1
 ---
-LSTM networks (**1997**) solved the problem of learning long-term dependencies — they're still widely used for sequence modeling despite being nearly 30 years old.
+In botanical language a **berry** develops from a single ovary and usually keeps its seeds inside. Strawberries break that pattern: the fleshy part is enlarged receptacle tissue, and the tiny "seeds" on the outside are the true fruits. Everyday food words and botanical categories often disagree.
 
-[Long short-term memory (Wikipedia)](https://en.wikipedia.org/wiki/Long_short-term_memory)
+[Berry (Wikipedia)](https://en.wikipedia.org/wiki/Berry)

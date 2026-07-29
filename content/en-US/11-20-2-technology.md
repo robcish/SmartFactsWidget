@@ -5,13 +5,11 @@ month: 11
 day: 20
 sequence_index: 2
 category: technology
-title: – Gilhoolie Robert Fulton (1765–1815), United States – first…
-teaser: – Gilhoolie Robert Fulton (1765–1815), United States – first commercially successful steamboat,…
+title: QR codes were invented for car factories
+teaser: They began as a way to track parts on assembly lines.
 published: true
 version: 1
 ---
-– Gilhoolie
-Robert Fulton (**1765**–1815), United States – first commercially successful steamboat, first practical submarine
-Ivan Fyodorov (c.
+**QR codes** were created in the 1990s by a Toyota-affiliated company to track automotive parts more efficiently than barcodes. The square pattern can store much more information and remains readable even when partly damaged. A factory logistics tool later became an everyday consumer interface.
 
-[List of inventors (Wikipedia)](https://en.wikipedia.org/wiki/List_of_inventors)
+[QR code (Wikipedia)](https://en.wikipedia.org/wiki/QR_code)

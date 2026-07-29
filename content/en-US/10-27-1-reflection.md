@@ -5,11 +5,13 @@ month: 10
 day: 27
 sequence_index: 1
 category: reflection
-title: 'Billion Dollar Mistake' is Tony Hoare's name for inventing null…
-teaser: The 'Billion Dollar Mistake' is Tony Hoare's name for inventing null references in 1965 — 'I…
+title: Null was called a billion-dollar mistake
+teaser: Tony Hoare later regretted how easy it was to add null references to software.
 published: true
 version: 1
 ---
-The 'Billion Dollar Mistake' is Tony Hoare's name for inventing null references in **1965** — 'I couldn't resist the temptation to put in a null reference, simply because it was so easy to implement.'
+Computer scientist **Tony Hoare** later called the invention of the null reference his “billion-dollar mistake.” The feature was simple to implement, but it also made it easy for programs to fail in ways that have wasted immense time and money.
+
+It is a useful reminder that elegant shortcuts can create decades of hidden cost.
 
 [Null pointer (Wikipedia)](https://en.wikipedia.org/wiki/Null_pointer)

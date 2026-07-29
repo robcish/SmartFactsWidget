@@ -5,11 +5,13 @@ month: 11
 day: 22
 sequence_index: 0
 category: psychology
-title: Let's Encrypt, uruchomiony w 2016 roku, zapewnia bezpłatne…
-teaser: Let's Encrypt, uruchomiony w 2016 roku, zapewnia bezpłatne certyfikaty TLS i wydał ponad 3 miliardy…
+title: Mózg szybko wyłapuje twoje imię
+teaser: Ten rodzaj wybiórczej uwagi nazywa się efektem cocktail party.
 published: true
 version: 1
 ---
-Let's Encrypt, uruchomiony w **2016 r., **zapewnia bezpłatne certyfikaty TLS i wydał ponad 3 miliardy certyfikatów — demokratyzując szyfrowanie sieci.
+W hałaśliwym pomieszczeniu większość rozmów zlewa się w tło, ale własne imię wiele osób wychwytuje od razu. W psychologii to klasyczny przykład wybiórczej uwagi.
 
-[Let’s Encrypt (Wikipedia)](https://pl.wikipedia.org/wiki/Let%E2%80%99s_Encrypt)
+To zjawisko pokazuje, że mózg nie traktuje wszystkich bodźców jednakowo. Nawet kiedy świadomie skupiamy się gdzie indziej, sygnały ważne osobiście nadal mają pierwszeństwo.
+
+[Efekt cocktail party (Wikipedia)](https://pl.wikipedia.org/wiki/Efekt_cocktail_party)

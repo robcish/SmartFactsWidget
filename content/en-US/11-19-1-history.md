@@ -5,11 +5,11 @@ month: 11
 day: 19
 sequence_index: 1
 category: history
-title: Ancient references to the same concept include one in…
-teaser: Ancient references to the same concept include one in Aristophanes' comedy The Frogs (405 BCE),…
+title: The Library of Alexandria was not one building forever
+teaser: It was a long-lived scholarly complex with a messy end.
 published: true
 version: 1
 ---
-Ancient references to the same concept include one in Aristophanes' comedy The Frogs (**405 **BCE), which compares bad politicians to bad coin (bad politicians and bad coin, respectively, drive good politicians and good coin out of circulation).
+The famous Library of Alexandria is often imagined as a single dramatic fire ending all ancient knowledge at once. In reality it was a research institution whose decline likely involved politics, war, neglect, and multiple episodes over time. The neat story is simpler than the historical evidence.
 
-[List of multiple discoveries (Wikipedia)](https://en.wikipedia.org/wiki/List_of_multiple_discoveries)
+[Library of Alexandria (Wikipedia)](https://en.wikipedia.org/wiki/Library_of_Alexandria)

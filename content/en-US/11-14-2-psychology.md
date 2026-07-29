@@ -5,11 +5,13 @@ month: 11
 day: 14
 sequence_index: 2
 category: psychology
-title: Reinforcement Learning from Human Feedback (RLHF) was key to…
-teaser: Reinforcement Learning from Human Feedback (RLHF) was key to making ChatGPT helpful and safe — it…
+title: Color words can slow your brain
+teaser: The Stroop effect shows how automatic reading can interfere with naming a color correctly.
 published: true
 version: 1
 ---
-Reinforcement Learning from Human Feedback (RLHF) was key to making ChatGPT helpful and safe — it uses human preferences to fine-tune the model's behavior.
+If the word "blue" is printed in red ink, many people take longer to say the ink color than they would for a neutral shape. Reading happens so automatically that it competes with the simpler task.
 
-[Reinforcement learning from human feedback (Wikipedia)](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback)
+Psychologists use the Stroop effect to study attention, inhibition, and mental control. A tiny delay on a simple task can reveal a lot about how competing processes fight for the same mind.
+
+[Stroop effect (Wikipedia)](https://en.wikipedia.org/wiki/Stroop_effect)

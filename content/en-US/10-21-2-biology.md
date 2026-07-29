@@ -5,11 +5,13 @@ month: 10
 day: 21
 sequence_index: 2
 category: biology
-title: Foxgloves produce digoxin and digitoxin, cardiac glycosides used…
-teaser: Foxgloves produce digoxin and digitoxin, cardiac glycosides used for centuries in heart medicine,…
+title: Your stomach replaces its lining fast
+teaser: The inner surface of the stomach renews itself so acid does not digest it.
 published: true
 version: 1
 ---
-Foxgloves produce digoxin and digitoxin, cardiac glycosides used for centuries in heart medicine, which deter herbivores by affecting heart rhythm.
+The stomach handles a highly acidic environment, so its inner lining is built for constant repair. Surface cells are replaced quickly, helping protect the tissue from the digestive chemicals it produces.
 
-[Plant defense against herbivory (Wikipedia)](https://en.wikipedia.org/wiki/Plant_defense_against_herbivory)
+Without that ongoing renewal and protective mucus, the stomach would damage itself far more easily.
+
+[Stomach (Wikipedia)](https://en.wikipedia.org/wiki/Stomach)

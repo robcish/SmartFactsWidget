@@ -5,11 +5,11 @@ month: 11
 day: 4
 sequence_index: 0
 category: general
-title: SQL language was developed at IBM in the early 1970s — originally…
-teaser: The SQL language was developed at IBM in the early 1970s — originally called SEQUEL (Structured…
+title: Bubble wrap began as wallpaper
+teaser: The packing material started as a failed attempt to create textured home decor.
 published: true
 version: 1
 ---
-The SQL language was developed at IBM in the early 1970s — originally called SEQUEL (Structured English Query Language), shortened due to a trademark dispute.
+Its inventors sealed air between two shower curtains and hoped people would want the result on their walls. Wallpaper never caught on, but the material later found a much better life protecting fragile packages.
 
-[SQL (Wikipedia)](https://en.wikipedia.org/wiki/SQL)
+[Bubble wrap (Wikipedia)](https://en.wikipedia.org/wiki/Bubble_wrap)

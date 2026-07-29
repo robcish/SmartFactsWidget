@@ -5,11 +5,11 @@ month: 11
 day: 9
 sequence_index: 1
 category: environment
-title: Batch normalization (2015) allowed training of much deeper…
-teaser: Batch normalization (2015) allowed training of much deeper networks by normalizing layer inputs —…
+title: Earthworms quietly reshape soil
+teaser: A healthy worm population can move surprising amounts of earth without obvious drama at the surface.
 published: true
 version: 1
 ---
-Batch normalization (**2015**) allowed training of much deeper networks by normalizing layer inputs — it became a standard component of modern neural architectures.
+By burrowing, mixing organic matter, and leaving nutrient-rich castings, earthworms improve soil structure and water flow. Farmers once called them natural ploughs because they do so much underground work for free.
 
-[Batch normalization (Wikipedia)](https://en.wikipedia.org/wiki/Batch_normalization)
+[Earthworm (Wikipedia)](https://en.wikipedia.org/wiki/Earthworm)

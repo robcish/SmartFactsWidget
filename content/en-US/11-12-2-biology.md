@@ -5,11 +5,11 @@ month: 11
 day: 12
 sequence_index: 2
 category: biology
-title: Grasses use indigestible silica phytoliths to defend against…
-teaser: Grasses use indigestible silica phytoliths to defend against herbivores, causing rapid wear to…
+title: Tardigrades can pause their metabolism
+teaser: They enter a dehydrated state called cryptobiosis.
 published: true
 version: 1
 ---
-Grasses use indigestible silica phytoliths to defend against herbivores, causing rapid wear to mammal teeth and insect mandibles.
+**Tardigrades** can survive extreme cold, heat, radiation, and even the vacuum of space by entering a state called **cryptobiosis**. In that mode, metabolism nearly stops and the body loses most of its water. When conditions improve, they rehydrate and resume activity as if nothing happened.
 
-[Plant defense against herbivory (Wikipedia)](https://en.wikipedia.org/wiki/Plant_defense_against_herbivory)
+[Tardigrade (Wikipedia)](https://en.wikipedia.org/wiki/Tardigrade)

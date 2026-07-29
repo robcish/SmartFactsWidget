@@ -5,11 +5,11 @@ month: 11
 day: 30
 sequence_index: 1
 category: society
-title: Windows XP remained in use at ATMs, medical devices, and…
-teaser: Windows XP remained in use at ATMs, medical devices, and government systems for years after…
+title: Street addresses are a social technology
+teaser: Numbered houses made cities searchable.
 published: true
 version: 1
 ---
-Windows XP remained in use at ATMs, medical devices, and government systems for years after support ended in **2014** — some still run it today.
+House numbers and street addresses feel obvious now, but they were a social invention that made cities administratively legible. Once dwellings could be **located by number**, taxation, mail, emergency services, and census work all became easier. Navigation is not only maps — it is also civic infrastructure.
 
-[Windows XP (Wikipedia)](https://en.wikipedia.org/wiki/Windows_XP)
+[House numbering (Wikipedia)](https://en.wikipedia.org/wiki/House_numbering)

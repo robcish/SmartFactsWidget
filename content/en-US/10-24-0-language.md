@@ -5,11 +5,13 @@ month: 10
 day: 24
 sequence_index: 0
 category: language
-title: More than half of all Europeans speak at least one language other…
-teaser: More than half of all Europeans speak at least one language other than their mother tongue —…
+title: The word robot comes from Czech
+teaser: It entered global vocabulary through a 1920 play about artificial workers.
 published: true
 version: 1
 ---
-More than half of all Europeans speak at least one language other than their mother tongue — multilingualism is the global norm, not the exception.
+The word **robot** comes from the Czech word `robota`, related to forced labor or drudgery. It became internationally famous through Karel Capek's play `R.U.R.`, which imagined manufactured workers long before modern robotics existed.
 
-[Multilingualism (Wikipedia)](https://en.wikipedia.org/wiki/Multilingualism)
+The name stuck because it captured both labor and unease in a single short word.
+
+[Robot (Wikipedia)](https://en.wikipedia.org/wiki/Robot)

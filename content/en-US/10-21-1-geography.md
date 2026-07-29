@@ -5,11 +5,11 @@ month: 10
 day: 21
 sequence_index: 1
 category: geography
-title: term 'bit' (binary digit) was first used by Claude Shannon in his…
-teaser: The term 'bit' (binary digit) was first used by Claude Shannon in his 1948 paper — though credited…
+title: Chile is longer than you think
+teaser: The country stretches more than 4,000 km north to south.
 published: true
 version: 1
 ---
-The term 'bit' (binary digit) was first used by Claude Shannon in his **1948 **paper — though credited to mathematician John Tukey who suggested it in a memo.
+Chile is famously skinny, but its length is extreme: more than **4,000 kilometers** from north to south. That geography packs deserts, Mediterranean zones, temperate forests, and near-Antarctic landscapes into one country. Latitude does as much to define Chile as its long Pacific coastline.
 
-[Bit (Wikipedia)](https://en.wikipedia.org/wiki/Bit)
+[Chile (Wikipedia)](https://en.wikipedia.org/wiki/Chile)

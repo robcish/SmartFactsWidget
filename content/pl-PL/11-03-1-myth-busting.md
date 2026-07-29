@@ -5,9 +5,11 @@ month: 11
 day: 3
 sequence_index: 1
 category: myth-busting
-title: Zwinne tworzenie oprogramowania wyłoniło się z Manifestu z 2001…
-teaser: Zwinne tworzenie oprogramowania wyłoniło się z Manifestu zwinnego tworzenia oprogramowania z 2001…
+title: Wikingowie nie walczyli w rogach
+teaser: Słynny hełm z rogami to raczej dziecko XIX-wiecznej wyobraźni niż znalezisk archeologicznych.
 published: true
 version: 1
 ---
-Zwinne tworzenie oprogramowania wyłoniło się z **2001 **Manifestu dotyczącego zwinnego tworzenia oprogramowania — podpisanego przez 17 programistów w ośrodku narciarskim w Utah.
+Nie ma wiarygodnych dowodów na to, że wojownicy wikińscy nosili rogate hełmy w walce. Taki obraz utrwaliły romantyczne ilustracje i inscenizacje operowe, w których efektowna sylwetka liczyła się bardziej niż praktyczna ochrona.
+
+[Wikingowie (Wikipedia)](https://pl.wikipedia.org/wiki/Wikingowie)

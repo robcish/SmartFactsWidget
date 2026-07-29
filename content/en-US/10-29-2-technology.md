@@ -5,12 +5,13 @@ month: 10
 day: 29
 sequence_index: 2
 category: technology
-title: – ENIAC – the first general purpose programmable digital computer…
-teaser: – ENIAC – the first general purpose programmable digital computer Thomas Alva Edison (1847–1931),…
+title: GPS works better because Einstein was right
+teaser: Satellite clocks need relativity corrections or navigation errors would grow quickly.
 published: true
 version: 1
 ---
-– ENIAC – the first general purpose programmable digital computer
-Thomas Alva Edison (**1847**–1931), U.S.
+GPS satellites move fast and orbit in weaker gravity than clocks on Earth. Because of **special and general relativity**, their clocks drift differently from ours, and the system has to correct for that.
 
-[List of inventors (Wikipedia)](https://en.wikipedia.org/wiki/List_of_inventors)
+Without those adjustments, position errors would build up rapidly and GPS would become unreliable.
+
+[Global Positioning System (Wikipedia)](https://en.wikipedia.org/wiki/Global_Positioning_System)

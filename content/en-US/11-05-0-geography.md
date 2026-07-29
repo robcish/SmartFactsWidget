@@ -5,11 +5,11 @@ month: 11
 day: 5
 sequence_index: 0
 category: geography
-title: Redis, created in 2009, keeps all data in memory for…
-teaser: Redis, created in 2009, keeps all data in memory for sub-millisecond latency — its name comes from…
+title: Greenwich almost lost the prime meridian
+teaser: For a long time, maps and navies disagreed on where zero longitude should begin.
 published: true
 version: 1
 ---
-Redis, created in **2009, **keeps all data in memory for sub-millisecond latency — its name comes from 'REmote DIctionary Server.'
+Before the 1884 International Meridian Conference, countries often used their own reference lines, including Paris, Ferro, or Greenwich. Greenwich won because British charts dominated global shipping, not because longitude had a naturally obvious starting point.
 
-[Redis (Wikipedia)](https://en.wikipedia.org/wiki/Redis)
+[Prime meridian (Wikipedia)](https://en.wikipedia.org/wiki/Prime_meridian)

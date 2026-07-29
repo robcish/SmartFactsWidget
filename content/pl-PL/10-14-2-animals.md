@@ -5,11 +5,11 @@ month: 10
 day: 14
 sequence_index: 2
 category: animals
-title: Aksolotl może regenerować swoje kończyny, serce, a nawet części…
-teaser: Aksolotl potrafi regenerować kończyny, serce, a nawet części mózgu.
+title: Krowy wybierają ulubionych towarzyszy
+teaser: Bydło często wiąże się z konkretnymi osobnikami ze stada.
 published: true
 version: 1
 ---
-Aksolotl potrafi regenerować kończyny, serce, a nawet części mózgu.
+Badania zachowań bydła pokazują, że krowy nie traktują wszystkich członków stada tak samo. Potrafią tworzyć **preferowane więzi** i wydają się bardziej zestresowane, gdy te relacje zostaną przerwane. Zwierzęta gospodarskie bywają społecznie bardziej złożone, niż sugeruje zwykłe spojrzenie na pastwisko.
 
-[Ambystoma meksykańska (Wikipedia)](https://pl.wikipedia.org/wiki/Ambystoma_meksyka%C5%84ska)
+[Bydło (Wikipedia)](https://pl.wikipedia.org/wiki/Byd%C5%82o)

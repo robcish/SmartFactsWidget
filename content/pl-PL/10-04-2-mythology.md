@@ -5,9 +5,12 @@ month: 10
 day: 4
 sequence_index: 2
 category: mythology
-title: Projekt GNU, rozpoczęty przez Richarda Stallmana w 1983 roku,…
-teaser: Projekt GNU, rozpoczęty przez Richarda Stallmana w 1983 roku, stworzył kompilatory, edytory i…
+title: Droga Mleczna była tłumaczona jako rozlane mleko
+teaser: W mitologii greckiej świetlista smuga na niebie łączyła się z boginią Herą.
 published: true
 version: 1
 ---
-Projekt GNU, rozpoczęty przez Richarda Stallmana w **1983, **stworzył kompilatory, edytory i narzędzia dla wolnego Uniksa — ale jego jądro (GNU Hurd) nigdy nie zostało ukończone i dlatego Linux wypełnił tę lukę.
+Jedna z greckich opowieści mówi, że Droga Mleczna powstała, gdy mleko Hery rozprysnęło się po niebie. To obrazowe wyjaśnienie przetrwało również w języku, bo samo słowo `galaktyka` wyrasta z greckiego słowa oznaczającego mleko.
+
+Mit dawał ludziom zapamiętywalną historię o pasie światła na niebie na długo przed nowoczesną astronomią.
+

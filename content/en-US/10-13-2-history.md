@@ -5,11 +5,13 @@ month: 10
 day: 13
 sequence_index: 2
 category: history
-title: Merton contrasted a "multiple" with a "singleton"—a discovery that…
-teaser: Merton contrasted a "multiple" with a "singleton"—a discovery that has been made uniquely by a…
+title: Cleopatra is closer to us than to Giza
+teaser: Her lifetime was nearer the Moon landing than the pyramid builders.
 published: true
 version: 1
 ---
-Merton contrasted a "multiple" with a "singleton"—a discovery that has been made uniquely by a single scientist or group of scientists working together.
+Cleopatra VII lived in the first century BCE, while the Great Pyramid of Giza was already ancient by her time. The gap between pyramid construction and Cleopatra is longer than the gap between Cleopatra and the Apollo 11 mission.
 
-[List of multiple discoveries (Wikipedia)](https://en.wikipedia.org/wiki/List_of_multiple_discoveries)
+The comparison is a useful reminder that ancient Egypt covers an enormous stretch of time rather than one compact historical moment.
+
+[More on Cleopatra (Wikipedia)](https://en.wikipedia.org/wiki/Cleopatra)

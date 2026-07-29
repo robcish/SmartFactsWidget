@@ -5,11 +5,13 @@ month: 10
 day: 28
 sequence_index: 2
 category: geography
-title: Google's PageRank algorithm, which revolutionized web search, was…
-teaser: Google's PageRank algorithm, which revolutionized web search, was described in a 1998 paper — it…
+title: Point Nemo is Earth's loneliest ocean spot
+teaser: It is the place in the ocean farthest from any land.
 published: true
 version: 1
 ---
-Google's PageRank algorithm, which revolutionized web search, was described in a **1998 **paper — it models the web as a graph where links are 'votes' for importance.
+Point Nemo, in the South Pacific, is known as the **oceanic pole of inaccessibility**. It is farther from dry land than any other point on Earth's oceans.
 
-[PageRank (Wikipedia)](https://en.wikipedia.org/wiki/PageRank)
+Because it is so remote, spacecraft are sometimes guided to fall into the surrounding waters when they are retired from orbit.
+
+[Point Nemo (Wikipedia)](https://en.wikipedia.org/wiki/Point_Nemo)

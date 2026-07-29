@@ -5,11 +5,13 @@ month: 10
 day: 24
 sequence_index: 1
 category: philosophy
-title: Algorytm Dijkstry (1956) znajduje najkrótszą ścieżkę na grafie —…
-teaser: Algorytm Dijkstry (1956) znajduje najkrótszą ścieżkę na grafie — opracowany przez Edsgera Dijkstrę…
+title: Brzytwa Ockhama tnie założenia
+teaser: Nie mówi, że najprostszy pomysł zawsze jest prawdziwy, lecz że nadmiar założeń wymaga uzasadnienia.
 published: true
 version: 1
 ---
-Algorytm Dijkstry (**1956**) znajduje najkrótszą ścieżkę na grafie — opracowany przez Edsgera Dijkstrę w 20 minut w kawiarni, bez użycia komputera.
+**Brzytwa Ockhama** bywa streszczana jako zasada, że „najprostsze wyjaśnienie jest najlepsze”, ale to uproszczenie. Chodzi raczej o to, że jeśli dwie hipotezy równie dobrze pasują do faktów, rozsądniej wybrać tę z mniejszą liczbą założeń.
 
-[Algorytm Dijkstry (Wikipedia)](https://pl.wikipedia.org/wiki/Algorytm_Dijkstry)
+To reguła porządkowania myślenia, a nie obietnica, że świat sam w sobie musi być prosty.
+
+[Brzytwa Ockhama (Wikipedia)](https://pl.wikipedia.org/wiki/Brzytwa_Ockhama)

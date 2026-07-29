@@ -5,11 +5,11 @@ month: 11
 day: 25
 sequence_index: 1
 category: myth-busting
-title: Perl was called 'the duct tape of the Internet' in the 1990s — its…
-teaser: Perl was called 'the duct tape of the Internet' in the 1990s — its regex capabilities and text…
+title: Goldfish memory lasts longer than a few seconds
+teaser: They can learn simple tasks for months.
 published: true
 version: 1
 ---
-Perl was called 'the duct tape of the Internet' in the 1990s — its regex capabilities and text processing made it ideal for CGI scripts.
+The claim that goldfish forget everything in three seconds is a durable myth. Experiments show they can learn to navigate mazes, respond to cues, and retain training for **months**. The joke stuck because it is funny, not because it matches the evidence.
 
-[Perl (Wikipedia)](https://en.wikipedia.org/wiki/Perl)
+[Goldfish (Wikipedia)](https://en.wikipedia.org/wiki/Goldfish)

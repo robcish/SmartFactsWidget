@@ -5,9 +5,11 @@ month: 11
 day: 6
 sequence_index: 1
 category: culture
-title: Nazwa MongoDB pochodzi od „humongous” — została zaprojektowana w…
-teaser: Nazwa MongoDB pochodzi od słowa „humongous” — została zaprojektowana w 10gen (obecnie MongoDB…
+title: Emoji nie wzięły nazwy od emocji
+teaser: Brzmią znajomo po angielsku, ale japońskie źródłosłowy znaczą obraz i znak.
 published: true
 version: 1
 ---
-Nazwa MongoDB pochodzi od słowa „humongous” — została zaprojektowana w firmie 10gen (obecnie MongoDB Inc.) w **2007 **do obsługi wielkoskalowych aplikacji internetowych.
+Podobieństwo do słowa emotion jest przypadkowe. W języku japońskim *e* oznacza obraz, a *moji* znak pisma, co dobrze pasuje do pierwotnej funkcji małych obrazkowych symboli w wiadomościach cyfrowych.
+
+[Emoji (Wikipedia)](https://pl.wikipedia.org/wiki/Emoji)

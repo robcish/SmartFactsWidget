@@ -5,9 +5,13 @@ month: 10
 day: 19
 sequence_index: 2
 category: myth-busting
-title: Richard Stallman sprzeciwia się terminologii „open source”,…
-teaser: Richard Stallman sprzeciwia się terminologii „open source”, preferując „wolne oprogramowanie” –…
+title: Wikingowie nie nosili rogów
+teaser: Słynny hełm z rogami to głównie późniejszy wymysł sztuki i sceny.
 published: true
 version: 1
 ---
-Richard Stallman sprzeciwia się terminologii „otwartego oprogramowania”, preferując „wolne oprogramowanie” — obawia się, że zagraża to ideałom wolności oprogramowania.
+Znaleziska archeologiczne z epoki wikingów nie potwierdzają obrazu wojowników walczących w rogowych hełmach. Ten motyw upowszechnił się dużo później, zwłaszcza dzięki **XIX-wiecznej sztuce i kostiumom operowym**.
+
+Prawdziwy hełm bojowy musiał być praktyczny, a duże rogi tylko zwiększałyby ciężar i przeszkadzały w walce.
+
+[Wikingowie (Wikipedia)](https://pl.wikipedia.org/wiki/Wikingowie)

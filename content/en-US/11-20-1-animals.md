@@ -5,11 +5,11 @@ month: 11
 day: 20
 sequence_index: 1
 category: animals
-title: Goats have rectangular pupils that give them a 340-degree field of…
-teaser: Goats have rectangular pupils that give them a 340-degree field of vision.
+title: Hummingbirds can hover in place
+teaser: Their wings move in a figure-eight pattern.
 published: true
 version: 1
 ---
-Goats have rectangular pupils that give them a **340**-degree field of vision.
+Most birds generate lift mainly on the downstroke. **Hummingbirds** are different: their wingbeat creates lift on both the downstroke and upstroke, enabling true hovering. That aerial control is expensive, which is why they need a constant supply of high-energy nectar.
 
-[Goat (Wikipedia)](https://en.wikipedia.org/wiki/Goat)
+[Hummingbird (Wikipedia)](https://en.wikipedia.org/wiki/Hummingbird)

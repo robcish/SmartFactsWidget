@@ -5,11 +5,11 @@ month: 11
 day: 7
 sequence_index: 1
 category: psychology
-title: GPT-3 ma 175 miliardów parametrów i kosztuje szacunkowo 4,6 dolara…
-teaser: GPT-3 ma 175 miliardów parametrów i kosztuje szacunkowo 4,6 miliona dolarów, samo obliczenie do…
+title: Efekt Stroopa spowalnia oczywiste odpowiedzi
+teaser: Gdy słowo czerwony jest wydrukowane na niebiesko, nazwanie koloru atramentu robi się zaskakująco trudne.
 published: true
 version: 1
 ---
-GPT-**3 **ma 175 miliardów parametrów, a samo wyszkolenie obliczeń kosztuje szacunkowo 4,6 miliona dolarów — nowsze modele są jeszcze droższe.
+Czytanie jest u wykształconych dorosłych tak automatyczne, że przeszkadza w prostszym zadaniu, czyli podaniu koloru. Psychologowie używają testu Stroopa do badania uwagi, hamowania reakcji i tego, jak rywalizujące procesy umysłowe walczą o pierwszeństwo.
 
-[Granatnik GP-30 (Wikipedia)](https://pl.wikipedia.org/wiki/Granatnik_GP-30)
+[Efekt Stroopa (Wikipedia)](https://pl.wikipedia.org/wiki/Efekt_Stroopa)

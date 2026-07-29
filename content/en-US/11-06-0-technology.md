@@ -5,11 +5,11 @@ month: 11
 day: 6
 sequence_index: 0
 category: technology
-title: – phonograph, commercially practical incandescent light bulb, etc
-teaser: – phonograph, commercially practical incandescent light bulb, etc.
+title: The @ sign helped email take off
+teaser: Ray Tomlinson chose a symbol that already meant 'at' when he sent one of the first network emails.
 published: true
 version: 1
 ---
-– phonograph, commercially practical incandescent light bulb, etc.
+In 1971, the `@` neatly separated the user name from the host computer, solving a practical addressing problem. That small choice became one of the most recognizable conventions in digital communication.
 
-[List of inventors (Wikipedia)](https://en.wikipedia.org/wiki/List_of_inventors)
+[Email (Wikipedia)](https://en.wikipedia.org/wiki/Email)

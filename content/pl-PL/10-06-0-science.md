@@ -5,9 +5,13 @@ month: 10
 day: 6
 sequence_index: 0
 category: science
-title: Standard zmiennoprzecinkowy IEEE 754 powstał w 1985 roku, aby…
-teaser: Standard zmiennoprzecinkowy IEEE 754 powstał w 1985 roku, aby zaradzić chaosowi związanemu z…
+title: Ciepła woda bywa szybsza od zimnej w zamarzaniu
+teaser: W pewnych warunkach efekt Mpemby sprawia, że cieplejsza próbka kończy pierwsza.
 published: true
 version: 1
 ---
-IEEE **754 **liczba zmiennoprzecinkowa została utworzona w 1985 r. w celu rozwiązania problemu chaosu związanego z niekompatybilnymi formatami zmiennoprzecinkowymi — wcześniej przenoszenie obliczeń między systemami często dawało różne wyniki.
+Efekt Mpemby nie pojawia się w każdej zamrażarce ani w każdym doświadczeniu, ale był obserwowany na tyle często, że nadal interesuje fizyków. Znaczenie mogą mieć parowanie, konwekcja, ilość rozpuszczonych gazów i sam pojemnik.
+
+To dobry przykład na to, że nawet pozornie proste zjawiska potrafią skrywać zaskakująco złożoną fizykę.
+
+[Efekt Mpemby (Wikipedia)](https://pl.wikipedia.org/wiki/Efekt_Mpemby)

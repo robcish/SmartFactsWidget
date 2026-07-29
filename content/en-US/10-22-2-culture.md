@@ -5,11 +5,13 @@ month: 10
 day: 22
 sequence_index: 2
 category: culture
-title: Von Neumann architecture, used by nearly all modern computers,…
-teaser: Von Neumann architecture, used by nearly all modern computers, stores both programs and data in…
+title: Blue jeans began as workwear
+teaser: Riveted denim trousers were made for durability long before they became a fashion staple.
 published: true
 version: 1
 ---
-Von Neumann architecture, used by nearly all modern computers, stores both programs and data in the same memory — introduced in **1945**.
+Jeans were popularized in the 19th century as sturdy clothing for laborers, especially miners and other workers who needed fabric that could survive hard use. Metal rivets reinforced stress points and made the trousers last longer.
 
-[Von Neumann architecture (Wikipedia)](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+A practical garment for work eventually became one of the most global items in modern fashion culture.
+
+[Jeans (Wikipedia)](https://en.wikipedia.org/wiki/Jeans)

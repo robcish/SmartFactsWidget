@@ -5,11 +5,13 @@ month: 9
 day: 27
 sequence_index: 2
 category: myth-busting
-title: Netscape's 1995 IPO triggered the dot-com bubble — after the…
-teaser: Netscape's 1995 IPO triggered the dot-com bubble — after the Mosaic browser made the web popular,…
+title: Bulls do not charge because of red
+teaser: A matador's cape angers a bull by movement, not by its color.
 published: true
 version: 1
 ---
-Netscape's **1995 **IPO triggered the dot-com bubble — after the Mosaic browser made the web popular, Marc Andreessen founded Netscape and released Navigator with Java and JavaScript.
+Bulls are effectively red-green color-blind, so the famous scarlet cape is not what provokes them. What triggers the charge is the **motion of the cloth** and the stress of the arena.
 
-[World Wide Web (Wikipedia)](https://en.wikipedia.org/wiki/World_Wide_Web)
+The red fabric became tradition partly because it hides blood well and looks dramatic to human spectators.
+
+[Bullfighting (Wikipedia)](https://en.wikipedia.org/wiki/Bullfighting)

@@ -5,11 +5,13 @@ month: 10
 day: 16
 sequence_index: 1
 category: psychology
-title: Sanie NOP to sekwencje instrukcji zakazujących działania stosowane…
-teaser: Sanie NOP to sekwencje instrukcji braku operacji wykorzystywane w exploitach związanych z…
+title: W hałasie łatwo wyłapać własne imię
+teaser: To jedna z wersji tak zwanego efektu cocktail party.
 published: true
 version: 1
 ---
-Sanie NOP to sekwencje instrukcji braku operacji wykorzystywane w exploitach związanych z przepełnieniem bufora — zwiększają szansę na pomyślne przejście do kodu powłoki.
+Możemy nie rozumieć większości rozmów dookoła, a mimo to nagle usłyszeć własne imię. Mózg traktuje niektóre sygnały jako szczególnie ważne i potrafi wydobyć je z tła.
 
-[Przepełnienie bufora (Wikipedia)](https://pl.wikipedia.org/wiki/Przepe%C5%82nienie_bufora)
+Ta selektywna uwaga jest częścią zjawiska nazywanego **efektem cocktail party**. Pokazuje ono, że nasza uwaga filtruje świat, ale nie wszystkie bodźce odrzuca jednakowo.
+
+[Efekt cocktail party (Wikipedia)](https://pl.wikipedia.org/wiki/Efekt_cocktail_party)

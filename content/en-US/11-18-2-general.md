@@ -5,11 +5,13 @@ month: 11
 day: 18
 sequence_index: 2
 category: general
-title: largest DDoS attack recorded exceeded 3.47 Tbps in 2022 —…
-teaser: The largest DDoS attack recorded exceeded 3.47 Tbps in 2022 — equivalent to streaming about 2…
+title: The Eiffel Tower grows in summer
+teaser: Heat makes the iron expand, so the tower can stand several centimeters taller on hot days.
 published: true
 version: 1
 ---
-The largest DDoS attack recorded exceeded **3.47 **Tbps in 2022 — equivalent to streaming about 2 million HD movies simultaneously.
+Like most materials, iron expands when its temperature rises. On a warm day the metal in the Eiffel Tower lengthens slightly, which can make the structure measurably taller than it is in colder weather.
 
-[DDoS attack (Wikipedia)](https://en.wikipedia.org/wiki/DDoS_attack)
+The change is small compared with the tower's full height, but large enough to demonstrate thermal expansion in a very public way. Even iconic landmarks quietly obey basic physics.
+
+[Eiffel Tower (Wikipedia)](https://en.wikipedia.org/wiki/Eiffel_Tower)

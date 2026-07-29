@@ -5,11 +5,13 @@ month: 9
 day: 28
 sequence_index: 2
 category: science
-title: Hyperlinks on the web can become 'dead' over time (link rot) — the…
-teaser: Hyperlinks on the web can become 'dead' over time (link rot) — the Internet Archive has been…
+title: Octopuses can taste with their arms
+teaser: Their suckers contain chemoreceptors that help them inspect surfaces before eating.
 published: true
 version: 1
 ---
-Hyperlinks on the web can become 'dead' over time (link rot) — the Internet Archive has been archiving websites since **1996 **to preserve the ephemeral web.
+An octopus does not rely only on eyes and beak when hunting. Its suckers are packed with receptors that detect chemicals on contact, letting the animal effectively **taste by touching**.
 
-[World Wide Web (Wikipedia)](https://en.wikipedia.org/wiki/World_Wide_Web)
+That makes each arm part hand, part tongue, which is useful when exploring dark crevices full of hidden prey.
+
+[Octopus (Wikipedia)](https://en.wikipedia.org/wiki/Octopus)

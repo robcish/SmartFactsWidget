@@ -5,11 +5,13 @@ month: 10
 day: 2
 sequence_index: 1
 category: philosophy
-title: Nakamoto's Bitcoin paper was not peer-reviewed and was initially…
-teaser: Nakamoto's Bitcoin paper was not peer-reviewed and was initially ignored by academics who argued…
+title: The heap paradox asks when many grains become a pile
+teaser: Removing one grain at a time shows how fuzzy everyday categories can be.
 published: true
 version: 1
 ---
-Nakamoto's Bitcoin paper was not peer-reviewed and was initially ignored by academics who argued it couldn't work — it was published on a cryptography mailing list on October **31, **2008.
+The sorites paradox starts with a simple question: if one grain does not stop a heap from being a heap, when exactly does the change happen? Step by step, it exposes how hard it is to draw perfectly sharp boundaries around ordinary words.
 
-[Bitcoin (Wikipedia)](https://en.wikipedia.org/wiki/Bitcoin)
+That makes it a classic example in discussions of vagueness, logic, and language.
+
+[Sorites paradox (Wikipedia)](https://en.wikipedia.org/wiki/Sorites_paradox)

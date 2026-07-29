@@ -5,11 +5,11 @@ month: 11
 day: 2
 sequence_index: 1
 category: astronomy
-title: Układ Słoneczny i inne wymienione tutaj gwiazdy/karły to…
-teaser: Układ Słoneczny i inne wymienione tutaj gwiazdy/karły poruszają się obecnie w obrębie (lub w…
+title: Na Marsie kiedyś płynęły rzeki i jeziora
+teaser: Zdjęcia orbitalne pokazują dawne doliny i wyschnięte baseny.
 published: true
 version: 1
 ---
-Układ Słoneczny i inne wymienione tutaj gwiazdy/karły poruszają się obecnie w obrębie Lokalnego Obłoku Międzygwiazdowego (lub w jego pobliżu) o średnicy około **30 **lat świetlnych (9,2 szt.).
+Sondy zmapowały doliny, delty i złoża minerałów, które mocno sugerują, że po powierzchni Marsa kiedyś płynęła ciekła woda. Dziś planeta jest zimna i sucha, ale jej geologia zachowała ślady bardziej wilgotnej przeszłości. Dlatego Mars pozostaje ulubionym celem pytań o dawną zdatność do życia.
 
-[Solar Sister (Wikipedia)](https://pl.wikipedia.org/wiki/Solar_Sister)
+[Woda na Marsie (Wikipedia)](https://pl.wikipedia.org/wiki/Woda_na_Marsie)

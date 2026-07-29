@@ -5,11 +5,11 @@ month: 11
 day: 3
 sequence_index: 0
 category: mythology
-title: waterfall model of software development, often criticized today,…
-teaser: The waterfall model of software development, often criticized today, was first described by…
+title: Cerberus was not always three-headed
+teaser: Ancient sources describe Hades' guard dog differently, even though modern retellings fix him at three heads.
 published: true
 version: 1
 ---
-The waterfall model of software development, often criticized today, was first described by Winston Royce in **1970** — ironically, he presented it as a flawed approach.
+Three-headed Cerberus became the best-known version, but Greek authors and artists were not perfectly consistent. Mythic figures often changed shape across regions and centuries, which is one reason there is no single definitive canon for Greek myth.
 
-[Waterfall model (Wikipedia)](https://en.wikipedia.org/wiki/Waterfall_model)
+[Cerberus (Wikipedia)](https://en.wikipedia.org/wiki/Cerberus)

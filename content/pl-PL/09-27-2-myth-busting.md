@@ -5,9 +5,13 @@ month: 9
 day: 27
 sequence_index: 2
 category: myth-busting
-title: Pierwsza oferta publiczna Netscape w 1995 r. wywołała bańkę…
-teaser: Pierwsza oferta publiczna Netscape w 1995 r.
+title: Byki nie atakują przez kolor czerwony
+teaser: Płachta torreadora działa ruchem, a nie samą barwą.
 published: true
 version: 1
 ---
-Debiut Netscape **1995 **IPO zapoczątkował bańkę internetową — po tym, jak przeglądarka Mosaic spopularyzowała Internet, Marc Andreessen założył Netscape i wypuścił Navigatora z Javą i JavaScript.
+Byki nie reagują agresją na czerwień samą w sobie, bo słabo rozróżniają ten zakres barw. Do szarży skłania je przede wszystkim **ruch materiału** i stres całego widowiska.
+
+Czerwona płachta utrwaliła się raczej dlatego, że dobrze wygląda dla widzów i maskuje ślady krwi.
+
+[Korrida (Wikipedia)](https://pl.wikipedia.org/wiki/Korrida)

@@ -5,11 +5,11 @@ month: 11
 day: 9
 sequence_index: 2
 category: astronomy
-title: Local Interstellar Cloud is, in turn, contained inside the Local…
-teaser: The Local Interstellar Cloud is, in turn, contained inside the Local Bubble, a cavity in the…
+title: The Sun's corona beats its surface
+teaser: Astronomers still study why the Sun's outer atmosphere gets far hotter than the visible surface.
 published: true
 version: 1
 ---
-The Local Interstellar Cloud is, in turn, contained inside the Local Bubble, a cavity in the interstellar medium about **300 **light-years (92.0 pc) across.
+The photosphere is only about 5,500 degrees Celsius, while the corona can reach millions. Magnetic fields and waves in superheated plasma likely do much of the heating, but the full mechanism is still an active research problem.
 
-[List of nearest stars (Wikipedia)](https://en.wikipedia.org/wiki/List_of_nearest_stars)
+[Corona (Wikipedia)](https://en.wikipedia.org/wiki/Corona)

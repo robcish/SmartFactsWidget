@@ -5,11 +5,11 @@ month: 10
 day: 11
 sequence_index: 0
 category: environment
-title: Kompresja LZW, stosowana w obrazach GIF i PKZIP, była tak skuteczna…
-teaser: Kompresja LZW, stosowana w obrazach GIF i PKZIP, była tak skuteczna, że ​​Unisys próbował wymusić…
+title: Namorzyny to nadmorskie skarbce węgla
+teaser: Te słonolubne lasy magazynują węgiel w korzeniach i mule.
 published: true
 version: 1
 ---
-Kompresja LZW, stosowana w obrazach GIF i PKZIP, była tak skuteczna, że ​​Unisys próbował wyegzekwować opłaty patentowe w **1994**, co zapoczątkowało utworzenie wolnego od patentów PNG.
+**Lasy namorzynowe** rosną w słonych wodach przybrzeżnych i magazynują duże ilości węgla w gęstych systemach korzeniowych oraz osadach. Ponieważ ten węgiel może pozostawać uwięziony przez długi czas, namorzyny są ważne nie tylko dla przyrody i ochrony przed sztormami, ale też dla klimatu. Ich wycinka uwalnia węgiel gromadzony przez dekady.
 
-[Środowisko przyrodnicze (Wikipedia)](https://pl.wikipedia.org/wiki/%C5%9Arodowisko_przyrodnicze)
+[Namorzyny (Wikipedia)](https://pl.wikipedia.org/wiki/Namorzyny)

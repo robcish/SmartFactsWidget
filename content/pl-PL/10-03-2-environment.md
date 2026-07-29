@@ -5,11 +5,13 @@ month: 10
 day: 3
 sequence_index: 2
 category: environment
-title: W połączeniu z systemem Android (opartym na systemie Linux) Linux…
-teaser: W połączeniu z systemem Android (opartym na systemie Linux) Linux ma największą liczbę…
+title: Torfowiska magazynują ogromne ilości węgla
+teaser: Zajmują niewielką część lądów, a mimo to wiążą węgiel przez bardzo długi czas.
 published: true
 version: 1
 ---
-W połączeniu z systemem Android (opartym na systemie Linux) Linux ma największą zainstalowaną bazę wszystkich systemów operacyjnych ogólnego przeznaczenia według stanu na **2022**.
+Torfowiska powstają tam, gdzie szczątki roślin rozkładają się bardzo wolno w podmokłych warunkach i stopniowo tworzą grubą warstwę materii organicznej. Dzięki temu węgiel zostaje zamknięty w gruncie na długie okresy.
 
-[Środowisko przyrodnicze (Wikipedia)](https://pl.wikipedia.org/wiki/%C5%9Arodowisko_przyrodnicze)
+Kiedy torfowisko osusza się albo wypala, spokojny magazyn może szybko stać się znaczącym źródłem emisji.
+
+[Torfowisko (Wikipedia)](https://pl.wikipedia.org/wiki/Torfowisko)

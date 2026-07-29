@@ -5,11 +5,11 @@ month: 11
 day: 25
 sequence_index: 1
 category: myth-busting
-title: W latach 90. Perl był nazywany „taśmą klejącą Internetu” — jego…
-teaser: W latach 90.
+title: Pamięć złotej rybki trwa dłużej niż kilka sekund
+teaser: Potrafią uczyć się prostych zadań na miesiące.
 published: true
 version: 1
 ---
-W latach 90. Perl był nazywany „taśmą klejącą Internetu” — dzięki możliwościom wyrażeń regularnych i przetwarzaniu tekstu idealnie nadawał się do skryptów CGI.
+Twierdzenie, że złota rybka zapomina wszystko w trzy sekundy, to trwały mit. Eksperymenty pokazują, że potrafią uczyć się labiryntów, reagować na sygnały i zachowywać trening przez **miesiące**. Żart przetrwał, bo jest zabawny, a nie dlatego, że zgadza się z dowodami.
 
-[Perl (Wikipedia)](https://pl.wikipedia.org/wiki/Perl)
+[Złota rybka (Wikipedia)](https://pl.wikipedia.org/wiki/Z%C5%82ota_rybka)

@@ -5,9 +5,13 @@ month: 10
 day: 12
 sequence_index: 1
 category: myth-busting
-title: Płyta CD o pojemności 640 MB mieści około 1 godziny…
-teaser: Płyta CD o pojemności 640 MB mieści około 1 godziny nieskompresowanej muzyki, 2 godziny…
+title: Złote rybki nie pamiętają tylko trzy sekundy
+teaser: Potrafią uczyć się prostych schematów i kojarzyć sygnały karmienia.
 published: true
 version: 1
 ---
-Na płycie CD **640 **MB mieści się około 1 godziny muzyki nieskompresowanej, 2 godziny muzyki skompresowanej bezstratnie lub 7 godzin plików MP3 przy średniej przepływności.
+Popularny żart o tym, że złota rybka natychmiast wszystko zapomina, nie jest prawdą. Badania i zwykła praktyka akwarystyczna pokazują, że ryby te potrafią uczyć się powtarzalnych wzorców.
+
+Mogą kojarzyć porę karmienia, zapamiętywać elementy zbiornika i reagować na sygnały opiekuna. Mały mózg nie oznacza braku pamięci.
+
+[Złota rybka (Wikipedia)](https://pl.wikipedia.org/wiki/Z%C5%82ota_rybka)

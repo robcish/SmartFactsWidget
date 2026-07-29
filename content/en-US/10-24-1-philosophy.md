@@ -5,11 +5,13 @@ month: 10
 day: 24
 sequence_index: 1
 category: philosophy
-title: Dijkstra's algorithm (1956) finds the shortest path in a graph —…
-teaser: Dijkstra's algorithm (1956) finds the shortest path in a graph — developed by Edsger Dijkstra in…
+title: Occam's razor is about assumptions
+teaser: It does not say the simplest idea is always true, only that extra assumptions need reasons.
 published: true
 version: 1
 ---
-Dijkstra's algorithm (**1956**) finds the shortest path in a graph — developed by Edsger Dijkstra in 20 minutes at a café, without using a computer.
+**Occam's razor** is often summarized as “the simplest explanation is best,” but that wording is too loose. The core idea is narrower: when two explanations fit the facts equally well, prefer the one that assumes less.
 
-[Dijkstra's algorithm (Wikipedia)](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+It is a rule of intellectual discipline, not a guarantee that reality itself must be simple.
+
+[Occam's razor (Wikipedia)](https://en.wikipedia.org/wiki/Occam%27s_razor)

@@ -5,11 +5,11 @@ month: 11
 day: 13
 sequence_index: 0
 category: animals
-title: najstarszym znanym żyjącym zwierzęciem lądowym jest Jonathan,…
-teaser: Najstarszym znanym żyjącym zwierzęciem lądowym jest ponad 190-letni żółw Jonathan.
+title: Flamingi biorą kolor z jedzenia
+teaser: Różowe pióra pochodzą z pigmentów w pokarmie.
 published: true
 version: 1
 ---
-Najstarszym znanym żyjącym zwierzęciem lądowym jest Jonathan, żółw, który ma ponad **190 lat**.
+Flamingi nie rodzą się jaskrawo różowe. Ich barwa pochodzi głównie z **karotenoidów** zawartych w glonach i drobnych skorupiakach, którymi się żywią. Bez takiej diety upierzenie blednie ku jasnym lub białawym tonom. Wygląd bywa równie mocno chemią, co genetyką.
 
-)
+[Flaming (Wikipedia)](https://pl.wikipedia.org/wiki/Flamingi)

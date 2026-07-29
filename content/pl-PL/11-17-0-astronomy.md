@@ -5,9 +5,11 @@ month: 11
 day: 17
 sequence_index: 0
 category: astronomy
-title: Zawiera między innymi Wielką Niedźwiedzicę i gromadę gwiazd Hiady
-teaser: Zawiera między innymi Wielką Niedźwiedzicę i gromadę gwiazd Hiady.
+title: Neptuna znaleziono matematyką przed teleskopem
+teaser: Obliczenia przewidziały planetę zaburzającą Uran.
 published: true
 version: 1
 ---
-Zawiera między innymi Wielką Niedźwiedzicę i gromadę gwiazd Hiady.
+Neptun nie został odkryty przypadkiem. Astronomowie zauważyli, że Uran zbacza z przewidywanej orbity, i obliczyli, że grawitacja kolejnej planety może to wyjaśnić. Gdy teleskopy skierowano w przewidziany obszar, **Neptun** rzeczywiście tam był. To jedna z najsłynniejszych wygranych mechaniki nieba.
+
+[Odkrycie Neptuna (Wikipedia)](https://pl.wikipedia.org/wiki/Odkrycie_Neptuna)

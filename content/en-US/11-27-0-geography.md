@@ -5,11 +5,13 @@ month: 11
 day: 27
 sequence_index: 0
 category: geography
-title: Java was originally called Oak, after a tree outside James…
-teaser: Java was originally called Oak, after a tree outside James Gosling's office — it was renamed…
+title: Four US states meet at one point
+teaser: The Four Corners region is the only place where four states share a single boundary point.
 published: true
 version: 1
 ---
-Java was originally called Oak, after a tree outside James Gosling's office — it was renamed because Oak was trademarked by another company.
+At Four Corners, Arizona, Utah, Colorado, and New Mexico touch at one surveyed point. It is a geographic oddity created by straight-line borders rather than rivers or mountain ranges.
 
-[Java (programming language) (Wikipedia)](https://en.wikipedia.org/wiki/Java_(programming_language))
+Many political boundaries follow natural features, but this one reflects mapmaking decisions drawn on lines of latitude and longitude. A very abstract idea of space became a tourist landmark.
+
+[Four Corners Monument (Wikipedia)](https://en.wikipedia.org/wiki/Four_Corners_Monument)

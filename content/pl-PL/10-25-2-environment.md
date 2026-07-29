@@ -5,11 +5,11 @@ month: 10
 day: 25
 sequence_index: 2
 category: environment
-title: Jon Bentley odkrył, że 90% profesjonalnych programistów nie potrafi…
-teaser: Jon Bentley odkrył, że 90% profesjonalnych programistów nie potrafi poprawnie wdrożyć wyszukiwania…
+title: Lasy wodorostów szybko wiążą węgiel
+teaser: Gigantyczne algi rosną błyskawicznie i karmią ekosystemy przybrzeżne.
 published: true
 version: 1
 ---
-Jon Bentley odkrył, że **90**% profesjonalnych programistów nie potrafiło poprawnie zaimplementować wyszukiwania binarnego — częstymi błędami były błędy różnicowe i przepełnienie liczb całkowitych.
+**Lasy kelpowe** potrafią rosnąć wyjątkowo szybko i utrzymywać gęste ekosystemy morskie. Ponieważ kelp wiąże węgiel w żywej tkance, a część tej materii opada w głębsze wody, te podwodne lasy mają znaczenie zarówno dla bioróżnorodności, jak i klimatu. Są też wrażliwe na fale upałów i nadmierny wypas przez jeżowce.
 
-[Środowisko przyrodnicze (Wikipedia)](https://pl.wikipedia.org/wiki/%C5%9Arodowisko_przyrodnicze)
+[Las wodorostów (Wikipedia)](https://en.wikipedia.org/wiki/Kelp_forest)

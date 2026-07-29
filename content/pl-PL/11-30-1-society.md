@@ -5,9 +5,11 @@ month: 11
 day: 30
 sequence_index: 1
 category: society
-title: Windows XP pozostał w użyciu w bankomatach, urządzeniach…
-teaser: Windows XP był używany w bankomatach, urządzeniach medycznych i systemach rządowych przez lata po…
+title: Adresy ulic to technologia społeczna
+teaser: Numerowane domy uczyniły miasta przeszukiwalnymi.
 published: true
 version: 1
 ---
-System Windows XP był używany w bankomatach, urządzeniach medycznych i systemach rządowych przez lata po zakończeniu wsparcia technicznego w **2014** — niektórzy nadal go obsługują.
+Numery domów i adresy ulic wydają się dziś oczywiste, ale były społecznym wynalazkiem, który uczynił miasta administracyjnie czytelnymi. Gdy budynki dało się **lokalizować po numerze**, łatwiejsze stały się podatki, poczta, służby ratunkowe i spisy ludności. Nawigacja to nie tylko mapy — to też infrastruktura obywatelska.
+
+[Numeracja budynków (Wikipedia)](https://en.wikipedia.org/wiki/House_numbering)

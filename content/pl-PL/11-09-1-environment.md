@@ -5,11 +5,11 @@ month: 11
 day: 9
 sequence_index: 1
 category: environment
-title: Normalizacja wsadowa (2015) umożliwiła szkolenie znacznie głębszych…
-teaser: Normalizacja wsadowa (2015) umożliwiła szkolenie znacznie głębszych sieci poprzez normalizację…
+title: Dżdżownice po cichu przebudowują glebę
+teaser: Zdrowa populacja dżdżownic potrafi poruszyć zaskakująco dużo ziemi bez spektakularnych śladów na powierzchni.
 published: true
 version: 1
 ---
-Normalizacja wsadowa (**2015**) umożliwiła szkolenie znacznie głębszych sieci poprzez normalizację danych wejściowych warstw — stała się standardowym elementem nowoczesnych architektur neuronowych.
+Ryjąc korytarze, mieszając materię organiczną i zostawiając bogate w składniki odchody, dżdżownice poprawiają strukturę gleby oraz przepływ wody. Rolnicy bywali skłonni nazywać je naturalnymi pługami, bo ogrom pracy wykonują pod ziemią za darmo.
 
-[Środowisko przyrodnicze (Wikipedia)](https://pl.wikipedia.org/wiki/%C5%9Arodowisko_przyrodnicze)
+[Dżdżownica (Wikipedia)](https://pl.wikipedia.org/wiki/D%C5%BCd%C5%BCownica)

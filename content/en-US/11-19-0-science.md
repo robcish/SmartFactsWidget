@@ -5,11 +5,11 @@ month: 11
 day: 19
 sequence_index: 0
 category: science
-title: IPv4's 4.3 billion addresses (2^32) seemed inexhaustible in 1983 —…
-teaser: IPv4's 4.3 billion addresses (2^32) seemed inexhaustible in 1983 — IANA allocated the last blocks…
+title: Glass is a liquid only in myth
+teaser: At room temperature it behaves as an amorphous solid.
 published: true
 version: 1
 ---
-IPv4's **4.3 billion** addresses (2^32) seemed inexhaustible in 1983 — IANA allocated the last blocks in 2011, forcing the transition to IPv6's 340 undecillion addresses.
+Old windows that look thicker at the bottom inspired a popular claim that glass slowly flows like a liquid. Modern materials science says otherwise: everyday glass is best described as an **amorphous solid**. The uneven panes are mainly a result of older manufacturing methods, not centuries of dripping.
 
-[IPv6 (Wikipedia)](https://en.wikipedia.org/wiki/IPv6)
+[Glass (Wikipedia)](https://en.wikipedia.org/wiki/Glass)

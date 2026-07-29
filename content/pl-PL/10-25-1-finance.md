@@ -5,9 +5,13 @@ month: 10
 day: 25
 sequence_index: 1
 category: finance
-title: Algorytm wyszukiwania binarnego został po raz pierwszy…
-teaser: Algorytm wyszukiwania binarnego został po raz pierwszy opublikowany w 1946 roku, ale pierwszą…
+title: Procent składany nagradza cierpliwość
+teaser: Wzrost przyspiesza, gdy odsetki same zaczynają pracować na kolejne odsetki.
 published: true
 version: 1
 ---
-Algorytm wyszukiwania binarnego został po raz pierwszy opublikowany w **1946 r. **ale pierwsza poprawna implementacja została opublikowana dopiero w 1962 r. — co świadczy o tym, jak trudne mogą być „proste” algorytmy.
+Przy odsetkach prostych zysk nalicza się tylko od kwoty początkowej. Przy **procencie składanym** wypracowane odsetki powiększają kapitał, więc kolejne zyski liczą się od coraz większej podstawy.
+
+Dlatego w oszczędzaniu, zadłużeniu i inwestowaniu czas bywa ważniejszy, niż podpowiada intuicja.
+
+[Procent składany (Wikipedia)](https://pl.wikipedia.org/wiki/Procent_sk%C5%82adany)

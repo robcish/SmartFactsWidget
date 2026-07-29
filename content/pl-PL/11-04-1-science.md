@@ -5,9 +5,11 @@ month: 11
 day: 4
 sequence_index: 1
 category: science
-title: Bazy danych NoSQL pojawiły się pod koniec XXI wieku w celu obsługi…
-teaser: Bazy danych NoSQL pojawiły się pod koniec XXI wieku w celu obsługi danych w skali internetowej —…
+title: Ciepła woda bywa szybsza od zimnej
+teaser: W pewnych warunkach cieplejsza woda może zamarznąć wcześniej niż chłodniejsza.
 published: true
 version: 1
 ---
-Bazy danych NoSQL pojawiły się pod koniec XXI wieku w celu obsługi danych w skali sieciowej — termin ten ukuto na potrzeby spotkania w **2009 ** na temat „rozproszonych, nierelacyjnych baz danych typu open source”.
+To zaskakujące zjawisko nazywa się efektem Mpemby, choć naukowcy nadal dyskutują, jaka mieszanka parowania, konwekcji, gazów rozpuszczonych i kształtu naczynia naprawdę za nie odpowiada. Najważniejsze jest to, że wyższa temperatura początkowa nie zawsze oznacza późniejszy finał.
+
+[Efekt Mpemby (Wikipedia)](https://pl.wikipedia.org/wiki/Efekt_Mpemby)

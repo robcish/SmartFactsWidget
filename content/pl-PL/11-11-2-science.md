@@ -5,9 +5,13 @@ month: 11
 day: 11
 sequence_index: 2
 category: science
-title: GANs (Generative Adversarial Networks), invented by Ian Goodfellow…
-teaser: Sieci GAN (Generative Adversarial Networks), wynalezione przez Iana Goodfellowa w 2014 roku,…
+title: Lód pływa, bo zwiększa objętość
+teaser: Zamarzająca woda staje się mniej gęsta, dlatego jeziora zamarzają od góry.
 published: true
 version: 1
 ---
-Sieci GAN (Generative Adversarial Networks), wynalezione przez Iana Goodfellowa w **2014, **wykorzystują dwie konkurujące ze sobą sieci neuronowe w celu generowania realistycznych danych.
+Większość substancji kurczy się podczas ochładzania, ale woda zachowuje się w pobliżu zera nietypowo. Jej cząsteczki układają się w strukturę krystaliczną, która zajmuje więcej miejsca, więc lód ma mniejszą gęstość niż ciecz.
+
+Dzięki temu unosi się na powierzchni i izoluje wodę pod spodem. Gdyby było inaczej, jeziora mogłyby zamarzać od dna, a życie wodne miałoby znacznie trudniejsze warunki.
+
+[Woda (Wikipedia)](https://pl.wikipedia.org/wiki/Woda)

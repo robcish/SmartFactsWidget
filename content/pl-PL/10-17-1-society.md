@@ -5,11 +5,13 @@ month: 10
 day: 17
 sequence_index: 1
 category: society
-title: Kanarki stosowe wykrywają przepełnienia bufora, umieszczając…
-teaser: Kanarki stosowe wykrywają przepełnienia bufora, umieszczając losową wartość przed adresem zwrotnym…
+title: Numery domów zmieniły funkcjonowanie miast
+teaser: Ułatwiły pocztę, handel i porządek administracyjny.
 published: true
 version: 1
 ---
-Kanarki stosowe wykrywają przepełnienia bufora, umieszczając losową wartość przed adresem zwrotnym — jeśli zostanie ona nadpisana, program bezpiecznie zakończy działanie.
+Dziś dokładny adres wydaje się czymś oczywistym, ale dawniej wiele miast opierało się raczej na nazwach budynków, punktach orientacyjnych i lokalnej pamięci niż na numerach.
 
-[Przepełnienie bufora (Wikipedia)](https://pl.wikipedia.org/wiki/Przepe%C5%82nienie_bufora)
+Numeracja domów uprościła doręczanie poczty, ewidencję mieszkańców, opodatkowanie nieruchomości i poruszanie się po rozrastających się miastach. Mały standard mocno zmienił codzienność.
+
+[Numery porządkowe budynków (Wikipedia)](https://pl.wikipedia.org/wiki/Numery_porządkowe_budynk%C3%B3w)

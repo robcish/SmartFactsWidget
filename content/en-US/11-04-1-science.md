@@ -5,11 +5,11 @@ month: 11
 day: 4
 sequence_index: 1
 category: science
-title: NoSQL databases emerged in the late 2000s to handle web-scale data…
-teaser: NoSQL databases emerged in the late 2000s to handle web-scale data — the term was coined for a…
+title: Hot water can freeze faster
+teaser: Under some conditions, warmer water reaches ice before cooler water does.
 published: true
 version: 1
 ---
-NoSQL databases emerged in the late 2000s to handle web-scale data — the term was coined for a **2009 **meetup about 'open-source, distributed, non-relational databases.'
+This counterintuitive result is called the Mpemba effect, though scientists still debate exactly which mix of evaporation, convection, dissolved gases, and container shape produces it. The key point is that starting hotter does not always mean finishing later.
 
-[NoSQL (Wikipedia)](https://en.wikipedia.org/wiki/NoSQL)
+[Mpemba effect (Wikipedia)](https://en.wikipedia.org/wiki/Mpemba_effect)

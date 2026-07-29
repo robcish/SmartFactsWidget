@@ -5,11 +5,13 @@ month: 10
 day: 24
 sequence_index: 2
 category: society
-title: fast Fourier transform (FFT), rediscovered by Cooley and Tukey in…
-teaser: The fast Fourier transform (FFT), rediscovered by Cooley and Tukey in 1965, reduced spectral…
+title: Weekends are a modern social invention
+teaser: The two-day weekend spread through labor reform, religion, and industrial scheduling.
 published: true
 version: 1
 ---
-The fast Fourier transform (FFT), rediscovered by Cooley and Tukey in **1965, **reduced spectral analysis from O(n²) to O(n log n) — enabling digital signal processing.
+For much of history, a guaranteed two-day weekend simply did not exist for most workers. The pattern we now treat as normal grew through **labor movements, religious practice, and changing factory routines**.
 
-[Fast Fourier transform (Wikipedia)](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
+What feels timeless today is actually a social compromise shaped by economics, politics, and culture.
+
+[Weekend (Wikipedia)](https://en.wikipedia.org/wiki/Weekend)

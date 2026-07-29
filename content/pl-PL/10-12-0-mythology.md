@@ -5,9 +5,13 @@ month: 10
 day: 12
 sequence_index: 0
 category: mythology
-title: Kompresja JPEG wykorzystuje ludzki wzrok — jesteśmy bardziej…
-teaser: Kompresja JPEG wykorzystuje ludzki wzrok — jesteśmy bardziej wrażliwi na zmiany jasności niż na…
+title: Echo było kiedyś postacią z mitu
+teaser: W mitologii greckiej górskie powtórzenia głosu tłumaczono losem nimfy.
 published: true
 version: 1
 ---
-Kompresja JPEG wykorzystuje ludzki wzrok — jesteśmy bardziej wrażliwi na zmiany jasności niż na kolor, więc informacje o kolorach są kompresowane bardziej agresywnie.
+W mitologii greckiej **Echo** było nimfą, która utraciła możliwość swobodnego mówienia i mogła jedynie powtarzać ostatnie zasłyszane słowa. Mit wyjaśniał w ten sposób głosy odbijające się w górach i jaskiniach.
+
+Takie opowieści zamieniały zwykłe zjawiska w zapamiętywalne postaci, dlatego mitologia tak dobrze utrwalała się w kulturach ustnych.
+
+[Echo (mitologia) (Wikipedia)](https://pl.wikipedia.org/wiki/Echo_(mitologia))

@@ -5,11 +5,13 @@ month: 10
 day: 14
 sequence_index: 1
 category: biology
-title: Rośliny Monotropa (fajka indyjska) nie potrafią fotosyntetyzować i…
-teaser: Rośliny Monotropa (fajka indyjska) nie mogą przeprowadzać fotosyntezy i pozyskiwać wszystkich…
+title: Organizm stale produkuje miliony krwinek
+teaser: Szpik kostny wytwarza około dwóch milionów czerwonych krwinek na sekundę.
 published: true
 version: 1
 ---
-Rośliny Monotropa (fajka indyjska) nie mogą przeprowadzać fotosyntezy i pozyskiwać wszystkich składników odżywczych poprzez pasożytowanie na sieciach grzybów mikoryzowych połączonych z innymi drzewami.
+Szpik kostny nieustannie zastępuje starzejące się komórki krwi. U zdrowej osoby organizm produkuje około **2 milionów czerwonych krwinek na sekundę**.
 
-[Sieci mykoryzowe (Wikipedia)](https://pl.wikipedia.org/wiki/Sieci_mykoryzowe)
+To konieczne, bo pojedyncza czerwona krwinka żyje tylko około czterech miesięcy. Krążenie wydaje się stabilne, ale opiera się na ciągłej wymianie komórek.
+
+[Erytrocyt (Wikipedia)](https://pl.wikipedia.org/wiki/Erytrocyt)

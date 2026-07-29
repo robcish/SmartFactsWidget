@@ -5,11 +5,13 @@ month: 11
 day: 21
 sequence_index: 0
 category: culture
-title: 1988 Morris worm cost an estimated $10-100 million in damages —…
-teaser: The 1988 Morris worm cost an estimated $10-100 million in damages — its creator Robert Morris was…
+title: Silent films were rarely silent
+teaser: Cinema audiences usually heard live music, sound effects, or a narrator.
 published: true
 version: 1
 ---
-The **1988 **Morris worm cost an estimated $10-100 million in damages — its creator Robert Morris was the first person convicted under the Computer Fraud and Abuse Act.
+Early movie theaters often hired a pianist, organist, or even a small ensemble to accompany screenings. The music helped cover projector noise and guided the audience's emotions from scene to scene.
 
-[Morris worm (Wikipedia)](https://en.wikipedia.org/wiki/Morris_worm)
+In some countries, screenings also featured a live speaker who explained the plot or improvised commentary. "Silent film" describes the lack of recorded dialogue, not a truly quiet room.
+
+[Silent film (Wikipedia)](https://en.wikipedia.org/wiki/Silent_film)

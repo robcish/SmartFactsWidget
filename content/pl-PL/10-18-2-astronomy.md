@@ -5,9 +5,13 @@ month: 10
 day: 18
 sequence_index: 2
 category: astronomy
-title: najbliższy system to Alpha Centauri, z Proxima Centauri jako…
-teaser: Najbliższy układ to Alfa Centauri, a Proxima Centauri jest najbliższą gwiazdą w tym układzie, w…
+title: Gwiazda neutronowa ma niewyobrażalną gęstość
+teaser: Łyżeczka jej materii ważyłaby na Ziemi więcej niż góra.
 published: true
 version: 1
 ---
-Najbliższy układ to Alfa Centauri, z Proxima Centauri jako najbliższą gwiazdą w tym układzie, znajdującą się w odległości **4,2465 **lat świetlnych od Ziemi.
+Gwiazdy neutronowe upychają więcej masy niż Słońce w kulę o średnicy zaledwie kilkunastu lub kilkudziesięciu kilometrów. Materia jest tam ściśnięta tak mocno, że zwykłe porównania przestają wystarczać.
+
+Dlatego popularne opisy mówią, że łyżeczka materii gwiazdy neutronowej ważyłaby na Ziemi około **miliarda ton**. Dokładna wartość zależy od obiektu, ale sens pozostaje ten sam: to niemal niewyobrażalna gęstość.
+
+[Gwiazda neutronowa (Wikipedia)](https://pl.wikipedia.org/wiki/Gwiazda_neutronowa)

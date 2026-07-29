@@ -5,9 +5,13 @@ month: 10
 day: 19
 sequence_index: 1
 category: mythology
-title: Termin „open source” powstał w 1998 roku podczas sesji…
-teaser: Termin „open source” został ukuty w 1998 roku podczas sesji strategicznej po ogłoszeniu przez…
+title: Bifröst był mostem z ognia
+teaser: W mitologii nordyckiej tęczowy most nie był tylko piękny, ale też groźny.
 published: true
 version: 1
 ---
-Termin „open source” powstał w **1998 ** podczas sesji strategicznej po ogłoszeniu przez Netscape wydania kodu źródłowego Navigatora.
+W mitologii nordyckiej **Bifröst** łączył Midgard, świat ludzi, z Asgardem, siedzibą bogów. Opisywano go jako lśniący i barwny, ale zarazem płonący ogniem, który miał utrudniać przejście wrogim siłom.
+
+To połączenie piękna i niebezpieczeństwa sprawiło, że Bifröst stał się jednym z najbardziej rozpoznawalnych obrazów tej tradycji.
+
+[Bifröst (Wikipedia)](https://pl.wikipedia.org/wiki/Bifr%C3%B6st)

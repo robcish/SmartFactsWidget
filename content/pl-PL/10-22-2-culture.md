@@ -5,9 +5,13 @@ month: 10
 day: 22
 sequence_index: 2
 category: culture
-title: Architektura Von Neumanna, używana przez prawie wszystkie…
-teaser: Architektura Von Neumanna, używana przez prawie wszystkie współczesne komputery, przechowuje…
+title: Dżinsy zaczęły jako ubranie robocze
+teaser: Nitowane spodnie z denimu miały być przede wszystkim trwałe, a nie modne.
 published: true
 version: 1
 ---
-Architektura Von Neumanna, używana przez prawie wszystkie współczesne komputery, przechowuje zarówno programy, jak i dane w tej samej pamięci - wprowadzona w **1945**.
+Dżinsy spopularyzowały się w XIX wieku jako wytrzymałe ubranie dla pracowników fizycznych, zwłaszcza górników. Metalowe nity wzmacniały miejsca najbardziej narażone na rozdarcie i wydłużały żywotność spodni.
+
+To ciekawy przykład rzeczy, która zaczęła się od czystej praktyczności, a później stała się ikoną kultury masowej.
+
+[Dżinsy (Wikipedia)](https://pl.wikipedia.org/wiki/D%C5%BCinsy)

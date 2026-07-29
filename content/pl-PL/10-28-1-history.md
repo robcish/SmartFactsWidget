@@ -5,11 +5,13 @@ month: 10
 day: 28
 sequence_index: 1
 category: history
-title: Jednak odkrycia i wynalazki są ze sobą nierozerwalnie powiązane, w…
-teaser: Jednak odkrycia i wynalazki są ze sobą nierozerwalnie powiązane, ponieważ odkrycia prowadzą do…
+title: Kleopatra jest bliżej nas niż piramid
+teaser: Wielka Piramida była już starożytna nawet dla samej Kleopatry.
 published: true
 version: 1
 ---
-Jednakże odkrycia i wynalazki są ze sobą nierozerwalnie powiązane w tym sensie, że odkrycia prowadzą do wynalazków, a wynalazki ułatwiają odkrycia; a ponieważ to samo zjawisko wielości występuje zarówno w odniesieniu do odkryć, jak i wynalazków, w artykule tym wymieniono zarówno wielokrotne odkrycia, jak i wielokrotne wynalazki.
+Kleopatra VII żyła w I wieku p.n.e., ale Wielką Piramidę w Gizie ukończono około **2,5 tysiąca lat wcześniej**. To znaczy, że chronologicznie Kleopatrze bliżej do lądowania na Księżycu niż do budowy najstarszej z wielkich piramid w Gizie.
 
-[Howerła Użhorod (Wikipedia)](https://pl.wikipedia.org/wiki/Hower%C5%82a_U%C5%BChorod)
+To porównanie zaskakuje głównie dlatego, że starożytny Egipt często zlewamy w wyobraźni w jedną epokę.
+
+[Kleopatra VII (Wikipedia)](https://pl.wikipedia.org/wiki/Kleopatra_VII)

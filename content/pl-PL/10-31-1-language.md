@@ -5,9 +5,11 @@ month: 10
 day: 31
 sequence_index: 1
 category: language
-title: Dzieci mogą stać się biegle dwujęzyczne bez formalnego nauczania —…
-teaser: Dzieci mogą stać się biegle dwujęzyczne bez formalnego nauczania — mózg jest przygotowany na…
+title: Islandzki tworzy nowe słowa po swojemu
+teaser: Zamiast bez oporu zapożyczać angielskie terminy, islandzki często buduje własne odpowiedniki.
 published: true
 version: 1
 ---
-Dzieci mogą stać się biegle dwujęzyczne bez formalnego nauczania – mózg jest przygotowany do przyswajania języka już we wczesnym dzieciństwie.
+Dlatego komputer może nazywać się *tolva*, czyli złożenie związane z liczbą i wieszczką. Taki zwyczaj sprawia, że nowe słownictwo brzmi swojsko, nawet gdy opisuje bardzo współczesne wynalazki.
+
+[Język islandzki (Wikipedia)](https://pl.wikipedia.org/wiki/J%C4%99zyk_islandzki)

@@ -5,11 +5,13 @@ month: 10
 day: 26
 sequence_index: 2
 category: mythology
-title: Regular expressions were invented by mathematician Stephen Kleene…
-teaser: Regular expressions were invented by mathematician Stephen Kleene in 1951 — Ken Thompson…
+title: The phoenix is reborn from its own end
+teaser: Across later traditions, the phoenix became a symbol of renewal after destruction.
 published: true
 version: 1
 ---
-Regular expressions were invented by mathematician Stephen Kleene in **1951** — Ken Thompson implemented them in the ed text editor, and they spread throughout Unix.
+The **phoenix** is a legendary bird associated with cyclical renewal. In later classical and medieval retellings, it dies and rises again, often from ashes, turning the creature into a powerful image of survival through transformation.
 
-[Regular expression (Wikipedia)](https://en.wikipedia.org/wiki/Regular_expression)
+That is why the phoenix still appears wherever people want a mythic symbol for starting over.
+
+[Phoenix (mythology) (Wikipedia)](https://en.wikipedia.org/wiki/Phoenix_(mythology))

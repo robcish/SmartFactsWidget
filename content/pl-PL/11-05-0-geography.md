@@ -5,9 +5,11 @@ month: 11
 day: 5
 sequence_index: 0
 category: geography
-title: Redis, stworzony w 2009 roku, przechowuje wszystkie dane w pamięci…
-teaser: Redis, stworzony w 2009 roku, przechowuje wszystkie dane w pamięci z opóźnieniem poniżej…
+title: Greenwich wcale nie było oczywistym zerem
+teaser: Przez długi czas mapy i marynarki nie zgadzały się, skąd liczyć długość geograficzną.
 published: true
 version: 1
 ---
-Redis, stworzony w **2009, **przechowuje wszystkie dane w pamięci z opóźnieniem poniżej milisekundy — jego nazwa pochodzi od „REmote DIctionary Server”.
+Przed konferencją południkową w 1884 roku różne państwa używały własnych linii odniesienia, między innymi przez Paryż, Ferro albo Greenwich. Greenwich wygrało głównie dlatego, że brytyjskie mapy dominowały w światowej żegludze, a nie dlatego, że istniał jeden naturalny punkt startowy.
+
+[Południk zerowy (Wikipedia)](https://pl.wikipedia.org/wiki/Po%C5%82udnik_zerowy)

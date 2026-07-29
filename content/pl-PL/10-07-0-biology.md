@@ -5,11 +5,13 @@ month: 10
 day: 7
 sequence_index: 0
 category: biology
-title: Towarzystwo Ochrony Sieci Podziemnych (SPUN) opublikowało…
-teaser: Towarzystwo Ochrony Sieci Podziemnych (SPUN) opublikowało pierwszy film w wysokiej rozdzielczości…
+title: Lasy wymieniają zasoby przez sieci grzybowe
+teaser: Sieci mikoryzowe potrafią przenosić między roślinami węgiel, składniki odżywcze i sygnały chemiczne.
 published: true
 version: 1
 ---
-Towarzystwo Ochrony Sieci Podziemnych (SPUN) opublikowało pierwszą mapę sieci mikoryzowych Ziemi w wysokiej rozdzielczości w **2025 r., ** ujawniając, że 90% z nich pozostaje niechronionych.
+Grzyby połączone z korzeniami roślin tworzą pod ziemią sieci, które pomagają rozprowadzać wodę i substancje odżywcze w glebie. W niektórych sytuacjach takie połączenia mogą także przenosić sygnały ostrzegawcze albo przesuwać zasoby między roślinami.
+
+Naukowcy wciąż dyskutują, jak daleko sięga ta koordynacja życia lasu, ale sama rola tych sieci jest wyraźnie większa, niż kiedyś sądzono.
 
 [Sieci mykoryzowe (Wikipedia)](https://pl.wikipedia.org/wiki/Sieci_mykoryzowe)

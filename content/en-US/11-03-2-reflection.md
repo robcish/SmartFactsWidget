@@ -5,11 +5,11 @@ month: 11
 day: 3
 sequence_index: 2
 category: reflection
-title: Test-driven development (TDD) was rediscovered by Kent Beck in…
-teaser: Test-driven development (TDD) was rediscovered by Kent Beck in 2003 — he found references to…
+title: Unfinished tasks linger in the mind
+teaser: Your brain often keeps nudging you about incomplete work more than finished work.
 published: true
 version: 1
 ---
-Test-driven development (TDD) was rediscovered by Kent Beck in **2003** — he found references to similar practices in ancient IBM manuals from the 1960s.
+Psychologists call this the Zeigarnik effect. A task that is only partly done can stay mentally active, which helps explain why half-written emails or unresolved chores keep resurfacing in attention.
 
-[Test-driven development (Wikipedia)](https://en.wikipedia.org/wiki/Test-driven_development)
+[Zeigarnik effect (Wikipedia)](https://en.wikipedia.org/wiki/Zeigarnik_effect)

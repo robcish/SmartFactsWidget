@@ -5,11 +5,13 @@ month: 10
 day: 14
 sequence_index: 1
 category: biology
-title: Monotropa (Indian pipe) plants cannot photosynthesize and obtain…
-teaser: Monotropa (Indian pipe) plants cannot photosynthesize and obtain all their nutrients by…
+title: Your body makes millions of blood cells
+teaser: Roughly two million red blood cells are produced every second.
 published: true
 version: 1
 ---
-Monotropa (Indian pipe) plants cannot photosynthesize and obtain all their nutrients by parasitizing mycorrhizal fungal networks connected to other trees.
+Bone marrow is constantly at work replacing aging blood cells. In a healthy adult, the body produces roughly **2 million red blood cells every second**.
 
-[Mycorrhizal network (Wikipedia)](https://en.wikipedia.org/wiki/Mycorrhizal_network)
+That nonstop manufacturing matters because each red blood cell lives only about four months. Circulation looks steady, but it depends on relentless cellular turnover.
+
+[More on red blood cells (Wikipedia)](https://en.wikipedia.org/wiki/Red_blood_cell)

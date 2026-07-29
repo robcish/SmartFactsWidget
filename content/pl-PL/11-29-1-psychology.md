@@ -5,9 +5,13 @@ month: 11
 day: 29
 sequence_index: 1
 category: psychology
-title: Windows 3.1 sprzedał się w ponad 3 milionach egzemplarzy w ciągu…
-teaser: Windows 3.1 sprzedał się w ponad 3 milionach egzemplarzy w ciągu pierwszych 2 miesięcy (1992) —…
+title: Samo wspominanie może zmieniać pamięć
+teaser: Przywołanie zdarzenia potrafi uczynić je bardziej podatnym na późniejsze modyfikacje.
 published: true
 version: 1
 ---
-Windows **3.1 **sprzedał się w ponad 3 milionach egzemplarzy w ciągu pierwszych 2 miesięcy (1992) — była to pierwsza wersja systemu Windows, która odniosła sukces na rynku masowym.
+Pamięć nie działa jak idealne nagranie, które raz zapisane pozostaje nienaruszone. Kiedy wspominamy jakieś zdarzenie, ślad pamięciowy może ponownie stać się „aktywny”, a potem ułożyć się odrobinę inaczej.
+
+To pomaga zrozumieć, dlaczego pewność siebie i dokładność nie zawsze idą w parze. Nawet bardzo wyraziste wspomnienie może zawierać szczegóły zmienione przez późniejsze rozmowy, emocje albo wielokrotne opowiadanie.
+
+[Rekonsolidacja pamięci (Wikipedia)](https://pl.wikipedia.org/wiki/Rekonsolidacja_pami%C4%99ci)

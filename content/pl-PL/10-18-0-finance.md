@@ -5,11 +5,13 @@ month: 10
 day: 18
 sequence_index: 0
 category: finance
-title: Programowanie zorientowane na zwrot (ROP) łączy istniejący kod…
-teaser: Programowanie zorientowane na zwrot (ROP) łączy istniejące fragmenty kodu, aby ominąć…
+title: Znak dolara może pochodzić od peso
+teaser: Jedna z popularnych teorii wywodzi `$` z odręcznego skrótu `ps`.
 published: true
 version: 1
 ---
-Programowanie zorientowane na zwrot (ROP) łączy istniejące fragmenty kodu w celu ominięcia zabezpieczeń pamięci niewykonywalnej, dzięki czemu wykorzystanie przepełnienia bufora jest bardziej wyrafinowane.
+Dokładna historia **znaku dolara** nie jest całkowicie rozstrzygnięta, ale jedna z najczęściej przywoływanych teorii łączy go z odręcznymi skrótami słowa *peso* używanymi w hiszpańskiej Ameryce. Z czasem zapis miał zlać się w znany symbol.
 
-[Przepełnienie bufora (Wikipedia)](https://pl.wikipedia.org/wiki/Przepe%C5%82nienie_bufora)
+Nawet jeśli to nie cała odpowiedź, sam znak przypomina, że współczesne finanse wciąż noszą ślady dawnych sieci handlu i imperiów.
+
+[Znak dolara (Wikipedia)](https://pl.wikipedia.org/wiki/Znak_dolara)

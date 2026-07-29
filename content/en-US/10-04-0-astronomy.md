@@ -5,11 +5,11 @@ month: 10
 day: 4
 sequence_index: 0
 category: astronomy
-title: Of those, 103 are main sequence stars: 80 red dwarfs and 23…
-teaser: Of those, 103 are main sequence stars: 80 red dwarfs and 23 "typical" stars having greater mass.
+title: Saturn would float in a giant bathtub
+teaser: Its average density is lower than water.
 published: true
 version: 1
 ---
-Of those, **103 **are main sequence stars: 80 red dwarfs and 23 "typical" stars having greater mass.
+Saturn is famous for its rings, but it is also surprisingly light for its size. The planet's **average density** is lower than that of water, so in a hypothetical ocean large enough, it would **float**. That does not mean the surface is soft and spongy — there is no solid surface to stand on — but it does show how different gas giants are from rocky worlds.
 
-[List of nearest stars (Wikipedia)](https://en.wikipedia.org/wiki/List_of_nearest_stars)
+[Saturn (Wikipedia)](https://en.wikipedia.org/wiki/Saturn)

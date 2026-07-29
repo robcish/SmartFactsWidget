@@ -5,11 +5,11 @@ month: 11
 day: 24
 sequence_index: 0
 category: environment
-title: Brainfuck, stworzony w 1993 roku, ma tylko 8 poleceń i został…
-teaser: Brainfuck, stworzony w 1993 roku, ma tylko 8 poleceń i został zaprojektowany, aby rzucać wyzwania…
+title: Rafy koralowe chronią wybrzeża
+teaser: Żywe rafy tłumię energię fal, zanim uderzą w ląd.
 published: true
 version: 1
 ---
-Brainfuck, stworzony w **1993, **ma tylko 8 poleceń i został zaprojektowany, aby stanowić wyzwanie i bawić programistów — a mimo to jest kompletny w Turingu.
+Zdrowa **rafa koralowa** działa jak naturalny falochron. Jej chropowata, złożona struktura rozprasza energię fal i może zmniejszać powodzie oraz erozję wybrzeża. Gdy rafy giną i się rozpadają, linie brzegowe tracą tę żywą barierę oraz bioróżnorodność, która od niej zależy.
 
-[Środowisko przyrodnicze (Wikipedia)](https://pl.wikipedia.org/wiki/%C5%9Arodowisko_przyrodnicze)
+[Rafa koralowa (Wikipedia)](https://pl.wikipedia.org/wiki/Rafa_koralowa)

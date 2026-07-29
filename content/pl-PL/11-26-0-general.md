@@ -5,11 +5,13 @@ month: 11
 day: 26
 sequence_index: 0
 category: general
-title: Python został nazwany na cześć Monty Pythona, a nie węża – Guido…
-teaser: Python został nazwany na cześć Monty Pythona, a nie węża — Guido van Rossum czytał scenariusze z…
+title: Kropka nad `i` ma własną nazwę
+teaser: Typografowie nazywają znak nad `i` i `j` tittlą.
 published: true
 version: 1
 ---
-Python został nazwany na cześć Monty Pythona, a nie węża — Guido van Rossum podczas jego tworzenia czytał scenariusze z „Latającego cyrku Monty Pythona”.
+W piśmie jest sporo drobnych elementów, które większość osób zna tylko intuicyjnie. Kropka nad małym `i` i `j` ma własną nazwę: tittle, po polsku spotyka się też formę „titla”.
 
-)
+To niby szczegół, ale dobrze pokazuje, jak wiele specjalistycznego słownictwa kryje się w codziennym czytaniu i projektowaniu tekstu. Zwykłe litery mają zaskakująco bogatą anatomię.
+
+[Tittle (Wikipedia)](https://pl.wikipedia.org/wiki/Tittle)

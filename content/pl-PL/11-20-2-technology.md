@@ -5,11 +5,11 @@ month: 11
 day: 20
 sequence_index: 2
 category: technology
-title: – Gilhoolie Robert Fulton (1765–1815), United States – first…
-teaser: – Gilhoolie Robert Fulton (1765–1815), Stany Zjednoczone – pierwszy parowiec, który odniósł sukces…
+title: Kody QR wymyślono dla fabryk samochodów
+teaser: Początkowo służyły do śledzenia części na liniach montażowych.
 published: true
 version: 1
 ---
-– Gilhoolie
-Robert Fulton (**1765**–1815), Stany Zjednoczone – pierwszy parowiec, który odniósł sukces komercyjny, pierwszy praktyczny okręt podwodny
-Iwan Fiodorow (ok.
+**Kody QR** powstały w latach 90. w firmie powiązanej z Toyotą, by sprawniej śledzić części samochodowe niż klasyczne kody kreskowe. Kwadratowy wzór mieści znacznie więcej informacji i pozostaje czytelny nawet po częściowym uszkodzeniu. Narzędzie logistyki fabrycznej stało się później codziennym interfejsem konsumenckim.
+
+[Kod QR (Wikipedia)](https://pl.wikipedia.org/wiki/Kod_QR)

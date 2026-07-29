@@ -5,13 +5,13 @@ month: 10
 day: 22
 sequence_index: 1
 category: technology
-title: – Coulter principle Jacques Cousteau (1910–1997), France –…
-teaser: – Coulter principle Jacques Cousteau (1910–1997), France – co-inventor of the aqualung and the…
+title: The first computer mouse was wooden
+teaser: Douglas Engelbart's early mouse looked more like a block than a modern gadget.
 published: true
 version: 1
 ---
-– Coulter principle
-Jacques Cousteau (**1910**–1997), France – co-inventor of the aqualung and the Nikonos underwater camera
-John "Jack" Higson Cover Jr.
+The first prototype computer mouse, built in the 1960s, had a carved wooden shell and two wheels underneath to track movement. It was created by **Douglas Engelbart's team** as part of a broader effort to make humans interact with computers more directly.
 
-[List of inventors (Wikipedia)](https://en.wikipedia.org/wiki/List_of_inventors)
+Its shape looks primitive now, but the idea changed everyday computing permanently.
+
+[Computer mouse (Wikipedia)](https://en.wikipedia.org/wiki/Computer_mouse)

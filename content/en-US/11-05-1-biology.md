@@ -5,11 +5,11 @@ month: 11
 day: 5
 sequence_index: 1
 category: biology
-title: Cyanogenic glycosides in plants release hydrogen cyanide when cell…
-teaser: Cyanogenic glycosides in plants release hydrogen cyanide when cell membranes are broken by…
+title: Your mitochondria keep their own DNA
+teaser: The cell's energy factories still carry genetic material separate from the chromosomes in the nucleus.
 published: true
 version: 1
 ---
-Cyanogenic glycosides in plants release hydrogen cyanide when cell membranes are broken by herbivores, blocking cellular respiration in the attacker.
+That leftover DNA is one clue that mitochondria began as free-living bacteria before becoming permanent partners inside larger cells. Most mitochondrial genes moved to the nucleus over time, but a small independent genome remained.
 
-[Plant defense against herbivory (Wikipedia)](https://en.wikipedia.org/wiki/Plant_defense_against_herbivory)
+[Mitochondrion (Wikipedia)](https://en.wikipedia.org/wiki/Mitochondrion)

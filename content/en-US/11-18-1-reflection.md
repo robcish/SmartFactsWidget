@@ -5,11 +5,13 @@ month: 11
 day: 18
 sequence_index: 1
 category: reflection
-title: DNS was invented in 1983 by Paul Mockapetris — before it, a single…
-teaser: DNS was invented in 1983 by Paul Mockapetris — before it, a single HOSTS.TXT file distributed by…
+title: We value what we help build
+teaser: The IKEA effect describes how effort can make us overvalue things we partially created ourselves.
 published: true
 version: 1
 ---
-DNS was invented in **1983 **by Paul Mockapetris — before it, a single HOSTS.TXT file distributed by FTP was used to map all Internet hostnames.
+People often rate self-assembled or self-made items more highly than equivalent items made by others. Psychologists call this the IKEA effect: effort can increase attachment and perceived worth.
 
-[Domain Name System (Wikipedia)](https://en.wikipedia.org/wiki/Domain_Name_System)
+That can be encouraging, because work deepens ownership. It can also be blinding, because time invested is not always the same as quality achieved.
+
+[IKEA effect (Wikipedia)](https://en.wikipedia.org/wiki/IKEA_effect)

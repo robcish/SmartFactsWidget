@@ -5,11 +5,13 @@ month: 10
 day: 29
 sequence_index: 0
 category: biology
-title: Over 3,000 alkaloids have been identified in plants, including…
-teaser: Over 3,000 alkaloids have been identified in plants, including nicotine, caffeine, morphine,…
+title: Axolotls can regrow lost limbs
+teaser: They can rebuild complex body parts with a precision most vertebrates lack.
 published: true
 version: 1
 ---
-Over **3,000 **alkaloids have been identified in plants, including nicotine, caffeine, morphine, cocaine, and quinine, all evolved as herbivore deterrents.
+Axolotls are famous for regeneration. They can regrow limbs and also repair structures such as parts of the spinal cord, tail, and some other tissues without replacing them with simple scar tissue.
 
-[Plant defense against herbivory (Wikipedia)](https://en.wikipedia.org/wiki/Plant_defense_against_herbivory)
+That ability makes them especially interesting to biologists studying how regeneration works in vertebrates.
+
+[Axolotl (Wikipedia)](https://en.wikipedia.org/wiki/Axolotl)

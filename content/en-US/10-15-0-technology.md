@@ -5,12 +5,13 @@ month: 10
 day: 15
 sequence_index: 0
 category: technology
-title: – Internet Protocol (IP) Claude Shannon (1916–2016), founder of…
-teaser: – Internet Protocol (IP) Claude Shannon (1916–2016), founder of information theory and modern…
+title: One early webcam watched a coffee pot
+teaser: Researchers set it up so nobody had to walk over just to find the pot empty.
 published: true
 version: 1
 ---
-– Internet Protocol (IP)
-Claude Shannon (**1916**–2016), founder of information theory and modern cryptography, invented Minivac 601, and co-invented the first wearable computer (with Edward O.
+The **Trojan Room coffee pot** at the University of Cambridge became famous as one of the earliest webcams. A camera let researchers check whether any coffee was left without leaving their desks.
 
-[List of inventors (Wikipedia)](https://en.wikipedia.org/wiki/List_of_inventors)
+It was a tiny convenience project, but it previewed a much larger idea: networked cameras turning ordinary objects into remotely visible ones.
+
+[More on the Trojan Room coffee pot (Wikipedia)](https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot)

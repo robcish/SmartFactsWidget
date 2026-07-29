@@ -5,9 +5,11 @@ month: 11
 day: 1
 sequence_index: 0
 category: society
-title: pierwszym systemem kontroli wersji był SCCS (1972) w Bell Labs —…
-teaser: The first version control system was SCCS (1972) at Bell Labs — modern distributed systems like…
+title: Biblioteki publiczne to dość nowoczesny wynalazek
+teaser: Bezpłatne wypożyczanie dla wszystkich jest nowsze, niż się wydaje.
 published: true
 version: 1
 ---
-The first version control system was SCCS (**1972**) at Bell Labs — modern distributed systems like Git weren't widely adopted until the 2010s.
+Pomysł, że każdy może wejść do biblioteki i bezpłatnie wypożyczyć książki, wydaje się odwieczny, ale duże **publiczne biblioteki wypożyczające** to stosunkowo nowoczesna instytucja społeczna. Rozwinęły się wraz z kampaniami alfabetyzacji, reformami miejskimi i przekonaniem, że wspólna wiedza powinna być zasobem obywatelskim, a nie tylko prywatnym luksusem.
+
+[Biblioteka publiczna (Wikipedia)](https://pl.wikipedia.org/wiki/Biblioteka_publiczna)

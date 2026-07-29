@@ -5,11 +5,13 @@ month: 10
 day: 4
 sequence_index: 2
 category: mythology
-title: GNU project, started by Richard Stallman in 1983, created…
-teaser: The GNU project, started by Richard Stallman in 1983, created compilers, editors, and utilities…
+title: The Milky Way was imagined as spilled milk
+teaser: Greek myth linked the glowing band in the sky to the goddess Hera.
 published: true
 version: 1
 ---
-The GNU project, started by Richard Stallman in **1983, **created compilers, editors, and utilities for a free Unix — but its kernel (GNU Hurd) was never completed, which is why Linux filled that gap.
+One well-known Greek explanation says the Milky Way formed when milk from Hera sprayed across the heavens. The image is poetic, but it also survives in language: `galaxy` comes from a Greek word for milk.
 
-[Linux (Wikipedia)](https://en.wikipedia.org/wiki/Linux)
+Myth turned an unfamiliar strip of light into a memorable story long before astronomy explained what stars were.
+
+[Milky Way mythology (Wikipedia)](https://en.wikipedia.org/wiki/Milky_Way_%28mythology%29)

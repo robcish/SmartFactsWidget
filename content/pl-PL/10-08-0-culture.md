@@ -5,9 +5,13 @@ month: 10
 day: 8
 sequence_index: 0
 category: culture
-title: IEEE 754 ma zarówno dodatnie, jak i ujemne zero — porównują…
-teaser: IEEE 754 ma zarówno dodatnie, jak i ujemne zero — są one porównywane jako równe, ale 1/+0 daje…
+title: Karaoke znaczy "pusta orkiestra"
+teaser: To słowo łączy dwa japońskie wyrazy i trafnie opisuje cały pomysł.
 published: true
 version: 1
 ---
-IEEE **754 ** ma zarówno dodatnie, jak i ujemne zero — są one porównywane jako równe, ale 1/+0 daje dodatnią nieskończoność, podczas gdy 1/-0 daje ujemną nieskończoność.
+Japońskie słowo **karaoke** powstało z połączenia *kara* (pusty) i *okesutora* (orkiestra). Początkowo oznaczało podkład muzyczny odtwarzany bez żywych muzyków.
+
+Dosłowne znaczenie dobrze pokazuje, dlaczego karaoke tak łatwo stało się formą wspólnej rozrywki: gotowa piosenka zamienia się w występ uczestników.
+
+[Karaoke (Wikipedia)](https://pl.wikipedia.org/wiki/Karaoke)

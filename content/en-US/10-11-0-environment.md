@@ -5,11 +5,11 @@ month: 10
 day: 11
 sequence_index: 0
 category: environment
-title: LZW compression, used in GIF images and PKZIP, was so effective…
-teaser: LZW compression, used in GIF images and PKZIP, was so effective that Unisys tried to enforce…
+title: Mangroves are coastal carbon vaults
+teaser: These salt-tolerant forests lock away carbon in roots and mud.
 published: true
 version: 1
 ---
-LZW compression, used in GIF images and PKZIP, was so effective that Unisys tried to enforce patent royalties in **1994** — triggering the creation of patent-free PNG.
+**Mangrove forests** grow in salty coastal waters and store large amounts of carbon in dense root systems and sediments. Because that carbon can stay locked away for long periods, mangroves matter not only for wildlife and storm protection, but also for climate. Cutting them releases carbon that took decades to accumulate.
 
-[Data compression (Wikipedia)](https://en.wikipedia.org/wiki/Data_compression)
+[Mangrove (Wikipedia)](https://en.wikipedia.org/wiki/Mangrove)

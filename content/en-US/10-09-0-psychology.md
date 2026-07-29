@@ -5,11 +5,11 @@ month: 10
 day: 9
 sequence_index: 0
 category: psychology
-title: double-precision (64-bit) float can represent numbers from 10^-308…
-teaser: A double-precision (64-bit) float can represent numbers from 10^-308 to 10^308 — but only with…
+title: We remember unfinished work better
+teaser: Psychologists call this the Zeigarnik effect.
 published: true
 version: 1
 ---
-A double-precision (**64**-bit) float can represent numbers from 10^-308 to 10^308 — but only with about 15-17 significant decimal digits of precision.
+People often remember **interrupted tasks** better than completed ones. The idea, associated with Bluma Zeigarnik, suggests that unfinished goals stay more active in memory. That is one reason cliffhangers, half-done emails, and open browser tabs can feel oddly sticky.
 
-[IEEE 754 (Wikipedia)](https://en.wikipedia.org/wiki/IEEE_754)
+[Zeigarnik effect (Wikipedia)](https://en.wikipedia.org/wiki/Zeigarnik_effect)

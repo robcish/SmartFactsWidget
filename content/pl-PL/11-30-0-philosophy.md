@@ -5,9 +5,11 @@ month: 11
 day: 30
 sequence_index: 0
 category: philosophy
-title: Premiera systemu Windows 95 była wydarzeniem kulturalnym — zespół…
-teaser: Premiera systemu Windows 95 była wydarzeniem kulturalnym — utworem przewodnim zespołu Rolling…
+title: Jaskinia Platona wciąż kształtuje debaty o mediach
+teaser: Cienie na ścianie stały się metaforą przefiltrowanej rzeczywistości.
 published: true
 version: 1
 ---
-Premiera systemu Windows **95** była wydarzeniem kulturalnym — piosenką przewodnią był utwór „Start Me Up” zespołu Rolling Stones, a do czasu premiery sklepy były otwarte do północy.
+W alegorii Platona więźniowie biorą **cienie** za rzeczywistość, bo tylko je widzą. Współcześni autorzy używają tego obrazu do rozmów o mediach, ideologiach i przefiltrowanej informacji. Jaskinia trwa, bo stawia uparte pytanie: skąd wiesz, że patrzysz na samą rzecz, a nie na jej cień?
+
+[Alegoria jaskini (Wikipedia)](https://pl.wikipedia.org/wiki/Alegoria_jaskini)

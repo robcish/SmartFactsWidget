@@ -5,11 +5,11 @@ month: 10
 day: 31
 sequence_index: 1
 category: language
-title: Children can become fluent bilinguals without formal instruction —…
-teaser: Children can become fluent bilinguals without formal instruction — the brain is primed for…
+title: Icelandic still coins native tech words
+teaser: Instead of borrowing freely from English, Icelandic often builds modern terms from older roots.
 published: true
 version: 1
 ---
-Children can become fluent bilinguals without formal instruction — the brain is primed for language acquisition in early childhood.
+That is why a computer can be *tolva*, a compound tied to number and prophetess. The habit helps new vocabulary feel native, even when the thing being named is thoroughly modern.
 
-[Multilingualism (Wikipedia)](https://en.wikipedia.org/wiki/Multilingualism)
+[Icelandic language (Wikipedia)](https://en.wikipedia.org/wiki/Icelandic_language)

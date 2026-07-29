@@ -5,9 +5,12 @@ month: 10
 day: 1
 sequence_index: 2
 category: psychology
-title: Wszystkie poszczególne składniki bitcoina istniały już we…
-teaser: Wszystkie poszczególne składniki bitcoina istniały we wcześniejszej literaturze akademickiej –…
+title: Mózg potrafi wychwycić twoje imię w hałasie
+teaser: Efekt przyjęcia koktajlowego sprawia, że uwaga łapie sygnały ważne osobiście.
 published: true
 version: 1
 ---
-Wszystkie poszczególne składniki bitcoina istniały we wcześniejszej literaturze akademickiej — innowacją Satoshi Nakamoto było ich złożone wzajemne oddziaływanie, tworząc pierwszą zdecentralizowaną, odporną na Sybil cyfrową gotówkę.
+W zatłoczonym pomieszczeniu większość rozmów zlewa się w tło. Mimo to wiele osób natychmiast zauważa, że ktoś obok wypowiedział ich imię.
+
+Psychologia nazywa to efektem przyjęcia koktajlowego. Pokazuje on, że uwaga silnie filtruje bodźce, ale nie odcina całkiem informacji istotnych dla danej osoby.
+

@@ -5,9 +5,13 @@ month: 10
 day: 12
 sequence_index: 2
 category: reflection
-title: Model języka Chinchilla 70B firmy DeepMind osiągnął lepsze wyniki…
-teaser: Model języka Chinchilla 70B firmy DeepMind przewyższa format PNG pod względem kompresji obrazu i…
+title: Końcówki mocno wpływają na wspomnienia
+teaser: Doświadczenia często oceniamy przez pryzmat kulminacji i zakończenia.
 published: true
 version: 1
 ---
-Model języka Chinchilla 70B firmy DeepMind uzyskał lepsze wyniki niż PNG pod względem kompresji obrazu i FLAC dla dźwięku — osiągając odpowiednio **43,4**% i 16,4% oryginalnych rozmiarów.
+Psychologowie opisują **regułę szczytu i końca**: gdy wspominamy jakieś wydarzenie, szczególnie mocno zapamiętujemy jego najbardziej intensywny moment oraz sam finał, a nie średnią z całego przebiegu.
+
+To pomaga zrozumieć, dlaczego trudny dzień może po czasie wydawać się dobry, jeśli dobrze się skończył, albo dlaczego kiepska końcówka psuje pamięć o całkiem przyjemnym doświadczeniu.
+
+[Reguła szczytu i końca (Wikipedia)](https://pl.wikipedia.org/wiki/Regu%C5%82a_szczytu_i_ko%C5%84ca)

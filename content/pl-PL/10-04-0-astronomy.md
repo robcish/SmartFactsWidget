@@ -5,9 +5,11 @@ month: 10
 day: 4
 sequence_index: 0
 category: astronomy
-title: Spośród nich 103 to gwiazdy ciągu głównego: 80 czerwonych karłów i…
-teaser: Spośród nich 103 to gwiazdy ciągu głównego: 80 czerwonych karłów i 23 „typowe” gwiazdy o większej…
+title: Saturn unosiłby się w gigantycznej wannie
+teaser: Jego średnia gęstość jest mniejsza niż gęstość wody.
 published: true
 version: 1
 ---
-Spośród nich **103 ** to gwiazdy ciągu głównego: 80 czerwonych karłów i 23 „typowe” gwiazdy o większej masie.
+Saturn jest znany z pierścieni, ale jak na swój rozmiar jest też zaskakująco lekki. Jego **średnia gęstość** jest mniejsza niż gęstość wody, więc w hipotetycznym oceanie wystarczająco dużym **unosiłby się**. To nie znaczy, że ma miękką powierzchnię — twardej powierzchni nie ma — ale dobrze pokazuje, jak bardzo gazowe giganty różnią się od skalistych planet.
+
+[Saturn (Wikipedia)](https://pl.wikipedia.org/wiki/Saturn)

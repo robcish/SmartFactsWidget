@@ -5,11 +5,11 @@ month: 11
 day: 7
 sequence_index: 1
 category: psychology
-title: GPT-3 has 175 billion parameters and cost an estimated $4.6…
-teaser: GPT-3 has 175 billion parameters and cost an estimated $4.6 million just for the compute to train…
+title: The Stroop effect slows obvious answers
+teaser: When the word RED is printed in blue ink, naming the ink color becomes strangely harder.
 published: true
 version: 1
 ---
-GPT-**3 **has 175 billion parameters and cost an estimated $4.6 million just for the compute to train — later models are even more expensive.
+Reading is so automatic for literate adults that it interferes with the simpler task of saying the ink color. Psychologists use the Stroop task to study attention, inhibition, and how competing mental processes fight for control.
 
-[GPT-3 (Wikipedia)](https://en.wikipedia.org/wiki/GPT-3)
+[Stroop effect (Wikipedia)](https://en.wikipedia.org/wiki/Stroop_effect)

@@ -5,11 +5,11 @@ month: 11
 day: 9
 sequence_index: 0
 category: finance
-title: Dropout, a simple regularization technique where random neurons…
-teaser: Dropout, a simple regularization technique where random neurons are ignored during training,…
+title: The dollar sign likely grew from pesos
+teaser: One common explanation traces '$' to scribes compressing the Spanish peso abbreviation 'ps'.
 published: true
 version: 1
 ---
-Dropout, a simple regularization technique where random neurons are ignored during training, dramatically improved neural network generalization when introduced in **2012**.
+As the letters were written quickly, the shapes could merge into a single mark with a vertical stroke. Historians still debate the exact path, but the symbol clearly predates the modern United States dollar.
 
-[Dropout (neural networks) (Wikipedia)](https://en.wikipedia.org/wiki/Dropout_(neural_networks))
+[Dollar sign (Wikipedia)](https://en.wikipedia.org/wiki/Dollar_sign)

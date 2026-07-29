@@ -5,11 +5,11 @@ month: 11
 day: 3
 sequence_index: 0
 category: mythology
-title: kaskadowy model tworzenia oprogramowania, dziś często krytykowany,…
-teaser: Często krytykowany dziś kaskadowy model wytwarzania oprogramowania został po raz pierwszy opisany…
+title: Cerber nie zawsze miał trzy głowy
+teaser: Współczesne opowieści utrwaliły jeden wizerunek, ale starożytne źródła nie były całkiem zgodne.
 published: true
 version: 1
 ---
-Często krytykowany dziś kaskadowy model wytwarzania oprogramowania został po raz pierwszy opisany przez Winstona Royce’a w **1970** — jak na ironię, przedstawił go jako podejście błędne.
+Najbardziej znany stał się Cerber trzygłowy, jednak greccy autorzy i artyści nie przedstawiali go zawsze identycznie. Postacie mityczne zmieniały się między epokami i regionami, dlatego w mitologii greckiej rzadko istnieje jedna ostateczna wersja opowieści.
 
-[Model kaskadowy (Wikipedia)](https://pl.wikipedia.org/wiki/Model_kaskadowy)
+[Cerber (Wikipedia)](https://pl.wikipedia.org/wiki/Cerber)

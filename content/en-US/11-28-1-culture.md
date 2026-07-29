@@ -5,11 +5,13 @@ month: 11
 day: 28
 sequence_index: 1
 category: culture
-title: Swift was developed in secret at Apple for 4 years before being…
-teaser: Swift was developed in secret at Apple for 4 years before being announced in 2014 — it was…
+title: Movie trailers once came after the film
+teaser: Their name survives from a time when the preview literally trailed the main feature.
 published: true
 version: 1
 ---
-Swift was developed in secret at Apple for **4 years** before being announced in 2014 — it was designed to eventually replace Objective-C.
+The term "trailer" comes from an earlier cinema habit: these short previews originally played after the main film. The idea was that audiences leaving one show might stay or return for the next attraction.
 
-[Swift (programming language) (Wikipedia)](https://en.wikipedia.org/wiki/Swift_(programming_language))
+Studios later moved trailers before the feature because far more people were still in their seats. The name stayed even after the practice changed.
+
+[Trailer (promotion) (Wikipedia)](https://en.wikipedia.org/wiki/Trailer_(promotion))

@@ -5,11 +5,13 @@ month: 9
 day: 29
 sequence_index: 2
 category: biology
-title: Tomato plants connected via mycorrhizal networks can 'prime'…
-teaser: Tomato plants connected via mycorrhizal networks can 'prime' uninfected neighbors' defenses when…
+title: Axolotls can regrow entire limbs
+teaser: These salamanders rebuild lost body parts with a precision mammals still cannot match.
 published: true
 version: 1
 ---
-Tomato plants connected via mycorrhizal networks can 'prime' uninfected neighbors' defenses when one plant is attacked by fungal pathogens.
+An axolotl can regenerate a leg, tail, spinal tissue, and parts of the heart without leaving the kind of scar tissue humans typically form. Cells near the wound return to a more flexible state and rebuild the missing structure.
 
-[Mycorrhizal network (Wikipedia)](https://en.wikipedia.org/wiki/Mycorrhizal_network)
+That ability makes the species especially valuable to biologists studying how healing might be improved in other animals.
+
+[Axolotl (Wikipedia)](https://en.wikipedia.org/wiki/Axolotl)

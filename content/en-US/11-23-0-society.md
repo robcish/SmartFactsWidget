@@ -5,11 +5,13 @@ month: 11
 day: 23
 sequence_index: 0
 category: society
-title: speed of light limits Internet latency — a signal can't travel…
-teaser: The speed of light limits Internet latency — a signal can't travel from New York to London (5,500…
+title: Railways helped standardize time
+teaser: Train schedules pushed towns to stop using their own local noon.
 published: true
 version: 1
 ---
-The speed of light limits Internet latency — a signal can't travel from New York to London (**5,500 km**) faster than about 18 ms even through a vacuum.
+Before standard time zones spread, many towns set clocks by the local position of the sun. That worked well enough for daily life, but it became confusing once railways needed precise timetables across long distances.
 
-[Speed of light (Wikipedia)](https://en.wikipedia.org/wiki/Speed_of_light)
+Shared railway time encouraged countries to adopt broader time standards. A technical need for coordination ended up reshaping ordinary social life and how people thought about the day.
+
+[Time zone (Wikipedia)](https://en.wikipedia.org/wiki/Time_zone)

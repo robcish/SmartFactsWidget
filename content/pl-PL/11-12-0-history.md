@@ -5,9 +5,13 @@ month: 11
 day: 12
 sequence_index: 0
 category: history
-title: Później niezależnie odkryte na nowo przez Europejczyków Michaela…
-teaser: Później niezależnie odkryte na nowo przez Europejczyków Michaela Servetusa (1553) i Williama…
+title: Najkrótsza wojna trwała mniej niż godzinę
+teaser: Wojna brytyjsko-zanzibarska z 1896 roku mogła zakończyć się już po około 38 minutach.
 published: true
 version: 1
 ---
-Później niezależnie odkryte na nowo przez Europejczyków Michaela Servetusa (**1553**) i Williama Harveya (1616).
+Rankiem 27 sierpnia 1896 roku spór o sukcesję na Zanzibarze zderzył się z żądaniami Wielkiej Brytanii. Brytyjskie okręty ostrzelały pałac, a opór załamał się niemal natychmiast.
+
+Właśnie dlatego ten konflikt bywa uznawany za najkrótszą wojnę w dziejach. Trwał bardzo krótko, ale dobrze pokazał, jak nierówny był układ sił w epoce imperialnej.
+
+[Wojna brytyjsko-zanzibarska (Wikipedia)](https://pl.wikipedia.org/wiki/Wojna_brytyjsko-zanzibarska)

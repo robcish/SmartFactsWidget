@@ -5,11 +5,13 @@ month: 10
 day: 17
 sequence_index: 0
 category: philosophy
-title: Randomizacja układu przestrzeni adresowej (ASLR) powoduje…
-teaser: Randomizacja układu przestrzeni adresowej (ASLR) utrudnia wykorzystanie przepełnienia bufora…
+title: Brzytwa Ockhama nie jest dowodem
+teaser: Prostsze wyjaśnienie bywa użyteczne, ale nie musi być prawdziwe.
 published: true
 version: 1
 ---
-Randomizacja układu przestrzeni adresowej (ASLR) utrudnia wykorzystanie przepełnienia bufora poprzez losowe losowanie miejsca, w którym kod i dane są ładowane do pamięci.
+**Brzytwa Ockhama** podpowiada, by nie mnożyć założeń ponad potrzebę. Gdy dwa wyjaśnienia równie dobrze pasują do danych, prostsze zwykle warto sprawdzić jako pierwsze.
 
-[Przepełnienie bufora (Wikipedia)](https://pl.wikipedia.org/wiki/Przepe%C5%82nienie_bufora)
+To jednak nie jest prawo natury. Elegancka, oszczędna teoria nadal może być błędna, więc brzytwa jest narzędziem rozumowania, a nie zamiennikiem dowodów.
+
+[Brzytwa Ockhama (Wikipedia)](https://pl.wikipedia.org/wiki/Brzytwa_Ockhama)

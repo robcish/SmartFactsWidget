@@ -5,11 +5,13 @@ month: 11
 day: 16
 sequence_index: 1
 category: finance
-title: Emergent abilities in large language models appear suddenly at…
-teaser: Emergent abilities in large language models appear suddenly at certain scales — capabilities like…
+title: Paper money spread from Song China
+teaser: Long before modern banknotes, merchants in China were already using printed notes as practical money.
 published: true
 version: 1
 ---
-Emergent abilities in large language models appear suddenly at certain scales — capabilities like arithmetic and translation emerge unpredictably as models grow.
+Paper currency became especially important during the Song dynasty, when trade was expanding and carrying metal coin in bulk was inconvenient. Printed notes offered a lighter way to move value across long distances.
 
-[Large language model (Wikipedia)](https://en.wikipedia.org/wiki/Large_language_model)
+Trust was the hard part. Paper money works only when people believe an institution will honor it, which is why its history is also a story about states, credibility, and control.
+
+[Jiaozi (currency) (Wikipedia)](https://en.wikipedia.org/wiki/Jiaozi_(currency))

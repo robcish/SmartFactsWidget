@@ -5,9 +5,13 @@ month: 10
 day: 5
 sequence_index: 2
 category: general
-title: Artykuł Turinga „O liczbach obliczalnych” jako pierwszy opisał…
-teaser: Artykuł Turinga „O liczbach obliczalnych” jako pierwszy opisał komputer, który można…
+title: Miód potrafi przetrwać lata bez zepsucia
+teaser: Ma mało wody i kwaśne środowisko, więc drobnoustrojom trudno się w nim rozwijać.
 published: true
 version: 1
 ---
-Artykuł Turinga „O liczbach obliczalnych” jako pierwszy opisał komputer, który można zaprogramować do wykonania dowolnego zadania — teoretyczny przodek wszystkich współczesnych komputerów.
+Dobrze przechowywany miód zachowuje trwałość wyjątkowo długo, bo zawiera niewiele wody, dużo cukru i związki utrudniające wzrost mikroorganizmów. Może skrystalizować albo zmienić konsystencję, ale to nie znaczy, że się zepsuł.
+
+Nic dziwnego, że jego długowieczność stała się jedną z najbardziej znanych ciekawostek o żywności.
+
+[Miód (Wikipedia)](https://pl.wikipedia.org/wiki/Mi%C3%B3d)

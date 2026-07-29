@@ -5,9 +5,13 @@ month: 10
 day: 20
 sequence_index: 2
 category: science
-title: Po tym, jak w 2019 r. Huawei otrzymał zakaz korzystania z Androida…
-teaser: Po tym, jak w 2019 r.
+title: Woda może wrzeć bez parzenia
+teaser: Wrzenie zależy nie tylko od temperatury, lecz także od ciśnienia.
 published: true
 version: 1
 ---
-Po tym, jak w **2019 r. Huawei otrzymał zakaz korzystania z systemu Android firmy Google, **Chiny opracowały system HarmonyOS — co ilustruje geopolityczne znaczenie oprogramowania typu open source.
+Na poziomie morza woda wrze w pobliżu 100 C, ale przy niższym ciśnieniu ta granica spada. W komorze próżniowej może zacząć wrzeć przy temperaturze znacznie niższej od temperatury ciała.
+
+Wrzenie nie jest więc po prostu stanem „bardzo gorącej” cieczy. Zaczyna się wtedy, gdy ciśnienie pary cieczy zrówna się z ciśnieniem otoczenia.
+
+[Wrzenie (Wikipedia)](https://pl.wikipedia.org/wiki/Wrzenie)

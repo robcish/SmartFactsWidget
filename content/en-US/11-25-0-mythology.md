@@ -5,11 +5,13 @@ month: 11
 day: 25
 sequence_index: 0
 category: mythology
-title: PHP originally stood for 'Personal Home Page' — creator Rasmus…
-teaser: PHP originally stood for 'Personal Home Page' — creator Rasmus Lerdorf built it to track visits to…
+title: Thursday is named for Thor
+teaser: Several English weekday names still preserve old Norse mythology.
 published: true
 version: 1
 ---
-PHP originally stood for 'Personal Home Page' — creator Rasmus Lerdorf built it to track visits to his online resume in **1993**.
+In English, Tuesday through Friday carry the names of Germanic or Norse gods. Thursday comes from Thor, while Wednesday reflects Woden, the Anglo-Saxon counterpart of Odin.
 
-[PHP (Wikipedia)](https://en.wikipedia.org/wiki/PHP)
+These names are reminders that mythology can survive quietly inside ordinary language. Even a work calendar can preserve stories much older than the modern week.
+
+[Thor (Wikipedia)](https://en.wikipedia.org/wiki/Thor)

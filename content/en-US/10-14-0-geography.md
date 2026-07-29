@@ -5,11 +5,13 @@ month: 10
 day: 14
 sequence_index: 0
 category: geography
-title: Morris Worm of 1988, the first major Internet worm, exploited a…
-teaser: The Morris Worm of 1988, the first major Internet worm, exploited a buffer overflow in the fingerd…
+title: Africa spans all four hemispheres
+teaser: The equator and prime meridian both cross the continent.
 published: true
 version: 1
 ---
-The Morris Worm of **1988, **the first major Internet worm, exploited a buffer overflow in the fingerd service — affecting about 6,000 computers (10% of the Internet).
+Africa is the only continent that is crossed by both the **equator** and the **prime meridian**. That places parts of it in the Northern, Southern, Eastern, and Western Hemispheres at once.
 
-[Buffer overflow (Wikipedia)](https://en.wikipedia.org/wiki/Buffer_overflow)
+It is a neat map fact, but it also hints at the continent's huge geographic range: deserts, rainforests, Mediterranean coasts, and high mountains all fit inside the same landmass.
+
+[More on Africa (Wikipedia)](https://en.wikipedia.org/wiki/Africa)

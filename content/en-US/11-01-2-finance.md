@@ -5,11 +5,11 @@ month: 11
 day: 1
 sequence_index: 2
 category: finance
-title: GitHub, founded in 2008 and acquired by Microsoft for $7.5 billion…
-teaser: GitHub, founded in 2008 and acquired by Microsoft for $7.5 billion in 2018, hosts over 100 million…
+title: Credit cards began as dining tools
+teaser: The first widely used charge card was meant for restaurant bills, not travel points or online shopping.
 published: true
 version: 1
 ---
-GitHub, founded in **2008 **and acquired by Microsoft for $7.5 billion in 2018, hosts over 100 million repositories.
+Diners Club introduced its card in 1950 after founder Frank McNamara reportedly forgot his wallet at dinner. Early cards were closer to a monthly tab than modern revolving credit, but they changed how people thought about everyday payment.
 
-[GitHub (Wikipedia)](https://en.wikipedia.org/wiki/GitHub)
+[Credit card (Wikipedia)](https://en.wikipedia.org/wiki/Credit_card)

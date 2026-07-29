@@ -5,9 +5,13 @@ month: 10
 day: 16
 sequence_index: 2
 category: language
-title: Osoby dwujęzyczne mogą doświadczać lepszego przetwarzania…
-teaser: Osoby dwujęzyczne mogą doświadczać lepszych zdolności przetwarzania słuchowego w porównaniu z…
+title: Pangram zawiera wszystkie litery alfabetu
+teaser: Dlatego przydaje się typografom, projektantom i testerom klawiatur.
 published: true
 version: 1
 ---
-Osoby dwujęzyczne mogą wykazywać lepsze zdolności przetwarzania słuchowego w porównaniu z osobami jednojęzycznymi, nawet w przypadku zadań pozajęzykowych.
+**Pangram** to zdanie, w którym pojawia się każda litera alfabetu przynajmniej raz. W polszczyźnie służy do tego między innymi słynne zdanie "Pchnąć w tę łódź jeża lub ośm skrzyń fig".
+
+Ponieważ pangram obejmuje cały zestaw znaków, świetnie nadaje się do sprawdzania krojów pisma, układów klawiatur i czytelności zapisu.
+
+[Pangram (Wikipedia)](https://pl.wikipedia.org/wiki/Pangram)

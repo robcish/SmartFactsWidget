@@ -5,11 +5,13 @@ month: 10
 day: 5
 sequence_index: 0
 category: myth-busting
-title: Linux was adopted first by supercomputing centers in the mid-1990s…
-teaser: Linux was adopted first by supercomputing centers in the mid-1990s — organizations like NASA…
+title: Bats are not actually blind
+teaser: Many species see reasonably well and also use echolocation.
 published: true
 version: 1
 ---
-Linux was adopted first by supercomputing centers in the mid-1990s — organizations like NASA replaced expensive machines with clusters of commodity computers running Linux.
+The phrase `blind as a bat` badly undersells bats. Depending on the species, they can use both vision and echolocation, with each sense helping in different situations.
 
-[Linux (Wikipedia)](https://en.wikipedia.org/wiki/Linux)
+Their reputation comes partly from nocturnal habits, not from a total lack of sight.
+
+[Bat (Wikipedia)](https://en.wikipedia.org/wiki/Bat)

@@ -5,11 +5,13 @@ month: 9
 day: 29
 sequence_index: 2
 category: biology
-title: Rośliny pomidorów połączone sieciami mikoryzowymi mogą „zaczynać”…
-teaser: Rośliny pomidorów połączone sieciami mikoryzowymi mogą „wzmacniać” mechanizmy obronne…
+title: Aksolotle potrafią odrastać całe kończyny
+teaser: Te płazy odbudowują utracone części ciała z dokładnością, której ssaki wciąż nie osiągają.
 published: true
 version: 1
 ---
-Rośliny pomidorów połączone sieciami mikoryzowymi mogą „wzmacniać” mechanizmy obronne niezainfekowanych sąsiadów, gdy jedna roślina zostanie zaatakowana przez patogeny grzybowe.
+Aksolotl może odtworzyć nogę, ogon, fragmenty rdzenia kręgowego, a nawet części serca, i to bez typowych blizn. Komórki w pobliżu rany wracają do bardziej elastycznego stanu i ponownie budują brakującą strukturę.
 
-[Sieci mykoryzowe (Wikipedia)](https://pl.wikipedia.org/wiki/Sieci_mykoryzowe)
+Właśnie dlatego gatunek jest tak ważny dla biologów badających mechanizmy gojenia i regeneracji.
+
+[Aksolotl meksykański (Wikipedia)](https://pl.wikipedia.org/wiki/Aksolotl_meksyka%C5%84ski)

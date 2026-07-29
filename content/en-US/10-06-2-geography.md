@@ -5,11 +5,13 @@ month: 10
 day: 6
 sequence_index: 2
 category: geography
-title: IEEE 754 defines 'Not a Number' (NaN) as the result of undefined…
-teaser: IEEE 754 defines 'Not a Number' (NaN) as the result of undefined operations like 0/0 or sqrt(-1) —…
+title: Canada has more lakes than any other country
+teaser: Its landscape contains such a large share of the world's lakes that the total dwarfs most national counts.
 published: true
 version: 1
 ---
-IEEE **754 **defines 'Not a Number' (NaN) as the result of undefined operations like 0/0 or sqrt(-1) — NaN is not equal to anything, including itself.
+Canada's glacial history left behind an enormous number of basins that later filled with water. The result is a landscape where lakes are so common that they help define settlement, transport, climate, and even national imagery.
 
-[IEEE 754 (Wikipedia)](https://en.wikipedia.org/wiki/IEEE_754)
+Many countries have famous lakes; Canada has them almost as a geographic background setting.
+
+[Geography of Canada (Wikipedia)](https://en.wikipedia.org/wiki/Geography_of_Canada)

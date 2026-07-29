@@ -5,11 +5,13 @@ month: 9
 day: 27
 sequence_index: 1
 category: mythology
-title: www prefix became standard practice by accident — the Web project…
-teaser: The www prefix became standard practice by accident — the Web project page was meant to be at…
+title: Thursday is named after Thor
+teaser: The English weekday preserves the name of the Norse thunder god.
 published: true
 version: 1
 ---
-The www prefix became standard practice by accident — the Web project page was meant to be at www.cern.ch while info.cern.ch was for CERN's home, but DNS records were never switched.
+`Thursday` comes from Old English `Thunresdaeg`, meaning Thor's day. It is the Germanic counterpart to the Roman habit of naming days after deities linked to the planets.
 
-[World Wide Web (Wikipedia)](https://en.wikipedia.org/wiki/World_Wide_Web)
+The same pattern appears across Europe, which is why the weekday still carries mythology into everyday speech.
+
+[Thor (Wikipedia)](https://en.wikipedia.org/wiki/Thor)

@@ -5,11 +5,13 @@ month: 10
 day: 1
 sequence_index: 2
 category: psychology
-title: All individual components of bitcoin existed in earlier academic…
-teaser: All individual components of bitcoin existed in earlier academic literature — Satoshi Nakamoto's…
+title: Your brain can spot your name in noise
+teaser: The cocktail party effect helps attention lock onto personally important signals.
 published: true
 version: 1
 ---
-All individual components of bitcoin existed in earlier academic literature — Satoshi Nakamoto's innovation was their complex interplay creating the first decentralized, Sybil-resistant digital cash.
+In a crowded room, most conversations blur into background sound. Yet many people still notice immediately when someone says their name nearby.
 
-[Bitcoin (Wikipedia)](https://en.wikipedia.org/wiki/Bitcoin)
+Psychologists call this the cocktail party effect. It shows that attention filters a lot, but not so completely that meaningful cues stop getting through.
+
+[Cocktail party effect (Wikipedia)](https://en.wikipedia.org/wiki/Cocktail_party_effect)

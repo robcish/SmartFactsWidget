@@ -5,11 +5,11 @@ month: 11
 day: 4
 sequence_index: 2
 category: history
-title: 230 BCE) was the first known originator of a heliocentric (solar)…
-teaser: 230 BCE) was the first known originator of a heliocentric (solar) system.
+title: Heliocentrism predates Copernicus
+teaser: A Greek thinker proposed a Sun-centered cosmos long before the Renaissance.
 published: true
 version: 1
 ---
-**230 **BCE) was the first known originator of a heliocentric (solar) system.
+Aristarchus of Samos argued in antiquity that Earth moved around the Sun, though the idea did not win out in his time. Copernicus later built a far more influential heliocentric model, helped by a very different mathematical and historical moment.
 
-[List of multiple discoveries (Wikipedia)](https://en.wikipedia.org/wiki/List_of_multiple_discoveries)
+[Aristarchus of Samos (Wikipedia)](https://en.wikipedia.org/wiki/Aristarchus_of_Samos)

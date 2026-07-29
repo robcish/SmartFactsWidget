@@ -5,11 +5,11 @@ month: 11
 day: 2
 sequence_index: 1
 category: astronomy
-title: Solar System, and the other stars/dwarfs listed here, are…
-teaser: The Solar System, and the other stars/dwarfs listed here, are currently moving within (or near)…
+title: Mars once had rivers and lakes
+teaser: Orbital images show ancient valleys and dried basins.
 published: true
 version: 1
 ---
-The Solar System, and the other stars/dwarfs listed here, are currently moving within (or near) the Local Interstellar Cloud, roughly **30 **light-years (9.2 pc) across.
+Spacecraft have mapped valleys, deltas, and mineral deposits that strongly suggest Mars once had liquid water flowing across its surface. The planet is cold and dry today, but its geology preserves evidence of a wetter past. That is one reason Mars remains the favorite target for questions about ancient habitability.
 
-[List of nearest stars (Wikipedia)](https://en.wikipedia.org/wiki/List_of_nearest_stars)
+[Water on Mars (Wikipedia)](https://en.wikipedia.org/wiki/Water_on_Mars)

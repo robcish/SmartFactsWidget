@@ -5,9 +5,13 @@ month: 11
 day: 16
 sequence_index: 1
 category: finance
-title: Wschodzące zdolności w dużych modelach językowych pojawiają się…
-teaser: Pojawiające się zdolności w dużych modelach językowych pojawiają się nagle w określonej skali –…
+title: Pieniądz papierowy upowszechniły Chiny Song
+teaser: Na długo przed nowoczesnymi banknotami kupcy w Chinach używali już drukowanych środków płatniczych.
 published: true
 version: 1
 ---
-Pojawiające się zdolności w dużych modelach językowych pojawiają się nagle w pewnych skalach – możliwości takie jak arytmetyka i tłumaczenie pojawiają się w sposób nieprzewidywalny w miarę rozwoju modeli.
+Pieniądz papierowy zyskał szczególne znaczenie w epoce dynastii Song, gdy handel szybko się rozwijał, a przewożenie dużej ilości monet stawało się niewygodne. Drukowane noty pozwalały przenosić wartość znacznie lżej i wygodniej.
+
+Najtrudniejsze było zaufanie. Taki pieniądz działa tylko wtedy, gdy ludzie wierzą, że stoi za nim instytucja zdolna go honorować, więc jego dzieje są zarazem historią państwa, wiarygodności i kontroli.
+
+[Jiaozi (Wikipedia)](https://pl.wikipedia.org/wiki/Jiaozi)

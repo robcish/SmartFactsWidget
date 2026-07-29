@@ -5,9 +5,13 @@ month: 9
 day: 27
 sequence_index: 1
 category: mythology
-title: Prefiks www stał się standardową praktyką przez przypadek —…
-teaser: Prefiks www stał się standardem przez przypadek — strona projektu WWW miała znajdować się pod…
+title: Angielskie Thursday pochodzi od Thora
+teaser: Nazwa tego dnia tygodnia zachowała imię nordyckiego boga piorunów.
 published: true
 version: 1
 ---
-Prefiks www stał się przez przypadek standardową praktyką — strona projektu internetowego miała znajdować się pod adresem www.cern.ch, a info.cern.ch dotyczyła strony głównej CERN, ale rekordy DNS nigdy nie zostały zamienione.
+Słowo `Thursday` wywodzi się ze staroangielskiego `Thunresdaeg`, czyli dnia Thora. To germański odpowiednik rzymskiego zwyczaju nazywania dni imionami bóstw związanych z planetami.
+
+Podobny schemat widać w wielu językach Europy, więc mitologia nadal ukrywa się w zwykłym kalendarzu.
+
+[Thor (Wikipedia)](https://pl.wikipedia.org/wiki/Thor)

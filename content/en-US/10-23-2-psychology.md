@@ -5,11 +5,13 @@ month: 10
 day: 23
 sequence_index: 2
 category: psychology
-title: Grace Hopper is credited with popularizing the term 'debugging'…
-teaser: Grace Hopper is credited with popularizing the term 'debugging' after finding a moth in a relay of…
+title: Memory rebuilds the past each time
+teaser: Remembering is not like replaying a file; the mind reconstructs the scene.
 published: true
 version: 1
 ---
-Grace Hopper is credited with popularizing the term 'debugging' after finding a moth in a relay of the Harvard Mark II computer in **1947**.
+Psychologists describe memory as **reconstructive**, not perfectly archival. When we remember an event, the brain pieces it together from stored fragments, expectations, and later experiences.
 
-[Grace Hopper (Wikipedia)](https://en.wikipedia.org/wiki/Grace_Hopper)
+That is one reason confident memories can still contain errors, especially after suggestion or repetition.
+
+[False memory (Wikipedia)](https://en.wikipedia.org/wiki/False_memory)

@@ -5,11 +5,13 @@ month: 11
 day: 23
 sequence_index: 2
 category: finance
-title: Whitespace is a programming language where only spaces, tabs, and…
-teaser: Whitespace is a programming language where only spaces, tabs, and newlines are significant — all…
+title: Coin edges were shaped to stop shaving
+teaser: Ridges made it easier to spot when precious metal had been trimmed away.
 published: true
 version: 1
 ---
-Whitespace is a programming language where only spaces, tabs, and newlines are significant — all other characters are ignored as comments.
+When coins were made from gold or silver, shaving a little metal off many pieces could be profitable. The loss was small on each coin, but repeated often enough it became a real financial problem.
 
-[Whitespace (programming language) (Wikipedia)](https://en.wikipedia.org/wiki/Whitespace_(programming_language))
+Reeded or inscribed edges made tampering much easier to notice. A tiny design feature helped protect trust in money long before digital security existed.
+
+[Reeding (Wikipedia)](https://en.wikipedia.org/wiki/Reeding)

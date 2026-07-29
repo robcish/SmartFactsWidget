@@ -5,11 +5,11 @@ month: 11
 day: 24
 sequence_index: 0
 category: environment
-title: Brainfuck, created in 1993, has only 8 commands and was designed…
-teaser: Brainfuck, created in 1993, has only 8 commands and was designed to challenge and amuse…
+title: Coral reefs protect shorelines
+teaser: Living reefs blunt wave energy before it hits land.
 published: true
 version: 1
 ---
-Brainfuck, created in **1993, **has only 8 commands and was designed to challenge and amuse programmers — yet it's Turing complete.
+Healthy **coral reefs** act like natural breakwaters. Their rough, complex structure dissipates wave energy and can reduce coastal flooding and erosion. When reefs die and crumble, shorelines lose that living buffer as well as the biodiversity that depends on it.
 
-[Brainfuck (Wikipedia)](https://en.wikipedia.org/wiki/Brainfuck)
+[Coral reef (Wikipedia)](https://en.wikipedia.org/wiki/Coral_reef)

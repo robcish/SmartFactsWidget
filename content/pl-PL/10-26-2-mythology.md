@@ -5,9 +5,13 @@ month: 10
 day: 26
 sequence_index: 2
 category: mythology
-title: Wyrażenia regularne zostały wynalezione przez matematyka Stephena…
-teaser: Wyrażenia regularne zostały wynalezione przez matematyka Stephena Kleene’a w 1951 r.
+title: Feniks odradza się z własnego kresu
+teaser: W wielu późniejszych tradycjach stał się symbolem odnowy po zniszczeniu.
 published: true
 version: 1
 ---
-Wyrażenia regularne zostały wynalezione przez matematyka Stephena Kleene’a w **1951** — Ken Thompson zaimplementował je w edytorze tekstu ed i rozprzestrzeniły się w całym systemie Unix.
+**Feniks** to legendarny ptak kojarzony z cyklem odradzania. W późniejszych opowieściach antycznych i średniowiecznych umiera, a następnie wraca do życia, często z popiołów, dlatego stał się mocnym znakiem przemiany i trwania mimo katastrofy.
+
+Nic dziwnego, że do dziś pojawia się wszędzie tam, gdzie potrzeba mitu o nowym początku.
+
+[Feniks (mitologia) (Wikipedia)](https://pl.wikipedia.org/wiki/Feniks_(mitologia))

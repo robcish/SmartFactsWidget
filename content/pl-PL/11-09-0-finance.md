@@ -5,11 +5,11 @@ month: 11
 day: 9
 sequence_index: 0
 category: finance
-title: Dropout, prosta technika regularyzacji, w której losowe neurony…
-teaser: Dropout, prosta technika regularyzacji, w której przypadkowe neurony są ignorowane podczas treningu…
+title: Symbol dolara prawdopodobnie wyrósł z peso
+teaser: Jedno z najczęściej przyjmowanych wyjaśnień wiąże znak $ ze skrótem 'ps' zapisywanym przez skrybów.
 published: true
 version: 1
 ---
-Porzucenie, prosta technika regularyzacji, w której losowe neurony są ignorowane podczas uczenia, radykalnie poprawiła generalizację sieci neuronowej, gdy została wprowadzona w **2012**.
+Przy szybkim piśmie litery mogły zlać się w jeden znak z pionową kreską. Historycy wciąż spierają się o dokładną drogę tego przekształcenia, ale sam symbol jest wyraźnie starszy niż współczesny dolar amerykański.
 
-)
+[Symbol dolara (Wikipedia)](https://pl.wikipedia.org/wiki/Symbol_dolara)

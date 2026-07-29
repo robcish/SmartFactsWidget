@@ -5,11 +5,11 @@ month: 11
 day: 17
 sequence_index: 0
 category: astronomy
-title: It contains Ursa Major and the Hyades star cluster, among others
-teaser: It contains Ursa Major and the Hyades star cluster, among others.
+title: Neptune was found by math before telescopes
+teaser: Calculations predicted a planet tugging on Uranus.
 published: true
 version: 1
 ---
-It contains Ursa Major and the Hyades star cluster, among others.
+Neptune was not discovered by accident. Astronomers noticed Uranus drifting from its expected path and calculated that another planet's gravity could explain the mismatch. When telescopes later pointed to the predicted region, **Neptune** was there. It became a famous win for celestial mechanics.
 
-[List of nearest stars (Wikipedia)](https://en.wikipedia.org/wiki/List_of_nearest_stars)
+[Discovery of Neptune (Wikipedia)](https://en.wikipedia.org/wiki/Discovery_of_Neptune)

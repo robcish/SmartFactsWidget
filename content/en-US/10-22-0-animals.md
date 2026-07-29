@@ -5,11 +5,13 @@ month: 10
 day: 22
 sequence_index: 0
 category: animals
-title: Hippos secrete a natural sunscreen that is red-colored, often…
-teaser: Hippos secrete a natural sunscreen that is red-colored, often mistaken for blood.
+title: Hippos make their own sunscreen
+teaser: Their reddish skin secretion helps protect them from sun and bacteria.
 published: true
 version: 1
 ---
-Hippos secrete a natural sunscreen that is red-colored, often mistaken for blood.
+Hippos produce a thick reddish secretion sometimes nicknamed “blood sweat,” though it is neither blood nor sweat. Researchers believe it helps **block ultraviolet light** and may also slow the growth of some microbes.
+
+That chemical protection matters because hippos spend long hours in strong sun while their skin dries easily out of water.
 
 [Hippopotamus (Wikipedia)](https://en.wikipedia.org/wiki/Hippopotamus)

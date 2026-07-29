@@ -5,11 +5,13 @@ month: 10
 day: 16
 sequence_index: 2
 category: language
-title: Bilingual people may experience superior auditory processing…
-teaser: Bilingual people may experience superior auditory processing abilities compared to monolinguals,…
+title: A pangram uses every letter
+teaser: Designers and typographers use them to show off full alphabets.
 published: true
 version: 1
 ---
-Bilingual people may experience superior auditory processing abilities compared to monolinguals, even in non-language tasks.
+A **pangram** is a sentence that contains every letter of an alphabet at least once. The famous English example is "The quick brown fox jumps over the lazy dog."
 
-[Multilingualism (Wikipedia)](https://en.wikipedia.org/wiki/Multilingualism)
+Because pangrams sample every letter, they are handy for testing keyboards, fonts, handwriting, and type layouts.
+
+[More on pangrams (Wikipedia)](https://en.wikipedia.org/wiki/Pangram)

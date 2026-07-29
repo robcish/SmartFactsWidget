@@ -5,11 +5,11 @@ month: 10
 day: 25
 sequence_index: 2
 category: environment
-title: Jon Bentley found that 90% of professional programmers couldn't…
-teaser: Jon Bentley found that 90% of professional programmers couldn't correctly implement binary search…
+title: Kelp forests sequester carbon quickly
+teaser: Giant algae grow fast and feed coastal ecosystems.
 published: true
 version: 1
 ---
-Jon Bentley found that **90**% of professional programmers couldn't correctly implement binary search — off-by-one errors and integer overflow were common mistakes.
+**Kelp forests** can grow remarkably fast and support dense marine ecosystems. Because kelp locks carbon into living tissue and some of that material sinks into deeper waters, these underwater forests matter for both biodiversity and climate. They are also vulnerable to heatwaves and overgrazing by sea urchins.
 
-[Binary search algorithm (Wikipedia)](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+[Kelp forest (Wikipedia)](https://en.wikipedia.org/wiki/Kelp_forest)

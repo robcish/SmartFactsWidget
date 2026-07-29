@@ -5,11 +5,13 @@ month: 10
 day: 20
 sequence_index: 1
 category: general
-title: France's policy promoting open-source in government led to a 14%…
-teaser: France's policy promoting open-source in government led to a 14% increase in IT employment and an…
+title: The @ sign has many local names
+teaser: Depending on the language, @ can be a snail, monkey, strudel, or little mouse.
 published: true
 version: 1
 ---
-France's policy promoting open-source in government led to a **14**% increase in IT employment and an 18% increase in tech startups.
+English speakers usually call `@` the at sign, but many languages give it vivid nicknames based on its shape. Around Europe and beyond, people compare it to a snail, monkey, strudel, or mouse.
 
-[Open-source software (Wikipedia)](https://en.wikipedia.org/wiki/Open-source_software)
+It is a small reminder that even a global keyboard symbol still gets interpreted through local culture.
+
+[At sign (Wikipedia)](https://en.wikipedia.org/wiki/At_sign)

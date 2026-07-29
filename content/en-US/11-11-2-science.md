@@ -5,11 +5,13 @@ month: 11
 day: 11
 sequence_index: 2
 category: science
-title: GANs (Generative Adversarial Networks), invented by Ian Goodfellow…
-teaser: GANs (Generative Adversarial Networks), invented by Ian Goodfellow in 2014, use two neural…
+title: Ice floats because it expands
+teaser: Water becomes less dense as it freezes, which is why lakes harden from the top down.
 published: true
 version: 1
 ---
-GANs (Generative Adversarial Networks), invented by Ian Goodfellow in **2014, **use two neural networks competing against each other to generate realistic data.
+Most substances contract when they cool, but water behaves oddly near freezing. Its molecules lock into a crystal structure that takes up more space, so solid ice becomes less dense than liquid water.
 
-[Generative adversarial network (Wikipedia)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+That quirk is why ice floats and insulates the water below. Without it, lakes could freeze from the bottom upward, making many aquatic ecosystems far harsher.
+
+[Properties of water (Wikipedia)](https://en.wikipedia.org/wiki/Properties_of_water)
