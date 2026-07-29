@@ -5,11 +5,13 @@ month: 9
 day: 20
 sequence_index: 2
 category: reflection
-title: 3-state Busy Beaver Turing machine writes 6 ones before halting —…
-teaser: The 3-state Busy Beaver Turing machine writes 6 ones before halting — finding the maximum for 5…
+title: Tiny rules can create huge searches
+teaser: A 3-state Busy Beaver writes just 6 ones, yet larger versions become brutally hard to analyze.
 published: true
 version: 1
 ---
-The **3**-state Busy Beaver Turing machine writes 6 ones before halting — finding the maximum for 5 states is an open problem worth more computational effort than the entire history of computing.
+The Busy Beaver game asks a deceptively small question: among machines with a fixed number of states, which one does the **most work before halting**?
 
-[Turing machine (Wikipedia)](https://en.wikipedia.org/wiki/Turing_machine)
+Even for tiny machines, the search explodes. That is why a toy model with only a few symbols and states still points toward the limits of computation.
+
+[Busy beaver (Wikipedia)](https://en.wikipedia.org/wiki/Busy_beaver)

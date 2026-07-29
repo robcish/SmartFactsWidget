@@ -5,11 +5,13 @@ month: 9
 day: 25
 sequence_index: 0
 category: philosophy
-title: smallest bitcoin unit, a satoshi (sat), is 1/100,000,000 of a…
-teaser: The smallest bitcoin unit, a satoshi (sat), is 1/100,000,000 of a bitcoin — named after the…
+title: A satoshi is a tiny fraction
+teaser: The smallest Bitcoin unit is one hundred millionth of a coin.
 published: true
 version: 1
 ---
-The smallest bitcoin unit, a satoshi (sat), is **1**/100,000,000 of a bitcoin — named after the mysterious creator Satoshi Nakamoto.
+A **satoshi** equals 0.00000001 bitcoin. The tiny unit makes it practical to price small payments even if a full bitcoin becomes very expensive.
 
-[Bitcoin (Wikipedia)](https://en.wikipedia.org/wiki/Bitcoin)
+Its name also keeps the system's mysterious founder embedded in everyday use, since people casually refer to sats without needing whole coins.
+
+[Satoshi (unit) (Wikipedia)](https://en.wikipedia.org/wiki/Satoshi_(unit))

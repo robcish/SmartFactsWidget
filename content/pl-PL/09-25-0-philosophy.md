@@ -5,9 +5,13 @@ month: 9
 day: 25
 sequence_index: 0
 category: philosophy
-title: smallest bitcoin unit, a satoshi (sat), is 1/100,000,000 of a…
-teaser: Najmniejsza jednostka bitcoina, satoshi (sat), to 1/100 000 000 bitcoina – nazwana na cześć…
+title: Satoshi to maleńka część bitcoina
+teaser: Najmniejsza jednostka Bitcoina to jedna stumilionowa monety.
 published: true
 version: 1
 ---
-Najmniejsza jednostka bitcoina, satoshi (sat), to **1**/100 000 000 bitcoina — nazwana na cześć tajemniczego twórcy Satoshiego Nakamoto.
+**Satoshi** to 0,00000001 bitcoina. Taka drobna jednostka pozwala wygodnie wyceniać małe płatności nawet wtedy, gdy cały bitcoin jest bardzo drogi.
+
+Nazwa przypomina też o tajemniczym twórcy systemu, bo ludzie codziennie mówią o "satach", nie używając pełnych bitcoinów.
+
+[Bitcoin (Wikipedia)](https://pl.wikipedia.org/wiki/Bitcoin)

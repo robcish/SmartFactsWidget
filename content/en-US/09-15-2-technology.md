@@ -5,12 +5,13 @@ month: 9
 day: 15
 sequence_index: 2
 category: technology
-title: – created first Genetically modified organism Willard Boyle…
-teaser: – created first Genetically modified organism Willard Boyle (1924–2011) together with George E.
+title: The first GMO food sold was a tomato
+teaser: The Flavr Savr tomato became the first genetically engineered food approved for sale in the United States. It was designed to soften more slowly after harvest.
 published: true
 version: 1
 ---
-– created first Genetically modified organism
-Willard Boyle (**1924**–2011) together with George E.
+The **Flavr Savr tomato** reached the U.S. market in the 1990s as the first genetically engineered food approved for human consumption there. Its modification aimed to slow softening so the fruit would hold up better during shipping and storage.
 
-[List of inventors (Wikipedia)](https://en.wikipedia.org/wiki/List_of_inventors)
+Commercially it did not transform agriculture, but technologically it marked a new stage in crop engineering. It showed that biotechnology could target shelf life, not just yield or pest resistance.
+
+[Flavr Savr (Wikipedia)](https://en.wikipedia.org/wiki/Flavr_Savr)

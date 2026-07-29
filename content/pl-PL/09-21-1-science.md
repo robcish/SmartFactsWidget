@@ -5,9 +5,11 @@ month: 9
 day: 21
 sequence_index: 1
 category: science
-title: pierwsza transakcja Bitcoin na towary wyniosła 10 000 BTC dla…
-teaser: Pierwsza transakcja Bitcoin na towary wyniosła 10 000 BTC za dwie pizze Papa John's w dniu 22 maja…
+title: Pizza kosztowała kiedyś 10 000 BTC
+teaser: Pierwszy słynny zakup za bitcoiny to dwie pizze kupione za 10 000 BTC.
 published: true
 version: 1
 ---
-Pierwsza transakcja Bitcoin na towary wyniosła **10 000 **BTC za dwie pizze Papa John's, która miała miejsce 22 maja 2010 r. — obecnie obchodzony jest corocznie jako „Dzień Pizzy Bitcoin”.
+W 2010 roku programista Laszlo Hanyecz zapłacił **10 000 bitcoinów** za dwie pizze z Papa John's. Ta transakcja stała się symbolem, bo pokazała użycie Bitcoina w zwykłym codziennym zakupie.
+
+Dziś wspomina się ją jako Bitcoin Pizza Day, czyli przypomnienie, jak dziwnie wyglądają dawne ceny z późniejszej perspektywy.

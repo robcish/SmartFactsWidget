@@ -5,11 +5,13 @@ month: 8
 day: 29
 sequence_index: 1
 category: myth-busting
-title: Go has a branching factor of about 250 (vs chess's 35), making…
-teaser: Go has a branching factor of about 250 (vs chess's 35), making traditional search approaches…
+title: Go gives brute-force search no chance
+teaser: Go is not just "bigger chess". Its branching factor is so huge that naive search collapses almost immediately.
 published: true
 version: 1
 ---
-Go has a branching factor of about **250** (vs chess's 35), making traditional search approaches infeasible — AlphaGo needed neural networks to evaluate positions.
+In a typical position, Go offers on the order of **hundreds of legal moves**, far more than chess. That makes exhaustive tree search explode so quickly that older computer-chess methods cannot simply be scaled up.
 
-[AlphaGo (Wikipedia)](https://en.wikipedia.org/wiki/AlphaGo)
+AlphaGo succeeded by combining search with neural networks that guessed which moves and positions were worth attention. The lesson is a useful myth-buster: more computing power alone is not enough when the decision tree grows too fast.
+
+[Go and mathematics (Wikipedia)](https://en.wikipedia.org/wiki/Go_and_mathematics)

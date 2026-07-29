@@ -5,9 +5,11 @@ month: 8
 day: 29
 sequence_index: 0
 category: mythology
-title: Ke Jie, czołowy gracz w Go na świecie, powiedział po przegranej z…
-teaser: Ke Jie, czołowy gracz w Go na świecie, powiedział po przegranej z AlphaGo: „Po tym, jak ludzkość…
+title: Ke Jie mowil, ze AlphaGo przepisalo Go
+teaser: Po porazce z AlphaGo Ke Jie stwierdzil, ze maszyna pokazala ludziom bledy w strategii budowanej przez tysiace lat.
 published: true
 version: 1
 ---
-Ke Jie, czołowy gracz w Go na świecie, powiedział po przegranej z AlphaGo: „Po tym, jak ludzkość spędziła tysiące lat na ulepszaniu swojej taktyki, komputery mówią nam, że całkowicie się mylą”.
+Gdy mistrz swiata **Ke Jie** przegral z AlphaGo w 2017 roku, powiedzial, ze maszyna obnażyla slabosci ludzkiej tradycji gry w Go. Ta reakcja dobrze oddawala, jak obco i zaskakujaco wygladal styl programu nawet dla najlepszych zawodnikow.
+
+Nie byla to tylko frustracja po porazce. AlphaGo czesto wybieralo ruchy, ktore poczatkowo wydawaly sie dziwne, a dopiero potem okazywaly sie eleganckie i bardzo silne, jakby nagle pojawila sie nowa mitologia tej gry.

@@ -5,11 +5,13 @@ month: 9
 day: 6
 sequence_index: 1
 category: general
-title: Companies predicted Y2K remediation would cost between $400…
-teaser: Companies predicted Y2K remediation would cost between $400 billion and $600 billion globally —…
+title: Y2K fixes cost hundreds of billions
+teaser: Global remediation spending for Y2K is commonly estimated in the hundreds of billions of dollars.
 published: true
 version: 1
 ---
-Companies predicted Y2K remediation would cost between $**400 billion** and $600 billion globally — fear led some people to stockpile food, water, and firearms.
+By the late 1990s, governments and companies were spending **hundreds of billions of dollars** to inspect code, replace systems, and test date handling before the millennium rollover. Few software bugs have ever produced a cleanup bill on that scale.
+
+The cost bought something hard to see: an anticlimax. Because so much work succeeded quietly, many people later assumed the danger had been exaggerated rather than heavily mitigated.
 
 [Y2K problem (Wikipedia)](https://en.wikipedia.org/wiki/Y2K_problem)

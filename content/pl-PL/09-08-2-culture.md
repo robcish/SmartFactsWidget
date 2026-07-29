@@ -5,9 +5,13 @@ month: 9
 day: 8
 sequence_index: 2
 category: culture
-title: Błąd Y2K w szpitalu w Sheffield błędnie obliczył ryzyko zespołu…
-teaser: Błąd Y2K w szpitalu w Sheffield błędnie obliczył ryzyko zespołu Downa, bezpośrednio powodując…
+title: Kabuki obracało scenę przed nowoczesnym teatrem
+teaser: Japońskie teatry kabuki używały obrotowych scen, zanim takie efekty upowszechniły się na Zachodzie. Ta mechanika zmieniła sposób oglądania zmian dekoracji.
 published: true
 version: 1
 ---
-Błąd Y2K w szpitalu w Sheffield błędnie obliczył ryzyko wystąpienia zespołu Downa, bezpośrednio powodując dwie niepotrzebne aborcje i cztery niewykryte przypadki.
+Kabuki rozsławiło **mawari-butai**, czyli obrotową scenę wprowadzoną w XVIII wieku w Japonii. Zamiast chować zmianę dekoracji za kurtyną, teatr mógł obrócić jedną scenę i płynnie pokazać następną.
+
+Nie był to tylko efektowny dodatek. Rozwiązanie nadawało przedstawieniom płynność niemal filmową na długo przed narodzinami kina, pokazując, jak technika sceniczna wpływa na kulturę.
+
+[Kabuki (Wikipedia)](https://pl.wikipedia.org/wiki/Kabuki)

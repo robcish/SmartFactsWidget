@@ -5,9 +5,11 @@ month: 9
 day: 19
 sequence_index: 1
 category: astronomy
-title: Ta lista obejmuje wszystkie znane gwiazdy, białe karły, brązowe…
-teaser: Ta lista obejmuje wszystkie znane gwiazdy, białe karły, brązowe karły i subbrązowe karły/zbójeckie…
+title: Słońce ma małe sąsiedztwo
+teaser: W promieniu 20 lat świetlnych od Słońca leży tylko niewielka grupa gwiazd i brązowych karłów.
 published: true
 version: 1
 ---
-Ta lista obejmuje wszystkie znane gwiazdy, białe karły, brązowe karły i subbrązowe karły/planety samobójcze w promieniu **20 **lat świetlnych (6,13 parseka) od Słońca.
+Nasze gwiezdne sąsiedztwo jest dość rzadkie. W promieniu **20 lat świetlnych** od Słońca znajduje się tylko ograniczona liczba znanych gwiazd, białych karłów i brązowych karłów.
+
+Dla astronomów te obiekty są szczególnie ważne, bo ich bliskość pozwala dokładnie mierzyć ruch, jasność, a czasem nawet planety krążące wokół nich.

@@ -5,9 +5,11 @@ month: 9
 day: 26
 sequence_index: 2
 category: astronomy
-title: Tylko 22 są na tyle jasne, że można je zobaczyć bez teleskopu, bo…
-teaser: Tylko 22 są na tyle jasne, że można je dostrzec bez teleskopu, dla czego światło widzialne gwiazdy…
+title: Mało pobliskich gwiazd łatwo zobaczyć
+teaser: Tylko niewielka część najbliższych gwiazd jest dość jasna, by dostrzec ją bez teleskopu.
 published: true
 version: 1
 ---
-Tylko **22 **są wystarczająco jasne, aby można je było dostrzec bez teleskopu, w przypadku których światło widzialne gwiazdy musi osiągnąć lub przekroczyć najciemniejszą jasność widoczną gołym okiem z Ziemi, która zwykle wynosi około 6,5 magnitudo pozornego.
+Sama odległość nie gwarantuje widoczności. Wiele pobliskich gwiazd to słabe czerwone karły, więc tylko **mniejszość** świeci na tyle jasno, by zobaczyć je gołym okiem z Ziemi.
+
+Dlatego najbliższe sąsiedztwo gwiezdne zawiera wiele obiektów ważnych dla astronomii, choć większości z nich ludzie nigdy nie zauważają na nocnym niebie.

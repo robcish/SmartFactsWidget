@@ -5,11 +5,13 @@ month: 9
 day: 22
 sequence_index: 1
 category: biology
-title: Mycorrhizal symbiosis evolved before plants colonized land, with…
-teaser: Mycorrhizal symbiosis evolved before plants colonized land, with evolutionary origins dating back…
+title: Fungi helped plants reach land
+teaser: Mycorrhizal partnerships likely evolved before plants fully colonized land.
 published: true
 version: 1
 ---
-Mycorrhizal symbiosis evolved before plants colonized land, with evolutionary origins dating back over **450 million** years.
+Mycorrhiza is a partnership between fungi and plant roots. Evidence suggests this relationship is **more than 450 million years old**, dating back to the earliest stages of plant life on land.
 
-[Mycorrhizal network (Wikipedia)](https://en.wikipedia.org/wiki/Mycorrhizal_network)
+Fungi help plants absorb water and minerals, while plants provide sugars. That trade may have made harsh early soils far easier for the first land plants to survive.
+
+[Mycorrhiza (Wikipedia)](https://en.wikipedia.org/wiki/Mycorrhiza)

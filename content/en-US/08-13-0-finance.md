@@ -5,11 +5,11 @@ month: 8
 day: 13
 sequence_index: 0
 category: finance
-title: LLVM, created by Chris Lattner, is now used in the implementation…
-teaser: LLVM, created by Chris Lattner, is now used in the implementation of many modern languages…
+title: The US dollar bill costs 7.7 cents to print
+teaser: Producing physical currency costs far less than its face value.
 published: true
 version: 1
 ---
-LLVM, created by Chris Lattner, is now used in the implementation of many modern languages including Rust, Swift, and Julia.
+It costs the US Bureau of Engraving and Printing about **7.7 cents** to produce a single one-dollar bill. The bill lasts about **6.6 years** in circulation before being replaced. Meanwhile, producing a **penny** costs about **2.7 cents** — making it cost more to produce than it's worth.
 
-[History of programming languages (Wikipedia)](https://en.wikipedia.org/wiki/History_of_programming_languages)
+[More on US currency (Wikipedia)](https://en.wikipedia.org/wiki/United_States_dollar)

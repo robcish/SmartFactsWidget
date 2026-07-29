@@ -5,9 +5,13 @@ month: 9
 day: 17
 sequence_index: 2
 category: philosophy
-title: Torvalds powiedział, że gdyby GNU Hurd lub 386BSD były dostępne w…
-teaser: Torvalds powiedział, że gdyby w 1991 roku było dostępne GNU Hurd lub 386BSD, prawdopodobnie nie…
+title: Kiedy rzecz pozostaje sobą?
+teaser: Statek Tezeusza pyta, czy obiekt jest tym samym po wymianie wszystkich części.
 published: true
 version: 1
 ---
-Torvalds powiedział, że gdyby GNU Hurd lub 386BSD były dostępne w **1991, **prawdopodobnie nie stworzyłby Linuksa.
+**Statek Tezeusza** to klasyczny problem tożsamości w czasie. Jeśli deski statku wymienia się kolejno na nowe, filozofowie pytają, czy to nadal ten sam statek.
+
+Paradoks staje się jeszcze ciekawszy, gdy ktoś z dawnych desek buduje drugi statek. To proste ćwiczenie myślowe prowadzi do pytań o pamięć, własność i tożsamość osoby.
+
+[Statek Tezeusza (Wikipedia)](https://pl.wikipedia.org/wiki/Statek_Tezeusza)

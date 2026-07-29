@@ -5,12 +5,13 @@ month: 9
 day: 23
 sequence_index: 0
 category: technology
-title: – first self-propelled street sweeping truck Rachel Fuller Brown…
-teaser: – first self-propelled street sweeping truck Rachel Fuller Brown (1898–1980), U.S.
+title: The first webcam watched coffee
+teaser: One of the earliest webcams was built so researchers could check a coffee pot remotely.
 published: true
 version: 1
 ---
-– first self-propelled street sweeping truck
-Rachel Fuller Brown (**1898**–1980), U.S.
+At the University of Cambridge, researchers pointed a camera at the **Trojan Room coffee pot** so people could see whether any coffee was left before walking over.
 
-[List of inventors (Wikipedia)](https://en.wikipedia.org/wiki/List_of_inventors)
+It was a tiny practical hack, but it became a famous example of how networked cameras quietly moved from lab convenience into everyday culture.
+
+[Trojan Room coffee pot (Wikipedia)](https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot)

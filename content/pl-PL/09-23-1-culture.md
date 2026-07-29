@@ -5,9 +5,11 @@ month: 9
 day: 23
 sequence_index: 1
 category: culture
-title: Szacuje się, że około 20% wszystkich bitcoinów zostało trwale…
-teaser: Szacuje się, że około 20% wszystkich bitcoinów zostało trwale utraconych – łącznie z…
+title: Happy Birthday zaczęło się w klasie
+teaser: Melodia "Happy Birthday to You" powstała w latach 90. XIX wieku jako piosenka szkolna.
 published: true
 version: 1
 ---
-Szacuje się, że około **20**% wszystkich bitcoinów zostało trwale utraconych – łącznie z użytkownikiem, który wyrzucił dysk twardy zawierający 7500 BTC o wartości ponad 7,5 miliona dolarów.
+Melodia pojawiła się najpierw jako **"Good Morning to All"**, utwór napisany przez siostry Hill dla dzieci w szkole.
+
+Dopiero później dołączono do niej urodzinowy tekst, a proste klasowe powitanie stało się jedną z najbardziej rozpoznawalnych piosenek świata.

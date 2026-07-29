@@ -5,11 +5,13 @@ month: 9
 day: 21
 sequence_index: 1
 category: science
-title: first Bitcoin transaction for goods was 10,000 BTC for two Papa…
-teaser: The first Bitcoin transaction for goods was 10,000 BTC for two Papa John's pizzas on May 22, 2010…
+title: Pizza once cost 10,000 BTC
+teaser: The first famous Bitcoin purchase bought two pizzas for 10,000 BTC.
 published: true
 version: 1
 ---
-The first Bitcoin transaction for goods was **10,000 **BTC for two Papa John's pizzas on May 22, 2010 — now celebrated annually as 'Bitcoin Pizza Day.'
+In 2010, programmer Laszlo Hanyecz paid **10,000 bitcoins** for two Papa John's pizzas. The deal became a landmark because it showed Bitcoin being used for an ordinary real-world purchase.
 
-[Bitcoin (Wikipedia)](https://en.wikipedia.org/wiki/Bitcoin)
+Today the event is remembered as Bitcoin Pizza Day, a reminder of how strange early prices can look in hindsight.
+
+[Bitcoin Pizza Day (Wikipedia)](https://en.wikipedia.org/wiki/Bitcoin_Pizza_Day)

@@ -5,11 +5,13 @@ month: 9
 day: 14
 sequence_index: 2
 category: geography
-title: 18-miesięczny okres podwajania, często przytaczany w prawie…
-teaser: 18-miesięczny okres podwajania często przytaczany w prawie Moore’a był w rzeczywistości dyrektorem…
+title: Null Island to pułapka na błędy map
+teaser: Null Island to przydomek punktu 0° szerokości i 0° długości geograficznej. Zasłynął dlatego, że wadliwe dane często umieszczają tam brakujące współrzędne.
 published: true
 version: 1
 ---
-**18**-miesięczny okres podwojenia często przytaczany w prawie Moore’a był w rzeczywistości przewidywaniem Davida House’a, dyrektora firmy Intel, dotyczącym wydajności chipów, a nie liczby tranzystorów.
+Null Island nie jest prawdziwą wyspą, lecz **umownym punktem przecięcia równika i południka zerowego** w Zatoce Gwinejskiej. Kartografowie i programiści żartują z niego, bo uszkodzone dane geograficzne często domyślnie wpadają właśnie w 0,0.
 
-[Prawo Moore’a (Wikipedia)](https://pl.wikipedia.org/wiki/Prawo_Moore%E2%80%99a)
+To drobna lekcja geografii cyfrowej. Nawet mapy potrafią pokazać, gdzie założenia oprogramowania przeciekają do obrazu świata.
+
+[Null Island (Wikipedia)](https://en.wikipedia.org/wiki/Null_Island)

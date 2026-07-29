@@ -5,11 +5,13 @@ month: 9
 day: 21
 sequence_index: 2
 category: history
-title: Merton defined such "multiples" as instances in which similar…
-teaser: Merton defined such "multiples" as instances in which similar discoveries are made by scientists…
+title: Discoveries sometimes happen twice
+teaser: Sociologist Robert K. Merton called independent repeated breakthroughs "multiples."
 published: true
 version: 1
 ---
-Merton defined such "multiples" as instances in which similar discoveries are made by scientists working independently of each other.
+Merton used the term **multiples** for cases where different researchers reach similar discoveries independently.
 
-[List of multiple discoveries (Wikipedia)](https://en.wikipedia.org/wiki/List_of_multiple_discoveries)
+The pattern appears often in the history of science, suggesting that some ideas become reachable once the surrounding tools, data, and questions are in place.
+
+[Multiple discovery (Wikipedia)](https://en.wikipedia.org/wiki/Multiple_discovery)

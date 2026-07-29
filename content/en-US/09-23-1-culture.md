@@ -5,11 +5,13 @@ month: 9
 day: 23
 sequence_index: 1
 category: culture
-title: About 20% of all bitcoins are estimated to be permanently lost —…
-teaser: About 20% of all bitcoins are estimated to be permanently lost — including a user who discarded a…
+title: Happy Birthday began in class
+teaser: The tune of "Happy Birthday to You" started as a classroom song in the 1890s.
 published: true
 version: 1
 ---
-About **20**% of all bitcoins are estimated to be permanently lost — including a user who discarded a hard drive containing 7,500 BTC, worth over $7.5 million at the time.
+The melody first appeared as **"Good Morning to All"**, written by the Hill sisters for schoolchildren.
 
-[Bitcoin (Wikipedia)](https://en.wikipedia.org/wiki/Bitcoin)
+Only later did new birthday lyrics attach themselves to the tune, turning a simple classroom greeting into one of the world's most recognizable songs.
+
+[Happy Birthday to You (Wikipedia)](https://en.wikipedia.org/wiki/Happy_Birthday_to_You)

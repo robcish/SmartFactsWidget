@@ -5,11 +5,13 @@ month: 9
 day: 18
 sequence_index: 2
 category: finance
-title: Eric Raymond noted that Linux 'evolved in a completely different…
-teaser: Eric Raymond noted that Linux 'evolved in a completely different way' — rather than careful design…
+title: Linux grew by fast feedback
+teaser: Eric Raymond argued Linux succeeded through quick releases and constant user feedback.
 published: true
 version: 1
 ---
-Eric Raymond noted that Linux 'evolved in a completely different way' — rather than careful design by small groups, it was 'casually hacked on by huge numbers of volunteers' using weekly releases and rapid feedback.
+Essayist Eric S. Raymond contrasted Linux with software designed by small, closed teams. In his view, Linux advanced through **rapid releases, many contributors, and relentless feedback**.
 
-[Linux (Wikipedia)](https://en.wikipedia.org/wiki/Linux)
+That model helped bugs surface quickly and let useful ideas spread without waiting for a long formal planning cycle.
+
+[The Cathedral and the Bazaar (Wikipedia)](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)

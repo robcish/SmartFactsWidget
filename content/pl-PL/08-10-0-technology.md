@@ -5,12 +5,11 @@ month: 8
 day: 10
 sequence_index: 0
 category: technology
-title: – Tartakowa piła tarczowa Victor Babeș (1854–1926), Rumunia –…
-teaser: – Tartakowa piła tarczowa Victor Babeș (1854–1926), Rumunia – Babesia, twórca serum terapii…
+title: Pierwsza myszka komputerowa była z drewna
+teaser: Doug Engelbart zbudował pierwszy prototyp myszy z drewna w 1964 roku.
 published: true
 version: 1
 ---
-– Piła tarczowa tartaczna
-Victor Babeș (**1854**–1926), Rumunia – Babesia, twórca serum terapii
-Leo Baekeland (1863–1944), belgijsko-amerykański – papier fotograficzny Velox i bakelit
-Ralph H.
+Doug Engelbart wynalazł **mysz komputerową** w **1964 roku** w Stanford Research Institute. Pierwszy prototyp był **drewnianą obudową** z dwoma metalowymi kółkami w środku. Nazwano ją „myszą", bo kabel wychodzący z tyłu wyglądał jak ogon. Engelbart zademonstrował ją publicznie w 1968 roku podczas tzw. **„Matki Wszystkich Demonstracji".**
+
+[Mysz komputerowa (Wikipedia)](https://pl.wikipedia.org/wiki/Mysz_komputerowa)

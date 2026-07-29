@@ -5,11 +5,11 @@ month: 8
 day: 10
 sequence_index: 1
 category: culture
-title: Herbert Simon declared in 1965 that 'machines will be capable,…
-teaser: Herbert Simon declared in 1965 that 'machines will be capable, within twenty years, of doing any…
+title: AI hype is older than modern AI
+teaser: In 1965 Herbert Simon predicted machines would soon do most human work.
 published: true
 version: 1
 ---
-Herbert Simon declared in **1965 **that 'machines will be capable, within twenty years, of doing any work a man can do' — a prediction still unfulfilled 60 years later.
+In **1965**, Herbert Simon predicted that within twenty years machines would be able to do **any work a human can do**. The quote is a classic example of how AI progress repeatedly inspires bold forecasts that outrun reality. It now reads less like engineering and more like a cultural artifact from the early age of computing optimism.
 
-[History of artificial intelligence (Wikipedia)](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
+[Herbert A. Simon (Wikipedia)](https://en.wikipedia.org/wiki/Herbert_A._Simon)

@@ -5,11 +5,13 @@ month: 8
 day: 22
 sequence_index: 1
 category: reflection
-title: Unix philosophy of 'do one thing well' and composing small…
-teaser: Uniksowa filozofia „rób jedną rzecz dobrze” i komponowanie małych programów za pomocą potoków…
+title: Rób jedną rzecz dobrze — filozofia Uniksa
+teaser: Uniksowa zasada małych, łączonych programów połączonych potokami zmieniła sposób projektowania oprogramowania.
 published: true
 version: 1
 ---
-Uniksowa filozofia „rób jedną rzecz dobrze” i komponowanie małych programów za pomocą potoków zrewolucjonizowała inżynierię oprogramowania i wywarła wpływ na wszystkie późniejsze systemy operacyjne.
+**Filozofia Uniksa** — pisz programy, które robią jedną rzecz dobrze, i łącz je za pomocą potoków — wyrosła z pracy Kena Thompsona i Dennisa Ritchiego w Bell Labs na początku lat 70. Była radykalnym odejściem od monolitycznych projektów oprogramowania tamtej epoki.
 
-[Unix (Wikipedia)](https://pl.wikipedia.org/wiki/Unix)
+Idea, że złożone zachowanie powinno powstawać z **łączenia prostych narzędzi** zamiast budowania jednego gigantycznego programu, wpłynęła na wszystko — od linii poleceń Linuksa po architekturę mikroserwisów i web oparty na API. Doug McIlroy, twórca uniksowych potoków, podsumował to: *„Pisz programy, które robią jedną rzecz i robią ją dobrze."*
+
+[Filozofia Uniksa (Wikipedia)](https://pl.wikipedia.org/wiki/Filozofia_Uniksa)

@@ -5,11 +5,13 @@ month: 9
 day: 22
 sequence_index: 1
 category: biology
-title: Symbioza mikoryzowa wyewoluowała, zanim rośliny skolonizowały…
-teaser: Symbioza mikoryzowa wyewoluowała, zanim rośliny skolonizowały ziemię, a jej ewolucyjne korzenie…
+title: Grzyby pomogły roślinom wyjść na ląd
+teaser: Partnerstwo mikoryzowe prawdopodobnie powstało jeszcze przed pełnym opanowaniem lądu przez rośliny.
 published: true
 version: 1
 ---
-Symbioza mikoryzowa wyewoluowała, zanim rośliny skolonizowały ziemię, a jej ewolucyjne korzenie sięgają ponad **450 milionów** lat.
+Mikoryza to współpraca między grzybami a korzeniami roślin. Dowody wskazują, że ta relacja ma **ponad 450 milionów lat** i sięga najwcześniejszych etapów życia roślin na lądzie.
 
-[Sieci mykoryzowe (Wikipedia)](https://pl.wikipedia.org/wiki/Sieci_mykoryzowe)
+Grzyby pomagają roślinom pobierać wodę i minerały, a rośliny oddają im cukry. Taka wymiana mogła bardzo ułatwić pierwszym roślinom przetrwanie w surowych glebach.
+
+[Mikoryza (Wikipedia)](https://pl.wikipedia.org/wiki/Mikoryza)

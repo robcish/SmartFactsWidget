@@ -5,13 +5,13 @@ month: 9
 day: 8
 sequence_index: 1
 category: technology
-title: – improved ironing board design Charlie Booth (1903–2008),…
-teaser: – improved ironing board design Charlie Booth (1903–2008), Australia – Starting blocks Bob Born…
+title: Apollo software was woven into memory
+teaser: Parts of the Apollo Guidance Computer stored programs in memory woven by hand. The code was literally threaded into hardware.
 published: true
 version: 1
 ---
-– improved ironing board design
-Charlie Booth (**1903**–2008), Australia – Starting blocks
-Bob Born (1924–2023), U.S.
+The Apollo Guidance Computer used **core rope memory**, a read-only system in which wires were threaded through or around magnetic cores to encode bits. In effect, software had to be physically woven into the machine.
 
-[List of inventors (Wikipedia)](https://en.wikipedia.org/wiki/List_of_inventors)
+That made updates slow, but it also made the finished programs durable and compact. The method shows how early space computing solved reliability problems with clever hardware design.
+
+[Core rope memory (Wikipedia)](https://en.wikipedia.org/wiki/Core_rope_memory)

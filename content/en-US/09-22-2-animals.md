@@ -5,11 +5,13 @@ month: 9
 day: 22
 sequence_index: 2
 category: animals
-title: Platypuses close their eyes, ears, and nose when underwater and…
-teaser: Platypuses close their eyes, ears, and nose when underwater and use electroreception to hunt.
+title: Platypuses hunt with electricity
+teaser: Platypuses shut their eyes, ears, and nostrils underwater, then hunt by electroreception.
 published: true
 version: 1
 ---
-Platypuses close their eyes, ears, and nose when underwater and use electroreception to hunt.
+When a platypus dives, it closes its **eyes, ears, and nostrils**. That means it cannot rely on sight or hearing while searching for prey.
+
+Instead, receptors in its bill detect tiny electrical signals produced by muscle contractions in worms, shrimp, and other animals moving through the water.
 
 [Platypus (Wikipedia)](https://en.wikipedia.org/wiki/Platypus)

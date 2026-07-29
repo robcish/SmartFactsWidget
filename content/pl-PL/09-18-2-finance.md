@@ -5,9 +5,13 @@ month: 9
 day: 18
 sequence_index: 2
 category: finance
-title: Eric Raymond zauważył, że Linux „ewoluował w zupełnie innym…
-teaser: Eric Raymond zauważył, że Linux „ewoluował w zupełnie inny sposób” — zamiast starannie projektować…
+title: Linux rósł dzięki sprzężeniu zwrotnemu
+teaser: Eric Raymond twierdził, że Linux wygrał dzięki szybkim wydaniom i ciągłym opiniom użytkowników.
 published: true
 version: 1
 ---
-Eric Raymond zauważył, że Linux „ewoluował w zupełnie inny sposób” — zamiast starannie projektować go w małych grupach, został „przypadkowo zhakowany przez ogromną liczbę ochotników” przy użyciu cotygodniowych wydań i szybkich informacji zwrotnych.
+Eseista Eric S. Raymond zestawiał Linuksa z programami tworzonymi przez małe, zamknięte zespoły. Jego zdaniem Linux rozwijał się dzięki **częstym wydaniom, wielu autorom i stałej informacji zwrotnej**.
+
+Taki model pozwalał szybko wychwytywać błędy i wdrażać dobre pomysły bez czekania na długi formalny cykl planowania.
+
+[Katedra i bazar (Wikipedia)](https://pl.wikipedia.org/wiki/Katedra_i_bazar)

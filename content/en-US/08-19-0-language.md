@@ -5,11 +5,13 @@ month: 8
 day: 19
 sequence_index: 0
 category: language
-title: All languages have nouns and verbs — this is one of the few true…
-teaser: All languages have nouns and verbs — this is one of the few true linguistic universals that…
+title: Every Language Has Nouns and Verbs
+teaser: The distinction between nouns and verbs is one of the few true universals found in all known human languages.
 published: true
 version: 1
 ---
-All languages have nouns and verbs — this is one of the few true linguistic universals that applies to every known human language.
+Linguists have studied thousands of languages and found very few features shared by every single one. The existence of **nouns** (words for things) and **verbs** (words for actions or states) is among the most robust universals ever documented.
+
+Even languages with radically different grammar — such as Mohawk, which builds entire sentences into single words — maintain this fundamental distinction. Some researchers argue it reflects a deep cognitive split between **objects and events** in human perception.
 
 [Linguistic universal (Wikipedia)](https://en.wikipedia.org/wiki/Linguistic_universal)

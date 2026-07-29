@@ -5,11 +5,13 @@ month: 9
 day: 20
 sequence_index: 1
 category: myth-busting
-title: ANSI C is technically not Turing complete because pointer sizes…
-teaser: ANSI C is technically not Turing complete because pointer sizes are accessible — meaning memory is…
+title: Real computers are not infinite
+teaser: Strictly speaking, ANSI C is not Turing-complete because real machines have finite memory.
 published: true
 version: 1
 ---
-ANSI C is technically not Turing complete because pointer sizes are accessible — meaning memory is always finite, while true Turing machines require unbounded tape.
+People often say a programming language is as powerful as a Turing machine. In practice, **actual computers always run out of memory**, so they never match the ideal mathematical model exactly.
 
-[Turing machine (Wikipedia)](https://en.wikipedia.org/wiki/Turing_machine)
+That is why ANSI C is usually treated as "effectively" universal rather than literally identical to a machine with unbounded tape.
+
+[Turing completeness (Wikipedia)](https://en.wikipedia.org/wiki/Turing_completeness)

@@ -5,9 +5,13 @@ month: 9
 day: 21
 sequence_index: 0
 category: general
-title: Bitcoin został wynaleziony w 2008 roku przez pseudonimowego…
-teaser: Bitcoin został wynaleziony w 2008 roku przez pseudonimowego Satoshi Nakamoto, który wydobył około…
+title: Bitcoin pojawił się pod pseudonimem
+teaser: Bitcoin został przedstawiony w 2008 roku przez wciąż niezidentyfikowanego Satoshiego Nakamoto.
 published: true
 version: 1
 ---
-Bitcoin został wynaleziony w **2008 ** przez pseudonimowego Satoshi Nakamoto — który wydobył około 1 miliona bitcoinów, zanim zniknął w 2010 roku i nigdy więcej o nim nie słyszano.
+White paper Bitcoina ukazał się w 2008 roku pod nazwiskiem **Satoshi Nakamoto**. Tożsamość tej osoby lub grupy pozostaje jedną z najbardziej znanych zagadek technologii.
+
+Nakamoto wydobył też wiele wczesnych monet, a potem stopniowo zniknął z życia publicznego, zostawiając sieć bez widocznego założyciela.
+
+[Bitcoin (Wikipedia)](https://pl.wikipedia.org/wiki/Bitcoin)

@@ -5,11 +5,13 @@ month: 9
 day: 6
 sequence_index: 2
 category: science
-title: term 'Y2K' was coined by programmer David Eddy on June 12, 1995 —…
-teaser: The term 'Y2K' was coined by programmer David Eddy on June 12, 1995 — he later said 'Y2K just came…
+title: David Eddy coined "Y2K" in 1995
+teaser: Programmer David Eddy said the now-universal label came to him quickly after he rejected clumsier alternatives.
 published: true
 version: 1
 ---
-The term 'Y2K' was coined by programmer David Eddy on June **12, **1995 — he later said 'Y2K just came off my fingertips' after rejecting alternatives like CDC and FADL.
+The label **Y2K** was coined by programmer David Eddy in 1995, giving a short, memorable name to a sprawling technical problem. He later said the phrase came to him almost instantly after he dismissed less elegant options.
+
+Names can influence how fast an idea spreads. A compact term helped turn a niche date-format issue into something engineers, managers, journalists, and the public could all talk about.
 
 [Y2K problem (Wikipedia)](https://en.wikipedia.org/wiki/Y2K_problem)

@@ -5,9 +5,11 @@ month: 8
 day: 13
 sequence_index: 0
 category: finance
-title: LLVM, created by Chris Lattner, is now used in the implementation…
-teaser: LLVM, stworzony przez Chrisa Lattnera, jest obecnie używany w implementacjach wielu współczesnych…
+title: Wydrukowanie dolara kosztuje 7,7 centa
+teaser: Produkcja fizycznych banknotów kosztuje znacznie mniej niż ich nominał.
 published: true
 version: 1
 ---
-LLVM, stworzony przez Chrisa Lattnera, jest obecnie używany we wdrażaniu wielu współczesnych języków, w tym Rust, Swift i Julia.
+Wydrukowanie jednego banknotu jednodolarowego kosztuje amerykański Bureau of Engraving and Printing około **7,7 centa**. Banknot przeżywa w obiegu około **6,6 roku**, zanim zostanie wymieniony. Tymczasem produkcja **jednocentówki** kosztuje około **2,7 centa** — więcej niż jej wartość nominalna.
+
+[Dolar amerykański (Wikipedia)](https://pl.wikipedia.org/wiki/Dolar_ameryka%C5%84ski)

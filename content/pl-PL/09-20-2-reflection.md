@@ -5,9 +5,11 @@ month: 9
 day: 20
 sequence_index: 2
 category: reflection
-title: 3-state Busy Beaver Turing machine writes 6 ones before halting —…
-teaser: 3-stanowa maszyna Busy Beaver Turinga zapisuje 6 jedynek przed zatrzymaniem — znajdując maksimum…
+title: Małe reguły tworzą wielkie problemy
+teaser: 3-stanowy Busy Beaver zapisuje tylko 6 jedynek, ale większe wersje są zaskakująco trudne do zbadania.
 published: true
 version: 1
 ---
-Maszyna Turinga Busy Beavera o stanach **3** zapisuje 6 jedynek przed zatrzymaniem — znalezienie maksimum dla 5 stanów to otwarty problem wymagający więcej wysiłku obliczeniowego niż cała historia obliczeń.
+Problem Busy Beavera zadaje pozornie małe pytanie: która maszyna o ustalonej liczbie stanów wykona **najwięcej pracy przed zatrzymaniem**?
+
+Nawet dla bardzo małych maszyn przestrzeń możliwości rośnie gwałtownie. Dlatego ten zabawkowy model wciąż pokazuje, gdzie leżą granice obliczeń.

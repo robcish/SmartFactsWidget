@@ -5,9 +5,13 @@ month: 9
 day: 2
 sequence_index: 2
 category: language
-title: Prawie wszystkie języki mają spółgłoski nosowe – tylko kilka, jak…
-teaser: Prawie wszystkie języki mają spółgłoski nosowe – tylko w nielicznych, jak Rotokas (Papua-Nowa…
+title: Wiekszosc jezykow ma gloski nosowe
+teaser: Spolgloski takie jak m i n sa tak powszechne, ze jezyki bez nich stanowia rzadki wyjatek.
 published: true
 version: 1
 ---
-Prawie wszystkie języki mają spółgłoski nosowe – tylko nieliczne, jak Rotokas (Papua Nowa Gwinea), całkowicie ich nie posiadają.
+Spolgloski nosowe, takie jak **m**, **n** czy **ng**, wystepuja w ogromnej wiekszosci jezykow swiata. Latwo je wymawiac, bo powietrze moze przechodzic przez nos, podczas gdy usta formuja dzwiek.
+
+Kilka jezykow slynie z braku zwyklych spolglosek nosowych, co czyni je szczegolnie ciekawymi dla jezykoznawcow. Ten wzorzec dobrze pokazuje, ze pewne dzwieki mowy sa niemal globalnym standardem.
+
+[Spolgłoska nosowa (Wikipedia)](https://pl.wikipedia.org/wiki/Sp%C3%B3%C5%82g%C5%82oska_nosowa)

@@ -5,11 +5,11 @@ month: 8
 day: 17
 sequence_index: 2
 category: culture
-title: RSA algorithm was conceived after a Passover dinner in April 1977…
-teaser: The RSA algorithm was conceived after a Passover dinner in April 1977 — Rivest returned home…
+title: Shakespeare invented over 1,700 English words
+teaser: Words like "lonely," "generous," and "eyeball" were coined by Shakespeare.
 published: true
 version: 1
 ---
-The RSA algorithm was conceived after a Passover dinner in April **1977** — Rivest returned home drunk, couldn't sleep, and formalized the algorithm by daybreak.
+William Shakespeare is credited with **inventing over 1,700 words** in the English language, including "lonely," "generous," "eyeball," "bedroom," and "assassination." He also coined famous phrases like **"break the ice"** and **"wild goose chase."**
 
-[RSA (cryptosystem) (Wikipedia)](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+[More on Shakespeare's influence (Wikipedia)](https://en.wikipedia.org/wiki/Shakespeare%27s_influence)

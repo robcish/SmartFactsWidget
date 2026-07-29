@@ -5,9 +5,13 @@ month: 8
 day: 11
 sequence_index: 1
 category: psychology
-title: światowy paradygmat bloków — programy AI manipulujące kolorowymi…
-teaser: Paradygmat „świata klocków” – programy AI manipulujące kolorowymi blokami na powierzchni –…
+title: Świat Klocków był ulubionym problemem AI przez dekadę
+teaser: „Świat Klocków" z MIT — programy układające kolorowe klocki na stole — zdominował badania nad sztuczną inteligencją w latach 60. i 70. jako uproszczony model rzeczywistości.
 published: true
 version: 1
 ---
-Paradygmat „świata klocków” – programy sztucznej inteligencji manipulujące kolorowymi blokami na powierzchni – zdominował badania nad sztuczną inteligencją MIT w latach 60. i 70. XX wieku jako uproszczony model zrozumienia inteligencji.
+W **Świecie Klocków** program rozumuje o stole z kolorowymi klockami, które można układać, przesuwać i przestawiać. SHRDLU Terry'ego Winograda (1970) był najsłynniejszym systemem: można było wpisać „Połóż czerwony klocek na niebieskim" i program planował i wykonywał ruchy.
+
+Paradygmat był kuszący, bo dawał się opanować — zamknięty świat z jasnymi regułami i bez dwuznaczności. Ale ta prostota była też jego zgubą. Krytycy jak Hubert Dreyfus argumentowali, że prawdziwa inteligencja nie działa w schludnych, z góry określonych domenach. Pod koniec lat 70. społeczność AI uznała, że sukces w Świecie Klocków nie przenosi się na bałaganiarski, otwarty świat rzeczywisty.
+
+[Świat klocków (Wikipedia)](https://pl.wikipedia.org/wiki/%C5%9Awiat_klock%C3%B3w)

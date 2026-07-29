@@ -5,9 +5,13 @@ month: 9
 day: 24
 sequence_index: 1
 category: psychology
-title: Bitcoin po raz pierwszy w historii osiągnął kapitalizację rynkową…
-teaser: Bitcoin po raz pierwszy osiągnął kapitalizację rynkową na poziomie 1 biliona dolarów w lutym 2021…
+title: Niedokończone zadania wracają do głowy
+teaser: Efekt Zeigarnik opisuje, dlaczego przerwane zadania często nie dają spokoju.
 published: true
 version: 1
 ---
-Bitcoin osiągnął kapitalizację rynkową wynoszącą 1 ** bilion dolarów po raz pierwszy w lutym 2021 r. i 100 000 dolarów za bitcoin w grudniu 2024 r.
+Psycholożka Błuma Zeigarnik zauważyła, że ludzie lepiej pamiętają **niedokończone czynności** niż te już zamknięte.
+
+Jedno z wyjaśnień mówi o napięciu psychicznym pozostającym po przerwanym działaniu. Dlatego niedopisany mail albo zatrzymany projekt potrafią długo wracać do uwagi.
+
+[Efekt Zeigarnik (Wikipedia)](https://pl.wikipedia.org/wiki/Efekt_Zeigarnik)

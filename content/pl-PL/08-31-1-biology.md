@@ -5,11 +5,11 @@ month: 8
 day: 31
 sequence_index: 1
 category: biology
-title: Zmienia się kierunek przepływu węgla w sieciach mikoryzowych…
-teaser: Kierunek przepływu węgla w sieciach mikoryzowych zmienia się sezonowo – w kierunku młodych…
+title: Lesne grzyby potrafia odwrocic bieg wegla
+teaser: W sieciach mikoryzowych wegiel nie zawsze plynie w tym samym kierunku. Zalezy to od pory roku i etapu wzrostu.
 published: true
 version: 1
 ---
-Kierunek przepływu węgla w sieciach mikoryzowych zmienia się sezonowo – wiosną w kierunku młodych sadzonek klonu, a następnie w kierunku lilii pstrągowych rozwijających korzenie jesienią.
+Rosliny polaczone **sieciami mikoryzowymi** moga przekazywac sobie wegiel przez grzyby w glebie, ale ten ruch nie jest staly. Badania pokazuja, ze kierunek transferu potrafi zmieniac sie wraz z pora roku i faza rozwoju roslin.
 
-[Sieci mykoryzowe (Wikipedia)](https://pl.wikipedia.org/wiki/Sieci_mykoryzowe)
+To znaczy, ze podziemna siec nie przypomina jednokierunkowej rury, lecz raczej dynamiczny system wymiany. Mlodsze siewki, dojrzale drzewa i wiosenne kwiaty moga w roznych momentach byc dawcami albo odbiorcami.

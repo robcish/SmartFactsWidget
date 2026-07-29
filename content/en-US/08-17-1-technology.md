@@ -5,13 +5,11 @@ month: 8
 day: 17
 sequence_index: 1
 category: technology
-title: – co-inventor of the transistor, with Brattain and Schockley…
-teaser: – co-inventor of the transistor, with Brattain and Schockley Vladimir Barmin (1909–1993), Russia –…
+title: Wi-Fi was invented in Australia
+teaser: The key patent behind Wi-Fi was developed by CSIRO in Australia.
 published: true
 version: 1
 ---
-– co-inventor of the transistor, with Brattain and Schockley
-Vladimir Barmin (**1909**–1993), Russia – first rocket launch complex (spaceport)
-Anthony R.
+The core technology behind **Wi-Fi** was developed in the **1990s** by John O'Sullivan and his team at **CSIRO** (Australia's national science agency). The invention grew out of research into detecting exploding mini black holes. CSIRO's patent became one of the most valuable ever filed by a research institution, earning over **$430 million** in licensing fees.
 
-[List of inventors (Wikipedia)](https://en.wikipedia.org/wiki/List_of_inventors)
+[More on Wi-Fi history (Wikipedia)](https://en.wikipedia.org/wiki/Wi-Fi)

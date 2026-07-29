@@ -5,11 +5,11 @@ month: 8
 day: 17
 sequence_index: 2
 category: culture
-title: Algorytm RSA powstał po kolacji paschalnej w kwietniu 1977 roku…
-teaser: Algorytm RSA powstał po kolacji paschalnej w kwietniu 1977 r., kiedy Rivest wrócił do domu…
+title: Szekspir wynalazł ponad 1700 angielskich słów
+teaser: Słowa „lonely", „generous" i „eyeball" wymyślił Szekspir.
 published: true
 version: 1
 ---
-Algorytm RSA powstał po kolacji paschalnej w kwietniu **1977** — Rivest wrócił do domu pijany, nie mógł spać i do świtu sformalizował algorytm.
+Williamowi Szekspirowi przypisuje się **wymyślenie ponad 1700 słów** w języku angielskim, w tym „lonely" (samotny), „generous" (hojny), „eyeball" (gałka oczna), „bedroom" (sypialnia) i „assassination" (zamach). Ukuł też słynne zwroty jak **„break the ice"** (przełamać lody) i **„wild goose chase"** (bezcelowy pościg).
 
-)
+[Wpływ Szekspira (Wikipedia)](https://pl.wikipedia.org/wiki/William_Szekspir)

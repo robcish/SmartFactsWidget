@@ -5,11 +5,13 @@ month: 9
 day: 15
 sequence_index: 0
 category: biology
-title: Orzech czarny uwalnia juglon, allelopatyczną substancję chemiczną…
-teaser: Orzech czarny uwalnia juglon, allelopatyczną substancję chemiczną przenoszoną przez mikoryzę…
+title: Orzech czarny chemicznie gnębi sąsiadów
+teaser: Orzech czarny wydziela juglon, związek hamujący wzrost pobliskich roślin. Niektóre gatunki pod takim drzewem prawie wcale sobie nie radzą.
 published: true
 version: 1
 ---
-Drzewa orzecha czarnego wydzielają juglon, allelopatyczną substancję chemiczną przenoszoną przez sieci mikoryz, która hamuje wzrost i pobieranie wody przez sąsiednie rośliny.
+Orzech czarny wytwarza **juglon**, substancję chemiczną, która może zaburzać wzrost otaczających go roślin. Ogrodnicy dobrze to znają, bo pomidory, jabłonie i inne wrażliwe gatunki potrafią więdnąć lub słabo rosnąć w jego pobliżu.
 
-[Sieci mykoryzowe (Wikipedia)](https://pl.wikipedia.org/wiki/Sieci_mykoryzowe)
+To klasyczny przykład allelopatii, czyli sytuacji, w której jedna roślina zmienia lokalną biologię drugiej za pomocą związków chemicznych. Las albo ogród nie jest więc tylko zbiorem sąsiadów, lecz także biochemiczną rywalizacją.
+
+[Juglon (Wikipedia)](https://pl.wikipedia.org/wiki/Juglon)

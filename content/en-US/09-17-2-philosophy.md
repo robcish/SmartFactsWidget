@@ -5,11 +5,13 @@ month: 9
 day: 17
 sequence_index: 2
 category: philosophy
-title: Torvalds said if GNU Hurd or 386BSD had been available in 1991, he…
-teaser: Torvalds said if GNU Hurd or 386BSD had been available in 1991, he probably wouldn't have created…
+title: When does a thing stay itself?
+teaser: The Ship of Theseus asks whether an object stays the same after every part is replaced.
 published: true
 version: 1
 ---
-Torvalds said if GNU Hurd or 386BSD had been available in **1991, **he probably wouldn't have created Linux.
+The **Ship of Theseus** is a classic puzzle about identity over time. If each plank of a ship is replaced one by one, philosophers ask whether it is still the same ship.
 
-[Linux (Wikipedia)](https://en.wikipedia.org/wiki/Linux)
+The paradox becomes sharper if someone rebuilds the original planks into a second ship. It is a simple thought experiment with deep consequences for memory, ownership, and personal identity.
+
+[Ship of Theseus (Wikipedia)](https://en.wikipedia.org/wiki/Ship_of_Theseus)

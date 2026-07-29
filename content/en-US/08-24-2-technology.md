@@ -5,13 +5,11 @@ month: 8
 day: 24
 sequence_index: 2
 category: technology
-title: – telephone Nikolay Benardos (1842–1905), Russian Empire – arc…
-teaser: – telephone Nikolay Benardos (1842–1905), Russian Empire – arc welding (specifically carbon arc…
+title: Bluetooth is named after a Viking king
+teaser: The Bluetooth standard was named after the 10th-century Danish king Harald Bluetooth.
 published: true
 version: 1
 ---
-– telephone
-Nikolay Benardos (**1842**–1905), Russian Empire – arc welding (specifically carbon arc welding, the first arc welding method)
-Ruth R.
+The **Bluetooth** wireless standard was named after **Harald Bluetooth** (Harald Blåtand), a 10th-century king of Denmark who united dissonant Danish tribes. The idea was that Bluetooth technology would similarly unite different communication protocols. The Bluetooth **logo** is a combination of the runic initials H and B (ᚼ and ᛒ).
 
-[List of inventors (Wikipedia)](https://en.wikipedia.org/wiki/List_of_inventors)
+[More on Bluetooth (Wikipedia)](https://en.wikipedia.org/wiki/Bluetooth)

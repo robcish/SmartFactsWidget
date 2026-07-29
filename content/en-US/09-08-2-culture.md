@@ -5,11 +5,13 @@ month: 9
 day: 8
 sequence_index: 2
 category: culture
-title: Y2K bug at a Sheffield hospital miscalculated Down syndrome risk…
-teaser: A Y2K bug at a Sheffield hospital miscalculated Down syndrome risk assessments, directly causing…
+title: Kabuki stages spun before modern turntables
+teaser: Japanese kabuki theaters used revolving stages long before such effects became common in the West. The machinery changed how audiences saw scene changes.
 published: true
 version: 1
 ---
-A Y2K bug at a Sheffield hospital miscalculated Down syndrome risk assessments, directly causing two unnecessary abortions and four undetected cases.
+Kabuki popularized the **mawari-butai**, a revolving stage introduced in 18th-century Japan. Instead of hiding scene changes behind a curtain, theaters could rotate one setting away and bring another into view.
 
-[Y2K problem (Wikipedia)](https://en.wikipedia.org/wiki/Y2K_problem)
+The trick was more than decoration. It let performances feel fluid and cinematic centuries before film existed, showing how stage technology can reshape culture itself.
+
+[Kabuki (Wikipedia)](https://en.wikipedia.org/wiki/Kabuki)

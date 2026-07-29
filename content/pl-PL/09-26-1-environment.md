@@ -5,11 +5,13 @@ month: 9
 day: 26
 sequence_index: 1
 category: environment
-title: Douglas Adams zażartował: „Sieć WWW to jedyna rzecz, którą…
-teaser: Douglas Adams zażartował: „Sieć WWW to jedyna rzecz, jaką znam, której skrócona forma przyjmuje…
+title: Douglas Adams żartował z WWW
+teaser: Douglas Adams zauważył, że wymówienie „WWW” trwa dłużej niż „World Wide Web”.
 published: true
 version: 1
 ---
-Douglas Adams zażartował: „Sieć WWW to jedyna rzecz, jaką znam, której skrócona forma zajmuje trzy razy więcej czasu niż jej skrót”.
+Douglas Adams zażartował kiedyś, że **„World Wide Web”** to jedyne wyrażenie, którego skrót wymawia się dłużej niż pełną nazwę.
 
-[Środowisko przyrodnicze (Wikipedia)](https://pl.wikipedia.org/wiki/%C5%9Arodowisko_przyrodnicze)
+Ten cytat przetrwał, bo trafnie pokazuje jedną z prawd wczesnego internetu: wygoda techniczna i ludzka nie zawsze idą w parze.
+
+[World Wide Web (Wikipedia)](https://pl.wikipedia.org/wiki/World_Wide_Web)

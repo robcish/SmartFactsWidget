@@ -5,9 +5,13 @@ month: 9
 day: 20
 sequence_index: 1
 category: myth-busting
-title: ANSI C technicznie nie jest kompletny w Turingu, ponieważ rozmiary…
-teaser: ANSI C technicznie nie jest kompletny w oparciu o Turinga, ponieważ dostępne są rozmiary…
+title: Prawdziwe komputery nie są nieskończone
+teaser: Ściśle rzecz biorąc, ANSI C nie jest zupełnie turingowsko zupełny, bo realne maszyny mają skończoną pamięć.
 published: true
 version: 1
 ---
-ANSI C technicznie nie jest kompletny w przypadku Turinga, ponieważ dostępne są rozmiary wskaźników — co oznacza, że ​​pamięć jest zawsze skończona, podczas gdy prawdziwe maszyny Turinga wymagają nieograniczonej taśmy.
+Często mówi się, że język programowania ma moc maszyny Turinga. W praktyce **każdy prawdziwy komputer ma ograniczoną pamięć**, więc nigdy nie odpowiada idealnemu modelowi matematycznemu w stu procentach.
+
+Dlatego ANSI C zwykle uznaje się za język "praktycznie" uniwersalny, a nie dosłownie identyczny z maszyną mającą nieograniczoną taśmę.
+
+[Maszyna Turinga (Wikipedia)](https://pl.wikipedia.org/wiki/Maszyna_Turinga)

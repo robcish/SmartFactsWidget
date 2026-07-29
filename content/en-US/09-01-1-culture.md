@@ -5,11 +5,13 @@ month: 9
 day: 1
 sequence_index: 1
 category: culture
-title: Comparison sorting algorithms cannot do better than O(n log n) on…
-teaser: Comparison sorting algorithms cannot do better than O(n log n) on average — this is mathematically…
+title: Dewey's system began as a tiny booklet
+teaser: The first Dewey Decimal Classification appeared in 1876 and fit into a short pamphlet rather than a giant manual.
 published: true
 version: 1
 ---
-Comparison sorting algorithms cannot do better than O(n log n) on average — this is mathematically proven, not just an empirical limit.
+When Melvil Dewey published the first **Dewey Decimal Classification**, it was only a few dozen pages long. The idea was simple but powerful: assign subjects to numbers so books could be shelved in a predictable order.
 
-[Sorting algorithm (Wikipedia)](https://en.wikipedia.org/wiki/Sorting_algorithm)
+That numbering scheme quietly changed library culture. Once collections grew, a shared system made browsing, cataloging, and borrowing far easier across institutions.
+
+[Dewey Decimal Classification (Wikipedia)](https://en.wikipedia.org/wiki/Dewey_Decimal_Classification)

@@ -5,14 +5,11 @@ month: 8
 day: 10
 sequence_index: 0
 category: technology
-title: – Saw mill circular saw Victor Babeș (1854–1926), Romania –…
-teaser: – Saw mill circular saw Victor Babeș (1854–1926), Romania – Babesia, the founder of serum therapy…
+title: The first computer mouse was made of wood
+teaser: Doug Engelbart built the first mouse prototype from wood in 1964.
 published: true
 version: 1
 ---
-– Saw mill circular saw
-Victor Babeș (**1854**–1926), Romania – Babesia, the founder of serum therapy
-Leo Baekeland (1863–1944), Belgian–American – Velox photographic paper and Bakelite
-Ralph H.
+Doug Engelbart invented the **computer mouse** in **1964** at the Stanford Research Institute. The first prototype was a **wooden shell** with two metal wheels inside. It was called a "mouse" because the cord coming out the back looked like a tail. Engelbart demonstrated it publicly in 1968 in what became known as the **"Mother of All Demos."**
 
-[List of inventors (Wikipedia)](https://en.wikipedia.org/wiki/List_of_inventors)
+[More on the computer mouse (Wikipedia)](https://en.wikipedia.org/wiki/Computer_mouse)

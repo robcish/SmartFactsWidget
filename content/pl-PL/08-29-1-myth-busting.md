@@ -5,9 +5,13 @@ month: 8
 day: 29
 sequence_index: 1
 category: myth-busting
-title: Go ma współczynnik rozgałęzienia około 250 (w porównaniu do 35 w…
-teaser: Go ma współczynnik rozgałęzienia około 250 (w porównaniu do 35 w szachach), co sprawia, że…
+title: W Go brutalna sila szybko przegrywa
+teaser: Go to nie tylko "wieksze szachy". Liczba mozliwych ruchow jest tak ogromna, ze naiwne przeszukiwanie szybko sie zalamuje.
 published: true
 version: 1
 ---
-Go ma współczynnik rozgałęzienia około **250** (w porównaniu do 35 w szachach), co sprawia, że ​​tradycyjne metody wyszukiwania są niewykonalne — AlphaGo potrzebowała sieci neuronowych do oceny pozycji.
+W typowej pozycji Go daje **setki legalnych ruchow**, znacznie wiecej niz szachy. To sprawia, ze pelne przeszukiwanie drzewa wariantow rosnie tak szybko, iz nie da sie po prostu przeniesc dawnych metod z programow szachowych.
+
+AlphaGo odnioslo sukces, bo laczylo przeszukiwanie z sieciami neuronowymi, ktore podpowiadaly, jakie ruchy i pozycje sa warte uwagi. To dobra lekcja obalajaca mit: sama wieksza moc obliczeniowa nie wystarcza, gdy drzewo decyzji rosnie zbyt szybko.
+
+[Go i matematyka (Wikipedia)](https://pl.wikipedia.org/wiki/Go#Matematyka)

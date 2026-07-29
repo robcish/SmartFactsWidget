@@ -5,11 +5,13 @@ month: 9
 day: 19
 sequence_index: 1
 category: astronomy
-title: This list covers all known stars, white dwarfs, brown dwarfs, and…
-teaser: This list covers all known stars, white dwarfs, brown dwarfs, and sub-brown dwarfs/rogue planets…
+title: The Sun has a tiny neighborhood
+teaser: Only a small set of stars and brown dwarfs lie within 20 light-years of the Sun.
 published: true
 version: 1
 ---
-This list covers all known stars, white dwarfs, brown dwarfs, and sub-brown dwarfs/rogue planets within **20 **light-years (6.13 parsecs) of the Sun.
+Our stellar neighborhood is sparse. Within **20 light-years** of the Sun there are only a limited number of known stars, white dwarfs, and brown dwarfs.
 
-[List of nearest stars (Wikipedia)](https://en.wikipedia.org/wiki/List_of_nearest_stars)
+That makes nearby objects especially valuable to astronomers: they are close enough for precise measurements of motion, brightness, and in some cases even orbiting planets.
+
+[List of nearest stars and brown dwarfs (Wikipedia)](https://en.wikipedia.org/wiki/List_of_nearest_stars_and_brown_dwarfs)

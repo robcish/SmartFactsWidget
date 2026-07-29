@@ -5,9 +5,13 @@ month: 9
 day: 10
 sequence_index: 0
 category: language
-title: Języki migowe to języki w pełni naturalne, posiadające własną…
-teaser: Języki migowe to języki w pełni naturalne, posiadające własną gramatykę i składnię — nie są po…
+title: Języki migowe to nie mowa na dłoniach
+teaser: Języki migowe mają własną gramatykę, szyk i idiomy. To pełnoprawne języki naturalne, a nie ręczne kopie mowy.
 published: true
 version: 1
 ---
-Języki migowe są językami w pełni naturalnymi, posiadającymi własną gramatykę i składnię — nie są po prostu „wersjami ze znakiem” języków mówionych.
+Amerykański język migowy, polski język migowy i inne systemy migowe są **samodzielnymi językami naturalnymi**. Ich gramatyka może opierać się na kształcie dłoni, ruchu, mimice oraz wykorzystaniu przestrzeni zamiast dźwięku.
+
+Dlatego język migowy nie jest po prostu językiem mówionym przeniesionym do gestów. Rozwija własną strukturę, historię i regionalne odmiany w społecznościach Głuchych.
+
+[Język migowy (Wikipedia)](https://pl.wikipedia.org/wiki/J%C4%99zyk_migowy)

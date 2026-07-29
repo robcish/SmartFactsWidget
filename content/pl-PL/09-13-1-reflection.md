@@ -5,11 +5,13 @@ month: 9
 day: 13
 sequence_index: 1
 category: reflection
-title: W 2012 roku badacze z Uniwersytetu Nowej Południowej Walii…
-teaser: W 2012 roku badacze z Uniwersytetu Nowej Południowej Walii zbudowali pierwszy działający…
+title: Tranzystor zmieścił się kiedyś w jednym atomie
+teaser: W 2012 roku badacze z UNSW zbudowali działający tranzystor z precyzyjnie umieszczonego atomu fosforu w krzemie. Miniaturyzacja dotarła do skali, która dawniej brzmiała czysto teoretycznie.
 published: true
 version: 1
 ---
-W **2012 roku **badacze z Uniwersytetu Nowej Południowej Walii zbudowali pierwszy działający tranzystor składający się z pojedynczego atomu umieszczonego precyzyjnie w krysztale krzemu.
+Badacze z University of New South Wales pokazali **tranzystor jednoatomowy**, umieszczając atom fosforu w krysztale krzemu i kontrolując przepływ prądu przez taki układ. To mocny symbol tego, jak daleko zaszła miniaturyzacja.
 
-[Prawo Moore’a (Wikipedia)](https://pl.wikipedia.org/wiki/Prawo_Moore%E2%80%99a)
+Wynik prowokuje też do namysłu nad granicami. Gdy urządzenia zbliżają się do skali atomowej, dalszy postęp zależy już mniej od prostego zmniejszania rozmiaru, a bardziej od nowych sposobów projektowania obliczeń.
+
+[Single-atom transistor (Wikipedia)](https://en.wikipedia.org/wiki/Single-atom_transistor)
