@@ -5,11 +5,11 @@ month: 12
 day: 8
 sequence_index: 2
 category: environment
-title: PostgreSQL, pierwotnie nazywany POSTGRES, był w fazie rozwoju…
-teaser: PostgreSQL, pierwotnie nazywany POSTGRES, jest rozwijany od 1986 roku na Uniwersytecie…
+title: Saharyjski pył karmi Amazonię
+teaser: Wiatr unosi fosfor z suchej kotliny w Czadzie i zrzuca go na gleby lasu deszczowego.
 published: true
 version: 1
 ---
-PostgreSQL, pierwotnie nazywany POSTGRES, jest rozwijany od **1986 **na Uniwersytecie Kalifornijskim w Berkeley — jest znany ze zgodności ze standardami i rozszerzalności.
+Ulewne deszcze wypłukiwałyby składniki z gleb Amazonii, gdyby nic ich nie uzupełniało. Badania satelitarne i terenowe pokazują, że pióropusze **pyłu saharyjskiego**, zwłaszcza z czadyjskiej **depresji Bodélé**, niosą przez Atlantyk **fosfor** i inne minerały.
 
-[Środowisko przyrodnicze (Wikipedia)](https://pl.wikipedia.org/wiki/%C5%9Arodowisko_przyrodnicze)
+To samo zakurzone powietrze potrafi zasiać chmury nad Atlantykiem i wpływać na sezony huraganów. Kotlina pustynna i las deszczowy są spięte rzeką wiatru.

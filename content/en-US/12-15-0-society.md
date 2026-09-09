@@ -5,11 +5,13 @@ month: 12
 day: 15
 sequence_index: 0
 category: society
-title: Bcrypt, designed in 1999, intentionally makes password hashing…
-teaser: Bcrypt, designed in 1999, intentionally makes password hashing slow — this makes brute-force…
+title: The first stamp made the sender pay
+teaser: Britain’s Penny Black shifted postage from a fee collected on delivery to a prepaid penny.
 published: true
 version: 1
 ---
-Bcrypt, designed in **1999, **intentionally makes password hashing slow — this makes brute-force attacks impractical even with modern hardware.
+Before **1840**, British letters were often paid by the recipient, and rates could vary with distance and the number of sheets. The Penny Black, showing Queen Victoria, let the sender prepay a uniform inland rate with a sticky label.
 
-[Bcrypt (Wikipedia)](https://en.wikipedia.org/wiki/Bcrypt)
+That small square changed who bore the cost of mail and made cheap, predictable correspondence a mass habit. A fiscal tweak became everyday social infrastructure.
+
+[Penny Black (Wikipedia)](https://en.wikipedia.org/wiki/Penny_Black)

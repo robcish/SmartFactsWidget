@@ -5,11 +5,13 @@ month: 12
 day: 13
 sequence_index: 0
 category: culture
-title: SolarWinds hack (2020) compromised 18,000 organizations including…
-teaser: The SolarWinds hack (2020) compromised 18,000 organizations including US government agencies —…
+title: Silent reading once looked like a marvel
+teaser: Augustine was startled to see Bishop Ambrose read without moving his lips.
 published: true
 version: 1
 ---
-The SolarWinds hack (**2020**) compromised 18,000 organizations including US government agencies — attackers inserted malware into legitimate software updates.
+In late antiquity, reading was often a spoken craft. When Augustine watched Ambrose of Milan study a page in silence, he treated it as unusual enough to record: the bishop’s voice and tongue stayed still while his mind ran ahead.
 
-[2020 United States federal government data breach (Wikipedia)](https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach)
+Silent reading later became the default in many cultures, which hides how social the older practice was. Books were once closer to performance than to private scrolling.
+
+[Silent reading (Wikipedia)](https://en.wikipedia.org/wiki/Silent_reading)

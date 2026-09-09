@@ -5,11 +5,13 @@ month: 12
 day: 12
 sequence_index: 1
 category: animals
-title: horned lizard can shoot blood from its eyes as a defense mechanism
-teaser: A horned lizard can shoot blood from its eyes as a defense mechanism.
+title: Lyrebirds can copy a chainsaw
+teaser: Males weave camera shutters, car alarms, and forest birds into a courtship song.
 published: true
 version: 1
 ---
-A horned lizard can shoot blood from its eyes as a defense mechanism.
+Superb lyrebirds of Australia are vocal mimics. During display, a male may fold other species’ calls together with sounds from logging country: shutters, sirens, even a **chainsaw**.
 
-[Horned lizard (Wikipedia)](https://en.wikipedia.org/wiki/Horned_lizard)
+The copies are not a party trick for tourists alone. They sit inside a long, learned repertoire meant to impress a mate in dense forest, where being heard clearly can matter as much as looking ornate.
+
+[Lyrebird (Wikipedia)](https://en.wikipedia.org/wiki/Lyrebird)

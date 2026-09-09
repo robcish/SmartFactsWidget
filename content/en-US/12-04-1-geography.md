@@ -5,11 +5,13 @@ month: 12
 day: 4
 sequence_index: 1
 category: geography
-title: SSDs have no moving parts and can read data 100x faster than HDDs…
-teaser: SSDs have no moving parts and can read data 100x faster than HDDs — but they have limited write…
+title: Australia is wider than the Moon
+teaser: East to west, the continent stretches farther than the Moon’s full diameter.
 published: true
 version: 1
 ---
-SSDs have no moving parts and can read data 100x faster than HDDs — but they have limited write cycles before cells wear out.
+Geoscience Australia puts the country’s east–west span at almost **4,000 km**. The Moon’s mean diameter is about **3,475 km**, so Australia is the wider of the two if you compare those straight-line measures.
 
-[Solid-state drive (Wikipedia)](https://en.wikipedia.org/wiki/Solid-state_drive)
+The comparison is a trick of shape. The Moon is a sphere whose **surface area** is nearly five times Australia’s land area. Width is not the same as “bigger,” but the numbers still rearrange how large both places feel.
+
+[Geography of Australia (Wikipedia)](https://en.wikipedia.org/wiki/Geography_of_Australia)

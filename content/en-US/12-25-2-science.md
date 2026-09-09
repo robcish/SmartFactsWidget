@@ -5,11 +5,13 @@ month: 12
 day: 25
 sequence_index: 2
 category: science
-title: Conway's Game of Life (1970) shows how simple rules can produce…
-teaser: Conway's Game of Life (1970) shows how simple rules can produce complex behavior — it's Turing…
+title: Wintergreen mints can spark
+teaser: Bite a Wint-O-Green candy in the dark and sugar crystals may flash a tiny blue-green light.
 published: true
 version: 1
 ---
-Conway's Game of Life (**1970**) shows how simple rules can produce complex behavior — it's Turing complete, meaning it can theoretically compute anything.
+Crushing sugar can produce **triboluminescence**, a faint glow from breaking crystals. Wintergreen oil (methyl salicylate) absorbs that ultraviolet flicker and re-emits it as visible light, so the flash is easier to see than with plain sugar.
 
-[Conway's Game of Life (Wikipedia)](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+The trick works best in a dark room with hard candies, not with chocolate. It is a pocket-sized reminder that ordinary sweets sit on real solid-state physics.
+
+[Triboluminescence (Wikipedia)](https://en.wikipedia.org/wiki/Triboluminescence)

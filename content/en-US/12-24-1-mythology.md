@@ -5,11 +5,13 @@ month: 12
 day: 24
 sequence_index: 1
 category: mythology
-title: Knuth offers $2.56 for each error found in his books — the checks…
-teaser: Knuth offers $2.56 for each error found in his books — the checks are rarely cashed because…
+title: Saturnalia flipped Rome upside down
+teaser: The midwinter feast of Saturn mixed gifts, gambling, and a brief holiday from rank.
 published: true
 version: 1
 ---
-Knuth offers $**2.56 **for each error found in his books — the checks are rarely cashed because they're considered collector's items.
+**Saturnalia** honored the god Saturn in December. Shops closed, dice came out, and households exchanged small gifts. For a few days, masters might serve meals and the usual rules of dress loosened.
 
-[Knuth reward check (Wikipedia)](https://en.wikipedia.org/wiki/Knuth_reward_check)
+Writers later linked the festival to later winter customs, including role reversal and public cheer. The Roman week was not Christmas, but it shows how midwinter has long been a season for turning the social map around and then putting it back.
+
+[Saturnalia (Wikipedia)](https://en.wikipedia.org/wiki/Saturnalia)

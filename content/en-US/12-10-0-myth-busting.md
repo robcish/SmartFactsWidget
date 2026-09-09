@@ -5,11 +5,13 @@ month: 12
 day: 10
 sequence_index: 0
 category: myth-busting
-title: Amazon DynamoDB, Google's Bigtable, and Facebook's Cassandra…
-teaser: Amazon DynamoDB, Google's Bigtable, and Facebook's Cassandra pioneered web-scale databases —…
+title: You use far more than 10 percent
+teaser: The leftover-brain story is a self-help myth. Imaging shows widespread activity.
 published: true
 version: 1
 ---
-Amazon DynamoDB, Google's Bigtable, and Facebook's Cassandra pioneered web-scale databases — sacrificing some ACID guarantees for massive scalability.
+The claim that humans use only **10%** of the brain is persistent and false. Even simple tasks light up networks across both hemispheres. Damage to “quiet” regions still causes real losses, which would not happen if those cells were spare.
 
-[Distributed database (Wikipedia)](https://en.wikipedia.org/wiki/Distributed_database)
+Einstein never endorsed the figure. It likely grew from older remarks about unused *potential*, then hardened into a fake statistic. A healthy brain is metabolically expensive. Evolution does not keep nine-tenths of it on idle.
+
+[Ten percent of the brain myth (Wikipedia)](https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth)

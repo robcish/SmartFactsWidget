@@ -5,11 +5,13 @@ month: 12
 day: 17
 sequence_index: 2
 category: reflection
-title: Dynamic programming, named by Richard Bellman in the 1950s, solves…
-teaser: Dynamic programming, named by Richard Bellman in the 1950s, solves problems by breaking them into…
+title: Tsundoku is the pile of unread books
+teaser: Japanese named the habit of buying volumes faster than you can open them.
 published: true
 version: 1
 ---
-Dynamic programming, named by Richard Bellman in the 1950s, solves problems by breaking them into overlapping subproblems — the name was chosen to impress a Secretary of Defense who disliked mathematics.
+**Tsundoku** describes books that accumulate unread: purchased with hope, then stacked beside the bed. The word is often used fondly, not only as a scold.
 
-[Dynamic programming (Wikipedia)](https://en.wikipedia.org/wiki/Dynamic_programming)
+A pile can be a map of curiosity that outran the clock. It can also be a quiet dare: one evening, open the nearest spine instead of adding another.
+
+[Tsundoku (Wikipedia)](https://en.wikipedia.org/wiki/Tsundoku)

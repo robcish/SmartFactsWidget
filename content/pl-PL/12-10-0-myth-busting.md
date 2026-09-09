@@ -5,9 +5,11 @@ month: 12
 day: 10
 sequence_index: 0
 category: myth-busting
-title: Amazon DynamoDB, Google's Bigtable, and Facebook's Cassandra…
-teaser: Amazon DynamoDB, Bigtable firmy Google i Cassandra z Facebooka są pionierami internetowych baz…
+title: Używamy znacznie więcej niż 10 procent
+teaser: Historia o odłogowanym mózgu to mit z poradników. Obrazowanie pokazuje rozległą aktywność.
 published: true
 version: 1
 ---
-Amazon DynamoDB, Bigtable firmy Google i Cassandra z Facebooka były pionierami baz danych o skali internetowej — poświęcając niektóre gwarancje ACID na rzecz ogromnej skalowalności.
+Twierdzenie, że człowiek używa tylko **10%** mózgu, jest uporczywe i fałszywe. Nawet proste zadania zapalają sieci w obu półkulach. Uszkodzenie „cichych” okolic i tak daje realne ubytki, czego nie byłoby, gdyby te komórki leżały odłogiem.
+
+Einstein nigdy nie poparł tej liczby. Wyrósł zapewne ze starszych uwag o niewykorzystanym *potencjale*, a potem stwardniał w fałszywą statystykę. Zdrowy mózg jest metabolicznie drogi. Ewolucja nie trzyma dziewięciu dziesiątych na jałowym biegu.

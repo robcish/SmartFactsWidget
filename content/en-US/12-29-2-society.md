@@ -5,11 +5,13 @@ month: 12
 day: 29
 sequence_index: 2
 category: society
-title: Automated theorem provers have since proven or verified many…
-teaser: Automated theorem provers have since proven or verified many important results — the Kepler…
+title: First-foot brings the new year
+teaser: In parts of Scotland, the first guest after midnight is treated as an omen, not just a visitor.
 published: true
 version: 1
 ---
-Automated theorem provers have since proven or verified many important results — the Kepler conjecture about sphere packing was verified by computer in **2017**.
+**Hogmanay** still carries **first-footing**: the first person to cross the threshold after midnight is supposed to bring luck for the house. Traditional gifts include coal, shortbread, whisky, or a dark bun, tokens of warmth and plenty.
 
-[Automated theorem proving (Wikipedia)](https://en.wikipedia.org/wiki/Automated_theorem_proving)
+Custom once preferred a dark-haired man as the luckiest first-foot, a memory of older fears about who arrived in winter. The visit is small-scale social insurance: neighbors stitch the year shut together.
+
+[First-foot (Wikipedia)](https://en.wikipedia.org/wiki/First-foot)

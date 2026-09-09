@@ -5,9 +5,13 @@ month: 12
 day: 9
 sequence_index: 0
 category: astronomy
-title: Ponieważ parsek (sekunda paralaksy) jest definiowany przez…
-teaser: Ponieważ parsek (sekunda paralaksy) jest definiowany przez odległość obiektu, który wydaje się…
+title: Wielki księżyc Neptuna krąży wstecz
+teaser: Tryton obiega planetę pod prąd. To trop, że został przechwycony, a nie powstał na miejscu.
 published: true
 version: 1
 ---
-Ponieważ parsek (sekunda paralaksy) jest definiowany jako odległość obiektu, który wydaje się poruszać dokładnie o jedną sekundę po łuku względem obiektów tła, gwiazdy znajdujące się w odległości mniejszej niż **5 **parsekundy będą miały zmierzone paralaksy przekraczające 0,2 sekundy łukowej, czyli 200 milisekund łukowych.
+**Tryton** jest największym księżycem Neptuna i porusza się po orbicie **wstecznej**: przeciwnie do obrotu planety. Niemal każdy duży księżyc w Układzie Słonecznym idzie w drugą stronę, zgodnie z tarczą, z której powstał.
+
+Ruch wsteczny sugeruje, że Tryton to przechwycony świat **Pasa Kuipera**. Voyager 2 znalazł później na lodowej powierzchni gejzery azotu. Przechwycenie musiało namieszać we wczesnym systemie satelitów Neptuna, co może tłumaczyć, czemu pozostałe księżyce wyglądają tak nieregularnie.
+
+[Tryton (Wikipedia)](https://pl.wikipedia.org/wiki/Tryton_%28ksi%C4%99%C5%BCyc%29)

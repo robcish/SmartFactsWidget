@@ -5,9 +5,13 @@ month: 12
 day: 24
 sequence_index: 2
 category: myth-busting
-title: Nagroda Turinga IEEE i ACM uznawana jest za „Nagrodę Nobla…
-teaser: Nagroda Turinga IEEE i ACM uznawana jest za „Nagrodę Nobla w dziedzinie informatyki” — zwycięzcy…
+title: Gwiazda betlejemska nie zabija
+teaser: Plotka sprzed wieku zrobiła z świątecznej rośliny truciznę. Sok drażni, ale to nie cichy zabójca.
 published: true
 version: 1
 ---
-Nagroda Turinga IEEE i ACM uznawana jest za „Nagrodę Nobla w dziedzinie informatyki” — zwycięzcy otrzymują**1 milion dolarów**, finansowany przez Google od 2014 roku.
+Historia z 1919 roku głosiła, że dziecko zmarło po zjedzeniu **gwiazdy betlejemskiej**. Późniejsze przeglądy nie znalazły takiego przypadku lekarskiego, a legenda i tak przykleiła się do świątecznych ozdób.
+
+Mleczny sok rośliny może **podrażnić** usta i skórę, więc to nie przekąska. Przy prawdziwych domowych truciznach gwiazda betlejemska to jednak łagodna niedogodność, a nie śmiertelna pułapka pod choinką.
+
+[Wilczomlecz nadobny (Wikipedia)](https://pl.wikipedia.org/wiki/Wilczomlecz_nadobny)

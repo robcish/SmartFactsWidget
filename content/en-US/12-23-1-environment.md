@@ -5,11 +5,13 @@ month: 12
 day: 23
 sequence_index: 1
 category: environment
-title: LaTeX, created by Leslie Lamport in 1983, is the standard for…
-teaser: LaTeX, created by Leslie Lamport in 1983, is the standard for typesetting scientific papers —…
+title: A sea with no shoreline
+teaser: The Sargasso Sea is outlined by Atlantic currents, not by coasts.
 published: true
 version: 1
 ---
-LaTeX, created by Leslie Lamport in **1983, **is the standard for typesetting scientific papers — Lamport won the Turing Award for his distributed systems work.
+The **Sargasso Sea** sits inside the North Atlantic Gyre. Its borders are moving rivers of water, so the “sea” can exist in the open ocean without a country claiming a beach.
 
-[LaTeX (Wikipedia)](https://en.wikipedia.org/wiki/LaTeX)
+Floating **sargassum** mats shelter eels, turtles, and young fish, but they also collect plastic. The same swirl that holds seaweed can hold debris, which is why the region is both a nursery and a cautionary map of ocean circulation.
+
+[Sargasso Sea (Wikipedia)](https://en.wikipedia.org/wiki/Sargasso_Sea)

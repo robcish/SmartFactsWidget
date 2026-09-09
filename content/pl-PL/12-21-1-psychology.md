@@ -5,11 +5,11 @@ month: 12
 day: 21
 sequence_index: 1
 category: psychology
-title: Kodowanie Base64 zwiększa rozmiar danych o 33% — służy do osadzania…
-teaser: Kodowanie Base64 zwiększa rozmiar danych o 33% — służy do osadzania danych binarnych w formatach…
+title: Wydaje ci się, że wszyscy patrzą
+teaser: Efekt reflektora sprawia, że zwykła wpadka wygląda jak transmisja na żywo.
 published: true
 version: 1
 ---
-Kodowanie Base64 zwiększa rozmiar danych o **33**% — służy do osadzania danych binarnych w formatach tekstowych, takich jak e-mail i JSON.
+W klasycznych badaniach osoby w żenującej koszulce zgadywały potem, że **zauważyło je znacznie więcej kolegów**, niż było naprawdę. Umysł oświetla nasze potknięcia reflektorem, podczas gdy reszta sali gra we własnym spektaklu.
 
-[Base64 (Wikipedia)](https://pl.wikipedia.org/wiki/Base64)
+Sygnał bywa przydatny jako ostrzeżenie, ale przecenia, jak uważnie obcy nas śledzą. Mały błąd, który kręci się w pamięci, dla otoczenia często jest mgnieniem.

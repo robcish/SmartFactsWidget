@@ -5,9 +5,11 @@ month: 12
 day: 18
 sequence_index: 1
 category: science
-title: Algorytm A* (1968) znajduje optymalne ścieżki w grafach — jest…
-teaser: Algorytm A* (1968) znajduje optymalne ścieżki na grafach — jest używany w znajdowaniu ścieżek w…
+title: Woda potrafi ślizgać się na własnej parze
+teaser: Kropla na bardzo gorącej patelni unosi się na poduszce pary, zamiast od razu wykipieć.
 published: true
 version: 1
 ---
-Algorytm A* (**1968**) znajduje optymalne ścieżki na wykresach — jest używany w znajdowaniu ścieżek w grach, nawigacji GPS i planowaniu ruchu robotów.
+Gdy powierzchnia jest znacznie gorętsza od temperatury wrzenia, kropla może jechać na cienkiej warstwie własnej pary. To **efekt Lejdenfrosta**, od nazwiska osiemnastowiecznego lekarza, który oglądał wodę tańczącą na rozżarzonej łyżce.
+
+Warstwa pary słabo przewodzi ciepło, więc kropla trwa dłużej niż na po prostu gorącej patelni. Dlatego plusk na zbyt rozgrzanym naczyniu potrafi śmigać, zamiast syknąć i zniknąć.

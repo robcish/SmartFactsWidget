@@ -5,9 +5,13 @@ month: 12
 day: 18
 sequence_index: 2
 category: history
-title: 1749: Lightning rod – Benjamin Franklin (1749) and Prokop Diviš…
-teaser: 1749: Piorunochron – Benjamin Franklin (1749) i Prokop Diviš (1754) (debata: aparat Diviša…
+title: Wielki smród zmusił Londyn do przebudowy
+teaser: W 1858 roku Tamiza cuchnęła tak, że parlament musiał zmierzyć się ze ściekami, które długo ignorował.
 published: true
 version: 1
 ---
-**1749**: Piorunochron – Benjamin Franklin (1749) i Prokop Diviš (1754) (dyskusja: Przyjmuje się, że aparat Diviša był skuteczniejszy od piorunochronów Franklina w 1754 r., ale miał służyć innemu celowi niż ochrona odgromowa).
+Gorące lato **1858** roku podgrzało Tamizę, wtedy otwarty ściek. Smród dotarł do Westminsteru tak mocno, że parlamentarzyści moczyli firanki w chlorku wapna i rozważali opuszczenie gmachu.
+
+Wstrząs pomógł kanalizacji przechwytującej Josepha Bazalgette’a zdobyć wolę polityczną. Miejskie rury są nijakie, dopóki rzeka nie przypomni stolicy, co spuszcza w dół nurtu.
+
+[Wielki Smród (Wikipedia)](https://pl.wikipedia.org/wiki/Wielki_Smr%C3%B3d)

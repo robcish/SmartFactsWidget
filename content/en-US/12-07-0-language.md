@@ -5,11 +5,13 @@ month: 12
 day: 7
 sequence_index: 0
 category: language
-title: German word 'Gift' means 'poison' — a classic false friend that…
-teaser: The German word 'Gift' means 'poison' — a classic false friend that has confused many English…
+title: J is a latecomer to the alphabet
+teaser: Latin used I for both vowel and consonant. J split off only in the Renaissance.
 published: true
 version: 1
 ---
-The German word 'Gift' means 'poison' — a classic false friend that has confused many English speakers.
+In classical Latin, the letter **I** stood for a vowel *and* a consonant sound (as in *Iulius*). Scribes later added a tail to the consonantal form. In 1524 the Italian scholar **Gian Giorgio Trissino** argued for treating **J** as its own letter.
 
-[False friend (Wikipedia)](https://en.wikipedia.org/wiki/False_friend)
+English kept the old spelling for a while: *Jesus* appeared as *Iesus*. The newest everyday Latin letter is hiding in plain sight at the start of *jump*.
+
+[J (Wikipedia)](https://en.wikipedia.org/wiki/J)

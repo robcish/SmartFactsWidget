@@ -5,9 +5,13 @@ month: 12
 day: 9
 sequence_index: 2
 category: mythology
-title: Właściwości ACID (atomowość, konsystencja, izolacja, trwałość)…
-teaser: Właściwości ACID (atomowość, spójność, izolacja, trwałość) gwarantują niezawodną bazę danych…
+title: Niebo było boginią nad Ziemią
+teaser: Egipcjanie wyobrażali Nut wygiętą nad Gebem, połykającą Słońce każdej nocy.
 published: true
 version: 1
 ---
-Właściwości ACID (atomowość, spójność, izolacja, trwałość) gwarantują niezawodne transakcje w bazie danych — wymyślone przez Andreasa Reutera i Theo Härdera w **1983**.
+W micie egipskim **Nut** to niebo, malowane jako kobieta usiana gwiazdami. Wygina się nad **Gebem**, ziemią, rozdzielona przez Szu, powietrze. Wieczorem połyka Słońce; rankiem rodzi je na nowo.
+
+Wieka sarkofagów i stropy świątyń pokazują ją rozpiętą od horyzontu do horyzontu. Noc nie jest pustką. To ciało, które trzyma cykl słoneczny wewnątrz rodziny bogów.
+
+[Nut (Wikipedia)](https://pl.wikipedia.org/wiki/Nut)

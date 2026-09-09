@@ -5,11 +5,13 @@ month: 12
 day: 26
 sequence_index: 1
 category: geography
-title: Rule 110, a simple one-dimensional cellular automaton, was proven…
-teaser: Rule 110, a simple one-dimensional cellular automaton, was proven Turing complete in 2004 — one of…
+title: Chimborazo wins a different height
+teaser: Ecuador's volcano is not the tallest above sea level, yet its summit sits farthest from Earth's center.
 published: true
 version: 1
 ---
-Rule **110, **a simple one-dimensional cellular automaton, was proven Turing complete in 2004 — one of the simplest known Turing-complete systems.
+**Mount Everest** leads in elevation above sea level. **Chimborazo**, near the equator in Ecuador, rides the planet's equatorial bulge, so a peak there is farther from the Earth's center than Everest's.
 
-[Rule 110 (Wikipedia)](https://en.wikipedia.org/wiki/Rule_110)
+The distinction matters for how we define “highest.” Sea-level height, prominence, and distance from the core each pick a different champion, and Chimborazo quietly takes the last prize.
+
+[Chimborazo (Wikipedia)](https://en.wikipedia.org/wiki/Chimborazo)

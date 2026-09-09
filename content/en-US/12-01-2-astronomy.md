@@ -5,11 +5,13 @@ month: 12
 day: 1
 sequence_index: 2
 category: astronomy
-title: In the galactic context, the Local Bubble is a small part of the…
-teaser: In the galactic context, the Local Bubble is a small part of the Orion Arm, which contains most…
+title: We see 59 percent of the Moon
+teaser: Tidal locking hides a far side, yet a slow wobble reveals extra slivers over time.
 published: true
 version: 1
 ---
-In the galactic context, the Local Bubble is a small part of the Orion Arm, which contains most stars that we can see without a telescope.
+The Moon keeps one face toward Earth on average, so at any moment we see about half of it. Its orbit is not a perfect circle, and its axis is slightly tilted, so the disk appears to **nod and sway**. Astronomers call that motion **libration**.
 
-[List of nearest stars (Wikipedia)](https://en.wikipedia.org/wiki/List_of_nearest_stars)
+Over many nights those extra edges add up. About **59%** of the lunar surface becomes visible from Earth, including thin strips that belong to the far side. The rest stayed unseen until spacecraft flew around.
+
+[Libration (Wikipedia)](https://en.wikipedia.org/wiki/Libration)

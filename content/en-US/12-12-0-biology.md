@@ -5,11 +5,13 @@ month: 12
 day: 12
 sequence_index: 0
 category: biology
-title: Vachellia collinsii acacia trees provide hollow thorns as housing…
-teaser: Vachellia collinsii acacia trees provide hollow thorns as housing for protective ants and produce…
+title: One fungus can cover a whole forest floor
+teaser: In Oregon, a honey fungus clone spans kilometers underground and may be thousands of years old.
 published: true
 version: 1
 ---
-Vachellia collinsii acacia trees provide hollow thorns as housing for protective ants and produce food bodies as payment—a classic mutualistic defense.
+A honey fungus in Oregon’s Malheur National Forest, **Armillaria ostoyae**, is famous as one of the largest living organisms by area. Its mycelium links trees across several square kilometers, attacking roots as a single genetic individual.
 
-[Plant defense against herbivory (Wikipedia)](https://en.wikipedia.org/wiki/Plant_defense_against_herbivory)
+What looks like many mushrooms after rain can be the fruiting tips of one clone. Age estimates run into thousands of years, which makes the forest floor less a crowd of separate lives than a slow, hidden network.
+
+[Armillaria ostoyae (Wikipedia)](https://en.wikipedia.org/wiki/Armillaria_ostoyae)

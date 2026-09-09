@@ -5,11 +5,13 @@ month: 12
 day: 30
 sequence_index: 1
 category: finance
-title: Wiki Rosetta Code dokumentuje rozwiązania zadań programistycznych w…
-teaser: Wiki Rosetta Code dokumentuje rozwiązania zadań programistycznych w setkach języków —…
+title: Bankructwo znaczyło złamaną ławę
+teaser: Średniowieczni kantorzy we Włoszech pracowali przy banca; rozbity stół ogłaszał ruinę.
 published: true
 version: 1
 ---
-Wiki Rosetta Code dokumentuje rozwiązania zadań programistycznych w setkach języków – ujawniając zarówno podobieństwa, jak i fascynujące różnice między językami.
+Angielskie **bankrupt** zwykle wywodzi się od włoskiego *banca rotta*, „złamanej ławy”. Kantorzy układali monety na drewnianym stoisku. Jeśli handlarz upadł, opowieść głosi, że ławę łamano, by nikt już tam nie handlował.
 
-[Rosetta@home (Wikipedia)](https://pl.wikipedia.org/wiki/Rosetta%40home)
+Nawet jeśli nie każde miasto odgrywało ten teatr, obraz został. Dziś bankructwo to procedura prawna, nie mebel uliczny, ale starszy obraz wciąż tłumaczy, czemu o upadku mówi się, że coś **pęka**.
+
+[Bankructwo (Wikipedia)](https://pl.wikipedia.org/wiki/Bankructwo)

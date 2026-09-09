@@ -5,11 +5,13 @@ month: 12
 day: 9
 sequence_index: 0
 category: astronomy
-title: As a parsec (parallax-second) is defined by the distance of an…
-teaser: As a parsec (parallax-second) is defined by the distance of an object that would appear to move…
+title: Neptune’s big moon orbits backward
+teaser: Triton circles the wrong way. That is a clue it was captured, not born in place.
 published: true
 version: 1
 ---
-As a parsec (parallax-second) is defined by the distance of an object that would appear to move exactly one second of arc against background objects, stars less than **5 **parsecs away will have measured parallaxes of over 0.2 arcseconds, or 200 milliarcseconds.
+**Triton** is Neptune’s largest moon, and it travels in a **retrograde** orbit: opposite the planet’s spin. Almost every large moon in the solar system goes the other way, matching the disk it formed in.
 
-[List of nearest stars (Wikipedia)](https://en.wikipedia.org/wiki/List_of_nearest_stars)
+A backward path suggests Triton was a captured **Kuiper Belt** world. Voyager 2 later found nitrogen geysers on its icy surface. Capture would have stirred Neptune’s early satellite system, which may explain why the planet’s other moons look so irregular.
+
+[Triton (Wikipedia)](https://en.wikipedia.org/wiki/Triton_%28moon%29)

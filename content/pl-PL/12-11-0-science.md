@@ -5,11 +5,13 @@ month: 12
 day: 11
 sequence_index: 0
 category: science
-title: Stuxnet (2010) był pierwszą znaną cyberbronią, która powodowała…
-teaser: Stuxnet (2010) był pierwszą znaną cyberbronią, która spowodowała szkody fizyczne — zniszczyła…
+title: Pak potrafi kapać jak bardzo wolna ciecz
+teaser: Bryła, która w dłoni wydaje się twarda, może płynąć — jeśli odczekasz lata, a nie minuty.
 published: true
 version: 1
 ---
-Stuxnet (**2010**) był pierwszą znaną cyberbronią, która spowodowała szkody fizyczne — zniszczyła około 1000 irańskich wirówek nuklearnych, powodując ich wymknięcie się spod kontroli.
+Na Uniwersytecie Queensland w lejku z pakiem krople spadają od **1927** roku. Materiał wygląda jak czarne ciało stałe, a jednak jest cieczą tak lepką, że jedna kropla może formować się przez dekadę.
 
-[Stuxnet (Wikipedia)](https://pl.wikipedia.org/wiki/Stuxnet)
+Eksperyment, rozpoczęty przez fizyka Thomasa Parnella, dał zaledwie kilka kropli. To cierpliwa lekcja, że „stałe” i „ciekłe” bywa kwestią skali czasu, a nie tylko dotyku.
+
+[Eksperyment kropli paku (Wikipedia)](https://pl.wikipedia.org/wiki/Eksperyment_kropli_paku)

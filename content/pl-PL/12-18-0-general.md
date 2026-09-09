@@ -5,9 +5,13 @@ month: 12
 day: 18
 sequence_index: 0
 category: general
-title: Knuth-Morris-Pratt (1977) znajduje wzorce w tekście w czasie O(n)…
-teaser: Knuth-Morris-Pratt (1977) znajduje wzorce w tekście w czasie O(n), nigdy nie cofając się — a…
+title: Karteczki zaczęły się od słabego kleju
+teaser: Chemik z 3M zrobił klej, który ledwo trzymał, a kolega użył go później do zaznaczania hymnów.
 published: true
 version: 1
 ---
-Knuth-Morris-Pratt (**1977**) znajduje wzorce w tekście w czasie O(n), nigdy nie cofając się — stanowi to znaczną poprawę w porównaniu z naiwnym dopasowywaniem ciągów O(nm).
+W **1968** roku Spencer Silver z 3M otrzymał klej o słabej przyczepności, który nie wyglądał na produkt. Lata później kolega Art Fry potrzebował zakładek, które zostaną w śpiewniku chóru i nie podrą kartki.
+
+Ich „nieudany” klej stał się karteczką Post-it po długiej drodze przez firmę. Laboratoryjna osobliwość zamieniła się w narzędzie myślenia, które można przesunąć, przykleić znowu i wyrzucić bez dramatu.
+
+[Post-it (Wikipedia)](https://pl.wikipedia.org/wiki/Post-it_note)

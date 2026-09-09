@@ -5,11 +5,13 @@ month: 12
 day: 30
 sequence_index: 2
 category: environment
-title: Code golf is competitive programming where the shortest source…
-teaser: Code golf is competitive programming where the shortest source code wins — APL and J programs…
+title: Beavers redesign whole valleys
+teaser: Their dams slow rivers, raise water tables, and turn a channel into a patchwork wetland.
 published: true
 version: 1
 ---
-Code golf is competitive programming where the shortest source code wins — APL and J programs often win due to their terse syntax.
+**Beavers** are often called ecosystem engineers. A dam spreads water sideways, so drought-prone streams keep pools, willows, and habitat for insects, fish, and birds.
 
-[Code golf (Wikipedia)](https://en.wikipedia.org/wiki/Code_golf)
+The ponds also trap sediment and can reduce downstream flood peaks after modest storms. Bring beavers back, and a landscape can wet itself without a concrete weir, though farmers still negotiate where the water is allowed to sit.
+
+[Beaver (Wikipedia)](https://en.wikipedia.org/wiki/Beaver)

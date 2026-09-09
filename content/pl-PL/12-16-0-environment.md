@@ -5,11 +5,11 @@ month: 12
 day: 16
 sequence_index: 0
 category: environment
-title: Filtry Blooma mogą Ci powiedzieć, czy element „prawdopodobnie…
-teaser: Filtry Blooma mogą Ci powiedzieć, czy element jest „prawdopodobnie w zestawie”, czy „zdecydowanie…
+title: Zatopiony wieloryb karmi miasteczko na dnie
+teaser: Gdy padlina spada w głębinę, specjaliści przychodzą falami i mogą żerować na niej przez dekady.
 published: true
 version: 1
 ---
-Filtry Blooma mogą stwierdzić, czy element jest „prawdopodobnie w zestawie” czy „zdecydowanie nie” – zamieniają fałszywe alarmy na ekstremalną oszczędność miejsca.
+**Upadek wieloryba** to martwy wieloryb, który osiada na głębokim dnie. Najpierw przychodzą padlinożercy, jak rekiny i śluzice. Potem robaki jedzące kości i mikroby wydobywają tłuszcze uwięzione w szkielecie.
 
-[Filtr Blooma (Wikipedia)](https://pl.wikipedia.org/wiki/Filtr_Blooma)
+W ciemności pokarm zwykle spływa jako rzadki deszcz detrytusu. Jedno wielkie ciało to uczta, która może przez lata porządkować lokalną społeczność: nawet śmierć bywa siedliskiem.

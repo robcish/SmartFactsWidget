@@ -5,11 +5,13 @@ month: 12
 day: 9
 sequence_index: 2
 category: mythology
-title: ACID (Atomicity, Consistency, Isolation, Durability) properties…
-teaser: ACID (Atomicity, Consistency, Isolation, Durability) properties guarantee reliable database…
+title: The sky was a goddess over Earth
+teaser: Egyptians pictured Nut arched above Geb, swallowing the Sun each night.
 published: true
 version: 1
 ---
-ACID (Atomicity, Consistency, Isolation, Durability) properties guarantee reliable database transactions — coined by Andreas Reuter and Theo Härder in **1983**.
+In Egyptian myth, **Nut** is the sky, painted as a woman whose body is covered in stars. She arches over **Geb**, the earth, held apart by Shu, the air. Each evening she swallows the Sun; each morning she gives birth to it again.
 
-[ACID (Wikipedia)](https://en.wikipedia.org/wiki/ACID)
+Coffin lids and temple ceilings show her stretched from horizon to horizon. Night is not empty space. It is a body that keeps the solar cycle inside a family of gods.
+
+[Nut (Wikipedia)](https://en.wikipedia.org/wiki/Nut_%28goddess%29)

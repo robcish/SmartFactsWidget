@@ -5,11 +5,13 @@ month: 12
 day: 27
 sequence_index: 0
 category: animals
-title: Nagie kretoszczury są odporne na raka i mogą przetrwać do 18…
-teaser: Nagie kretoszczury są odporne na raka i mogą przeżyć bez tlenu do 18 minut.
+title: Pstryknięcie krewetki robi falę uderzeniową
+teaser: Krewetka pistoletowa zamyka szczypce tak szybko, że zapadający się pęcherzyk ogłusza ofiarę.
 published: true
 version: 1
 ---
-Nagie kretoszczury są odporne na raka i mogą przetrwać do **18 **minut bez tlenu.
+**Krewetki pistoletowe** (rodzina Alpheidae) napinają jedną powiększoną szczypcę i pstrykają nią. Strumień wody tworzy **pęcherzyk kawitacyjny**. Gdy pęka, huk potrafi ogłuszyć małe ryby i kraby.
 
-[Golec piaskowy (Wikipedia)](https://pl.wikipedia.org/wiki/Golec_piaskowy)
+Przez ułamek sekundy zapadnięcie może nawet dać słabe światło. Broń to fizyka w szczypcach: nie cios, lecz kontrolowana podwodna implozja.
+
+[Krewetka pistoletowa (Wikipedia)](https://pl.wikipedia.org/wiki/Krewetka_pistoletowa)

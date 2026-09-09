@@ -5,9 +5,13 @@ month: 12
 day: 7
 sequence_index: 2
 category: society
-title: Edgar Codd wynalazł model relacyjnej bazy danych w IBM w 1970 r. —…
-teaser: Edgar Codd wynalazł model relacyjnej bazy danych w IBM w 1970 roku — IBM początkowo zignorował…
+title: Islandzki parlament ma tysiąc lat
+teaser: Althing zbierał się w Þingvellir około 930 roku i wciąż jest parlamentem narodowym.
 published: true
 version: 1
 ---
-Edgar Codd wynalazł model relacyjnej bazy danych w IBM w **1970** — IBM początkowo zignorował jego pracę, a Oracle jako pierwszy go wdrożył.
+Około **930** roku wodzowie na świeżo zasiedlonej wyspie zaczęli schodzić się latem w **Þingvellir**, na równinie w rozpadlinie tektonicznej. To zgromadzenie, **Althing**, słuchało prawa czytanego na głos, rozstrzygało spory i stało się potem symbolem społeczeństwa, które próbowało rządzić się wiecem, a nie królem na miejscu.
+
+Współczesny islandzki parlament nadal nosi tę nazwę. Ciągłość przerywała obca władza, potem wróciła, ale idea ogólnokrajowego zebrania pod gołym niebem jest niezwykle stara.
+
+[Althing (Wikipedia)](https://pl.wikipedia.org/wiki/Althing)

@@ -5,11 +5,13 @@ month: 12
 day: 17
 sequence_index: 0
 category: mythology
-title: Notację Big O wprowadził Paul Bachmann w 1894 roku — w ciągu…
-teaser: Notację dużego O wprowadził Paul Bachmann w 1894 r.
+title: Māui wyłowił wyspy z morza
+teaser: Polinezyjskie opowieści mówią, że hak trickstera wyciągnął ląd, a nie rybę na obiad.
 published: true
 version: 1
 ---
-Notację Big O wprowadził Paul Bachmann w **1894** — ponad sto lat przed jej powszechnym zastosowaniem w algorytmach analitycznych.
+W całej Polinezji heros **Māui** to trickster, który spowalnia Słońce, kradnie ogień i łowi magicznym hakiem. W tradycji maoryskiej Wyspa Północna jest rybą, którą wyciągnął; hawajskie wersje też wiążą wyspy z jego połowem.
 
-[Asymptotyczne tempo wzrostu (Wikipedia)](https://pl.wikipedia.org/wiki/Asymptotyczne_tempo_wzrostu)
+Opowieści tłumaczą linie brzegowe jako coś wydobytego w powietrze, nie tylko startego przez fale. Trickster jest tu też twórcą świata na ludzką miarę, na dobre i na kłopot.
+
+[Māui (Wikipedia)](https://pl.wikipedia.org/wiki/M%C4%81ui_%28mitologia_hawajska%29)

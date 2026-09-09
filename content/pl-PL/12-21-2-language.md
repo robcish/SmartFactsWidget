@@ -5,11 +5,13 @@ month: 12
 day: 21
 sequence_index: 2
 category: language
-title: Norweski „dar” oznacza zarówno „żonaty”, jak i „truciznę” – to samo…
-teaser: Norweski „dar” oznacza zarówno „żonaty”, jak i „truciznę” – to samo słowo, ale dwa bardzo różne…
+title: Ubychijski miał osiemdziesiąt spółgłosek
+teaser: Wymarły język kaukaski upchnął ogromny zestaw dźwięków przy zaledwie dwóch barwach samogłosek.
 published: true
 version: 1
 ---
-Norweski „dar” oznacza zarówno „żonaty”, jak i „truciznę” – to samo słowo, ale dwa bardzo różne znaczenia.
+**Język ubychijski**, niegdyś używany nad Morzem Czarnym, słynie wśród językoznawców z ekstremalnego systemu spółgłosek, liczonego często około osiemdziesięciu, przy bardzo skromnym zasobie samogłosek. Mówiący rozróżniali miejsca artykulacji, dodatkowe ułożenia języka i ejektywy, których angielski ani polski nie znają.
 
-[Fałszywi przyjaciele tłumacza (Wikipedia)](https://pl.wikipedia.org/wiki/Fa%C5%82szywi_przyjaciele_t%C5%82umacza)
+Ostatni biegły użytkownik, Tevfik Esenç, zmarł w 1992 roku po latach współpracy z badaczami, którzy zdążyli nagrać język. Został ślad świata dźwięków, którego nie da się wpisać w znajomy alfabet.
+
+[Język ubychijski (Wikipedia)](https://pl.wikipedia.org/wiki/J%C4%99zyk_ubychijski)

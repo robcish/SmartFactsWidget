@@ -5,11 +5,13 @@ month: 12
 day: 27
 sequence_index: 1
 category: technology
-title: – first Printing telegraph Coenraad Johannes van Houten…
-teaser: – pierwszy telegraf drukarski Coenraad Johannes van Houten (1801–1887), Holandia – proszek kakaowy,…
+title: Pierwszy SMS życzył wesołych świąt
+teaser: W 1992 roku inżynier Neil Papworth wpisał świąteczne pozdrowienie z komputera na telefon komórkowy.
 published: true
 version: 1
 ---
-– pierwszy telegraf drukarski
-Coenraad Johannes van Houten (**1801**–1887), Holandia – proszek kakaowy, masło kakaowe, mleko czekoladowe
-Elias Howe (1819–1867), Stany Zjednoczone
+Trzeciego grudnia 1992 **Neil Papworth** wysłał **Merry Christmas** nową usługą krótkich wiadomości Vodafone. Notatka poszła z komputera na słuchawkę kolegi, bo telefony nie umiały jeszcze odpisać.
+
+SMS stał się potem jednostką rozliczeniową, nawykiem społecznym i warstwą pod aplikacjami. Pierwszy ładunek nie był kursem akcji ani alarmem. Było to sezonowe zdanie, które mieściło się w 160 znakach.
+
+[SMS (Wikipedia)](https://pl.wikipedia.org/wiki/SMS)

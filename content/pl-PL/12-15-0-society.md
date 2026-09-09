@@ -5,9 +5,13 @@ month: 12
 day: 15
 sequence_index: 0
 category: society
-title: Bcrypt, zaprojektowany w 1999 roku, celowo powoduje mieszanie haseł…
-teaser: Bcrypt, zaprojektowany w 1999 roku, celowo spowalnia haszowanie haseł — to sprawia, że ​​użycie…
+title: Pierwszy znaczek kazał płacić nadawcy
+teaser: Brytyjski Penny Black przeniósł opłatę pocztową z odbiorcy na nadawcę, za jednego pensa z góry.
 published: true
 version: 1
 ---
-Bcrypt, zaprojektowany w **1999, **celowo spowalnia mieszanie haseł — to sprawia, że ​​ataki brute-force są niepraktyczne nawet w przypadku nowoczesnego sprzętu.
+Przed **1840** rokiem listy na Wyspach często opłacał odbiorca, a stawki zależały od odległości i liczby kartek. Penny Black z królową Wiktorią pozwolił nadawcy z góry uiścić jednolitą opłatę krajową klejoną nalepką.
+
+Ten mały kwadrat zmienił, kto dźwiga koszt korespondencji, i uczynił tani, przewidywalny list nawykiem masowym. Fiskalny trik stał się codzienną infrastrukturą społeczną.
+
+[Penny Black (Wikipedia)](https://pl.wikipedia.org/wiki/Penny_Black)

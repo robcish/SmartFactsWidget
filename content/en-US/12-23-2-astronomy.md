@@ -5,11 +5,13 @@ month: 12
 day: 23
 sequence_index: 2
 category: astronomy
-title: Based on results from the Gaia telescope's second data release…
-teaser: Based on results from the Gaia telescope's second data release from April 2018, an estimated 694…
+title: Two moons trade places
+teaser: Saturn's Janus and Epimetheus swap orbits every few years instead of colliding.
 published: true
 version: 1
 ---
-Based on results from the Gaia telescope's second data release from April **2018, **an estimated 694 stars will approach the Solar System to less than 5 parsecs in the next 15 million years.
+**Janus** and **Epimetheus** share nearly the same path around Saturn. When the inner moon catches up, gravity tugs the pair so the trailing one drops inward and the leader moves out. They exchange orbits and part again.
 
-[List of nearest stars (Wikipedia)](https://en.wikipedia.org/wiki/List_of_nearest_stars)
+The choreography repeats on a cycle of about four years. It is a rare, stable dance that spacecraft images helped confirm: two small worlds can share a lane if they keep handing it back.
+
+[Janus (moon) (Wikipedia)](https://en.wikipedia.org/wiki/Janus_%28moon%29)

@@ -5,11 +5,13 @@ month: 12
 day: 5
 sequence_index: 2
 category: culture
-title: RAM loses all data when power is removed (volatile memory) — this…
-teaser: RAM loses all data when power is removed (volatile memory) — this is why you lose unsaved work…
+title: Broken pottery, mended with gold
+teaser: Kintsugi treats a crack as part of an object’s life, not a flaw to hide.
 published: true
 version: 1
 ---
-RAM loses all data when power is removed (volatile memory) — this is why you lose unsaved work when your computer crashes.
+**Kintsugi** is a Japanese repair tradition that joins broken ceramics with lacquer mixed with powdered gold, silver, or platinum. The seams stay visible on purpose. The vessel is still usable, and its history is drawn in bright lines.
 
-[Random-access memory (Wikipedia)](https://en.wikipedia.org/wiki/Random-access_memory)
+The practice grew alongside tea culture’s taste for imperfect, well-used bowls. It is less a craft gimmick than an ethic: damage can be **honored** instead of erased.
+
+[Kintsugi (Wikipedia)](https://en.wikipedia.org/wiki/Kintsugi)

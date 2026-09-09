@@ -5,9 +5,11 @@ month: 12
 day: 10
 sequence_index: 2
 category: general
-title: Kevin Mitnick był kiedyś najbardziej poszukiwanym hakerem FBI – po…
-teaser: Kevin Mitnick był kiedyś najbardziej poszukiwanym hakerem FBI – po więzieniu został ochroniarzem…
+title: Różowy bywał kolorem chłopców
+teaser: Na początku XX wieku sklepy często ubierały chłopców na różowo, a dziewczynki na niebiesko.
 published: true
 version: 1
 ---
-Kevin Mitnick był kiedyś najbardziej poszukiwanym hakerem FBI – po więzieniu został konsultantem ds. bezpieczeństwa; ruch „Uwolnij Kevina” uczynił go ludowym bohaterem hakerów.
+Zasada „różowy dla dziewczynek, niebieski dla chłopców” jest młodsza, niż wygląda. Na początku XX wieku amerykańscy i europejscy sprzedawcy czasem nazywali **róż** mocną barwą spokrewnioną z czerwienią, więc pasującą chłopcom, a **błękit** traktowali jako delikatny i maryjny, więc dla dziewczynek.
+
+W połowie stulecia para się odwróciła i stwardniała w marketing. Kody ubrań wydają się prastare, bo spotykamy je w dzieciństwie, nie dlatego, że takie są.

@@ -5,13 +5,13 @@ month: 12
 day: 5
 sequence_index: 1
 category: technology
-title: – wheat drill, first successful machine gun Georgy Gause…
-teaser: – wheat drill, first successful machine gun Georgy Gause (1910–1986), Russia – gramicidin S,…
+title: Punch cards began on a loom
+teaser: Jacquard’s machine used holes in cards to raise single warp threads and weave complex cloth.
 published: true
 version: 1
 ---
-– wheat drill, first successful machine gun
-Georgy Gause (**1910**–1986), Russia – gramicidin S, neomycin, lincomycin and other antibiotics
-E.
+In 1804–1805, Joseph Marie **Jacquard** perfected a loom attachment that read a chain of **punched cards**. Each hole pattern chose which warp threads to lift, so a mill could repeat a portrait or floral design without a weaver memorizing every pick.
 
-[List of inventors (Wikipedia)](https://en.wikipedia.org/wiki/List_of_inventors)
+The idea traveled. Charles Babbage studied Jacquard’s cards while designing his Analytical Engine, and later computers borrowed the same “holes as instructions” trick. A textile gadget helped invent **programmable** machines.
+
+[Jacquard machine (Wikipedia)](https://en.wikipedia.org/wiki/Jacquard_machine)

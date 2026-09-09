@@ -5,9 +5,13 @@ month: 12
 day: 17
 sequence_index: 2
 category: reflection
-title: Dynamic programming, named by Richard Bellman in the 1950s, solves…
-teaser: Programowanie dynamiczne, nazwane przez Richarda Bellmana w latach pięćdziesiątych XX wieku,…
+title: Tsundoku to stos nieprzeczytanych książek
+teaser: Język japoński nazwał nawyk kupowania tomów szybciej, niż zdążysz je otworzyć.
 published: true
 version: 1
 ---
-Programowanie dynamiczne, nazwane przez Richarda Bellmana w latach pięćdziesiątych XX wieku, rozwiązuje problemy, dzieląc je na nakładające się podproblemy — nazwę tę wybrano, aby zaimponować Sekretarzowi Obrony, który nie lubił matematyki.
+**Tsundoku** to książki, które się zbierają nieprzeczytane: kupione z nadzieją, potem spiętrzone przy łóżku. Słowa używa się często ciepło, nie tylko jako naganę.
+
+Stos bywa mapą ciekawości, która wyprzedziła zegar. Bywa też cichym zakład: któregoś wieczoru otwórz najbliższy grzbiet, zamiast dokładać kolejny.
+
+[Tsundoku (Wikipedia)](https://pl.wikipedia.org/wiki/Tsundoku)

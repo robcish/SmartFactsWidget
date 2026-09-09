@@ -5,11 +5,13 @@ month: 12
 day: 29
 sequence_index: 0
 category: language
-title: longest word in a major English dictionary is…
-teaser: The longest word in a major English dictionary is 'pneumonoultramicroscopicsilicovolcanoconiosis'…
+title: Ye olde was never a Y
+teaser: Printers replaced the Old English letter thorn with y, so ye was simply the.
 published: true
 version: 1
 ---
-The longest word in a major English dictionary is 'pneumonoultramicroscopicsilicovolcanoconiosis' (**45 **letters) — a lung disease from volcanic dust.
+Old English wrote the sound of modern *th* with **thorn** (þ). Early printers, working with continental type cases that lacked the letter, often substituted **y**. Readers still said “the,” not “yee.”
 
-[Longest word in English (Wikipedia)](https://en.wikipedia.org/wiki/Longest_word_in_English)
+Shop signs later leaned into the antique look. **Ye olde** is a costume: a missing glyph dressed up as a quaint pronoun, long after thorn had left everyday English spelling.
+
+[Thorn (letter) (Wikipedia)](https://en.wikipedia.org/wiki/Thorn_%28letter%29)

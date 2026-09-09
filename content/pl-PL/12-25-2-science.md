@@ -5,11 +5,13 @@ month: 12
 day: 25
 sequence_index: 2
 category: science
-title: Gra w życie Conwaya (1970) pokazuje, jak proste zasady mogą…
-teaser: Gra w życie Conwaya (1970) pokazuje, jak proste zasady mogą powodować złożone zachowania — to…
+title: Miętówki wintergreen potrafią iskrzyć
+teaser: Rozgryź w ciemności cukierek z olejkiem wintergreen, a kryształki cukru mogą błysnąć niebieskozielono.
 published: true
 version: 1
 ---
-Gra w życie Conwaya (**1970**) pokazuje, jak proste reguły mogą powodować złożone zachowanie — jest to gra zupełna według Turinga, co oznacza, że ​​teoretycznie może obliczyć wszystko.
+Kruszenie cukru może dać **tryboluminescencję**, słabą poświatę z pękających kryształów. Olejek wintergreen (salicylan metylu) pochłania ten ultrafioletowy błysk i oddaje go jako światło widzialne, więc efekt widać łatwiej niż przy zwykłym cukrze.
 
-[Gra w życie (Wikipedia)](https://pl.wikipedia.org/wiki/Gra_w_%C5%BCycie)
+Sztuczka działa w ciemnym pokoju z twardymi cukierkami, nie z czekoladą. To kieszonkowe przypomnienie, że zwykłe słodycze siedzą na prawdziwej fizyce ciała stałego.
+
+[Tryboluminescencja (Wikipedia)](https://pl.wikipedia.org/wiki/Tryboluminescencja)

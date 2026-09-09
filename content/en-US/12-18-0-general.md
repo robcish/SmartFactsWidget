@@ -5,11 +5,13 @@ month: 12
 day: 18
 sequence_index: 0
 category: general
-title: Knuth-Morris-Pratt (1977) finds patterns in text in O(n) time by…
-teaser: Knuth-Morris-Pratt (1977) finds patterns in text in O(n) time by never backtracking — a…
+title: Sticky notes began as a weak glue
+teaser: A 3M chemist made an adhesive that barely held, and a colleague later used it to mark hymns.
 published: true
 version: 1
 ---
-Knuth-Morris-Pratt (**1977**) finds patterns in text in O(n) time by never backtracking — a significant improvement over naive O(nm) string matching.
+In **1968**, Spencer Silver at 3M created a low-tack adhesive that did not seem like a product. Years later, colleague Art Fry needed bookmarks that would stay in a choir hymnal without tearing the page.
 
-[Knuth–Morris–Pratt algorithm (Wikipedia)](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
+The pair’s “failed” glue became the Post-it Note after a long path through the company. A leftover laboratory oddity turned into a tool for thought that can be moved, restuck, and thrown away without drama.
+
+[Post-it Note (Wikipedia)](https://en.wikipedia.org/wiki/Post-it_Note)

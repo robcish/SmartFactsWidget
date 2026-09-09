@@ -5,11 +5,13 @@ month: 12
 day: 27
 sequence_index: 2
 category: culture
-title: Lambda calculus, invented by Alonzo Church in the 1930s, uses only…
-teaser: Lambda calculus, invented by Alonzo Church in the 1930s, uses only function definition and…
+title: Japan books KFC for Christmas
+teaser: A 1970s campaign turned fried chicken into a national holiday reservation, not a church menu.
 published: true
 version: 1
 ---
-Lambda calculus, invented by Alonzo Church in the 1930s, uses only function definition and application — yet it's equivalent in power to Turing machines.
+Christmas in Japan is largely a secular date for couples, lights, and cake. In the 1970s **KFC** marketed a “party barrel,” and the idea stuck so well that many families still **pre-order** fried chicken weeks ahead.
 
-[Lambda calculus (Wikipedia)](https://en.wikipedia.org/wiki/Lambda_calculus)
+The custom is advertising that became folklore. It shows how a holiday can travel without carrying the same religious calendar, and how a brand meal can sit beside strawberry shortcake as if both had always been there.
+
+[Christmas in Japan (Wikipedia)](https://en.wikipedia.org/wiki/Christmas_in_Japan)

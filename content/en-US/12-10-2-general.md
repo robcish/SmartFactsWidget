@@ -5,11 +5,13 @@ month: 12
 day: 10
 sequence_index: 2
 category: general
-title: Kevin Mitnick was once the FBI's most wanted hacker — after…
-teaser: Kevin Mitnick was once the FBI's most wanted hacker — after prison, he became a security…
+title: Pink was once a boys’ color
+teaser: Early 20th-century shops often dressed boys in pink and girls in blue.
 published: true
 version: 1
 ---
-Kevin Mitnick was once the FBI's most wanted hacker — after prison, he became a security consultant; the 'Free Kevin' movement made him a hacker folk hero.
+The rule “pink for girls, blue for boys” is younger than it looks. In the early 1900s, U.S. and European retailers sometimes called **pink** a strong color related to red, hence suitable for boys, while **blue** was treated as dainty and Marian, hence for girls.
 
-[Kevin Mitnick (Wikipedia)](https://en.wikipedia.org/wiki/Kevin_Mitnick)
+By the mid-20th century the pairing flipped and then hardened into marketing. Clothing codes feel ancient because we meet them in childhood, not because they are.
+
+[Pink (Wikipedia)](https://en.wikipedia.org/wiki/Pink)

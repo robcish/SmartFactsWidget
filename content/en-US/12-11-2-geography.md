@@ -5,11 +5,13 @@ month: 12
 day: 11
 sequence_index: 2
 category: geography
-title: WannaCry ransomware (2017) affected 200,000 computers in 150…
-teaser: The WannaCry ransomware (2017) affected 200,000 computers in 150 countries — it was stopped when a…
+title: Kiribati sits in all four hemispheres
+teaser: After a date-line shift, this Pacific nation stretches across north, south, east, and west.
 published: true
 version: 1
 ---
-The WannaCry ransomware (**2017**) affected 200,000 computers in 150 countries — it was stopped when a researcher registered a domain that acted as a kill switch.
+Kiribati is a scatter of atolls so wide that it crosses the equator **and** the 180th meridian. In **1995** the country moved the international date line so its eastern Line Islands would share a calendar with the rest of the nation.
 
-[WannaCry ransomware attack (Wikipedia)](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack)
+That adjustment left Kiribati as the only country with land in the northern, southern, eastern, and western hemispheres. Geography here is not a neat blob on the map; it is a chain of islands holding one political day together.
+
+[Kiribati (Wikipedia)](https://en.wikipedia.org/wiki/Kiribati)

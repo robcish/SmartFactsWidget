@@ -5,11 +5,13 @@ month: 12
 day: 14
 sequence_index: 0
 category: psychology
-title: Equifax breach (2017) exposed personal data of 147 million people…
-teaser: The Equifax breach (2017) exposed personal data of 147 million people — caused by failing to patch…
+title: What you see can change what you hear
+teaser: The McGurk effect fuses lip shapes and sound into a syllable that was never spoken.
 published: true
 version: 1
 ---
-The Equifax breach (**2017**) exposed personal data of 147 million people — caused by failing to patch a known Apache Struts vulnerability for months.
+Play a recording of **ba** while a face mouths **ga**, and many listeners report hearing **da**. The brain does not pick one sense and discard the other; it builds a compromise syllable from sight and sound together.
 
-[2017 Equifax data breach (Wikipedia)](https://en.wikipedia.org/wiki/2017_Equifax_data_breach)
+Harry McGurk and John MacDonald described the effect in **1976**. It is a reminder that speech is not a tape in the ear. It is a guess assembled from lips, context, and air.
+
+[McGurk effect (Wikipedia)](https://en.wikipedia.org/wiki/McGurk_effect)

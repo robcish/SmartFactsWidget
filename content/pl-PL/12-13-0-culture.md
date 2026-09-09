@@ -5,9 +5,13 @@ month: 12
 day: 13
 sequence_index: 0
 category: culture
-title: Hack SolarWinds (2020) naraził na szwank 18 000 organizacji, w tym…
-teaser: Hack SolarWinds (2020) naraził na szwank 18 000 organizacji, w tym agencje rządowe USA —…
+title: Ciche czytanie bywało kiedyś cudem
+teaser: Augustyn zdziwił się, że biskup Ambroży czyta, nie ruszając ustami.
 published: true
 version: 1
 ---
-Hack SolarWinds (**2020**) naraził na szwank 18 000 organizacji, w tym agencje rządowe USA — napastnicy umieścili złośliwe oprogramowanie w legalnych aktualizacjach oprogramowania.
+W późnej starożytności czytanie często było rzemiosłem mówionym. Gdy Augustyn zobaczył, jak Ambroży z Mediolanu studiuje stronę w milczeniu, uznał to za dość dziwne, by to zapisać: głos i język biskupa spoczywały, a umysł biegł naprzód.
+
+Ciche czytanie stało się później w wielu kulturach normą, co ukrywa, jak towarzyska była starsza praktyka. Książka była bliżej występu niż prywatnego przewijania ekranu.
+
+[Augustyn z Hippony (Wikipedia)](https://pl.wikipedia.org/wiki/Augustyn_z_Hippony)

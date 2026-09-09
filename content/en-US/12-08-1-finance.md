@@ -5,11 +5,13 @@ month: 12
 day: 8
 sequence_index: 1
 category: finance
-title: MySQL's name comes from co-founder Michael Widenius's daughter My…
-teaser: MySQL's name comes from co-founder Michael Widenius's daughter My — his other daughter Maria…
+title: Insurance grew from a coffeehouse
+teaser: Edward Lloyd’s London shop posted shipping news. Underwriters still meet as Lloyd’s.
 published: true
 version: 1
 ---
-MySQL's name comes from co-founder Michael Widenius's daughter My — his other daughter Maria inspired MariaDB, the MySQL fork.
+In the 1680s, **Edward Lloyd** ran a coffee house on Tower Street, then Lombard Street, where merchants came for reliable lists of ships, cargoes, and wrecks. Men with capital would scribble their names under a risk: **underwriters**.
 
-[MySQL (Wikipedia)](https://en.wikipedia.org/wiki/MySQL)
+That crowd became **Lloyd’s of London**, a marketplace of syndicates rather than a single insurance company. Marine insurance, and later much else, still traces a line back to caffeine and a well-informed chalkboard.
+
+[Lloyd's of London (Wikipedia)](https://en.wikipedia.org/wiki/Lloyd%27s_of_London)

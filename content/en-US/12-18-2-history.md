@@ -5,11 +5,13 @@ month: 12
 day: 18
 sequence_index: 2
 category: history
-title: 1749: Lightning rod – Benjamin Franklin (1749) and Prokop Diviš…
-teaser: 1749: Lightning rod – Benjamin Franklin (1749) and Prokop Diviš (1754) (debated: Diviš's apparatus…
+title: The Great Stink pushed London to rebuild
+teaser: In 1858 the Thames smelled so badly that Parliament faced the sewage it had long ignored.
 published: true
 version: 1
 ---
-**1749**: Lightning rod – Benjamin Franklin (1749) and Prokop Diviš (1754) (debated: Diviš's apparatus is assumed to have been more effective than Franklin's lightning rods in 1754, but was intended for a different purpose than lightning protection).
+A hot summer in **1858** cooked the Thames, then an open sewer. The stench reached Westminster so strongly that lawmakers soaked curtains in chloride of lime and debated leaving the building.
 
-[List of multiple discoveries (Wikipedia)](https://en.wikipedia.org/wiki/List_of_multiple_discoveries)
+The shock helped Joseph Bazalgette’s intercepting sewers win political will. Civic plumbing is unglamorous until a river reminds a capital what it has been pouring downstream.
+
+[Great Stink (Wikipedia)](https://en.wikipedia.org/wiki/Great_Stink)

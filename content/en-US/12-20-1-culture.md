@@ -5,11 +5,13 @@ month: 12
 day: 20
 sequence_index: 1
 category: culture
-title: Unicode now includes over 149,000 characters covering 161 scripts…
-teaser: Unicode now includes over 149,000 characters covering 161 scripts — including emoji, which were…
+title: Inuit throat singing began as a game
+teaser: Two singers stand close and trade motifs until one laughs, runs out of breath, or breaks the pattern.
 published: true
 version: 1
 ---
-Unicode now includes over **149,000 **characters covering 161 scripts — including emoji, which were added in 2010.
+**Katajjaq**, often called Inuit throat singing, is typically a duet. Partners face each other, using short voiced and unvoiced sounds that mimic wind, geese, or a saw. The first to laugh or lose the rhythm usually loses.
 
-[Unicode (Wikipedia)](https://en.wikipedia.org/wiki/Unicode)
+It was long practiced as a game among women while men were away hunting. Today it also appears on stages, still built on breath, closeness, and a shared pulse rather than a written score.
+
+[Inuit throat singing (Wikipedia)](https://en.wikipedia.org/wiki/Inuit_throat_singing)
